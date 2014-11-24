@@ -36,10 +36,11 @@ class SemanticTextDB:
 	
 	d_text : Tuples in this table contain a foreign-key document ID "id" pointing to table d 
 	and a "content" field which contains the actual text of the document.  
-	SemanticTextDB provides functions to nicely format this text for reading.
+	SemanticTextDB provides functions to nicely format this text for reading. TODO
 	
-	d_word_counts : A table containing counts of each word over all documents in the 
-	DocumentTable and other word-specific information. TODO
+	d_wordcounts : A table containing counts of each word over all documents in the 
+	DocumentTable and other word-specific information such as a neural-network based
+	vector-representation. TODO
 	
 	d_doc_entities : A table in which each tuple contains fields: "entity_name" (transformed
 	to adhere to a common spelling), the ID of the document referencing, the number of 
@@ -47,10 +48,16 @@ class SemanticTextDB:
 	Since the same entity may be mentioned in multiple documents, multiple tuples may
 	share the same entity_name. TODO
 	
+	d_topics_K : A table containing K fields, corresponding to the topics (distributions 
+	over words) of a fitted topic model with K (an integer) topics.
+	 
+	d_doc_topics_K : A table in which each tuple contains the
+	proportions of each of the K (an integer) topics in one of the documents
+	corresponding to the fitted topic model with 
 	
-	d_topics_K : A table containing K fields, corresponding to a fitted topic model
 	  
-	The names of these schemas may also be accessed as fields the DocumentTable python object.
+	The names of each of the above schemas may also be accessed as fields 
+	of the DocumentTable python object.
 	"""
 	
 	def __init__(self, conn, cursor, name = None):
@@ -58,12 +65,6 @@ class SemanticTextDB:
 		self.cursor = cursor
 		self.name = name
 		self.document_tables = {}; # dict of DocumentTable objects
-	
-	def setConn(self,conn):
-		self.conn = conn
-	
-	def setCursor(self, cursor):
-		self.cursor = cursor
 	
 	def allTables(self):
 		"""
@@ -198,4 +199,4 @@ class SemanticTextDB:
 		new_name = name + "_word_counts"
 		if (new_name in self.document_tables) or (new_name in self.allTables()):
 			raise ValueError(new_name + " is already a table")
-		# TODO : still need to check names of topic model / entity resolution tables.
+		# TODO : still need to check names of topic model / entity / word-count resolution tables.

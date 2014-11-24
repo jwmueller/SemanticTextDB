@@ -7,7 +7,7 @@ class DocumentTable:
 		self.topicmodel = topicmodel
 		self.entitymodel = entitymodel
 		if count_words:
-			self.word_counts = name + "_word_counts"
+			self.word_counts = name + "_wordcounts"
 		else:
 			self.word_counts = None
 		
