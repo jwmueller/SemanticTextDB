@@ -1,0 +1,32 @@
+§ 3044. Software licensing(a) Requirement for inventories of software licensesThe chief information officer of each element of the intelligence community, in consultation with the Chief Information Officer of the Intelligence Community, shall biennially—(1) conduct an inventory of all existing software licenses of such element, including utilized and unutilized licenses;
+
+(2) assess the actions that could be carried out by such element to achieve the greatest possible economies of scale and associated cost savings in software procurement and usage; and
+
+(3) submit to the Chief Information Officer of the Intelligence Community each inventory required by paragraph (1) and each assessment required by paragraph (2).
+
+
+(b) Inventories by the Chief Information Officer of the Intelligence CommunityThe Chief Information Officer of the Intelligence Community, based on the inventories and assessments required by subsection (a), shall biennially—(1) compile an inventory of all existing software licenses of the intelligence community, including utilized and unutilized licenses; and
+
+(2) assess the actions that could be carried out by the intelligence community to achieve the greatest possible economies of scale and associated cost savings in software procurement and usage.
+
+
+(c) Reports to CongressThe Chief Information Officer of the Intelligence Community shall submit to the congressional intelligence committees a copy of each inventory compiled under subsection (b)(1).
+
+
+(July 26, 1947, ch. 343, title I, § 109, as added Pub. L. 113–126, title III, § 307(a), July 7, 2014, 128 Stat. 1396.)
+
+Prior ProvisionsA prior section 3044, act July 26, 1947, ch. 343, title I, § 109, as added Pub. L. 103–178, title III, § 304(a), Dec. 3, 1993, 107 Stat. 2034; amended Pub. L. 104–293, title VIII, § 803(a), (b)(1), Oct. 11, 1996, 110 Stat. 3475, 3476; Pub. L. 106–65, div. A, title X, § 1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–306, title VIII, § 811(b)(1)(B), Nov. 27, 2002, 116 Stat. 2422, related to annual report on intelligence, prior to repeal by Pub. L. 111–259, title III, § 347(a), Oct. 7, 2010, 124 Stat. 2698.
+
+Initial InventoryPub. L. 113–126, title III, § 307(b), July 7, 2014, 128 Stat. 1397, provided that:
+“(1) Intelligence community elements.—“(A) Date.—Not later than 120 days after the date of the enactment of this Act [July 7, 2014], the chief information officer of each element of the intelligence community shall complete the initial inventory, assessment, and submission required under section 109(a) of the National Security Act of 1947 [50 U.S.C. 3044(a)], as added by subsection (a) of this section.
+
+“(B) Basis.—The initial inventory conducted for each element of the intelligence community under section 109(a)(1) of the National Security Act of 1947 [50 U.S.C. 3044(a)(1)], as added by subsection (a) of this section, shall be based on the inventory of software licenses conducted pursuant to section 305 of the Intelligence Authorization Act for Fiscal Year 2013 (Public Law 112–277; 126 Stat. 2472) for such element.
+
+
+“(2) Chief information officer of the intelligence community.—Not later than 180 days after the date of the enactment of this Act [July 7, 2014], the Chief Information Officer of the Intelligence Community shall complete the initial compilation and assessment required under section 109(b) of the National Security Act of 1947 [50 U.S.C. 3044(b)], as added by subsection (a).”
+
+
+
+[For definition of “intelligence community” as used in section 307(b) of Pub. L. 113–126, set out above, see section 2 of Pub. L. 113–126, set out as a note under section 3003 of this title.]
+
+

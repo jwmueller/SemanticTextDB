@@ -1,0 +1,56 @@
+“SEC. 402. CONTINUATION AND COORDINATION OF CERTAIN REGULATIONS.“(a) Regulations Relating to Insurance Functions.—All regulations and orders of the Federal Savings and Loan Insurance Corporation, or the Federal Home Loan Bank Board (in such Board’s capacity as the board of trustees of such Corporation), which are in effect on the date of the enactment of this Act [Aug. 9, 1989] and relate to—“(1) the provision, rates, or cancellation of insurance of accounts; or
+
+“(2) the administration of the insurance fund of the Federal Savings and Loan Insurance Corporation,
+
+
+shall remain in effect according to the terms of such regulations and orders and shall be enforceable by the Federal Deposit Insurance Corporation unless determined otherwise by such Corporation after consultation with the Comptroller of the Currency and, with respect to regulations and orders relating to the scope of deposit insurance coverage, pursuant to subsection (c).
+
+“[(b) Repealed. Pub. L. 111–203, title III, § 367(5)(B), July 21, 2010, 124 Stat. 1556.]
+
+“(c) Procedure for Differences in Deposit Insurance Coverage Between FSLIC and FDIC.—“(1) Transition rule.—Until the effective date of regulations prescribed under paragraph (3)(B), any determination of the amount of any insured deposit in any depository institution which becomes an insured depository institution as a result of the amendment made to section 4(a) of the Federal Deposit Insurance Act [12 U.S.C. 1814(a)] by section 205(1) of this Act shall be made in accordance with the regulations and interpretations of the Federal Savings and Loan Insurance Corporation for determining the amount of an insured account which were in effect on the day before the date of the enactment of this Act [Aug. 9, 1989].
+
+“(2) Limitation on extent of coverage.—During the period beginning on the date of the enactment of this Act and ending on the effective date of regulations prescribed under paragraph (3)(B), the amount of any insured account which is required to be treated as an insured deposit pursuant to paragraph (1) shall not exceed the amount of insurance to which such insured account would otherwise have been entitled pursuant to the regulations and interpretations of the Federal Savings and Loan Insurance Corporation which were in effect on the day before the date of the enactment of this Act.
+
+“(3) Uniform treatment of insured deposits.—The Federal Deposit Insurance Corporation shall—“(A) review its regulations, principles, and interpretations for deposit insurance coverage and those established by the Federal Savings and Loan Insurance Corporation; and
+
+“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
+
+
+“(4) Factors required to be considered.—In prescribing regulations providing for the uniform treatment of deposit insurance coverage, the Federal Deposit Insurance Corporation shall consider all relevant factors necessary to promote safety and soundness, depositor confidence, and the stability of deposits in insured depository institutions.
+
+“(5) Notice; effective date.—Regulations prescribed under this subsection shall—“(A) provide for effective notice to depositors in insured depository institutions of any change in deposit insurance coverage which would result under such regulations; and
+
+“(B) take effect on or before the end of the 90-day period beginning on the date such regulations become final.
+
+
+“(6) Definitions.—For purposes of this subsection—“(A) Insured account.—The term ‘insured account’ has the meaning given to such term in section 401(c) of the National Housing Act [former 42 U.S.C. 1724(c)] (as in effect before the date of the enactment of this Act [Aug. 9, 1989]).
+
+“(B) Insured depository institution.—The term ‘insured depository institution’ has the meaning given to such term in section 3(c)(2) of the Federal Deposit Insurance Act [12 U.S.C. 1813(c)(2)].
+
+
+
+“(d) Interim Treatment of Custodial Accounts.—“(1) In general.—Subject to paragraph (2) and notwithstanding subsection (a) or any limitation contained in the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.] relating to the amount of deposit insurance available to any 1 borrower, amounts held in custodial accounts in insured depository institutions (as defined in section 3(c)(2) of such Act [12 U.S.C. 1813(c)(2)]) for the payment of principal, interest, tax, and insurance payments for mortgage borrowers, shall be insured under the Federal Deposit Insurance Act in the amount of $100,000 per mortgage borrower.
+
+“(2) Treatment after effective date of new regulations.—After the effective date of the regulations prescribed under subsection (c)—“(A) the amount of deposit insurance available for custodial accounts shall be determined in accordance with such regulations; and
+
+“(B) paragraph (1) shall cease to apply with respect to such accounts.
+
+
+
+“(e) Treatment of References in Adjustable Rate Mortgage Instruments.—“(1) In general.—For purposes of adjustable rate mortgage instruments that are in effect as of the date of enactment of this Act [Aug. 9, 1989], any reference in the instrument to the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, or institutions insured by the Federal Savings and Loan Insurance Corporation before such date shall be treated as a reference to the Federal Deposit Insurance Corporation, the Federal Housing Finance Agency, the Comptroller of the Currency, or institutions which are members of the Savings Association Insurance Fund, as appropriate on the basis of the transfer of functions pursuant to this Act [see Tables for classification], unless the context of the reference requires otherwise.
+
+“(2) Substitution for indexes.—If any index used to calculate the applicable interest rate on any adjustable rate mortgage instrument is no longer calculated and made available as a direct or indirect result of the enactment of this Act, any index—“(A) made available by the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency pursuant to paragraph (3); or
+
+“(B) determined by the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency, pursuant to paragraph (4), to be substantially similar to the index which is no longer calculated or made available,
+
+
+may be substituted by the holder of any such adjustable rate mortgage instrument upon notice to the borrower.
+
+“(3) Agency action required to provide continued availability of indexes.—Promptly after the enactment of this subsection [Aug. 9, 1989], the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Agency shall take such action as may be necessary to assure that the indexes prepared by the Federal Savings and Loan Insurance Corporation, the Federal Home Loan Bank Board, and the Federal home loan banks immediately prior to the enactment of this subsection and used to calculate the interest rate on adjustable rate mortgage instruments continue to be available.
+
+“(4) Requirements relating to substitute indexes.—If any agency can no longer make available an index pursuant to paragraph (3), an index that is substantially similar to such index may be substituted for such index for purposes of paragraph (2) if the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency, as the case may be, determines, after notice and opportunity for comment, that—“(A) the new index is based upon data substantially similar to that of the original index; and
+
+“(B) the substitution of the new index will result in an interest rate substantially similar to the rate in effect at the time the original index became unavailable.
+
+
+

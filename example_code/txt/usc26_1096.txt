@@ -1,0 +1,81 @@
+“Sec. 202. [Payment of Extended Compensation]“(a) [State Law Requirements] (1) For purposes of section 3304(a)(11) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], a State law shall provide the payment of extended compensation shall be made, for any week of unemployment which begins in the individual’s eligibility period, to individuals who have exhausted all rights to regular compensation under the State law and who have no rights to regular compensation with respect to such week under such law or any other State unemployment compensation law or to compensation under any other Federal law and are not receiving compensation with respect to such week under the unemployment compensation law of Canada. For purposes of the preceding sentence, an individual shall have exhausted his rights to regular compensation under a State law (A) when no payments of regular compensation can be made under such law because such individual has received all regular compensation available to him based on employment or wages during his base period, or (B) when his rights to such compensation have terminated by reason of the expiration of the benefit year with respect to which such rights existed.“(2) Except where inconsistent with the provisions of this title, the terms and conditions of the State law which apply to claims for regular compensation and to the payment thereof shall apply to claims for extended compensation and to the payment thereof.
+
+“(3)(A) Notwithstanding the provisions of paragraph (2), payment of extended compensation under this Act [see Short Title of 1970 Amendment note set out under section 3311 of this title] shall not be made to any individual for any week of unemployment in his eligibility period—“(i) during which he fails to accept any offer of suitable work (as defined in subparagraph (c) [probably means subpar. (C)]) or fails to apply for any suitable work to which he was referred by the State agency; or
+
+“(ii) during which he fails to actively engage in seeking work, unless such individual is not actively engaged in seeking work because such individual is, as determined in accordance with State law—“(I) before any court of the United States or any State pursuant to a lawfully issued summons to appear for jury duty (as such term may be defined by the Secretary of Labor), or
+
+“(II) hospitalized for treatment of an emergency or a life-threatening condition (as such term may be defined by such Secretary),
+
+
+if such exemptions in clauses (I) and (II) apply to recipients of regular benefits, and the State chooses to apply such exemptions for recipients of extended benefits.
+
+
+“(B) If any individual is ineligible for extended compensation for any week by reason of a failure described in clause (i) or (ii) of subparagraph (A), the individual shall be ineligible to receive extended compensation for any week which begins during a period which—“(i) begins with the week following the week in which such failure occurs, and
+
+“(ii) does not end until such individual has been employed during at least 4 weeks which begin after such failure and the total of the remuneration earned by the individual for being so employed is not less than the product of 4 multiplied by the individual’s average weekly benefit amount (as determined for purposes of subsection (b)(1)(c) [probably means subsec. (b)(1)(C)]) for his benefit year.
+
+
+“(C) For purposes of this paragraph, the term ‘suitable work’ means, with respect to any individual, any work which is within such individual’s capabilities; except that, if the individual furnishes evidence satisfactory to the State agency that such individual’s prospects for obtaining work in his customary occupation within a reasonably short period are good, the determination of whether any work is suitable work with respect to such individual shall be made in accordance with the applicable State law.
+
+“(D) Extended compensation shall not be denied under clause (i) of subparagraph (A) to any individual for any week by reason of a failure to accept an offer of, or apply for, suitable work—“(i) if the gross average weekly remuneration payable to such individual for the position does not exceed the sum of—“(I) the individual’s average weekly benefit amount (as determined for purposes of subsection (b)(1)(C)) for his benefit year, plus
+
+“(II) the amount (if any) of supplemental unemployment compensation benefits (as defined in section 501(c)(17)(D) of the Internal Revenue Code of 1986) payable to such individual for such week;
+
+
+“(ii) if the position was not offered to such individual in writing and was not listed with the State employment service;
+
+“(iii) if such failure would not result in a denial of compensation under the provisions of the applicable State law to the extent that such provisions are not inconsistent with the provisions of subparagraphs (C) and (E); or
+
+“(iv) if the position pays wages less than the higher of—“(I) the minimum wage provided by section 6(a)(1) of the Fair Labor Standards Act of 1938 [29 U.S.C. 206(a)(1)], without regard to any exemption; or
+
+“(II) any applicable State or local minimum wage.
+
+
+
+“(E) For purposes of this paragraph, an individual shall be treated as actively engaged in seeking work during any week if—“(i) the individual has engaged in a systematic and sustained effort to obtain work during such week, and
+
+“(ii) the individual provides tangible evidence to the State agency that he has engaged in such an effort during such week.
+
+
+“(F) For purposes of section 3304(a)(11) of the Internal Revenue Code of 1986, a State law shall provide for referring applicants for benefits under this Act [see Short Title of 1970 Amendment note set out under section 3311 of this title] to any suitable work to which clauses (i), (ii), (iii), and (iv) of subparagraph (D) would not apply.
+
+
+“(4) No provision of State law which terminates a disqualification for voluntarily leaving employment, being discharged for misconduct, or refusing suitable employment shall apply for purposes of determining eligibility for extended compensation unless such termination is based upon employment subsequent to the date of such disqualification.
+
+“(5) Notwithstanding the provisions of paragraph (2), an individual shall not be eligible for extended compensation unless, in the base period with respect to which the individual exhausted all rights to regular compensation under the State law, the individual had 20 weeks of full-time insured employment, or the equivalent in insured wages. For purposes of this paragraph, the equivalent in insured wages shall be earnings covered by the State law for compensation purposes which exceed 40 times the individual’s most recent weekly benefit amount or 1½ times the individual’s insured wages in that calendar quarter of the base period in which the individual’s insured wages were the highest (or one such quarter if his wages were the same for more than one such quarter). The State shall by law provide which one or more of the foregoing methods of measuring employment and earnings shall be used in that State.
+
+“(6) No payment shall be made under this Act [see Short Title of 1970 Amendment note set out under section 3311 of this title] to any State in respect of any extended compensation or sharable regular compensation paid to any individual for any week if, under the rules of paragraphs (3), (4), and (5), extended compensation would not have been payable to such individual for such week.
+
+“(7) Paragraphs (3) and (4) shall not apply to weeks of unemployment beginning after March 6, 1993, and before January 1, 1995, and no provision of State law in conformity with such paragraphs shall apply during such period.
+
+
+“(b) [Individual’s Compensation Accounts] (1) The State law shall provide that the State will establish, for each eligible individual who files an application therefor, an extended compensation account with respect to such individual’s benefit year. The amount established in such account shall be not less than whichever of the following is the least:“(A) 50 per centum of the total amount of regular compensation (including dependents’ allowances) payable to him during such benefit year under such law,
+
+“(B) thirteen times his average weekly benefit amount, or
+
+“(C) thirty-nine times his average weekly benefit amount, reduced by the regular compensation paid (or deemed paid) to him during such benefit year under such law;
+
+
+except that the amount so determined shall (if the State law so provides) be reduced by the aggregate amount of additional compensation paid (or deemed paid) to him under such law for prior weeks of unemployment in such benefit year which did not begin in an extended benefit period.
+“(2) For purposes of paragraph (1), an individual’s weekly benefit amount for a week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment.
+
+“(3)(A) Effective with respect to weeks beginning in a high unemployment period, paragraph (1) shall be applied by substituting—“(i) ‘80 per centum’ for ‘50 per centum’ in subparagraph (A),
+
+“(ii) ‘twenty’ for ‘thirteen’ in subparagraph (B), and
+
+“(iii) ‘forty-six’ for ‘thirty-nine’ in subparagraph (C).
+
+
+“(B) For purposes of subparagraph (A), the term ‘high unemployment period’ means any period during which an extended benefit period would be in effect if section 203(f)(1)(A)(i) were applied by substituting ‘8 percent’ for ‘6.5 percent’.
+
+
+
+“(c) [Cessation of Extended Benefits When Paid Under an Interstate Claim in a State Where Extended Benefit Period Is Not in Effect] (1) Except as provided in paragraph (2), payment of extended compensation shall not be made to any individual for any week if—“(A) extended compensation would (but for this subsection) have been payable for such week pursuant to an interstate claim filed in any State under the interstate benefit payment plan, and
+
+“(B) an extended benefit period is not in effect for such week in such State.
+
+“(2) Paragraph (1) shall not apply with respect to the first 2 weeks for which extended compensation is payable (determined without regard to this subsection) pursuant to an interstate claim filed under the interstate benefit payment plan to the individual from the extended compensation account established for the benefit year.
+
+“(3) Section 3304(a)(9)(A) of the Internal Revenue Code of 1986 shall not apply to any denial of compensation required under this subsection.
+
+

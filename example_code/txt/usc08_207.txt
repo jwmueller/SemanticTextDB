@@ -1,0 +1,79 @@
+“SEC. 403. PROCEDURES FOR PARTICIPANTS IN PILOT PROGRAMS.“(a) E-Verify Program.—A person or other entity that elects to participate in the E-Verify Program described in this subsection agrees to conform to the following procedures in the case of the hiring (or recruitment or referral) for employment in the United States of each individual covered by the election:“(1) Provision of additional information.—The person or entity shall obtain from the individual (and the individual shall provide) and shall record on the I–9 or similar form—“(A) the individual’s social security account number, if the individual has been issued such a number, and
+
+“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
+
+
+and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3).
+
+“(2) Presentation of documentation.—“(A) In general.—The person or other entity, and the individual whose identity and employment eligibility are being confirmed, shall, subject to subparagraph (B), fulfill the requirements of section 274A(b) with the following modifications:“(i) A document referred to in section 274A(b)(1)(B)(ii) (as redesignated by section 412(a) of this division) must be designated by the Secretary of Homeland Security as suitable for the purpose of identification in a pilot program.
+
+“(ii) A document referred to in section 274A(b)(1)(D) must contain a photograph of the individual.
+
+“(iii) The person or other entity has complied with the requirements of section 274A(b)(1) with respect to examination of a document if the document reasonably appears on its face to be genuine and it reasonably appears to pertain to the individual whose identity and work eligibility is being confirmed.
+
+
+“(B) Limitation of requirement to examine documentation.—If the Secretary of Homeland Security finds that a pilot program would reliably determine with respect to an individual whether—“(i) the person with the identity claimed by the individual is authorized to work in the United States, and
+
+“(ii) the individual is claiming the identity of another person,
+
+
+  if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual’s identity.
+
+
+“(3) Seeking confirmation.—“(A) In general.—The person or other entity shall make an inquiry, as provided in section 404(a)(1) of this division, using the confirmation system to seek confirmation of the identity and employment eligibility of an individual, by not later than the end of 3 working days (as specified by the Secretary of Homeland Security) after the date of the hiring (or recruitment or referral, as the case may be).
+
+“(B) Extension of time period.—If the person or other entity in good faith attempts to make an inquiry during such 3 working days and the confirmation system has registered that not all inquiries were received during such time, the person or entity can make an inquiry in the first subsequent working day in which the confirmation system registers that it has received all inquiries. If the confirmation system cannot receive inquiries at all times during a day, the person or entity merely has to assert that the entity attempted to make the inquiry on that day for the previous sentence to apply to such an inquiry, and does not have to provide any additional proof concerning such inquiry.
+
+
+“(4) Confirmation or nonconfirmation.—“(A) Confirmation upon initial inquiry.—If the person or other entity receives an appropriate confirmation of an individual’s identity and work eligibility under the confirmation system within the time period specified under section 404(b) of this division, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a final confirmation of such identity and work eligibility of the individual.
+
+“(B) Nonconfirmation upon initial inquiry and secondary verification.—“(i) Nonconfirmation.—If the person or other entity receives a tentative nonconfirmation of an individual’s identity or work eligibility under the confirmation system within the time period specified under 404(b) of this division, the person or entity shall so inform the individual for whom the confirmation is sought.
+
+“(ii) No contest.—If the individual does not contest the nonconfirmation within the time period specified in section 404(c) of this division, the nonconfirmation shall be considered final. The person or entity shall then record on the I–9 or similar form an appropriate code which has been provided under the system to indicate a tentative nonconfirmation.
+
+“(iii) Contest.—If the individual does contest the nonconfirmation, the individual shall utilize the process for secondary verification provided under section 404(c) of this division. The nonconfirmation will remain tentative until a final confirmation or nonconfirmation is provided by the confirmation system within the time period specified in such section. In no case shall an employer terminate employment of an individual because of a failure of the individual to have identity and work eligibility confirmed under this section until a nonconfirmation becomes final. Nothing in this clause shall apply to a termination of employment for any reason other than because of such a failure.
+
+“(iv) Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
+
+
+“(C) Consequences of nonconfirmation.—“(i) Termination or notification of continued employment.—If the person or other entity has received a final nonconfirmation regarding an individual under subparagraph (B), the person or entity may terminate employment (or recruitment or referral) of the individual. If the person or entity does not terminate employment (or recruitment or referral) of the individual, the person or entity shall notify the Secretary of Homeland Security of such fact through the confirmation system or in such other manner as the Secretary of Homeland Security may specify.
+
+“(ii) Failure to notify.—If the person or entity fails to provide notice with respect to an individual as required under clause (i), the failure is deemed to constitute a violation of section 274A(a)(1)(B) with respect to that individual and the applicable civil monetary penalty under section 274A(e)(5) shall be (notwithstanding the amounts specified in such section) no less than $500 and no more than $1,000 for each individual with respect to whom such violation occurred.
+
+“(iii) Continued employment after final nonconfirmation.—If the person or other entity continues to employ (or to recruit or refer) an individual after receiving final nonconfirmation, a rebuttable presumption is created that the person or entity has violated section 274A(a)(1)(A). The previous sentence shall not apply in any prosecution under section 274A(f)(1).
+
+
+
+
+“(b) Citizen Attestation Pilot Program.—“(1) In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
+
+“(2) Restrictions.—“(A) State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the citizen attestation pilot program in a State unless each driver’s license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—“(i) contains a photograph of the individual involved, and
+
+“(ii) has been determined by the Secretary of Homeland Security to have security features, and to have been issued through application and issuance procedures, which make such document sufficiently resistant to counterfeiting, tampering, and fraudulent use that it is a reliable means of identification for purposes of this section.
+
+
+“(B) Authorization to limit employer participation.—The Secretary of Homeland Security may restrict the number of persons or other entities that may elect to participate in the citizen attestation pilot program under this subsection as the Secretary of Homeland Security determines to be necessary to produce a representative sample of employers and to reduce the potential impact of fraud.
+
+
+“(3) No confirmation required for certain individuals attesting to u.s. citizenship.—In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—“(A) the person or entity may fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B)(i) or (D) of such section; and
+
+“(B) the person or other entity is not required to comply with respect to such individual with the procedures described in paragraphs (3) and (4) of subsection (a), but only if the person or entity retains the form and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3).
+
+
+“(4) Waiver of document presentation requirement in certain cases.—“(A) In general.—In the case of a person or entity that elects, in a manner specified by the Secretary of Homeland Security consistent with subparagraph (B), to participate in the pilot program under this paragraph, if an individual being hired (or recruited or referred) attests (in the manner described in paragraph (3)) to United States citizenship and the person or entity retains the form on which the attestation is made and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3), the person or entity is not required to comply with the procedures described in section 274A(b).
+
+“(B) Restriction.—The Secretary of Homeland Security shall restrict the election under this paragraph to no more than 1,000 employers and, to the extent practicable, shall select among employers seeking to make such election in a manner that provides for such an election by a representative sample of employers.
+
+
+“(5) Nonreviewable determinations.—The determinations of the Secretary of Homeland Security under paragraphs (2) and (4) are within the discretion of the Secretary of Homeland Security and are not subject to judicial or administrative review.
+
+
+“(c) Machine-Readable-Document Pilot Program.—“(1) In general.—Except as provided in paragraph (3), the procedures applicable under the machine-readable-document pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
+
+“(2) State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the machine-readable-document pilot program in a State unless driver’s licenses and similar identification documents described in section 274A(b)(1)(D)(i) issued by the State include a machine-readable social security account number.
+
+“(3) Use of machine-readable documents.—If the individual whose identity and employment eligibility must be confirmed presents to the person or entity hiring (or recruiting or referring) the individual a license or other document described in paragraph (2) that includes a machine-readable social security account number, the person or entity must make an inquiry through the confirmation system by using a machine-readable feature of such document. If the individual does not attest to United States citizenship under section 274A(b)(2), the individual’s identification or authorization number described in subsection (a)(1)(B) shall be provided as part of the inquiry.
+
+
+“(d) Protection From Liability for Actions Taken on the Basis of Information Provided by the Confirmation System.—No person or entity participating in a pilot program shall be civilly or criminally liable under any law for any action taken in good faith reliance on information provided through the confirmation system.
+

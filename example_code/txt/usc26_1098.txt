@@ -1,0 +1,22 @@
+“Sec. 204. [Payments to States]“(a) [Amount Payable] (1) There shall be paid to each State an amount equal to one-half of the sum of—“(A) the sharable extended compensation, and
+
+“(B) the sharable regular compensation,
+
+
+paid to individuals under the State law.
+“(2) No payment shall be made to any State under this subsection in respect of compensation (A) for which the State is entitled to reimbursement under the provisions of any Federal law other than this Act, (B) paid for the first week in an individual’s eligibility period for which extended compensation or sharable regular compensation is paid, if the State law of such State provides for payment (at any time or under any circumstances) of regular compensation to an individual for his first week of otherwise compensable unemployment, (C) paid for any week with respect to which such benefits are not payable by reason of section 233(d) [now 233(c)] of the Trade Act of 1974 [19 U.S.C. 2293(c)], or (D) paid to an individual with respect to a week of unemployment to the extent that such amount exceeds the amount of such compensation which would be paid to such individual if such State had a benefit structure which provided that the amount of compensation otherwise payable to any individual for any week shall be rounded (if not a full dollar amount) to the nearest lower full dollar amount.
+
+“(3) The amount which, but for this paragraph, would be payable under this subsection to any State in respect of any compensation paid to an individual whose base period wages include wages for services to which section 3306(c)(7) of the Internal Revenue Code of 1986 applies shall be reduced by an amount which bears the same ratio to the amount which, but for this paragraph, would be payable under this subsection to such State in respect of such compensation as the amount of the base period wages attributable to such services bears to the total amount of the base period wages.
+
+
+“(b) [Sharable Extended Compensation] For purposes of subsection (a)(1)(A), extended compensation paid to an individual for weeks of unemployment in such individual’s eligibility period is sharable extended compensation to the extent that the aggregate extended compensation paid to such individual with respect to any benefit year does not exceed the smallest of the amounts referred to in subparagraphs (A), (B), and (C) of section 202(b)(1).
+
+“(c) [Sharable Regular Compensation] For purposes of subsection (a)(1)(B), regular compensation paid to an individual for a week of unemployment is sharable regular compensation—“(1) if such week is in such individual’s eligibility period (determined under section 203(c)), and
+
+“(2) to the extent that the sum of such compensation, plus the regular compensation paid (or deemed paid) to him with respect to prior weeks of unemployment in the benefit year, exceeds twenty-six times (and does not exceed thirty-nine, forty-six in any case where section 202(b)(3)(A) applies[,] times) the average weekly benefit amount (including allowances for dependents) for weeks of total unemployment payable to such individual under the State law in such benefit year.
+
+
+“(d) [Payment on Calendar Month Basis] There shall be paid to each State either in advance or by way of reimbursement, as may be determined by the Secretary, such sum as the Secretary estimates the State will be entitled to receive under this title for each calendar month, reduced or increased, as the case may be, by any sum by which the Secretary finds that his estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made upon the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency.
+
+“(e) [Certification] The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this section. The Secretary of the Treasury, prior to audit or settlement by the Government Accountability Office, shall make payment to the State in accordance with such certification, by transfers from the extended unemployment compensation account to the account of such State in the Unemployment Trust Fund.
+

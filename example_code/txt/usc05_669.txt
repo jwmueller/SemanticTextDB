@@ -1,0 +1,81 @@
+§ 5941. Allowances based on living costs and conditions of environment; employees stationed outside continental United States or in Alaska(a) Appropriations or funds available to an Executive agency, except a Government controlled corporation, for pay of employees stationed outside the continental United States or in Alaska whose rates of basic pay are fixed by statute, are available for allowances to these employees. The allowance is based on—(1) living costs substantially higher than in the District of Columbia;
+
+(2) conditions of environment which differ substantially from conditions of environment in the continental United States and warrant an allowance as a recruitment incentive; or
+
+(3) both of these factors.
+
+
+The allowance may not exceed 25 percent of the rate of basic pay. Except as otherwise specifically authorized by statute, the allowance is paid only in accordance with regulations prescribed by the President establishing the rates and defining the area, groups of positions, and classes of employees to which each rate applies. Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).
+
+(b) This section shall apply only to areas that are designated as cost-of-living allowance areas as in effect on December 31, 2009.
+
+(c)(1) The cost-of-living allowance rate payable under this section shall be adjusted on the first day of the first applicable pay period beginning on or after—(A) January 1, 2010; and
+
+(B) January 1 of each calendar year in which a locality-based comparability adjustment takes effect under paragraphs (2) and (3), respectively, of section 1914 of the Non-Foreign Area Retirement Equity Assurance Act of 2009.
+
+
+(2)(A) In this paragraph, the term “applicable locality-based comparability pay percentage” means, with respect to calendar year 2010 and each calendar year thereafter, the applicable percentage under paragraph (1), (2), or (3) of section 1914 of Non-Foreign Area Retirement Equity Assurance Act of 2009.
+
+(B) Each adjusted cost-of-living allowance rate under paragraph (1) shall be computed by—(i) subtracting 65 percent of the applicable locality-based comparability pay percentage from the cost-of-living allowance percentage rate in effect on December 31, 2009; and
+
+(ii) dividing the resulting percentage determined under clause (i) by the sum of—(I) one; and
+
+(II) the applicable locality-based comparability payment percentage expressed as a numeral.
+
+
+
+
+(3) No allowance rate computed under paragraph (2) may be less than zero.
+
+(4) Each allowance rate computed under paragraph (2) shall be paid as a percentage of basic pay (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law).
+
+
+(d) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 111–84, div. A, title XIX, § 1912(b), Oct. 28, 2009, 123 Stat. 2620.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 118h.Apr. 20, 1948, ch. 219, § 207, 62 Stat. 194.
+  June 30, 1948, ch. 775, § 104, 62 Stat. 1205.
+
+
+The section is reorganized and restated for clarity and conciseness.
+The word “allowances” is substituted for “additional compensation” as a more apt term and for consistency.
+In subsection (a), the words “Executive agency” are substituted for “executive departments, independent establishments, and wholly owned Government corporations” in view of the definition of “Executive agency” in section 105. The exception of a “Government controlled corporation” is added to preserve the application to “wholly owned Government corporation”.
+Subsection (b) is based on the second proviso of former section 118h and is restated to reflect the provisions of sections 511(b), (c)(7) and 521 of the Act of Sept. 6, 1960, Pub. L. 86–707, 74 Stat. 800–802. The reference to section 204 of the Act of Apr. 20, 1948, is omitted as obsolete, since the section was applicable only to fiscal year 1949.
+The last proviso of former section 118h which provided the effective date of the section is omitted as executed.
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+
+References in TextThe date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, referred to in subsec. (a), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
+Section 1914 of the Non-Foreign Area Retirement Equity Assurance Act of 2009, referred to in subsec. (c)(1)(B), (2)(A), is section 1914 of Pub. L. 111–84, which is set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
+
+Amendments2009—Subsec. (a). Pub. L. 111–84, § 1912(b)(1), inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
+Subsecs. (b) to (d). Pub. L. 111–84, § 1912(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+Effective Date of 2009 AmendmentAmendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
+
+Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic FactorsPub. L. 102–141, title IV, § 1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, § 532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, § 5, Nov. 19, 1995, 109 Stat. 490; Pub. L. 105–61, title V, § 515, Oct. 10, 1997, 111 Stat. 1306, provided that: 
+“The allowances provided to employees at rates set under section 5941 of title 5, United States Code, and Executive Order Numbered 10000 [set out below] as in effect on the date of the enactment of this Act [Oct. 28, 1991] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 2000: Provided, That no later than March 1, 2000, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—“(1) an examination of the pay practices of other employers in the affected areas;
+
+“(2) a consideration of alternative approaches to dealing with the unusual and unique circumstances of the affected areas, including modifications to the current methodology for calculating allowances to take into account all cost of living in the geographic areas of the affected employee; and
+
+“(3) an evaluation of the likely impact of the different approaches on the Government’s ability to recruit and retain a well-qualified workforce.
+
+
+For the purpose of conducting such study and preparing such report, the Office may accept and utilize (without regard to any restriction on unanticipated travel expenses imposed in an Appropriations Act) funds made available to the Office pursuant to court approval.”

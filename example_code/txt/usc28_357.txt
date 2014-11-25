@@ -1,0 +1,24 @@
+§ 654. Arbitration(a) Referral of Actions to Arbitration.—Notwithstanding any provision of law to the contrary and except as provided in subsections (a), (b), and (c) of section 652 and subsection (d) of this section, a district court may allow the referral to arbitration of any civil action (including any adversary proceeding in bankruptcy) pending before it when the parties consent, except that referral to arbitration may not be made where—(1) the action is based on an alleged violation of a right secured by the Constitution of the United States;
+
+(2) jurisdiction is based in whole or in part on section 1343 of this title; or
+
+(3) the relief sought consists of money damages in an amount greater than $150,000.
+
+
+(b) Safeguards in Consent Cases.—Until such time as rules are adopted under chapter 131 of this title relating to procedures described in this subsection, the district court shall, by local rule adopted under section 2071(a), establish procedures to ensure that any civil action in which arbitration by consent is allowed under subsection (a)—(1) consent to arbitration is freely and knowingly obtained; and
+
+(2) no party or attorney is prejudiced for refusing to participate in arbitration.
+
+
+(c) Presumptions.—For purposes of subsection (a)(3), a district court may presume damages are not in excess of $150,000 unless counsel certifies that damages exceed such amount.
+
+(d) Existing Programs.—Nothing in this chapter is deemed to affect any program in which arbitration is conducted pursuant to section 11 So in original. The word “section” probably should not appear. title IX of the Judicial Improvements and Access to Justice Act (Public Law 100–702), as amended by section 1 of Public Law 105–53.
+
+(Added Pub. L. 100–702, title IX, § 901(a), Nov. 19, 1988, 102 Stat. 4660; amended Pub. L. 105–315, § 6, Oct. 30, 1998, 112 Stat. 2995.)
+
+
+References in TextTitle IX of the Judicial Improvements and Access to Justice Act (Public Law 100–702), as amended by section 1 of Public Law 105–53, referred to in subsec. (d), is title IX of Pub. L. 100–702, Nov. 19, 1988, 102 Stat. 4659, which enacted this chapter and provisions set out as notes under sections 651 and 652 of this title. Section 1 of Pub. L. 105–53, Oct. 6, 1997, 111 Stat. 1173, amended section 905 of title IX of Pub. L. 100–702, which is set out as a note under section 651 of this title.
+
+Amendments1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration for provisions relating to arbitration award and judgment.
+
+

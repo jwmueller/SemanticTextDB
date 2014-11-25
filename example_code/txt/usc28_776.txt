@@ -1,0 +1,45 @@
+§ 2516. Interest on claims and judgments(a) Interest on a claim against the United States shall be allowed in a judgment of the United States Court of Federal Claims only under a contract or Act of Congress expressly providing for payment thereof.
+
+(b) Interest on a judgment against the United States affirmed by the Supreme Court after review on petition of the United States is paid at a rate equal to the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding the date of the judgment.
+
+(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, § 57, 68 Stat. 1248; Pub. L. 97–164, title I, § 139(j)(2), title III, § 302(d), Apr. 2, 1982, 96 Stat. 43, 56; Pub. L. 97–258, § 2(g)(5), (m)(3), Sept. 13, 1982, 96 Stat. 1061, 1062; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–554, § 1(a)(7) [title III, § 307(d)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–636.)
+
+Historical and Revision Notes
+1948 ActBased on title 28, U.S.C., 1940 ed., § 284 and section 226 of title 31, U.S.C., 1940 ed., Money and Finance (Sept. 30, 1890, ch. 1126, § 1, 26 Stat. 537; Mar. 3, 1911, ch. 231, § 177, 36 Stat. 1141; Nov. 23, 1921, ch. 136, § 1324(b), 42 Stat. 316; June 2, 1924, ch. 234, § 1020, 43 Stat. 346; Feb. 13, 1925, ch. 229, § 3(c), 43 Stat. 939; Feb. 26, 1926, ch. 27, §§ 1117, 1200, 44 Stat. 119, 125; May 29, 1928, ch. 852, § 615(a), 45 Stat. 877; June 22, 1936, ch. 690, § 808, 49 Stat. 1746).
+Subdivision (b) of section 284 of title 28, U.S.C., 1940 ed., was omitted as covered by section 3771 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Such omission required the exception in subdivision (a) of such section 284, reading: “except as provided in subdivision (b)”, to be changed to read: “or Act of Congress expressly providing for payment thereof.”
+Subsection (b) of this section is based on the last sentence of section 226 of title 31, U.S.C., 1940 ed., Money and Finance.
+Changes were made in phraseology.
+
+
+
+
+
+
+
+
+
+1982 Act
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+28:2516(b)28:2516(b)(1st sentence words before “from the date”).
+
+
+Section 2(g)(5) of the bill restates 28:2516(b) because the provisions in 28:2516(b) on the periods for computing interest were superseded by the source provisions restated in section 1304 of the revised title 31.
+
+Amendments2000—Subsec. (b). Pub. L. 106–554 substituted “the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding” for “the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately before”.
+1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1982—Subsec. (a). Pub. L. 97–164, § 139(j)(2), substituted “United States Claims Court” for “Court of Claims”.
+Subsec. (b). Pub. L. 97–258 substituted provisions that interest on a judgment against the United States is paid at a rate equal to the coupon issue yield equivalent of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately before the date of judgment for provisions that such interest would be paid at the rate of four percent per annum from the date of the filing of the transcript of the judgment in the Treasury Department to the date of mandate of affirmance by the Supreme Court and that the interest would not be allowed for any period after the term of the Supreme Court at which the judgment was affirmed, and repealed the amendment made by Pub. L. 97–164, § 302(d), eff. Oct. 1, 1982. See, also, section 1304(b) of Title 31, Money and Finance.
+Pub. L. 97–164, §§ 302(d), 402, eff. Oct. 1, 1982, struck out “at the rate of four percent per annum” and all that follows through “affirmance” and inserted in lieu thereof “, from the date of the filing of the transcript of the judgment in the General Accounting Office to the date of the mandate of the affirmance, at a rate of interest equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment”.
+1954—Subsec. (b). Act Sept. 3, 1954, inserted “for any period” after “allowed” in last sentence.
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
+
+Effective Date of 1982 AmendmentPub. L. 97–258, § 2(g)(5), Sept. 13, 1982, 96 Stat. 1061, provided that the amendment made by that section is effective Oct. 1, 1982.
+
+RepealsPub. L. 97–164, title III, § 302(d), Apr. 2, 1982, 96 Stat. 56, cited as a credit to this section, was repealed by Pub. L. 97–258, § 2(m)(3), Sept. 13, 1982, 96 Stat. 1062, eff. Oct. 1, 1982.
+
+

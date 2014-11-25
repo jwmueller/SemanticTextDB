@@ -1,0 +1,50 @@
+§ 5512. National Research and Education Network(a) EstablishmentAs part of the Program, the National Science Foundation, the Department of Defense, the Department of Energy, the Department of Commerce, the National Aeronautics and Space Administration, and other agencies participating in the Program shall support the establishment of the National Research and Education Network, portions of which shall, to the extent technically feasible, be capable of transmitting data at one gigabit per second or greater by 1996. The Network shall provide for the linkage of research institutions and educational institutions, government, and industry in every State.
+
+
+(b) AccessFederal agencies and departments shall work with private network service providers, State and local agencies, libraries, educational institutions and organizations, and others, as appropriate, in order to ensure that the researchers, educators, and students have access, as appropriate, to the Network. The Network is to provide users with appropriate access to high-performance computing systems, electronic information resources, other research facilities, and libraries. The Network shall provide access, to the extent practicable, to electronic information resources maintained by libraries, research facilities, publishers, and affiliated organizations.
+
+
+(c) Network characteristicsThe Network shall—(1) be developed and deployed with the computer, telecommunications, and information industries;
+
+(2) be designed, developed, and operated in collaboration with potential users in government, industry, and research institutions and educational institutions;
+
+(3) be designed, developed, and operated in a manner which fosters and maintains competition and private sector investment in high-speed data networking within the telecommunications industry;
+
+(4) be designed, developed, and operated in a manner which promotes research and development leading to development of commercial data communications and telecommunications standards, whose development will encourage the establishment of privately operated high-speed commercial networks;
+
+(5) be designed and operated so as to ensure the continued application of laws that provide network and information resources security measures, including those that protect copyright and other intellectual property rights, and those that control access to data bases and protect national security;
+
+(6) have accounting mechanisms which allow users or groups of users to be charged for their usage of copyrighted materials available over the Network and, where appropriate and technically feasible, for their usage of the Network;
+
+(7) ensure the interoperability of Federal and non-Federal computer networks, to the extent appropriate, in a way that allows autonomy for each component network;
+
+(8) be developed by purchasing standard commercial transmission and network services from vendors whenever feasible, and by contracting for customized services when not feasible, in order to minimize Federal investment in network hardware;
+
+(9) support research and development of networking software and hardware; and
+
+(10) serve as a test bed for further research and development of high-capacity and high-speed computing networks and demonstrate how advanced computers, high-capacity and high-speed computing networks, and data bases can improve the national information infrastructure.
+
+
+(d) Defense Advanced Research Projects Agency responsibilityAs part of the Program, the Department of Defense, through the Defense Advanced Research Projects Agency, shall support research and development of advanced fiber optics technology, switches, and protocols needed to develop the Network.
+
+
+(e) Information servicesThe Director shall assist the President in coordinating the activities of appropriate agencies and departments to promote the development of information services that could be provided over the Network. These services may include the provision of directories of the users and services on computer networks, data bases of unclassified Federal scientific data, training of users of data bases and computer networks, access to commercial information services for users of the Network, and technology to support computer-based collaboration that allows researchers and educators around the Nation to share information and instrumentation.
+
+
+(f) Use of grant fundsAll Federal agencies and departments are authorized to allow recipients of Federal research grants to use grant moneys to pay for computer networking expenses.
+
+
+(g) Report to CongressWithin one year after December 9, 1991, the Director shall report to the Congress on—(1) effective mechanisms for providing operating funds for the maintenance and use of the Network, including user fees, industry support, and continued Federal investment;
+
+(2) the future operation and evolution of the Network;
+
+(3) how commercial information service providers could be charged for access to the Network, and how Network users could be charged for such commercial information services;
+
+(4) the technological feasibility of allowing commercial information service providers to use the Network and other federally funded research networks;
+
+(5) how to protect the copyrights of material distributed over the Network; and
+
+(6) appropriate policies to ensure the security of resources available on the Network and to protect the privacy of users of networks.
+
+
+(Pub. L. 102–194, title I, § 102, Dec. 9, 1991, 105 Stat. 1598.)

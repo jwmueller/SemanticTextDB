@@ -1,0 +1,30 @@
+“SEC. 812. ASSESSMENT AND ANNUAL REPORT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES AND ACQUISITIONS OF ARTICLES, MATERIALS, AND SUPPLIES MANUFACTURED OUTSIDE THE UNITED STATES.“(a) Assessment Program.—(1) The Secretary of Defense shall establish a program to assess—“(A) the degree to which the United States is dependent on foreign sources of supply; and
+
+“(B) the capabilities of the United States defense industrial base to produce military systems necessary to support the national security objectives set forth in section 2501 of title 10, United States Code.
+
+
+“(2) For purposes of the assessment program, the Secretary shall use existing data, as required under subsection (b), and submit an annual report, as required under subsection (c).
+
+
+“(b) Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items and components, the following information from existing sources shall be used for purposes of the assessment program:“(A) Whether the contractor is a United States or foreign contractor.
+
+“(B) The principal place of business of the contractor and the principal place of performance of the contract.
+
+“(C) Whether the contract was awarded on a sole source basis or after receipt of competitive offers.
+
+“(D) The dollar value of the contract.
+
+
+“(2) The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 405(d)(4)(A)) [now 41 U.S.C. 1122(a)(4)(A)], or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
+
+“(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under section 2507 of title 10, United States Code. Such information also shall be exempt from release under section 552 of title 5, United States Code.
+
+“(4) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
+
+
+“[(c) Repealed. Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585.]
+
+“(d) Public Availability.—The Secretary of Defense shall make the report submitted under subsection (c) publicly available to the maximum extent practicable.
+
+“(e) Applicability.—This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) [now 50 U.S.C. 3003(4)].
+

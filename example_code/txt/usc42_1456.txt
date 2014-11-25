@@ -1,0 +1,12 @@
+“Where—“(1) one or more persons were entitled (without the application of section 202(j)(1) of the Social Security Act [42 U.S.C. 402(j)(1)]) to monthly benefits under section 202 of such Act for the second month following the month in which this Act is enacted [September 1960] on the basis of the wages and self-employment income of a deceased individual (but not including any person who became so entitled by reason of section 208 of this Act [42 U.S.C. 408]); and
+
+“(2) no person, other than (i) those persons referred to in paragraph (1) of this subsection (ii) those persons who are entitled to benefits under section 202(d), (e), (f), or (g) of the Social Security Act but would not be so entitled except for the enactment of section 208 of this Act [42 U.S.C. 408], is entitled to benefits under such section 202 [this section] on the basis of such individual’s wages and self-employment income for any subsequent month or for any month after the second month following the month in which this Act is enacted [September 1960] and prior to such subsequent month; and
+
+“(3) the total of the benefits to which all persons referred to in paragraph (1) of this subsection are entitled under section 202 of the Social Security Act on the basis of such individual’s wages and self-employment income for such subsequent month exceeds the maximum of benefits payable, as provided in section 203(a) of such Act [42 U.S.C. 403(a)], on the basis of such wages and self-employment income,
+
+
+then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be determined—
+“(4) in case such person is entitled to benefits under section 202(e), (f), (g), or (h), as though this section and section 208 [42 U.S.C. 408] had not been enacted, or
+
+“(5) in case such person is entitled to benefits under section 202(d), as though (i) no person is entitled to benefits under section 202(e), (f), (g), or (h) for such subsequent month, and (ii) the maximum of benefits payable, as described in paragraph (3), is such maximum less the amount of each person’s benefit for such month determined pursuant to paragraph (4).”
+

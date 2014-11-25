@@ -1,0 +1,48 @@
+§ 2012. Credit for gift tax(a) In generalIf a tax on a gift has been paid under chapter 12 (sec. 2501 and following), or under corresponding provisions of prior laws, and thereafter on the death of the donor any amount in respect of such gift is required to be included in the value of the gross estate of the decedent for purposes of this chapter, then there shall be credited against the tax imposed by section 2001 the amount of the tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to so much of the property which constituted the gift as is included in the gross estate, except that the amount of such credit shall not exceed an amount which bears the same ratio to the tax imposed by section 2001 (after deducting from such tax the unified credit provided by section 2010) as the value (at the time of the gift or at the time of the death, whichever is lower) of so much of the property which constituted the gift as is included in the gross estate bears to the value of the entire gross estate reduced by the aggregate amount of the charitable and marital deductions allowed under sections 2055, 2056, and 2106(a)(2).
+
+
+(b) Valuation reductionsIn applying, with respect to any gift, the ratio stated in subsection (a), the value at the time of the gift or at the time of the death, referred to in such ratio, shall be reduced—(1) by such amount as will properly reflect the amount of such gift which was excluded in determining (for purposes of section 2503(a)), or of corresponding provisions of prior laws, the total amount of gifts made during the calendar quarter (or calendar year if the gift was made before January 1, 1971) in which the gift was made;
+
+(2) if a deduction with respect to such gift is allowed under section 2056(a) (relating to marital deduction), then by the amount of such value, reduced as provided in paragraph (1); and
+
+(3) if a deduction with respect to such gift is allowed under sections 2055 or 2106(a)(2) (relating to charitable deduction), then by the amount of such value, reduced as provided in paragraph (1) of this subsection.
+
+
+(c) Where gift considered made one-half by spouseWhere the decedent was the donor of the gift but, under the provisions of section 2513, or corresponding provisions of prior laws, the gift was considered as made one-half by his spouse—(1) the term “the amount of the tax paid on a gift under chapter 12”, as used in subsection (a), includes the amounts paid with respect to each half of such gift, the amount paid with respect to each being computed in the manner provided in subsection (d); and
+
+(2) in applying, with respect to such gift, the ratio stated in subsection (a), the value at the time of the gift or at the time of the death, referred to in such ratio, includes such value with respect to each half of such gift, each such value being reduced as provided in paragraph (1) of subsection (b).
+
+
+(d) Computation of amount of gift tax paid(1) Amount of taxFor purposes of subsection (a), the amount of tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to any gift shall be an amount which bears the same ratio to the total tax paid for the calendar quarter (or calendar year if the gift was made before January 1, 1971) in which the gift was made as the amount of such gift bears to the total amount of taxable gifts (computed without deduction of the specific exemption) for such quarter or year.
+
+
+(2) Amount of giftFor purposes of paragraph (1), the “amount of such gift” shall be the amount included with respect to such gift in determining (for the purposes of section 2503(a), or of corresponding provisions of prior laws) the total amount of gifts made during such quarter or year, reduced by the amount of any deduction allowed with respect to such gift under section 2522, or under corresponding provisions of prior laws (relating to charitable deduction), or under section 2523 (relating to marital deduction).
+
+
+
+(e) Section inapplicable to gifts made after December 31, 1976No credit shall be allowed under this section with respect to the amount of any tax paid under chapter 12 on any gift made after December 31, 1976.
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 375; Pub. L. 91–614, title I, § 102(d)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, § 1902(a)(1), title XX, § 2001(a)(3), (c)(1)(B), Oct. 4, 1976, 90 Stat. 1804, 1848, 1850; Pub. L. 97–34, title IV, § 403(a)(2)(A), Aug. 13, 1981, 95 Stat. 301; Pub. L. 107–16, title V, § 532(c)(1), June 7, 2001, 115 Stat. 73.)
+
+Amendments2001—Subsec. (a). Pub. L. 107–16 struck out “the credit for State death taxes provided by section 2011 and” before “the unified credit”.
+1981—Subsec. (b)(2). Pub. L. 97–34 substituted “the amount of such value, reduced as provided in paragraph (1)” for “an amount which bears the same ratio to such value (reduced as provided in paragraph (1) of this subsection) as the aggregate amount of the marital deductions allowed under section 2056(a) bears to the aggregate amount of such marital deductions computed without regard to subsection (c) thereof”.
+1976—Subsec. (a). Pub. L. 94–455, § 2001(c)(1)(B), substituted “provided by section 2011 and the unified credit provided by section 2010” for “provided by section 2011”.
+Subsec. (b). Pub. L. 94–455, § 1902(a)(1)(A), added heading and substituted a comma for a dash after “deduction)” in pars. (2) and (3).
+Subsec. (c). Pub. L. 94–455, § 1902(a)(1)(B), added heading.
+Subsec. (d). Pub. L. 94–455, § 1902(a)(1)(C), (D), added headings for subsec. (d) and for pars. (1) and (2).
+Subsec. (e). Pub. L. 94–455, § 2001(a)(3), added subsec. (e).
+1970—Subsec. (b)(1). Pub. L. 91–614, § 102(d)(2)(A), substituted “the calendar quarter (or calendar year if the gift was made before January 1, 1971)” for “the year”.
+Subsec. (d). Pub. L. 91–614, § 102(d)(2)(B), substituted “such quarter or year” for “such year” in two places.
+Subsec. (d)(1). Pub. L. 91–614, § 102(d)(2)(A), substituted “the calendar quarter (or calendar year if the gift was made before January 1, 1971)” for “the year”.
+
+Effective Date of 2001 AmendmentAmendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Effective Date of 1981 AmendmentAmendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, but inapplicable under certain conditions under will executed before date which is 30 days after Aug. 13, 1981, or under trust created by such date, see section 403(e) of Pub. L. 97–34, set out as a note under section 2056 of this title.
+
+Effective Date of 1976 AmendmentAmendment by section 1902(a)(1) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
+Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+
+

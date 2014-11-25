@@ -1,0 +1,4 @@
+“SEC. 586I. DENIAL OF LICENSES FOR CERTAIN EXPORTS TO COUNTRIES ASSISTING IRAQ’S ROCKET OR CHEMICAL, BIOLOGICAL, OR NUCLEAR WEAPONS CAPABILITY.“(a) Restriction on Export Licenses.—None of the funds appropriated by this or any other Act may be used to approve the licensing for export of any supercomputer to any country whose government the President determines is assisting, or whose government officials the President determines are assisting, Iraq to improve its rocket technology or chemical, biological, or nuclear weapons capability.
+
+“(b) Negotiations.—The President is directed to begin immediate negotiations with those governments with which the United States has bilateral supercomputer agreements, including the Government of the United Kingdom and the Government of Japan, on conditions restricting the transfer to Iraq of supercomputer or associated technology.
+

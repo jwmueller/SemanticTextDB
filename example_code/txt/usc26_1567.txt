@@ -1,0 +1,57 @@
+§ 6037. Return of S corporation(a) In generalEvery S corporation shall make a return for each taxable year, stating specifically the items of its gross income and the deductions allowable by subtitle A, the names and addresses of all persons owning stock in the corporation at any time during the taxable year, the number of shares of stock owned by each shareholder at all times during the taxable year, the amount of money and other property distributed by the corporation during the taxable year to each shareholder, the date of each such distribution, each shareholder’s pro rata share of each item of the corporation for the taxable year, and such other information, for the purpose of carrying out the provisions of subchapter S of chapter 1, as the Secretary may by forms and regulations prescribe. Any return filed pursuant to this section shall, for purposes of chapter 66 (relating to limitations), be treated as a return filed by the corporation under section 6012.
+
+
+(b) Copies to shareholdersEach S corporation required to file a return under subsection (a) for any taxable year shall (on or before the day on which the return for such taxable year was filed) furnish to each person who is a shareholder at any time during such taxable year a copy of such information shown on such return as may be required by regulations.
+
+
+(c) Shareholder’s return must be consistent with corporate return or Secretary notified of inconsistency(1) In generalA shareholder of an S corporation shall, on such shareholder’s return, treat a subchapter S item in a manner which is consistent with the treatment of such item on the corporate return.
+
+
+(2) Notification of inconsistent treatment(A) In generalIn the case of any subchapter S item, if—(i)(I) the corporation has filed a return but the shareholder’s treatment on his return is (or may be) inconsistent with the treatment of the item on the corporate return, or
+
+(II) the corporation has not filed a return, and
+
+
+(ii) the shareholder files with the Secretary a statement identifying the inconsistency,
+
+
+paragraph (1) shall not apply to such item.
+
+(B) Shareholder receiving incorrect informationA shareholder shall be treated as having complied with clause (ii) of subparagraph (A) with respect to a subchapter S item if the shareholder—(i) demonstrates to the satisfaction of the Secretary that the treatment of the subchapter S item on the shareholder’s return is consistent with the treatment of the item on the schedule furnished to the shareholder by the corporation, and
+
+(ii) elects to have this paragraph apply with respect to that item.
+
+
+
+(3) Effect of failure to notifyIn any case—(A) described in subparagraph (A)(i)(I) of paragraph (2), and
+
+(B) in which the shareholder does not comply with subparagraph (A)(ii) of paragraph (2),
+
+
+any adjustment required to make the treatment of the items by such shareholder consistent with the treatment of the items on the corporate return shall be treated as arising out of mathematical or clerical errors and assessed according to section 6213(b)(1). Paragraph (2) of section 6213(b) shall not apply to any assessment referred to in the preceding sentence.
+
+(4) Subchapter S itemFor purposes of this subsection, the term “subchapter S item” means any item of an S corporation to the extent that regulations prescribed by the Secretary provide that, for purposes of this subtitle, such item is more appropriately determined at the corporation level than at the shareholder level.
+
+
+(5) Addition to tax for failure to comply with sectionFor addition to tax in the case of a shareholder’s negligence in connection with, or disregard of, the requirements of this section, see part II of subchapter A of chapter 68.
+
+
+
+(Added Pub. L. 85–866, title I, § 64(c), Sept. 2, 1958, 72 Stat. 1656; amended Pub. L. 94–455, title XIX, § 1906(a)(3), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 97–354, § 5(a)(39)(A), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 98–369, div. A, title VII, § 714(q)(2), July 18, 1984, 98 Stat. 965; Pub. L. 104–188, title I, § 1307(c)(2), Aug. 20, 1996, 110 Stat. 1781.)
+
+Prior ProvisionsA prior section 6037 was renumbered section 6040 of this title.
+
+Amendments1996—Subsec. (c). Pub. L. 104–188 added subsec. (c).
+1984—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsec. (a) heading and subsec. (b).
+1982—Pub. L. 97–354 substituted “S corporation” for “electing small business corporation” in section catchline, substituted “Every S corporation” for “Every electing small business corporation (as defined in section 1371(b))”, and substituted “each shareholder’s pro rata share of each item of the corporation for the taxable year, and such other information” for “and such other information”.
+1976—Pub. L. 94–455 substituted “section 1371(b)” for “section 1371(a)(2)” and struck out “or his delegate” after “Secretary”.
+
+Effective Date of 1996 AmendmentAmendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 714(q)(5) of Pub. L. 98–369, set out as an Effective Date note under section 6034A of this title.
+
+Effective Date of 1982 AmendmentAmendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+
+Effective DateSection applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 64(e) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under section 172 of this title.
+
+

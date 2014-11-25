@@ -1,0 +1,27 @@
+§ 2537. Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities(a) Selected Acquisition Reports(1) At the end of each fiscal-year quarter, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension. The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
+
+(2) The information contained in the Selected Acquisition Report for a fiscal-year quarter for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for such fiscal-year quarter for a major defense acquisition program under section 2432 of title 10, expressed in terms of the nuclear weapon system.
+
+
+(b) Independent cost estimates(1) The Secretary, acting through the Administrator, shall submit to the congressional defense committees and the Nuclear Weapons Council an independent cost estimate of the following:(A) Each nuclear weapon system undergoing life extension at the completion of phase 6.2A, relating to design definition and cost study.
+
+(B) Each nuclear weapon system undergoing life extension before initiation of phase 6.5, relating to first production.
+
+(C) Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 2 in the acquisition process.
+
+
+(2) A cost estimate submitted under this subsection before October 1, 2015, may not be prepared by the Department of Energy or the Administration.
+
+(3) Each cost estimate submitted under this subsection shall be submitted in unclassified form, but may include a classified annex if necessary.
+
+
+(c) Authority for further assessmentsUpon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.
+
+
+(Pub. L. 107–314, div. D, title XLII, § 4217, as added Pub. L. 112–239, div. C, title XXXI, § 3162(a), Jan. 2, 2013, 126 Stat. 2204; amended Pub. L. 113–66, div. C, title XXXI, §§ 3112(b), 3146(a)(2)(C), Dec. 26, 2013, 127 Stat. 1053, 1072.)
+
+Amendments2013—Subsec. (b)(1). Pub. L. 113–66, § 3146(a)(2)(C), struck out “established under section 179 of title 10” after “Council” in introductory provisions.
+Subsec. (b)(2). Pub. L. 113–66, § 3112(b)(1), substituted “submitted under this subsection before October 1, 2015,” for “for purposes of this subsection”.
+Subsec. (b)(3). Pub. L. 113–66, § 3112(b)(2), added par. (3).
+
+

@@ -1,0 +1,31 @@
+“SEC. 103. IMPLEMENTATION ASSISTANCE TO STATES.“(a) Authorization.—“(1) In general.—From amounts made available to carry out this section and subject to section 102(b)(1)(B), the Attorney General shall make grants to States and Indian tribal governments, in a manner consistent with the National Criminal History Improvement Program, which shall be used by the States and Indian tribal governments, in conjunction with units of local government and State and local courts, to establish or upgrade information and identification technologies for firearms eligibility determinations. Not less than 3 percent, and no more than 10 percent of each grant under this paragraph shall be used to maintain the relief from disabilities program in accordance with section 105.
+
+“(2) Grants to indian tribes.—Up to 5 percent of the grant funding available under this section may be reserved for Indian tribal governments, including tribal judicial systems.
+
+
+“(b) Use of Grant Amounts.—Grants awarded to States or Indian tribes under this section may only be used to—“(1) create electronic systems, which provide accurate and up-to-date information which is directly related to checks under the National Instant Criminal Background Check System (referred to in this section as ‘NICS’), including court disposition and corrections records;
+
+“(2) assist States in establishing or enhancing their own capacities to perform NICS background checks;
+
+“(3) supply accurate and timely information to the Attorney General concerning final dispositions of criminal records to databases accessed by NICS;
+
+“(4) supply accurate and timely information to the Attorney General concerning the identity of persons who are prohibited from obtaining a firearm under section 922(g)(4) of title 18, United States Code, to be used by the Federal Bureau of Investigation solely to conduct NICS background checks;
+
+“(5) supply accurate and timely court orders and records of misdemeanor crimes of domestic violence for inclusion in Federal and State law enforcement databases used to conduct NICS background checks;
+
+“(6) collect and analyze data needed to demonstrate levels of State compliance with this Act; and
+
+“(7) maintain the relief from disabilities program in accordance with section 105, but not less than 3 percent, and no more than 10 percent of each grant shall be used for this purpose.
+
+
+“(c) Eligibility.—To be eligible for a grant under this section, a State shall certify, to the satisfaction of the Attorney General, that the State has implemented a relief from disabilities program in accordance with section 105.
+
+“(d) Condition.—As a condition of receiving a grant under this section, a State shall specify the projects for which grant amounts will be used, and shall use such amounts only as specified. A State that violates this subsection shall be liable to the Attorney General for the full amount of the grant received under this section.
+
+“(e) Authorization of Appropriations.—“(1) In general.—There are authorized to be appropriated to carry out this section $125,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $250,000,000 for fiscal year 2011, $125,000,000 for fiscal year 2012, and $125,000,000 for fiscal year 2013.
+
+“(2) Allocations.—For fiscal years 2009 and 2010, the Attorney General shall endeavor to allocate at least ½ of the authorized appropriations to those States providing more than 50 percent of the records required to be provided under sections 102 and 103. For fiscal years 2011, 2012, and 2013, the Attorney General shall endeavor to allocate at least ½ of the authorized appropriations to those States providing more than 70 percent of the records required to be provided under section 102 and 103. The allocations in this paragraph shall be subject to the discretion of the Attorney General, who shall have the authority to make adjustments to the distribution of the authorized appropriations as necessary to maximize incentives for State compliance.
+
+
+“(f) User Fee.—The Federal Bureau of Investigation shall not charge a user fee for background checks pursuant to section 922(t) of title 18, United States Code.
+

@@ -1,0 +1,27 @@
+“SEC. 5306. RESEARCH AND DEVELOPMENT.“(a) In General.—The Secretary [of Transportation] shall carry out a comprehensive program of intelligent transportation system research, development, and operational tests of intelligent vehicles and intelligent infrastructure systems and other similar activities that are necessary to carry out this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title].
+
+“(b) Priority Areas.—Under the program, the Secretary shall give higher priority to funding projects that—“(1) enhance mobility and productivity through improved traffic management, incident management, transit management, freight management, road weather management, toll collection, traveler information, or highway operations systems and remote sensing products;
+
+“(2) utilize interdisciplinary approaches to develop traffic management strategies and tools to address multiple impacts of congestion concurrently;
+
+“(3) address traffic management, incident management, transit management, toll collection traveler information, or highway operations systems with goals of—“(A) reducing metropolitan congestion by not less than 5 percent by 2010;
+
+“(B) ensuring that a national, interoperable 5–1–1 system, along with a national traffic information system that includes a user-friendly, comprehensive website, is fully implemented for use by travelers throughout the United States by September 30, 2010; and
+
+“(C)(i) improving incident management response, particularly in rural areas, so that rural emergency response times are reduced by an average of 10 minutes; and
+
+“(ii) improving communication between emergency care providers and trauma centers;
+
+
+
+“(4) incorporate research on the impact of environmental, weather, and natural conditions on intelligent transportation systems, including the effects of cold climates;
+
+“(5) enhance intermodal use of intelligent transportation systems for diverse groups, including for emergency and health-related services;
+
+“(6) enhance safety through improved crash avoidance and protection, crash and other notification, commercial motor vehicle operations, and infrastructure-based or cooperative safety systems; and
+
+“(7) facilitate the integration of intelligent infrastructure, vehicle, and control technologies.
+
+
+“(c) Federal Share.—The Federal share of the cost of operational tests and demonstrations under subsection (a) shall not exceed 80 [sic].
+

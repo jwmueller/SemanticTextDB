@@ -1,0 +1,20 @@
+§ 1306. Property of the estate(a) Property of the estate includes, in addition to the property specified in section 541 of this title—(1) all property of the kind specified in such section that the debtor acquires after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 11, or 12 of this title, whichever occurs first; and
+
+(2) earnings from services performed by the debtor after the commencement of the case but before the case is closed, dismissed, or converted to a case under chapter 7, 11, or 12 of this title, whichever occurs first.
+
+
+(b) Except as provided in a confirmed plan or order confirming a plan, the debtor shall remain in possession of all property of the estate.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2647; Pub. L. 99–554, title II, § 257(u), Oct. 27, 1986, 100 Stat. 3116.)
+
+Historical and Revision Notes
+legislative statementsSection 1306(a)(2) adopts a provision contained in the Senate amendment in preference to a similar provision contained in the House bill.
+
+senate report no. 95–989Section 541 is expressly made applicable to chapter 13 cases by section 103(a). Section 1306 broadens the definition of property of the estate for chapter 13 purposes to include all property acquired and all earnings from services performed by the debtor after the commencement of the case.
+Subsection (b) nullifies the effect of section 521(3), otherwise applicable, by providing that a chapter 13 debtor need not surrender possession of property of the estate, unless required by the plan or order of confirmation.
+
+Amendments1986—Subsec. (a). Pub. L. 99–554 inserted reference to chapter 12 in pars. (1) and (2).
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+
+

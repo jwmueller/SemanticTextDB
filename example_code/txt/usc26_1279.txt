@@ -1,0 +1,45 @@
+§ 4974. Excise tax on certain accumulations in qualified retirement plans(a) General ruleIf the amount distributed during the taxable year of the payee under any qualified retirement plan or any eligible deferred compensation plan (as defined in section 457(b)) is less than the minimum required distribution for such taxable year, there is hereby imposed a tax equal to 50 percent of the amount by which such minimum required distribution exceeds the actual amount distributed during the taxable year. The tax imposed by this section shall be paid by the payee.
+
+
+(b) Minimum required distributionFor purposes of this section, the term “minimum required distribution” means the minimum amount required to be distributed during a taxable year under section 401(a)(9), 403(b)(10), 408(a)(6), 408(b)(3), or 457(d)(2), as the case may be, as determined under regulations prescribed by the Secretary.
+
+
+(c) Qualified retirement planFor purposes of this section, the term “qualified retirement plan” means—(1) a plan described in section 401(a) which includes a trust exempt from tax under section 501(a),
+
+(2) an annuity plan described in section 403(a),
+
+(3) an annuity contract described in section 403(b),
+
+(4) an individual retirement account described in section 408(a), or
+
+(5) an individual retirement annuity described in section 408(b).
+
+
+Such term includes any plan, contract, account, or annuity which, at any time, has been determined by the Secretary to be such a plan, contract, account, or annuity.
+
+(d) Waiver of tax in certain casesIf the taxpayer establishes to the satisfaction of the Secretary that—(1) the shortfall described in subsection (a) in the amount distributed during any taxable year was due to reasonable error, and
+
+(2) reasonable steps are being taken to remedy the shortfall,
+
+
+the Secretary may waive the tax imposed by subsection (a) for the taxable year.
+
+(Added Pub. L. 93–406, title II, § 2002(e), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, § 157(i)(1), Nov. 6, 1978, 92 Stat. 2808; Pub. L. 99–514, title XI, § 1121(a)(1), title XVIII, § 1852(a)(7)(B), (C), Oct. 22, 1986, 100 Stat. 2464, 2866.)
+
+Amendments1986—Pub. L. 99–514, § 1121(a)(1), amended section generally, substituting provisions imposing an excise tax on certain accumulations in qualified retirement plans for provisions imposing an excise tax on certain accumulations in individual retirement accounts and annuities.
+Subsec. (a). Pub. L. 99–514, § 1852(a)(7)(B), substituted “section 408(a)(6) or 408(b)(3)” for “section 408(a)(6) or (7), or 408(b)(3) or (4)”.
+Subsec. (b). Pub. L. 99–514, § 1852(a)(7)(C), substituted “section 408(a)(6) or 408(b)(3)” for “section 408(a)(6) or (7) or 408(b)(3) or (4)”.
+1978—Subsec. (c). Pub. L. 95–600 added subsec. (c).
+1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+Effective Date of 1986 AmendmentAmendment by section 1121(a)(1) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, with special provisions for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and transition rules, see section 1121(d) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1852(a)(7)(B), (C) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+
+Effective Date of 1978 AmendmentPub. L. 95–600, title I, § 157(i)(2), Nov. 6, 1978, 92 Stat. 2809, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to taxable years beginning after December 31, 1975.”
+
+
+Effective DateSection effective Jan. 1, 1975, see section 2002(i)(2) of Pub. L. 93–406, set out as an Effective Date note under section 4973 of this title.
+
+Plan Amendments Not Required Until January 1, 1989For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+

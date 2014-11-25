@@ -1,0 +1,64 @@
+“SEC. 1635. FULLY INTEROPERABLE ELECTRONIC PERSONAL HEALTH INFORMATION FOR THE DEPARTMENT OF DEFENSE AND DEPARTMENT OF VETERANS AFFAIRS.“(a) In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly—“(1) develop and implement electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs; and
+
+“(2) accelerate the exchange of health care information between the Department of Defense and the Department of Veterans Affairs in order to support the delivery of health care by both Departments.
+
+
+“(b) Department of Defense-Department of Veterans Affairs Interagency Program Office.—“(1) In general.—There is hereby established an interagency program office of the Department of Defense and the Department of Veterans Affairs (in this section referred to as the ‘Office’) for the purposes described in paragraph (2).
+
+“(2) Purposes.—The purposes of the Office shall be as follows:“(A) To act as a single point of accountability for the Department of Defense and the Department of Veterans Affairs in the rapid development and implementation of electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs.
+
+“(B) To accelerate the exchange of health care information between the Department of Defense and the Department of Veterans Affairs in order to support the delivery of health care by both Departments.
+
+
+
+“(c) Leadership.—“(1) Director.—The Director of the Office shall be the head of the Office.
+
+“(2) Deputy director.—The Deputy Director of the Office shall be the deputy head of the Office and shall assist the Director in carrying out the duties of the Director.
+
+“(3) Appointments.—(A) The Director shall be appointed by the Secretary of Defense, with the concurrence of the Secretary of Veterans Affairs, from among persons who are qualified to direct the development, acquisition, and integration of major information technology capabilities.
+
+“(B) The Deputy Director shall be appointed by the Secretary of Veterans Affairs, with the concurrence of the Secretary of Defense, from among employees of the Department of Defense and the Department of Veterans Affairs in the Senior Executive Service who are qualified to direct the development, acquisition, and integration of major information technology capabilities.
+
+
+“(4) Additional guidance.—In addition to the direction, supervision, and control provided by the Secretary of Defense and the Secretary of Veterans Affairs, the Office shall also receive guidance from the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of title 38, United States Code, in the discharge of the functions of the Office under this section.
+
+“(5) Testimony.—Upon request by any of the appropriate committees of Congress, the Director and the Deputy Director shall testify before such committee regarding the discharge of the functions of the Office under this section.
+
+
+“(d) Function.—The function of the Office shall be to implement, by not later than September 30, 2009, electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs, which health records shall comply with applicable interoperability standards, implementation specifications, and certification criteria (including for the reporting of quality measures) of the Federal Government.
+
+“(e) Schedules and Benchmarks.—Not later than 30 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a schedule and benchmarks for the discharge by the Office of its function under this section, including each of the following:“(1) A schedule for the establishment of the Office.
+
+“(2) A schedule and deadline for the establishment of the requirements for electronic health record systems or capabilities described in subsection (d), including coordination with the Office of the National Coordinator for Health Information Technology in the development of a nationwide interoperable health information technology infrastructure.
+
+“(3) A schedule and associated deadlines for any acquisition and testing required in the implementation of electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs.
+
+“(4) A schedule and associated deadlines and requirements for the implementation of electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs.
+
+
+“(f) Pilot Projects.—“(1) Authority.—In order to assist the Office in the discharge of its function under this section, the Secretary of Defense and the Secretary of Veterans Affairs may, acting jointly, carry out one or more pilot projects to assess the feasibility and advisability of various technological approaches to the achievement of the electronic health record systems or capabilities described in subsection (d).
+
+“(2) Sharing of protected health information.—For purposes of each pilot project carried out under this subsection, the Secretary of Defense and the Secretary of Veterans Affairs shall, for purposes of the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 [Pub. L. 104–191] (42 U.S.C. 1320d–2 note), ensure the effective sharing of protected health information between the health care system of the Department of Defense and the health care system of the Department of Veterans Affairs as needed to provide all health care services and other benefits allowed by law.
+
+
+“(g) Staff and Other Resources.—“(1) In general.—The Secretary of Defense and the Secretary of Veterans Affairs shall assign to the Office such personnel and other resources of the Department of Defense and the Department of Veterans Affairs as are required for the discharge of its function under this section.
+
+“(2) Additional services.—Subject to the approval of the Secretary of Defense and the Secretary of Veterans Affairs, the Director may utilize the services of private individuals and entities as consultants to the Office in the discharge of its function under this section. Amounts available to the Office shall be available for payment for such services.
+
+
+“(h) Annual Reports.—“(1) In general.—Not later than January 1, 2009, and each year thereafter through 2015, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:“(A) A detailed description of the activities of the Office, including a detailed description of the amounts expended and the purposes for which expended.
+
+“(B) An assessment of the progress made by the Department of Defense and the Department of Veterans Affairs in the full implementation of electronic health record systems or capabilities described in subsection (d).
+
+“(C) A description and analysis of the level of interoperability and security of technologies for sharing healthcare information among the Department of Defense, the Department of Veterans Affairs, and their transaction partners.
+
+“(D) A description and analysis of the problems the Department of Defense and the Department of Veterans Affairs are having with, and the progress such departments are making toward, ensuring interoperable and secure healthcare information systems and electronic healthcare records.
+
+
+“(2) Availability to public.—The Secretary of Defense and the Secretary of Veterans Affairs shall make available to the public each report submitted under paragraph (1), including by posting such report on the Internet website of the Department of Defense and the Department of Veterans Affairs, respectively, that is available to the public.
+
+
+“(i) Comptroller General Assessment of Implementation.—Not later than six months after the date of the enactment of this Act [Jan. 28, 2008] and every six months thereafter until the completion of the implementation of electronic health record systems or capabilities described in subsection (d), the Comptroller General of the United States shall submit to the appropriate committees of Congress a report setting forth the assessment of the Comptroller General of the progress of the Department of Defense and the Department of Veterans Affairs in implementing electronic health record systems or capabilities described in subsection (d).
+
+“(j) Technology-Neutral Guidelines and Standards.—The Director, in consultation with industry and appropriate Federal agencies, shall develop, or shall adopt from industry, technology-neutral information technology infrastructure guidelines and standards for use by the Department of Defense and the Department of Veterans Affairs to enable those departments to effectively select and utilize information technologies to meet the requirements of this section. [As amended Pub. L. 110–417, [div. A], title II, § 252, Oct. 14, 2008, 122 Stat. 4400.]
+

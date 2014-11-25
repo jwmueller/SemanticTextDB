@@ -1,0 +1,42 @@
+“SEC. 803. IMPLEMENTATION OF FEDERAL FINANCIAL MANAGEMENT IMPROVEMENTS.“(a) In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
+
+“(b) Audit Compliance Finding.—“(1) In general.—Each audit required by section 3521(e) of title 31, United States Code, shall report whether the agency financial management systems comply with the requirements of subsection (a).
+
+“(2) Content of Reports.—When the person performing the audit required by section 3521(e) of title 31, United States Code, reports that the agency financial management systems do not comply with the requirements of subsection (a), the person performing the audit shall include in the report on the audit—“(A) the entity or organization responsible for the financial management systems that have been found not to comply with the requirements of subsection (a);
+
+“(B) all facts pertaining to the failure to comply with the requirements of subsection (a), including—“(i) the nature and extent of the noncompliance including areas in which there is substantial but not full compliance;
+
+“(ii) the primary reason or cause of the noncompliance;
+
+“(iii) the entity or organization responsible for the non-compliance [sic]; and
+
+“(iv) any relevant comments from any responsible officer or employee; and
+
+
+“(C) a statement with respect to the recommended remedial actions and the time frames to implement such actions.
+
+
+
+“(c) Compliance Implementation.—“(1) Determination.—No later than the date described under paragraph (2), the Head of an agency shall determine whether the financial management systems of the agency comply with the requirements of subsection (a). Such determination shall be based on—“(A) a review of the report on the applicable agency-wide audited financial statement;
+
+“(B) any other information the Head of the agency considers relevant and appropriate.
+
+
+“(2) Date of determination.—The determination under paragraph (1) shall be made no later than 120 days after the earlier of—“(A) the date of the receipt of an agency-wide audited financial statement; or
+
+“(B) the last day of the fiscal year following the year covered by such statement.
+
+
+“(3) Remediation plan.—“(A) If the Head of an agency determines that the agency’s financial management systems do not comply with the requirements of subsection (a), the head of the agency, in consultation with the Director, shall establish a remediation plan that shall include resources, remedies, and intermediate target dates necessary to bring the agency’s financial management systems into substantial compliance.
+
+“(B) If the determination of the head of the agency differs from the audit compliance findings required in subsection (b), the Director shall review such determinations and provide a report on the findings to the appropriate committees of the Congress.
+
+
+“(4) Time period for compliance.—A remediation plan shall bring the agency’s financial management systems into substantial compliance no later than 3 years after the date a determination is made under paragraph (1), unless the agency, with concurrence of the Director—“(A) determines that the agency’s financial management systems cannot comply with the requirements of subsection (a) within 3 years;
+
+“(B) specifies the most feasible date for bringing the agency’s financial management systems into compliance with the requirements of subsection (a); and
+
+“(C) designates an official of the agency who shall be responsible for bringing the agency’s financial management systems into compliance with the requirements of subsection (a) by the date specified under subparagraph (B).
+
+
+

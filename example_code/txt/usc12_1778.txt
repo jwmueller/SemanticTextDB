@@ -1,0 +1,87 @@
+“SEC. 4102. DEFINITIONS.“For purposes of this subtitle:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Small Business and Entrepreneurship, the Committee on Agriculture, Nutrition, and Forestry, the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance, the Committee on the Budget, and the Committee on Appropriations of the Senate; and
+
+“(B) the Committee on Small Business, the Committee on Agriculture, the Committee on Financial Services, the Committee on Ways and Means, the Committee on the Budget, and the Committee on Appropriations of the House of Representatives.
+
+
+“(2) Appropriate federal banking agency.—The term ‘appropriate Federal banking agency’ has the meaning given such term under section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).
+
+“(3) Bank holding company.—The term ‘bank holding company’ has the meaning given such term under section 2(a)(1) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(2)(a)(1)).
+
+“(4) Call report.—The term ‘call report’ means—“(A) reports of Condition and Income submitted to the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation;
+
+“(B) the Office of Thrift Supervision Thrift Financial Report;
+
+“(C) any report that is designated by the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the Office of Thrift Supervision, as applicable, as a successor to any report referred to in subparagraph (A) or (B);
+
+“(D) reports of Condition and Income as designated through guidance developed by the Secretary, in consultation with the Director of the Community Development Financial Institutions Fund; and
+
+“(E) with respect to an eligible institution for which no report exists that is described under subparagraph (A), (B), (C), or (D), such other report or set of information as the Secretary, in consultation with the Administrator of the Small Business Administration, may prescribe.
+
+
+“(5) CDCI.—The term ‘CDCI’ means the Community Development Capital Initiative created by the Secretary under the Troubled Asset Relief Program established by the Emergency Economic Stabilization Act of 2008 [div. A of Pub. L. 110–343, see Short Title note set out under section 5201 of this title].
+
+“(6) CDCI investment.—The term ‘CDCI investment’ means, with respect to any eligible institution, the principal amount of any investment made by the Secretary in such eligible institution under the CDCI that has not been repaid.
+
+“(7) CDFI; community development financial institution.—The terms ‘CDFI’ and ‘community development financial institution’ have the meaning given the term ‘community development financial institution’ under the Riegle Community Development and Regulatory Improvement Act of 1994 [Pub. L. 103–325, see Tables for classification].
+
+“(8) CDLF; community development loan fund.—The terms ‘CDLF’ and ‘community development loan fund’ mean any entity that—“(A) is certified by the Department of the Treasury as a community development financial institution loan fund;
+
+“(B) is exempt from taxation under the Internal Revenue Code of 1986 [26 U.S.C. 1 et seq.]; and
+
+“(C) had assets less than or equal to $10,000,000,000 as of the end of the fourth quarter of calendar year 2009.
+
+
+“(9) CPP.—The term ‘CPP’ means the Capital Purchase Program created by the Secretary under the Troubled Asset Relief Program established by the Emergency Economic Stabilization Act of 2008.
+
+“(10) CPP investment.—The term ‘CPP investment’ means, with respect to any eligible institution, the principal amount of any investment made by the Secretary in such eligible institution under the CPP that has not been repaid.
+
+“(11) Eligible institution.—The term ‘eligible institution’ means—“(A) any insured depository institution, which—“(i) is not controlled by a bank holding company or savings and loan holding company that is also an eligible institution;
+
+“(ii) has total assets of equal to or less than $10,000,000,000, as reported in the call report of the insured depository institution as of the end of the fourth quarter of calendar year 2009; and
+
+“(iii) is not directly or indirectly controlled by any company or other entity that has total consolidated assets of more than $10,000,000,000, as so reported;
+
+
+“(B) any bank holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the bank holding company as of the end of the fourth quarter of calendar year 2009;
+
+“(C) any savings and loan holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the savings and loan holding company as of the end of the fourth quarter of calendar year 2009; and
+
+“(D) any community development financial institution loan fund which has total assets of equal to or less than $10,000,000,000, as reported in audited financial statements for the fiscal year of the community development financial institution loan fund that ends in calendar year 2009.
+
+
+“(12) Fund.—The term ‘Fund’ means the Small Business Lending Fund established under section 4103(a)(1).
+
+“(13) Insured depository institution.—The term ‘insured depository institution’ has the meaning given such term under section 3(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)(2)).
+
+“(14) Minority-owned and women-owned business.—The terms ‘minority-owned business’ and ‘women-owned business’ shall have the meaning given the terms ‘minority-owned business’ and ‘women’s business’, respectively, under section 21A(r)(4) of the Federal Home Loan Bank Act (12 U.S.C. 1441A(r)(4)).
+
+“(15) Program.—The term ‘Program’ means the Small Business Lending Fund Program authorized under section 4103(a)(2).
+
+“(16) Savings and loan holding company.—The term ‘savings and loan holding company’ has the meaning given such term under section 10(a)(1)(D) of the Home Owners’ Loan Act (12 U.S.C. 1467a(a)(1)(D)).
+
+“(17) Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.
+
+“(18) Small business lending.—“(A) In general.—The term ‘small business lending’ means lending, as defined by and reported in an eligible institutions’ quarterly call report, where each loan comprising such lending is one of the following types:“(i) Commercial and industrial loans.
+
+“(ii) Owner-occupied nonfarm, nonresidential real estate loans.
+
+“(iii) Loans to finance agricultural production and other loans to farmers.
+
+“(iv) Loans secured by farmland.
+
+
+“(B) Exclusion.—No loan that has an original amount greater than $10,000,000 or that goes to a business with more than $50,000,000 in revenues shall be included in the measure.
+
+“(C) Treatment of holding companies.—In the case of eligible institutions that are bank holding companies or savings and loan holding companies having one or more insured depository institution subsidiaries, small business lending shall be measured based on the combined small business lending reported in the call report of the insured depository institution subsidiaries.
+
+
+“(19) Veteran-owned business.—“(A) The term ‘veteran-owned business’ means a business—“(i) more than 50 percent of the ownership or control of which is held by 1 or more veterans;
+
+“(ii) more than 50 percent of the net profit or loss of which accrues to 1 or more veterans; and
+
+“(iii) a significant percentage of senior management positions of which are held by veterans.
+
+
+“(B) For purposes of this paragraph, the term ‘veteran’ has the meaning given such term in section 101(2) of title 38, United States Code.
+
+

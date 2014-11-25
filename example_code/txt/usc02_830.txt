@@ -1,0 +1,62 @@
+§ 642. Budget-related legislation must be within appropriate levels(a) Enforcement of budget aggregates(1) In House of RepresentativesExcept as provided by subsection (c) of this section, after the Congress has completed action on a concurrent resolution on the budget for a fiscal year, it shall not be in order in the House of Representatives to consider any bill, joint resolution, amendment, motion, or conference report providing new budget authority or reducing revenues, if—(A) the enactment of that bill or resolution as reported;
+
+(B) the adoption and enactment of that amendment; or
+
+(C) the enactment of that bill or resolution in the form recommended in that conference report;
+
+
+would cause the level of total new budget authority or total outlays set forth in the applicable concurrent resolution on the budget for the first fiscal year to be exceeded, or would cause revenues to be less than the level of total revenues set forth in that concurrent resolution for the first fiscal year or for the total of that first fiscal year and the ensuing fiscal years for which allocations are provided under section 633(a) of this title, except when a declaration of war by the Congress is in effect.
+
+(2) In SenateAfter a concurrent resolution on the budget is agreed to, it shall not be in order in the Senate to consider any bill, joint resolution, amendment, motion, or conference report that—(A) would cause the level of total new budget authority or total outlays set forth for the first fiscal year in the applicable resolution to be exceeded; or
+
+(B) would cause revenues to be less than the level of total revenues set forth for that first fiscal year or for the total of that first fiscal year and the ensuing fiscal years in the applicable resolution for which allocations are provided under section 633(a) of this title.
+
+
+(3) Enforcement of social security levels in SenateAfter a concurrent resolution on the budget is agreed to, it shall not be in order in the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause a decrease in social security surpluses or an increase in social security deficits relative to the levels set forth in the applicable resolution for the first fiscal year or for the total of that fiscal year and the ensuing fiscal years for which allocations are provided under section 633(a) of this title.
+
+
+
+(b) Social security levels(1) In generalFor purposes of subsection (a)(3) of this section, social security surpluses equal the excess of social security revenues over social security outlays in a fiscal year or years with such an excess and social security deficits equal the excess of social security outlays over social security revenues in a fiscal year or years with such an excess.
+
+
+(2) Tax treatmentFor purposes of subsection (a)(3) of this section, no provision of any legislation involving a change in chapter 1 of the Internal Revenue Code of 1986 [26 U.S.C. 1 et seq.] shall be treated as affecting the amount of social security revenues or outlays unless that provision changes the income tax treatment of social security benefits.
+
+
+
+(c) Exception in House of RepresentativesSubsection (a)(1) of this section shall not apply in the House of Representatives to any bill, joint resolution, or amendment that provides new budget authority for a fiscal year or to any conference report on any such bill or resolution, if—(1) the enactment of that bill or resolution as reported;
+
+(2) the adoption and enactment of that amendment; or
+
+(3) the enactment of that bill or resolution in the form recommended in that conference report;
+
+
+would not cause the appropriate allocation of new budget authority made pursuant to section 633(a) of this title for that fiscal year to be exceeded.
+
+(Pub. L. 93–344, title III, § 311, July 12, 1974, 88 Stat. 316; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1055; Pub. L. 100–119, title I, § 106(e)(1), Sept. 29, 1987, 101 Stat. 781; Pub. L. 101–508, title XIII, §§ 13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, 104 Stat. 1388–608, 1388–617, 1388–626; Pub. L. 105–33, title X, § 10112(a), Aug. 5, 1997, 111 Stat. 686.)
+
+
+References in TextThe Internal Revenue Code of 1986, referred to in subsec. (b)(2), is classified generally to Title 26, Internal Revenue Code.
+
+Codification
+Section was formerly classified to section 1332 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+
+Amendments1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority, and revenue legislation had to be within appropriate levels.
+1990—Subsec. (a). Pub. L. 101–508, § 13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
+Pub. L. 101–508, § 13207(a)(1)(E), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or amendment” and struck out “or any conference report on any such bill or resolution” after “reducing revenues for such fiscal year,”.
+Pub. L. 101–508, § 13112(a)(10), in closing provisions, substituted “except in the case that a declaration of war by the Congress is in effect” for “or, in the Senate, would otherwise result in a deficit for such fiscal year that—
+“(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
+“(B) for fiscal year 1988 or 1989, exceeds the amount of the estimated deficit for such fiscal year based on laws and regulations in effect on January 1 of the calendar year in which such fiscal year begins as measured using the budget baseline specified in section 901(a)(6) of this title minus $23,000,000,000 for fiscal year 1988 or $36,000,000,000 for fiscal year 1989;
+except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection.”
+1987—Subsec. (a). Pub. L. 100–119 substituted “would otherwise result in a deficit for such fiscal year that—
+“(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
+“(B) for fiscal year 1988 or 1989, exceeds the amount of the estimated deficit for such fiscal year based on laws and regulations in effect on January 1 of the calendar year in which such fiscal year begins as measured using the budget baseline specified in section 901(a)(6) of this title minus $23,000,000,000 for fiscal year 1988 or $36,000,000,000 for fiscal year 1989;
+except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection” for “would otherwise result in a deficit for such fiscal year that exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title (except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection)”.
+1985—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, striking out references to sections 641 and 651 of this title, and inserting provisions relating to nonconsideration in Senate of any bill, resolution, etc., resulting in a fiscal year deficit exceeding maximum deficit amount specified in section 622(7) of this title, with certain exceptions.
+Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, substituting provisions setting forth exceptions in the House of Representatives for certain bills, etc., under subsec. (a) of this section, for provisions relating to determination of outlays and revenues.
+Subsec. (c). Pub. L. 99–177, in amending section generally, added subsec. (c).
+
+Effective Date of 1990 AmendmentAmendment by section 13303(d) of Pub. L. 101–508 applicable with respect to fiscal years beginning on or after Oct. 1, 1990, see section 13306 of Pub. L. 101–508, set out as a note under section 632 of this title.
+
+Effective Date of 1985 AmendmentAmendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+
+

@@ -1,0 +1,39 @@
+§ 2532. Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile(a) Manufacturing program(1) The Secretary of Energy shall carry out a program for purposes of establishing within the Government a manufacturing infrastructure that has the capabilities of meeting the following objectives as specified in the Nuclear Posture Review:(A) To provide a stockpile surveillance engineering base.
+
+(B) To refabricate and certify weapon components and types in the enduring nuclear weapons stockpile, as necessary.
+
+(C) To fabricate and certify new nuclear warheads, as necessary.
+
+(D) To support nuclear weapons.
+
+(E) To supply sufficient tritium in support of nuclear weapons to ensure an upload hedge in the event circumstances require.
+
+
+(2) The purpose of the program carried out under paragraph (1) shall also be to develop manufacturing capabilities and capacities necessary to meet the requirements specified in the annual Nuclear Weapons Stockpile Memorandum.
+
+
+(b) Required capabilitiesThe manufacturing infrastructure established under the program under subsection (a) shall include the following capabilities (modernized to attain the objectives referred to in that subsection):(1) The weapons assembly capabilities of the Pantex Plant.
+
+(2) The weapon secondary fabrication capabilities of the Y–12 Plant, Oak Ridge, Tennessee.
+
+(3) The capabilities of the Savannah River Site relating to tritium recycling and fissile materials components processing and fabrication.
+
+(4) The non-nuclear component capabilities of the Kansas City Plant.
+
+
+(c) Nuclear Posture ReviewFor purposes of subsection (a), the term “Nuclear Posture Review” means the Department of Defense Nuclear Posture Review as contained in the Report of the Secretary of Defense to the President and Congress dated February 19, 1995, or subsequent such reports.
+
+
+(Pub. L. 107–314, div. D, title XLII, § 4212, formerly Pub. L. 104–106, div. C, title XXXI, § 3137, Feb. 10, 1996, 110 Stat. 620; Pub. L. 104–201, div. C, title XXXI, § 3132(a), (b), Sept. 23, 1996, 110 Stat. 2829; renumbered Pub. L. 107–314, div. D, title XLII, § 4212, and amended Pub. L. 108–136, div. C, title XXXI, § 3141(e)(13), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 112–239, div. C, title XXXI, § 3131(e), Jan. 2, 2013, 126 Stat. 2181; Pub. L. 113–66, div. C, title XXXI, § 3146(c)(6), Dec. 26, 2013, 127 Stat. 1074.)
+
+Codification
+Section was formerly set out as a note under section 2121 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+Amendments2013—Subsec. (a)(2). Pub. L. 113–66, § 3146(c)(6)(A), substituted “Memorandum” for “Review”.
+Subsec. (c). Pub. L. 113–66, § 3146(c)(6)(B), substituted “Congress” for “the Congress”.
+Subsecs. (d), (e). Pub. L. 112–239 struck out subsecs. (d) and (e), which related, respectively, to funding and submission to Congress by Secretary of plans and reports.
+2003—Subsec. (d). Pub. L. 108–136, § 3141(e)(13)(D), inserted “of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106)” after “section 3101(b)”.
+1996—Subsec. (a). Pub. L. 104–201, § 3132(a), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
+Subsec. (b)(3). Pub. L. 104–201, § 3132(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The tritium production, recycling, and other weapons-related capabilities of the Savannah River Site.”
+
+

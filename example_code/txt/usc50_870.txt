@@ -1,0 +1,28 @@
+§ 2746. Conceptual and construction design(a) Conceptual design(1) RequirementSubject to paragraph (2) and except as provided in paragraph (3), before submitting to Congress a request for funds for a construction project that is in support of a national security program of the Department of Energy, the Secretary of Energy shall complete a conceptual design for that project.
+
+
+(2) Requests for conceptual design fundsIf the estimated cost of completing a conceptual design for a construction project exceeds $3,000,000, the Secretary shall submit to Congress a request for funds for the conceptual design before submitting a request for funds for the construction project.
+
+
+(3) ExceptionsThe requirement in paragraph (1) does not apply to a request for funds—(A) for a construction project the total estimated cost of which is less than the minor construction threshold; or
+
+(B) for emergency planning, design, and construction activities under section 2747 of this title.
+
+
+
+(b) Construction design(1) AuthorityWithin the amounts authorized by a DOE national security authorization, the Secretary may carry out construction design (including architectural and engineering services) in connection with any proposed construction project if the total estimated cost for such design does not exceed $1,000,000.
+
+
+(2) Limitation on availability of funds for certain projectsIf the total estimated cost for construction design in connection with any construction project exceeds $1,000,000, funds for that design must be specifically authorized by law.
+
+
+
+(Pub. L. 107–314, div. D, title XLVII, § 4706, formerly div. C, title XXXVI, § 3625, Dec. 2, 2002, 116 Stat. 2759; renumbered div. D, title XLVII, § 4706, and amended Pub. L. 108–136, div. C, title XXXI, § 3141(j)(2)(A)–(C), (D)(ii), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, § 3120, Dec. 26, 2013, 127 Stat. 1059.)
+
+Codification
+Section was formerly classified to section 7386e of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+Amendments2013—Subsec. (b). Pub. L. 113–66 substituted “$1,000,000” for “$600,000” in two places.
+2003—Subsec. (a)(3)(B). Pub. L. 108–136, § 3141(j)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to section 2747 of this title.
+
+

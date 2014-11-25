@@ -1,0 +1,24 @@
+§ 2342. Access to water resource data(a) In generalThe Secretary shall carry out a program to provide public access to water resources and related water quality data in the custody of the Corps of Engineers.
+
+
+(b) DataPublic access under subsection (a) shall—(1) include, at a minimum, access to data generated in water resources project development and regulation under section 1344 of this title; and
+
+(2) appropriately employ geographic information system technology and linkages to water resource models and analytical techniques.
+
+
+(c) PartnershipsTo the maximum extent practicable, in carrying out activities under this section, the Secretary shall develop partnerships, including cooperative agreements, with State, tribal, and local governments and other Federal agencies.
+
+
+(d) Authorization of appropriationsThere is authorized to be appropriated to carry out this section $3,000,000 for each fiscal year.
+
+
+(Pub. L. 110–114, title II, § 2017, Nov. 8, 2007, 121 Stat. 1077.)
+
+Codification
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
+
+

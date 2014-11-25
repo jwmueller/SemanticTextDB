@@ -1,0 +1,77 @@
+§ 3901. Definitions
+In this chapter:(1) AdministratorThe term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+
+(2) Community water systemThe term “community water system” has the meaning given the term in section 300f of title 42.
+
+
+(3) Federal credit instrumentThe term “Federal credit instrument” means a secured loan or loan guarantee authorized to be made available under this chapter with respect to a project.
+
+
+(4) Investment-grade ratingThe term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.
+
+
+(5) Lender(A) In generalThe term “lender” means any non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulations (or a successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)).
+
+
+(B) InclusionsThe term “lender” includes—(i) a qualified retirement plan (as defined in section 4974(c) of title 26) that is a qualified institutional buyer; and
+
+(ii) a governmental plan (as defined in section 414(d) of title 26) that is a qualified institutional buyer.
+
+
+
+(6) Loan guaranteeThe term “loan guarantee” means any guarantee or other pledge by the Secretary or the Administrator to pay all or part of the principal of, and interest on, a loan or other debt obligation issued by an obligor and funded by a lender.
+
+
+(7) ObligorThe term “obligor” means an eligible entity that is primarily liable for payment of the principal of, or interest on, a Federal credit instrument.
+
+
+(8) Project obligation(A) In generalThe term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project.
+
+
+(B) ExclusionThe term “project obligation” does not include a Federal credit instrument.
+
+
+
+(9) Rating agencyThe term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as defined in section 78c(a) of title 15).
+
+
+(10) Secured loanThe term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary or Administrator, as applicable, in connection with the financing of a project under section 3908 of this title.
+
+
+(11) StateThe term “State” means—(A) a State;
+
+(B) the District of Columbia;
+
+(C) the Commonwealth of Puerto Rico; and
+
+(D) any other territory or possession of the United States.
+
+
+(12) State infrastructure financing authorityThe term “State infrastructure financing authority” means the State entity established or designated by the Governor of a State to receive a capitalization grant provided by, or otherwise carry out the requirements of, title VI of the Federal Water Pollution Control Act (33 U.S.C. 1381 et.11 So in original. The period probably should not appear. seq.) or section 300j–12 of title 42.
+
+
+(13) Subsidy amountThe term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument, as calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+
+
+(14) Substantial completionThe term “substantial completion”, with respect to a project, means the earliest date on which a project is considered to perform the functions for which the project is designed.
+
+
+(15) Treatment worksThe term “treatment works” has the meaning given the term in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292).
+
+
+(Pub. L. 113–121, title V, § 5022, June 10, 2014, 128 Stat. 1332.)
+
+
+References in TextThe Securities Act of 1933, referred to in par. (5)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Federal Water Pollution Control Act, referred to in par. (12), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Credit Reform Act of 1990, referred to in par. (13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+
+Short TitlePub. L. 113–121, title V, § 5021, June 10, 2014, 128 Stat. 1332, provided that: “This subtitle [enacting this chapter] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
+
+
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
+
+

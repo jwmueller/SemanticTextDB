@@ -1,0 +1,23 @@
+§ 6246. Restrictions on partnership adjustments(a) General ruleExcept as otherwise provided in this chapter, no adjustment to any partnership item may be made (and no levy or proceeding in any court for the collection of any amount resulting from such adjustment may be made, begun or prosecuted) before—(1) the close of the 90th day after the day on which a notice of a partnership adjustment was mailed to the partnership, and
+
+(2) if a petition is filed under section 6247 with respect to such notice, the decision of the court has become final.
+
+
+(b) Premature action may be enjoinedNotwithstanding section 7421(a), any action which violates subsection (a) may be enjoined in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action under this subsection unless a timely petition has been filed under section 6247 and then only in respect of the adjustments that are the subject of such petition.
+
+
+(c) Exceptions to restrictions on adjustments(1) Adjustments arising out of math or clerical errors(A) In generalIf the partnership is notified that, on account of a mathematical or clerical error appearing on the partnership return, an adjustment to a partnership item is required, rules similar to the rules of paragraphs (1) and (2) of section 6213(b) shall apply to such adjustment.
+
+
+(B) Special ruleIf an electing large partnership is a partner in another electing large partnership, any adjustment on account of such partnership’s failure to comply with the requirements of section 6241(a) with respect to its interest in such other partnership shall be treated as an adjustment referred to in subparagraph (A), except that paragraph (2) of section 6213(b) shall not apply to such adjustment.
+
+
+
+(2) Partnership may waive restrictionsThe partnership shall at any time (whether or not a notice of partnership adjustment has been issued) have the right, by a signed notice in writing filed with the Secretary, to waive the restrictions provided in subsection (a) on the making of any partnership adjustment.
+
+
+
+(d) Limit where no proceeding begunIf no proceeding under section 6247 is begun with respect to any notice of a partnership adjustment during the 90-day period described in subsection (a), the amount for which the partnership is liable under section 6242 (and any increase in any partner’s liability for tax under chapter 1 by reason of any adjustment under section 6242(a)) shall not exceed the amount determined in accordance with such notice.
+
+
+(Added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1013.)

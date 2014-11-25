@@ -1,0 +1,17 @@
+§ 343. Examination of the debtor
+The debtor shall appear and submit to examination under oath at the meeting of creditors under section 341(a) of this title. Creditors, any indenture trustee, any trustee or examiner in the case, or the United States trustee may examine the debtor. The United States trustee may administer the oath required under this section.
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2565; Pub. L. 98–353, title III, § 436, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, § 213, Oct. 27, 1986, 100 Stat. 3099.)
+
+Historical and Revision Notes
+senate report no. 95–989This section, derived from section 21a of the Bankruptcy Act [section 44(a) of former title 11], requires the debtor to appear at the meeting of creditors and submit to examination under oath. The purpose of the examination is to enable creditors and the trustee to determine if assets have improperly been disposed of or concealed or if there are grounds for objection to discharge. The scope of the examination under this section will be governed by the Rules of Bankruptcy Procedure, as it is today. See rules 205(d), 10–213(c), and 11–26. It is expected that the scope prescribed by these rules for liquidation cases, that is, “only the debtor’s acts, conduct, or property, or any matter that may affect the administration of the estate, or the debtor’s right to discharge” will remain substantially unchanged. In reorganization cases, the examination would be broader, including inquiry into the liabilities and financial condition of the debtor, the operation of his business, and the desirability of the continuance thereof, and other matters relevant to the case and to the formulation of the plan. Examination of other persons in connection with the bankruptcy case is left completely to the rules, just as examination of witnesses in civil cases is governed by the Federal Rules of Civil Procedure.
+
+Amendments1986—Pub. L. 99–554 amended section generally. Prior to amendment, section read as follows: “The debtor shall appear and submit to examination under oath at the meeting of creditors under section 341(a) of this title. Creditors, any indenture trustee, or any trustee or examiner in the case may examine the debtor.”
+1984—Pub. L. 98–353 substituted “examine” for “examiner”.
+
+Effective Date of 1986 AmendmentEffective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+Participation by Bankruptcy Administrator at Meetings of Creditors and Equity Security HoldersA bankruptcy administrator or the bankruptcy administrator’s designee may examine debtor at meeting of creditors and may administer oath required by this section, see section 105 of Pub. L. 103–394, set out as a note under section 341 of this title.
+
+

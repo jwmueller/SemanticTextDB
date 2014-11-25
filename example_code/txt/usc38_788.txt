@@ -1,0 +1,12 @@
+§ 5721. Purpose
+The purpose of the Information Security Program is to establish a program to provide security for Department information and information systems commensurate to the risk of harm, and to communicate the responsibilities of the Secretary, Under Secretaries, Assistant Secretaries, other key officials, Assistant Secretary for Information and Technology, Associate Deputy Assistant Secretary for Cyber and Information Security, and Inspector General of the Department of Veterans Affairs as outlined in the provisions of subchapter III of chapter 35 of title 44 (also known as the “Federal Information Security Management Act of 2002”, which was enacted as part of the E-Government Act of 2002 (Public Law 107–347)).
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3450.)
+
+
+References in TextThe Federal Information Security Management Act of 2002, referred to in text, is the statutory short title for title III of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2946, and for title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of these Acts to the Code, see Short Title of 2002 Amendments note set out under section 101 of Title 44, Public Printing and Documents, Short Title note set out under section 101 of Title 6, Domestic Security, and Tables.
+The E-Government Act of 2002, referred to in text, is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. For complete classification of this Act to the Code, see Tables.
+
+RegulationsPub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 22, 2006], the Secretary of Veterans Affairs shall prescribe regulations to carry out subchapter III of chapter 57 of title 38, United States Code, as added by subsection (a).”
+
+
+

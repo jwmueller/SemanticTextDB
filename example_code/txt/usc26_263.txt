@@ -1,0 +1,327 @@
+§ 223. Health savings accounts(a) Deduction allowedIn the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxable year by or on behalf of such individual to a health savings account of such individual.
+
+
+(b) Limitations(1) In generalThe amount allowable as a deduction under subsection (a) to an individual for the taxable year shall not exceed the sum of the monthly limitations for months during such taxable year that the individual is an eligible individual.
+
+
+(2) Monthly limitationThe monthly limitation for any month is 1⁄12 of—(A) in the case of an eligible individual who has self-only coverage under a high deductible health plan as of the first day of such month, $2,250.
+
+(B) in the case of an eligible individual who has family coverage under a high deductible health plan as of the first day of such month, $4,500.
+
+
+(3) Additional contributions for individuals 55 or older(A) In generalIn the case of an individual who has attained age 55 before the close of the taxable year, the applicable limitation under subparagraphs (A) and (B) of paragraph (2) shall be increased by the additional contribution amount.
+
+
+(B) Additional contribution amountFor purposes of this section, the additional contribution amount is the amount determined in accordance with the following table:
+
+
+
+
+
+
+ For taxable years beginning in:The additional contribution amount is:
+
+
+2004$500  
+2005$600  
+2006$700  
+2007$800  
+2008$900  
+2009 and thereafter$1,000.
+
+
+
+
+
+
+(4) Coordination with other contributionsThe limitation which would (but for this paragraph) apply under this subsection to an individual for any taxable year shall be reduced (but not below zero) by the sum of—(A) the aggregate amount paid for such taxable year to Archer MSAs of such individual,
+
+(B) the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer’s gross income for such taxable year under section 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and
+
+(C) the aggregate amount contributed to health savings accounts of such individual for such taxable year under section 408(d)(9) (and such amount shall not be allowed as a deduction under subsection (a)).
+
+
+Subparagraph (A) shall not apply with respect to any individual to whom paragraph (5) applies.
+
+(5) Special rule for married individualsIn the case of individuals who are married to each other, if either spouse has family coverage—(A) both spouses shall be treated as having only such family coverage (and if such spouses each have family coverage under different plans, as having the family coverage with the lowest annual deductible), and
+
+(B) the limitation under paragraph (1) (after the application of subparagraph (A) and without regard to any additional contribution amount under paragraph (3))—(i) shall be reduced by the aggregate amount paid to Archer MSAs of such spouses for the taxable year, and
+
+(ii) after such reduction, shall be divided equally between them unless they agree on a different division.
+
+
+
+(6) Denial of deduction to dependentsNo deduction shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual’s taxable year begins.
+
+
+(7) Medicare eligible individualsThe limitation under this subsection for any month with respect to an individual shall be zero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
+
+
+(8) Increase in limit for individuals becoming eligible individuals after the beginning of the year(A) In generalFor purposes of computing the limitation under paragraph (1) for any taxable year, an individual who is an eligible individual during the last month of such taxable year shall be treated—(i) as having been an eligible individual during each of the months in such taxable year, and
+
+(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason of clause (i), in the same high deductible health plan in which the individual was enrolled for the last month of such taxable year.
+
+
+(B) Failure to maintain high deductible health plan coverage(i) In generalIf, at any time during the testing period, the individual is not an eligible individual, then—(I) gross income of the individual for the taxable year in which occurs the first month in the testing period for which such individual is not an eligible individual is increased by the aggregate amount of all contributions to the health savings account of the individual which could not have been made but for subparagraph (A), and
+
+(II) the tax imposed by this chapter for any taxable year on the individual shall be increased by 10 percent of the amount of such increase.
+
+
+(ii) Exception for disability or deathSubclauses (I) and (II) of clause (i) shall not apply if the individual ceased to be an eligible individual by reason of the death of the individual or the individual becoming disabled (within the meaning of section 72(m)(7)).
+
+
+(iii) Testing periodThe term “testing period” means the period beginning with the last month of the taxable year referred to in subparagraph (A) and ending on the last day of the 12th month following such month.
+
+
+
+
+
+(c) Definitions and special rulesFor purposes of this section—(1) Eligible individual(A) In generalThe term “eligible individual” means, with respect to any month, any individual if—(i) such individual is covered under a high deductible health plan as of the 1st day of such month, and
+
+(ii) such individual is not, while covered under a high deductible health plan, covered under any health plan—(I) which is not a high deductible health plan, and
+
+(II) which provides coverage for any benefit which is covered under the high deductible health plan.
+
+
+
+(B) Certain coverage disregardedSubparagraph (A)(ii) shall be applied without regard to—(i) coverage for any benefit provided by permitted insurance,
+
+(ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, or long-term care, and
+
+(iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—(I) the balance in such arrangement at the end of such plan year is zero, or
+
+(II) the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
+
+
+
+
+(2) High deductible health plan(A) In generalThe term “high deductible health plan” means a health plan—(i) which has an annual deductible which is not less than—(I) $1,000 for self-only coverage, and
+
+(II) twice the dollar amount in subclause (I) for family coverage, and
+
+
+(ii) the sum of the annual deductible and the other annual out-of-pocket expenses required to be paid under the plan (other than for premiums) for covered benefits does not exceed—(I) $5,000 for self-only coverage, and
+
+(II) twice the dollar amount in subclause (I) for family coverage.
+
+
+
+(B) Exclusion of certain plansSuch term does not include a health plan if substantially all of its coverage is coverage described in paragraph (1)(B).
+
+
+(C) Safe harbor for absence of preventive care deductibleA plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
+
+
+(D) Special rules for network plansIn the case of a plan using a network of providers—(i) Annual out-of-pocket limitationSuch plan shall not fail to be treated as a high deductible health plan by reason of having an out-of-pocket limitation for services provided outside of such network which exceeds the applicable limitation under subparagraph (A)(ii).
+
+
+(ii) Annual deductibleSuch plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
+
+
+
+
+(3) Permitted insuranceThe term “permitted insurance” means—(A) insurance if substantially all of the coverage provided under such insurance relates to—(i) liabilities incurred under workers’ compensation laws,
+
+(ii) tort liabilities,
+
+(iii) liabilities relating to ownership or use of property, or
+
+(iv) such other similar liabilities as the Secretary may specify by regulations,
+
+
+(B) insurance for a specified disease or illness, and
+
+(C) insurance paying a fixed amount per day (or other period) of hospitalization.
+
+
+(4) Family coverageThe term “family coverage” means any coverage other than self-only coverage.
+
+
+(5) Archer MSAThe term “Archer MSA” has the meaning given such term in section 220(d).
+
+
+
+(d) Health savings accountFor purposes of this section—(1) In generalThe term “health savings account” means a trust created or organized in the United States as a health savings account exclusively for the purpose of paying the qualified medical expenses of the account beneficiary, but only if the written governing instrument creating the trust meets the following requirements:(A) Except in the case of a rollover contribution described in subsection (f)(5) or section 220(f)(5), no contribution will be accepted—(i) unless it is in cash, or
+
+(ii) to the extent such contribution, when added to previous contributions to the trust for the calendar year, exceeds the sum of—(I) the dollar amount in effect under subsection (b)(2)(B), and
+
+(II) the dollar amount in effect under subsection (b)(3)(B).
+
+
+
+(B) The trustee is a bank (as defined in section 408(n)), an insurance company (as defined in section 816), or another person who demonstrates to the satisfaction of the Secretary that the manner in which such person will administer the trust will be consistent with the requirements of this section.
+
+(C) No part of the trust assets will be invested in life insurance contracts.
+
+(D) The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
+
+(E) The interest of an individual in the balance in his account is nonforfeitable.
+
+
+(2) Qualified medical expenses(A) In generalThe term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) 11 So in original. Probably should be followed by a second closing parenthesis. for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+
+
+(B) Health insurance may not be purchased from accountSubparagraph (A) shall not apply to any payment for insurance.
+
+
+(C) ExceptionsSubparagraph (B) shall not apply to any expense for coverage under—(i) a health plan during any period of continuation coverage required under any Federal law,
+
+(ii) a qualified long-term care insurance contract (as defined in section 7702B(b)),
+
+(iii) a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law, or
+
+(iv) in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act).
+
+
+
+(3) Account beneficiaryThe term “account beneficiary” means the individual on whose behalf the health savings account was established.
+
+
+(4) Certain rules to applyRules similar to the following rules shall apply for purposes of this section:(A) Section 219(d)(2) (relating to no deduction for rollovers).
+
+(B) Section 219(f)(3) (relating to time when contributions deemed made).
+
+(C) Except as provided in section 106(d), section 219(f)(5) (relating to employer payments).
+
+(D) Section 408(g) (relating to community property laws).
+
+(E) Section 408(h) (relating to custodial accounts).
+
+
+
+(e) Tax treatment of accounts(1) In generalA health savings account is exempt from taxation under this subtitle unless such account has ceased to be a health savings account. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
+
+
+(2) Account terminationsRules similar to the rules of paragraphs (2) and (4) of section 408(e) shall apply to health savings accounts, and any amount treated as distributed under such rules shall be treated as not used to pay qualified medical expenses.
+
+
+
+(f) Tax treatment of distributions(1) Amounts used for qualified medical expensesAny amount paid or distributed out of a health savings account which is used exclusively to pay qualified medical expenses of any account beneficiary shall not be includible in gross income.
+
+
+(2) Inclusion of amounts not used for qualified medical expensesAny amount paid or distributed out of a health savings account which is not used exclusively to pay the qualified medical expenses of the account beneficiary shall be included in the gross income of such beneficiary.
+
+
+(3) Excess contributions returned before due date of return(A) In generalIf any excess contribution is contributed for a taxable year to any health savings account of an individual, paragraph (2) shall not apply to distributions from the health savings accounts of such individual (to the extent such distributions do not exceed the aggregate excess contributions to all such accounts of such individual for such year) if—(i) such distribution is received by the individual on or before the last day prescribed by law (including extensions of time) for filing such individual’s return for such taxable year, and
+
+(ii) such distribution is accompanied by the amount of net income attributable to such excess contribution.
+
+
+Any net income described in clause (ii) shall be included in the gross income of the individual for the taxable year in which it is received.
+
+(B) Excess contributionFor purposes of subparagraph (A), the term “excess contribution” means any contribution (other than a rollover contribution described in paragraph (5) or section 220(f)(5)) which is neither excludable from gross income under section 106(d) nor deductible under this section.
+
+
+
+(4) Additional tax on distributions not used for qualified medical expenses(A) In generalThe tax imposed by this chapter on the account beneficiary for any taxable year in which there is a payment or distribution from a health savings account of such beneficiary which is includible in gross income under paragraph (2) shall be increased by 20 percent of the amount which is so includible.
+
+
+(B) Exception for disability or deathSubparagraph (A) shall not apply if the payment or distribution is made after the account beneficiary becomes disabled within the meaning of section 72(m)(7) or dies.
+
+
+(C) Exception for distributions after medicare eligibilitySubparagraph (A) shall not apply to any payment or distribution after the date on which the account beneficiary attains the age specified in section 1811 of the Social Security Act.
+
+
+
+(5) Rollover contributionAn amount is described in this paragraph as a rollover contribution if it meets the requirements of subparagraphs (A) and (B).(A) In generalParagraph (2) shall not apply to any amount paid or distributed from a health savings account to the account beneficiary to the extent the amount received is paid into a health savings account for the benefit of such beneficiary not later than the 60th day after the day on which the beneficiary receives the payment or distribution.
+
+
+(B) LimitationThis paragraph shall not apply to any amount described in subparagraph (A) received by an individual from a health savings account if, at any time during the 1-year period ending on the day of such receipt, such individual received any other amount described in subparagraph (A) from a health savings account which was not includible in the individual’s gross income because of the application of this paragraph.
+
+
+
+(6) Coordination with medical expense deductionFor purposes of determining the amount of the deduction under section 213, any payment or distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
+
+
+(7) Transfer of account incident to divorceThe transfer of an individual’s interest in a health savings account to an individual’s spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
+
+
+(8) Treatment after death of account beneficiary(A) Treatment if designated beneficiary is spouseIf the account beneficiary’s surviving spouse acquires such beneficiary’s interest in a health savings account by reason of being the designated beneficiary of such account at the death of the account beneficiary, such health savings account shall be treated as if the spouse were the account beneficiary.
+
+
+(B) Other cases(i) In generalIf, by reason of the death of the account beneficiary, any person acquires the account beneficiary’s interest in a health savings account in a case to which subparagraph (A) does not apply—(I) such account shall cease to be a health savings account as of the date of death, and
+
+(II) an amount equal to the fair market value of the assets in such account on such date shall be includible if such person is not the estate of such beneficiary, in such person’s gross income for the taxable year which includes such date, or if such person is the estate of such beneficiary, in such beneficiary’s gross income for the last taxable year of such beneficiary.
+
+
+(ii) Special rules(I) Reduction of inclusion for predeath expensesThe amount includible in gross income under clause (i) by any person (other than the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent’s death and paid by such person within 1 year after such date.
+
+
+(II) Deduction for estate taxesAn appropriate deduction shall be allowed under section 691(c) to any person (other than the decedent or the decedent’s spouse) with respect to amounts included in gross income under clause (i) by such person.
+
+
+
+
+
+
+(g) Cost-of-living adjustment(1) In generalEach dollar amount in subsections (b)(2) and (c)(2)(A) shall be increased by an amount equal to—(A) such dollar amount, multiplied by
+
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for “calendar year 1992” in subparagraph (B) thereof—(i) except as provided in clause (ii), “calendar year 1997”, and
+
+(ii) in the case of each dollar amount in subsection (c)(2)(A), “calendar year 2003”.
+
+
+
+In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4) shall be applied for purposes of this paragraph by substituting “March 31” for “August 31”, and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
+
+(2) RoundingIf any increase under paragraph (1) is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
+
+
+
+(h) ReportsThe Secretary may require—(1) the trustee of a health savings account to make such reports regarding such account to the Secretary and to the account beneficiary with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary determines appropriate, and
+
+(2) any person who provides an individual with a high deductible health plan to make such reports to the Secretary and to the account beneficiary with respect to such plan as the Secretary determines appropriate.
+
+
+The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
+
+(Added Pub. L. 108–173, title XII, § 1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, § 404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§ 302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§ 9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854.)
+
+Inflation Adjusted Items for Certain YearsFor inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below and under section 1 of this title.
+
+
+References in TextThe Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1871, and 1882 of the Act are classified to sections 1395c, 1395hh, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Prior ProvisionsA prior section 223 was renumbered section 224 of this title.
+
+Amendments2010—Subsec. (d)(2)(A). Pub. L. 111–148, § 9003(a), inserted at end “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+Subsec. (f)(4)(A). Pub. L. 111–148, § 9004(a), substituted “20 percent” for “10 percent”.
+2006—Subsec. (b)(2)(A). Pub. L. 109–432, § 303(a)(1), substituted “$2,250.” for “the lesser of—
+“(i) the annual deductible under such coverage, or
+“(ii) $2,250, or”.
+Subsec. (b)(2)(B). Pub. L. 109–432, § 303(a)(2), substituted “$4,500.” for “the lesser of—
+“(i) the annual deductible under such coverage, or
+“(ii) $4,500.”
+Subsec. (b)(4)(C). Pub. L. 109–432, § 307(b), added subpar. (C).
+Subsec. (b)(8). Pub. L. 109–432, § 305(a), added par. (8).
+Subsec. (c)(1)(B)(iii). Pub. L. 109–432, § 302(b), added cl. (iii).
+Subsec. (d)(1)(A)(ii)(I). Pub. L. 109–432, § 303(b), substituted “subsection (b)(2)(B)” for “subsection (b)(2)(B)(ii)”.
+Subsec. (g)(1). Pub. L. 109–432, § 304, inserted concluding provisions.
+2005—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+Effective Date of 2010 AmendmentAmendment by section 9003(a) of Pub. L. 111–148 applicable to amounts paid with respect to taxable years beginning after Dec. 31, 2010, see section 9003(d)(1) of Pub. L. 111–148, set out as a note under section 220 of this title.
+Amendment by section 9004(a) of Pub. L. 111–148 applicable to distributions made after Dec. 31, 2010, see section 9004(c) of Pub. L. 111–148, set out as a note under section 220 of this title.
+
+Effective Date of 2006 AmendmentPub. L. 109–432, div. A, title III, § 302(c)(2), Dec. 20, 2006, 120 Stat. 2949, provided that: “The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2006].”
+
+Pub. L. 109–432, div. A, title III, § 303(c), Dec. 20, 2006, 120 Stat. 2950, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006.”
+
+Pub. L. 109–432, div. A, title III, § 305(b), Dec. 20, 2006, 120 Stat. 2951, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006.”
+
+Pub. L. 109–432, div. A, title III, § 307(c), Dec. 20, 2006, 120 Stat. 2953, provided that: “The amendments made by this section [amending this section and section 408 of this title] shall apply to taxable years beginning after December 31, 2006.”
+
+
+Effective Date of 2005 AmendmentAmendment by Pub. L. 109–135 effective as if included in the provisions of the Working Families Tax Relief Act of 2004, Pub. L. 108–311, to which such amendment relates, see section 404(d) of Pub. L. 109–135, set out as a note under section 21 of this title.
+
+Effective DateSection applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 62 of this title.
+
+Inflation Adjusted Items for Certain YearsProvisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+2014—Revenue Procedure 2013–25.
+2013—Revenue Procedure 2012–26.
+2012—Revenue Procedure 2011–32.
+2011—Revenue Procedure 2010–22.
+2010—Revenue Procedure 2009–29.
+2009—Revenue Procedure 2008–29.
+2008—Revenue Procedure 2007–36.
+
+

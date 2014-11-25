@@ -1,0 +1,63 @@
+“SEC. 1101. MORATORIUM.“(a) Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending November 1, 2014:“(1) Taxes on Internet access.
+
+“(2) Multiple or discriminatory taxes on electronic commerce.
+
+
+“(b) Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act [Oct. 21, 1998].
+
+“(c) Liabilities and Pending Cases.—Nothing in this title affects liability for taxes accrued and enforced before the date of enactment of this Act, nor does this title affect ongoing litigation relating to such taxes.
+
+“(d) Exception to Moratorium.—“(1) In general.—Subsection (a) shall also not apply in the case of any person or entity who knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors unless such person or entity has restricted access by minors to material that is harmful to minors—“(A) by requiring use of a credit card, debit account, adult access code, or adult personal identification number;
+
+“(B) by accepting a digital certificate that verifies age; or
+
+“(C) by any other reasonable measures that are feasible under available technology.
+
+
+“(2) Scope of exception.—For purposes of paragraph (1), a person shall not be considered to [be] making a communication for commercial purposes of material to the extent that the person is—“(A) a telecommunications carrier engaged in the provision of a telecommunications service;
+
+“(B) a person engaged in the business of providing an Internet access service;
+
+“(C) a person engaged in the business of providing an Internet information location tool; or
+
+“(D) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the communication.
+
+
+“(3) Definitions.—In this subsection:“(A) By means of the world wide web.—The term ‘by means of the World Wide Web’ means by placement of material in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol, file transfer protocol, or other similar protocols.
+
+“(B) Commercial purposes; engaged in the business.—“(i) Commercial purposes.—A person shall be considered to make a communication for commercial purposes only if such person is engaged in the business of making such communications.
+
+“(ii) Engaged in the business.—The term ‘engaged in the business’ means that the person who makes a communication, or offers to make a communication, by means of the World Wide Web, that includes any material that is harmful to minors, devotes time, attention, or labor to such activities, as a regular course of such person’s trade or business, with the objective of earning a profit as a result of such activities (although it is not necessary that the person make a profit or that the making or offering to make such communications be the person’s sole or principal business or source of income). A person may be considered to be engaged in the business of making, by means of the World Wide Web, communications for commercial purposes that include material that is harmful to minors, only if the person knowingly causes the material that is harmful to minors to be posted on the World Wide Web or knowingly solicits such material to be posted on the World Wide Web.
+
+
+“(C) Internet.—The term ‘Internet’ means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
+
+“(D) Internet access service.—The term ‘Internet access service’ means a service that enables users to access content, information, electronic mail, or other services offered over the Internet and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. The term ‘Internet access service’ does not include telecommunications services, except to the extent such services are purchased, used, or sold by a provider of Internet access to provide Internet access.
+
+“(E) Internet information location tool.—The term ‘Internet information location tool’ means a service that refers or links users to an online location on the World Wide Web. Such term includes directories, indices, references, pointers, and hypertext links.
+
+“(F) Material that is harmful to minors.—The term ‘material that is harmful to minors’ means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—“(i) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
+
+“(ii) depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+
+“(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
+
+
+“(G) Minor.—The term ‘minor’ means any person under 17 years of age.
+
+“(H) Telecommunications carrier; telecommunications service.—The terms ‘telecommunications carrier’ and ‘telecommunications service’ have the meanings given such terms in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
+
+
+
+“(e) Additional Exception to Moratorium.—“(1) In general.—Subsection (a) shall also not apply with respect to an Internet access provider, unless, at the time of entering into an agreement with a customer for the provision of Internet access services, such provider offers such customer (either for a fee or at no charge) screening software that is designed to permit the customer to limit access to material on the Internet that is harmful to minors.
+
+“(2) Definitions.—In this subsection:“(A) Internet access provider.—The term ‘Internet access provider’ means a person engaged in the business of providing a computer and communications facility through which a customer may obtain access to the Internet, but does not include a common carrier to the extent that it provides only telecommunications services.
+
+“(B) Internet access services.—The term ‘Internet access services’ means the provision of computer and communications services through which a customer using a computer and a modem or other communications device may obtain access to the Internet, but does not include telecommunications services provided by a common carrier.
+
+“(C) Screening software.—The term ‘screening software’ means software that is designed to permit a person to limit access to material on the Internet that is harmful to minors.
+
+
+“(3) Applicability.—Paragraph (1) shall apply to agreements for the provision of Internet access services entered into on or after the date that is 6 months after the date of enactment of this Act [Oct. 21, 1998].
+
+

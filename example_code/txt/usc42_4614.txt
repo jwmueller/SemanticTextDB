@@ -1,0 +1,20 @@
+§ 5586. Test procedures and performance criteria(a) Testing programThe Secretary shall conduct a testing program for photovoltaic systems to assist in the development and demonstration of prototype photovoltaic systems, including collectors, controls, power conditioning, and energy storage systems.
+
+
+(b) Establishment and use of performance criteriaData obtained from the testing program under subsection (a) of this section shall be evaluated and used in establishing performance criteria. These performance criteria shall be used in the demonstration program described in sections 5583, 5584, and 5585 of this title.
+
+
+(c) Determination and publication in Federal RegisterThe Secretary shall determine, prescribe, and publish in the Federal Register, at a time which he determines to be feasible and justified—(1) performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph; and
+
+(2) revised performance criteria for photovoltaic components and systems to be used in appropriate applications, and procedures whereby manufacturers of photovoltaic components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under this paragraph. Such criteria may be annually revised by the Secretary, as he deems appropriate.
+
+
+(d) Performance criteria applicable to photovoltaic component or system procured or installed by Federal Government or with Federal assistanceAny photovoltaic component or system procured or installed by the Federal Government or procured or installed with Federal assistance under section 5584 or section 5585 of this title shall meet appropriate performance criteria prescribed under this section, if such performance criteria have been prescribed.
+
+
+(Pub. L. 95–590, § 7, Nov. 4, 1978, 92 Stat. 2517.)
+
+Codification
+Section 5584 or section 5585 of this title, referred to in subsec. (d), was in the original “section (5) or section (6)” and was translated section 5584 or 5585 of this title as the probable intent of Congress.
+
+

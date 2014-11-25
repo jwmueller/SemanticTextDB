@@ -1,0 +1,8 @@
+“In any case where—“(1) an individual has earnings (as defined in section 203(e)(4) of the Social Security Act [42 U.S.C. 403(e)(4)] as in effect prior to the enactment of this Act [Sept. 13, 1960]) in a taxable year which begins before 1961 and ends in 1961 (but not on December 31, 1961), and
+
+“(2) such individual’s spouse or child entitled to monthly benefits on the basis of such individual’s self-employment income has excess earnings (as defined in section 203(f)(3) of the Social Security Act [42 U.S.C. 403(f)(3)] as amended by this Act) in a taxable year which begins after 1960, and
+
+“(3) one or more months in the taxable year specified in paragraph (2) are included in the taxable year specified in paragraph (1),
+
+
+then, if a deduction is imposed against the benefits payable to such individual with respect to a month described in paragraph (3), such spouse or child, as the case may be, shall not, for purposes of subsections (b) and (f) of section 203 of the Social Security Act [42 U.S.C. 403(b), (f)] as amended by this Act, be entitled to a payment for such month.”

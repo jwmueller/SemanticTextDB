@@ -1,0 +1,180 @@
+“SEC. 103. TERRORISM INSURANCE PROGRAM.“(a) Establishment of Program.—“(1) In general.—There is established in the Department of the Treasury the Terrorism Insurance Program.
+
+“(2) Authority of the secretary.—Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
+
+“(3) Mandatory participation.—Each entity that meets the definition of an insurer under this title shall participate in the Program.
+
+
+“(b) Conditions for Federal Payments.—No payment may be made by the Secretary under this section with respect to an insured loss that is covered by an insurer, unless—“(1) the person that suffers the insured loss, or a person acting on behalf of that person, files a claim with the insurer;
+
+“(2) the insurer provides clear and conspicuous disclosure to the policyholder of the premium charged for insured losses covered by the Program and the Federal share of compensation for insured losses under the Program—“(A) in the case of any policy that is issued before the date of enactment of this Act [Nov. 26, 2002], not later than 90 days after that date of enactment;
+
+“(B) in the case of any policy that is issued within 90 days of the date of enactment of this Act, at the time of offer, purchase, and renewal of the policy; and
+
+“(C) in the case of any policy that is issued more than 90 days after the date of enactment of this Act, on a separate line item in the policy, at the time of offer, purchase, and renewal of the policy;
+
+
+“(3) in the case of any policy that is issued after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 [Dec. 26, 2007], the insurer provides clear and conspicuous disclosure to the policyholder of the existence of the $100,000,000,000 cap under subsection (e)(2), at the time of offer, purchase, and renewal of the policy;
+
+“(4) the insurer processes the claim for the insured loss in accordance with appropriate business practices, and any reasonable procedures that the Secretary may prescribe; and
+
+“(5) the insurer submits to the Secretary, in accordance with such reasonable procedures as the Secretary may establish—“(A) a claim for payment of the Federal share of compensation for insured losses under the Program;
+
+“(B) written certification—“(i) of the underlying claim; and
+
+“(ii) of all payments made for insured losses; and
+
+
+“(C) certification of its compliance with the provisions of this subsection.
+
+
+
+“(c) Mandatory Availability.—During each Program Year, each entity that meets the definition of an insurer under section 102—“(1) shall make available, in all of its property and casualty insurance policies, coverage for insured losses; and
+
+“(2) shall make available property and casualty insurance coverage for insured losses that does not differ materially from the terms, amounts, and other coverage limitations applicable to losses arising from events other than acts of terrorism.
+
+
+“(d) State Residual Market Insurance Entities.—“(1) In general.—The Secretary shall issue regulations, as soon as practicable after the date of enactment of this Act [Nov. 26, 2002], that apply the provisions of this title to State residual market insurance entities and State workers’ compensation funds.
+
+“(2) Treatment of certain entities.—For purposes of the regulations issued pursuant to paragraph (1)—“(A) a State residual market insurance entity that does not share its profits and losses with private sector insurers shall be treated as a separate insurer; and
+
+“(B) a State residual market insurance entity that shares its profits and losses with private sector insurers shall not be treated as a separate insurer, and shall report to each private sector insurance participant its share of the insured losses of the entity, which shall be included in each private sector insurer’s insured losses.
+
+
+“(3) Treatment of participation in certain entities.—Any insurer that participates in sharing profits and losses of a State residual market insurance entity shall include in its calculations of premiums any premiums distributed to the insurer by the State residual market insurance entity.
+
+
+“(e) Insured Loss Shared Compensation.—“(1) Federal share.—“(A) In general.—The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 and each Program Year thereafter shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
+
+“(B) Program trigger.—In the case of a certified act of terrorism occurring after March 31, 2006, no compensation shall be paid by the Secretary under subsection (a), unless the aggregate industry insured losses resulting from such certified act of terrorism exceed—“(i) $50,000,000, with respect to such insured losses occurring in Program Year 4; or
+
+“(ii) $100,000,000, with respect to such insured losses occurring in Program Year 5 and any Program Year thereafter.
+
+
+“(C) Prohibition on duplicative compensation.—The Federal share of compensation for insured losses under the Program shall be reduced by the amount of compensation provided by the Federal Government to any person under any other Federal program for those insured losses.
+
+
+“(2) Cap on annual liability.—“(A) In general.—Notwithstanding paragraph (1) or any other provision of Federal or State law, if the aggregate insured losses exceed $100,000,000,000, during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any Program Year thereafter—“(i) the Secretary shall not make any payment under this title for any portion of the amount of such losses that exceeds $100,000,000,000; and
+
+“(ii) no insurer that has met its insurer deductible shall be liable for the payment of any portion of the amount of such losses that exceeds $100,000,000,000.
+
+
+“(B) Insurer share.—“(i) In general.—For purposes of subparagraph (A), the Secretary shall determine the pro rata share of insured losses to be paid by each insurer that incurs insured losses under the Program, except that, notwithstanding paragraph (1) or any other provision of Federal or State law, no insurer may be required to make any payment for insured losses in excess of its deductible under section 102(7) combined with its share of insured losses under paragraph (1)(A) of this subsection.
+
+“(ii) Regulations.—Not later than 240 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 [Dec. 26, 2007], the Secretary shall issue final regulations for determining the pro rata share of insured losses under the Program when insured losses exceed $100,000,000,000, in accordance with clause (i).
+
+“(iii) Report to congress.—Not later than 120 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007, the Secretary shall provide a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the process to be used by the Secretary for determining the allocation of pro rata payments for insured losses under the Program when such losses exceed $100,000,000,000.
+
+
+
+“(3) Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any other Program Year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
+
+“(4) Final netting.—The Secretary shall have sole discretion to determine the time at which claims relating to any insured loss or act of terrorism shall become final.
+
+“(5) Determinations final.—Any determination of the Secretary under this subsection shall be final, unless expressly provided, and shall not be subject to judicial review.
+
+“(6) Insurance marketplace aggregate retention amount.—For purposes of paragraph (7), the insurance marketplace aggregate retention amount shall be—“(A) for the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, the lesser of—“(i) $10,000,000,000; and
+
+“(ii) the aggregate amount, for all insurers, of insured losses during such period;
+
+
+“(B) for Program Year 2, the lesser of—“(i) $12,500,000,000; and
+
+“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
+
+
+“(C) for Program Year 3, the lesser of—“(i) $15,000,000,000; and
+
+“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
+
+
+“(D) for Program Year 4, the lesser of—“(i) $25,000,000,000; and
+
+“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year; and
+
+
+“(E) for Program Year 5 and any Program Year thereafter, the lesser of—“(i) $27,500,000,000; and
+
+“(ii) the aggregate amount, for all insurers, of insured losses during such Program Year.
+
+
+
+“(7) Recoupment of federal share.—“(A) Mandatory recoupment amount.—For purposes of this paragraph, the mandatory recoupment amount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—“(i) the insurance marketplace aggregate retention amount under paragraph (6) for such period; and
+
+“(ii) the aggregate amount, for all insurers, of insured losses during such period that are not compensated by the Federal Government because such losses—     “(I) are within the insurer deductible for the insurer subject to the losses; or
+
+     “(II) are within the portion of losses of the insurer that exceed the insurer deductible, but are not compensated pursuant to paragraph (1).
+
+
+
+“(B) No mandatory recoupment if uncompensated losses exceed insurance marketplace retention.—Notwithstanding subparagraph (A), if the aggregate amount of uncompensated insured losses referred to in clause (ii) of such subparagraph for any period referred to in any of subparagraphs (A) through (E) of paragraph (6) is greater than the insurance marketplace aggregate retention amount under paragraph (6) for such period, the mandatory recoupment amount shall be $0.
+
+“(C) Mandatory establishment of surcharges to recoup mandatory recoupment amount.—The Secretary shall collect, for repayment of the Federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation) occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to 133 percent of any mandatory recoupment amount for such period.
+
+“(D) Discretionary recoupment of remainder of financial assistance.—To the extent that the amount of Federal financial assistance provided exceeds any mandatory recoupment amount, the Secretary may recoup, through terrorism loss risk-spreading premiums, such additional amounts that the Secretary believes can be recouped, based on—“(i) the ultimate costs to taxpayers of no additional recoupment;
+
+“(ii) the economic conditions in the commercial marketplace, including the capitalization, profitability, and investment returns of the insurance industry and the current cycle of the insurance markets;
+
+“(iii) the affordability of commercial insurance for small- and medium-sized businesses; and
+
+“(iv) such other factors as the Secretary considers appropriate.
+
+
+“(E) Timing of mandatory recoupment.—“(i) In general.—If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—     “(I) for any act of terrorism that occurs on or before December 31, 2010, the Secretary shall collect all required premiums by September 30, 2012;
+
+     “(II) for any act of terrorism that occurs between January 1 and December 31, 2011, the Secretary shall collect 35 percent of any required premiums by September 30, 2012, and the remainder by September 30, 2017; and
+
+     “(III) for any act of terrorism that occurs on or after January 1, 2012, the Secretary shall collect all required premiums by September 30, 2017.
+
+
+“(ii) Regulations required.—Not later than 180 days after the date of enactment of this subparagraph [Dec. 26, 2007], the Secretary shall issue regulations describing the procedures to be used for collecting the required premiums in the time periods referred to in clause (i).
+
+
+“(F) Notice of estimated losses.—Not later than 90 days after the date of an act of terrorism, the Secretary shall publish an estimate of aggregate insured losses, which shall be used as the basis for determining whether mandatory recoupment will be required under this paragraph. Such estimate shall be updated as appropriate, and at least annually.
+
+
+“(8) Policy surcharge for terrorism loss risk-spreading premiums.—“(A) Policyholder premium.—Any amount established by the Secretary as a terrorism loss risk-spreading premium shall—“(i) be imposed as a policyholder premium surcharge on property and casualty insurance policies in force after the date of such establishment;
+
+“(ii) begin with such period of coverage during the year as the Secretary determines appropriate; and
+
+“(iii) be based on a percentage of the premium amount charged for property and casualty insurance coverage under the policy.
+
+
+“(B) Collection.—The Secretary shall provide for insurers to collect terrorism loss risk-spreading premiums and remit such amounts collected to the Secretary.
+
+“(C) Percentage limitation.—A terrorism loss risk-spreading premium collected on a discretionary basis pursuant to paragraph (7)(D) may not exceed, on an annual basis, the amount equal to 3 percent of the premium charged for property and casualty insurance coverage under the policy.
+
+“(D) Adjustment for urban and smaller commercial and rural areas and different lines of insurance.—“(i) Adjustments.—In determining the method and manner of imposing terrorism loss risk-spreading premiums, including the amount of such premiums, the Secretary shall take into consideration—     “(I) the economic impact on commercial centers of urban areas, including the effect on commercial rents and commercial insurance premiums, particularly rents and premiums charged to small businesses, and the availability of lease space and commercial insurance within urban areas;
+
+     “(II) the risk factors related to rural areas and smaller commercial centers, including the potential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
+
+     “(III) the various exposures to terrorism risk for different lines of insurance.
+
+
+“(ii) Recoupment of adjustments.—Any mandatory recoupment amounts not collected by the Secretary because of adjustments under this subparagraph shall be recouped through additional terrorism loss risk-spreading premiums, in accordance with the timing requirements of paragraph (7)(E).
+
+
+“(E) Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
+
+
+
+“(f) Captive Insurers and Other Self-Insurance Arrangements.—The Secretary may, in consultation with the NAIC or the appropriate State regulatory authority, apply the provisions of this title, as appropriate, to other classes or types of captive insurers and other self-insurance arrangements by municipalities and other entities (such as workers’ compensation self-insurance programs and State workers’ compensation reinsurance pools), but only if such application is determined before the occurrence of an act of terrorism in which such an entity incurs an insured loss and all of the provisions of this title are applied comparably to such entities.
+
+“(g) Reinsurance to Cover Exposure.—“(1) Obtaining coverage.—This title may not be construed to limit or prevent insurers from obtaining reinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
+
+“(2) Limitation on financial assistance.—The amount of financial assistance provided pursuant to this section shall not be reduced by reinsurance paid or payable to an insurer from other sources, except that recoveries from such other sources, taken together with financial assistance for the Transition Period or a Program Year provided pursuant to this section, may not exceed the aggregate amount of the insurer’s insured losses for such period. If such recoveries and financial assistance for the Transition Period or a Program Year exceed such aggregate amount of insured losses for that period and there is no agreement between the insurer and any reinsurer to the contrary, an amount in excess of such aggregate insured losses shall be returned to the Secretary.
+
+
+“(h) Group Life Insurance Study.—“(1) Study.—The Secretary shall study, on an expedited basis, whether adequate and affordable catastrophe reinsurance for acts of terrorism is available to life insurers in the United States that issue group life insurance, and the extent to which the threat of terrorism is reducing the availability of group life insurance coverage for consumers in the United States.
+
+“(2) Conditional Coverage.—To the extent that the Secretary determines that such coverage is not or will not be reasonably available to both such insurers and consumers, the Secretary shall, in consultation with the NAIC—“(A) apply the provisions of this title, as appropriate, to providers of group life insurance; and
+
+“(B) provide such restrictions, limitations, or conditions with respect to any financial assistance provided that the Secretary deems appropriate, based on the study under paragraph (1).
+
+
+
+“(i) Study and Report.—“(1) Study.—The Secretary, after consultation with the NAIC, representatives of the insurance industry, and other experts in the insurance field, shall conduct a study of the potential effects of acts of terrorism on the availability of life insurance and other lines of insurance coverage, including personal lines.
+
+“(2) Report.—Not later than 9 months after the date of enactment of this Act [Nov. 26, 2002], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1).
+
+

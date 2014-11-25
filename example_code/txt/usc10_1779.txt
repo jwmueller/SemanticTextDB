@@ -1,0 +1,33 @@
+§ 2547. Acquisition-related functions of chiefs of the armed forces(a) Performance of Certain Acquisition-related Functions.—The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:(1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to section 181 of this title).
+
+(2) The coordination of measures to control requirements creep in the defense acquisition system.
+
+(3) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
+
+(4) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
+
+(5) The development of career paths in acquisition for military personnel (as required by section 1722a of this title).
+
+(6) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
+
+
+(b) Rule of Construction.—Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or section 8014(c)(1)(A) of this title, except as explicitly provided in this section.
+
+(c) Definitions.—In this section:(1) The term “requirements creep” means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
+
+(2) The term “requirements document” means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—(A) justifies the need for a materiel approach, or an approach that is a combination of materiel and non-materiel, to satisfy one or more specific capability gaps;
+
+(B) details the information necessary to develop an increment of militarily useful, logistically supportable, and technically mature capability, including key performance parameters; or
+
+(C) identifies production attributes required for a single increment of a program.
+
+
+
+(Added Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, § 951(c), Jan. 2, 2013, 126 Stat. 1891.)
+
+Prior ProvisionsA prior section 2547 was renumbered section 2557 of this title.
+
+Amendments2013—Subsec. (a)(1). Pub. L. 112–239, § 951(c)(1), substituted “of requirements for equipping the armed force concerned” for “of requirements relating to the defense acquisition system”.
+Subsec. (a)(3) to (6). Pub. L. 112–239, § 951(c)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+
+

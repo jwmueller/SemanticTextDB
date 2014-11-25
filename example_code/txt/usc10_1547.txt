@@ -1,0 +1,67 @@
+§ 2364. Coordination and communication of defense research activities(a) Coordination of Department of Defense Technological Data.—The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—(1) among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces; and
+
+(2) among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters.
+
+
+(b) Functions of Defense Research Facilities.—The Secretary of Defense shall ensure, to the maximum extent practicable—(1) that Defense research facilities are assigned broad mission requirements rather than specific hardware needs;
+
+(2) that appropriate personnel of such facilities are assigned to serve as consultants on component and support system standardization;
+
+(3) that the managers of such facilities have broad latitude to choose research and development projects;
+
+(4) that technology position papers prepared by Defense research facilities are readily available to all combatant commands and to contractors who submit bids or proposals for Department of Defense contracts; and
+
+(5) that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
+
+
+(c) Definitions.—In this section:(1) The term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—(A) basic research; or
+
+(B) applied research known as exploratory development.
+
+
+(2) The term “acquisition program decision” has the meaning prescribed by the Secretary of Defense in regulations.”
+
+
+(Added Pub. L. 99–661, div. A, title II, § 234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§ 3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, § 1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, § 805, Feb. 10, 1996, 110 Stat. 390.)
+
+Amendments1996—Subsec. (b)(5). Pub. L. 104–106, § 805(1), substituted “acquisition program” for “milestone O, milestone I, and milestone II”.
+Subsec. (c)(2) to (4). Pub. L. 104–106, § 805(2), added par. (2) and struck out former pars. (2) to (4) which read as follows:
+“(2) The term ‘milestone O decision’ means the decision made within the Department of Defense that there is a mission need for a new major weapon system and that research and development is to begin to meet such need.
+“(3) The term ‘milestone I decision’ means the decision by an appropriate official of the Department of Defense selecting a new major weapon system concept and a program for demonstration and validation of such concept.
+“(4) The term ‘milestone II decision’ means the decision by an appropriate official of the Department of Defense approving the full-scale development of a new major weapon system.”
+1987—Pub. L. 100–26, § 3(1)(A), made technical amendment to directory language of section 234(c)(1) of Pub. L. 99–661, which enacted this section.
+Pub. L. 100–180, § 1231(10)(B), substituted “defense” for “Defense” in section catchline.
+Subsec. (b)(5). Pub. L. 100–180, § 1231(10)(A), substituted “milestone O, milestone I, and milestone II decisions” for “milestone O, I, and II decisions”.
+Subsec. (c)(2). Pub. L. 100–26, § 7(a)(9)(A), substituted “the decision” for “a decision”.
+Subsec. (c)(3). Pub. L. 100–26, § 7(a)(9)(B), substituted “the decision by an appropriate official of the Department of Defense selecting” for “[a]/[the] selection by an appropriate official of the Department of Defense of”.
+Subsec. (c)(4). Pub. L. 100–26, § 7(a)(9)(C), substituted “the decision by an appropriate official of the Department of Defense approving” for “approval by an appropriate official of the Department of Defense for”.
+
+Effective Date of 1987 AmendmentAmendment by section 3(1)(A) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+
+Performance Review ProcessPub. L. 106–65, div. A, title IX, § 913(b), Oct. 5, 1999, 113 Stat. 720, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999], the Secretary of Defense shall develop an appropriate performance review process for rating the quality and relevance of work performed by the Department of Defense laboratories. The process shall include customer evaluation and peer review by Department of Defense personnel and appropriate experts from outside the Department of Defense. The process shall provide for rating all laboratories of the Army, Navy, and Air Force on a consistent basis.”
+
+
+Coordination of High-Temperature Superconductivity Research and DevelopmentPub. L. 100–180, div. A, title II, § 218(b)(2), Dec. 4, 1987, 101 Stat. 1053, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: 
+“The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall—
+“(A) coordinate the research and development activities of the Department of Defense relating to high-temperature superconductivity; and
+
+“(B) ensure that such research and development—“(i) is carried out in coordination with the high-temperature superconductivity research and development activities of the Department of Energy (including the national laboratories of the Department of Energy), the National Science Foundation, the National Institute of Standards and Technology, and the National Aeronautics and Space Administration; and
+
+“(ii) complements rather than duplicates such activities.”
+
+
+
+
+
+Coordination of Research Activities of Department of DefensePub. L. 99–661, div. A, title II, § 234(a), (b), Nov. 14, 1986, 100 Stat. 3848, provided that:
+“(a) Purpose.—The purpose of this section is to strengthen coordination among Department of Defense research facilities and other organizations in the Department of Defense.
+
+“(b) Findings.—The Congress finds that centralized coordination of the collection and dissemination of technological data among research facilities and other organizations within the Department of Defense is necessary—“(1) to ensure that personnel of the Department are currently informed about emerging technology for defense systems; and
+
+“(2) to avoid unnecessary and costly duplication of research staffs and projects.”
+
+
+
+
+
+

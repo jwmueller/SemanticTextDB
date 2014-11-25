@@ -1,0 +1,16 @@
+§ 2445d. Construction with other reporting requirements
+In the case of a major automated information system program covered by this chapter that is also treatable as a major defense acquisition program for which reports would be required under chapter 144 of this title, the Secretary may designate the program to be treated only as a major automated information system program covered by this chapter or to be treated only as a major defense acquisition program covered by such chapter 144.
+(Added Pub. L. 109–364, div. A, title VIII, § 816(a)(1), Oct. 17, 2006, 120 Stat. 2326; amended Pub. L. 111–84, div. A, title VIII, § 817(a), Oct. 28, 2009, 123 Stat. 2408.)
+
+Amendments2009—Pub. L. 111–84 substituted “of this title, the Secretary may designate the program to be treated only as a major automated information system program covered by this chapter or to be treated only as a major defense acquisition program covered by such chapter 144.” for “of this title, no reports on the program are required under such chapter if the requirements of this chapter with respect to the program are met.”
+
+Guidance RequiredPub. L. 111–84, div. A, title VIII, § 817(b), Oct. 28, 2009, 123 Stat. 2408, provided that: 
+“Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall issue guidance on the implementation of section 2445d of title 10, United States Code (as amended by subsection (a)). The guidance shall provide that, as a general rule—
+“(1) a program covered by such section that requires the development of customized hardware shall be treated only as a major defense acquisition program under chapter 144 of title 10, United States Code; and
+
+“(2) a program covered by such section that does not require the development of customized hardware shall be treated only as a major automated information system program under chapter 144A of title 10, United States Code.”
+
+
+
+
+

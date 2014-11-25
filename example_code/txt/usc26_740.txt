@@ -1,0 +1,61 @@
+§ 1044. Rollover of publicly traded securities gain into specialized small business investment companies(a) Nonrecognition of gainIn the case of the sale of any publicly traded securities with respect to which the taxpayer elects the application of this section, gain from such sale shall be recognized only to the extent that the amount realized on such sale exceeds—(1) the cost of any common stock or partnership interest in a specialized small business investment company purchased by the taxpayer during the 60-day period beginning on the date of such sale, reduced by
+
+(2) any portion of such cost previously taken into account under this section.
+
+
+This section shall not apply to any gain which is treated as ordinary income for purposes of this subtitle.
+
+(b) Limitations(1) Limitation on individualsIn the case of an individual, the amount of gain which may be excluded under subsection (a) for any taxable year shall not exceed the lesser of—(A) $50,000, or
+
+(B) $500,000, reduced by the amount of gain excluded under subsection (a) for all preceding taxable years.
+
+
+(2) Limitation on C corporationsIn the case of a C corporation, the amount of gain which may be excluded under subsection (a) for any taxable year shall not exceed the lesser of—(A) $250,000, or
+
+(B) $1,000,000, reduced by the amount of gain excluded under subsection (a) for all preceding taxable years.
+
+
+(3) Special rules for married individualsFor purposes of this subsection—(A) Separate returnsIn the case of a separate return by a married individual, paragraph (1) shall be applied by substituting “$25,000” for “$50,000” and “$250,000” for “$500,000”.
+
+
+(B) Allocation of gainIn the case of any joint return, the amount of gain excluded under subsection (a) for any taxable year shall be allocated equally between the spouses for purposes of applying this subsection to subsequent taxable years.
+
+
+(C) Marital statusFor purposes of this subsection, marital status shall be determined under section 7703.
+
+
+
+(4) Special rules for C corporationFor purposes of this subsection—(A) all corporations which are members of the same controlled group of corporations (within the meaning of section 52(a)) shall be treated as 1 taxpayer, and
+
+(B) any gain excluded under subsection (a) by a predecessor of any C corporation shall be treated as having been excluded by such C corporation.
+
+
+
+(c) Definitions and special rulesFor purposes of this section—(1) Publicly traded securitiesThe term “publicly traded securities” means securities which are traded on an established securities market.
+
+
+(2) PurchaseThe taxpayer shall be considered to have purchased any property if, but for subsection (d), the unadjusted basis of such property would be its cost within the meaning of section 1012.
+
+
+(3) Specialized small business investment companyThe term “specialized small business investment company” means any partnership or corporation which is licensed by the Small Business Administration under section 301(d) of the Small Business Investment Act of 1958 (as in effect on May 13, 1993).
+
+
+(4) Certain entities not eligibleThis section shall not apply to any estate, trust, partnership, or S corporation.
+
+
+
+(d) Basis adjustmentsIf gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any common stock or partnership interest in any specialized small business investment company which is purchased by the taxpayer during the 60-day period described in subsection (a). This subsection shall not apply for purposes of section 1202.
+
+
+(Added Pub. L. 103–66, title XIII, § 13114(a), Aug. 10, 1993, 107 Stat. 430; amended Pub. L. 104–188, title I, § 1703(a), Aug. 20, 1996, 110 Stat. 1875.)
+
+
+References in TextSection 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(3), was classified to section 681(d) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 104–208, div. D, title II, § 208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
+
+Amendments1996—Subsec. (c)(2). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘purchase’ has the meaning given such term by section 1043(b)(4).”
+
+Effective Date of 1996 AmendmentAmendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
+Effective DateSection applicable to sales on or after Aug. 10, 1993, in taxable years ending on or after such date, see section 13114(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1016 of this title.
+
+

@@ -1,0 +1,20 @@
+“SEC. 2. DEFINITIONS.“As used in this Act—“(1) the term ‘Secretary’ means the Secretary of Transportation;
+
+“(2) the term ‘alert sound’ (herein referred to as the ‘sound’) means a vehicle-emitted sound to enable pedestrians to discern vehicle presence, direction, location, and operation;
+
+“(3) the term ‘cross-over speed’ means the speed at which tire noise, wind resistance, or other factors eliminate the need for a separate alert sound as determined by the Secretary;
+
+“(4) the term ‘motor vehicle’ has the meaning given such term in section 30102(a)(6) of title 49, United States Code, except that such term shall not include a trailer (as such term is defined in section 571.3 of title 49, Code of Federal Regulations);
+
+“(5) the term ‘conventional motor vehicle’ means a motor vehicle powered by a gasoline, diesel, or alternative fueled internal combustion engine as its sole means of propulsion;
+
+“(6) the term ‘manufacturer’ has the meaning given such term in section 30102(a)(5) of title 49, United States Code;
+
+“(7) the term ‘dealer’ has the meaning given such term in section 30102(a)(1) of title 49, United States Code;
+
+“(8) the term ‘defect’ has the meaning given such term in section 30102(a)(2) of title 49, United States Code;
+
+“(9) the term ‘hybrid vehicle’ means a motor vehicle which has more than one means of propulsion; and
+
+“(10) the term ‘electric vehicle’ means a motor vehicle with an electric motor as its sole means of propulsion.
+

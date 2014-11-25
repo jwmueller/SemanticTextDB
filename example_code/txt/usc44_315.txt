@@ -1,0 +1,14 @@
+“SEC. 204. FEDERAL INTERNET PORTAL.“(a) In General.—“(1) Public access.—The Director shall work with the Administrator of the General Services Administration and other agencies to maintain and promote an integrated Internet-based system of providing the public with access to Government information and services.
+
+“(2) Criteria.—To the extent practicable, the integrated system shall be designed and operated according to the following criteria:“(A) The provision of Internet-based Government information and services directed to key groups, including citizens, business, and other governments, and integrated according to function or topic rather than separated according to the boundaries of agency jurisdiction.
+
+“(B) An ongoing effort to ensure that Internet-based Government services relevant to a given citizen activity are available from a single point.
+
+“(C) Access to Federal Government information and services consolidated, as appropriate, with Internet-based information and services provided by State, local, and tribal governments.
+
+“(D) Access to Federal Government information held by 1 or more agencies shall be made available in a manner that protects privacy, consistent with law.
+
+
+
+“(b) Authorization of Appropriations.—There are authorized to be appropriated to the General Services Administration $15,000,000 for the maintenance, improvement, and promotion of the integrated Internet-based system for fiscal year 2003, and such sums as are necessary for fiscal years 2004 through 2007.
+

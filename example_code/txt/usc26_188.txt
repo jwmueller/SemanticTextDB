@@ -1,0 +1,47 @@
+“SEC. 1315. TRANSITIONAL RULES RELATING TO VOLUME CAP.“(a) In General.—Except as otherwise provided in this section, section 146(f) of the 1986 Code shall not apply with respect to an issuing authority’s volume cap under section 103(n) of the 1954 Code, and no carryforward under such section 103(n) shall be recognized for bonds issued after August 15, 1986.
+
+“(b) Certain Bonds for Carryforward Projects Outside of Volume Cap.—Bonds issued pursuant to an election under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shall not be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 [for classification see section 1311(a) of this note] do not apply by reason of section 1312(a) of this Act.
+
+“(c) Volume Cap Not To Apply With Respect to Certain Facilities and Purposes.—Section 146 of the 1986 Code shall not apply to any bond issued with respect to any facility or purpose described in a paragraph of subsection (d) if—“(1) such bond would not have been taken into account under section 103(n) of the 1954 Code for calendar year 1986 (determined without regard to any carryforward election) were such bond issued on August 15, 1986, or
+
+“(2) such bond would not have been taken into account under section 103(n) of the 1954 Code for calendar year 1986 (determined with regard to any carryforward election made before January 1, 1986) were such bond issued on August 15, 1986.
+
+
+The preceding sentence shall not apply to the extent section 1313(b)(5) treats any bond as a private activity bond for purposes of section 146 of the 1986 Code.
+
+“(d) Facilities and Purposes Described.—“(1) A facility is described in this paragraph if the amendments made by section 201 of this Act [amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title] (relating to depreciation) do not apply to such facility by reason of section 204(a)(8) of this Act [set out as a note under section 168 of this title] (or, in the case of a facility which is governmentally owned, would not apply to such facility were it owned by a nongovernmental person).
+
+“(2) A facility or purpose is described in this paragraph if the facility or purpose is described in a paragraph of section 1317.
+
+“(3) A facility is described in this paragraph if the facility—“(A) serves Los Osos, California, and
+
+“(B) would be described in paragraph (1) were it a solid waste disposal facility.
+
+
+The aggregate face amount of bonds to which this paragraph applies shall not exceed $35,000,000.
+
+“(4) A facility is described in this paragraph if it is a sewage disposal facility with respect to which—“(A) on September 13, 1985, the State public facilities authority took official action authorizing the issuance of bonds for such facility, and
+
+“(B) on December 30, 1985, there was an executive order of the State Governor granting allocation of the State ceiling under section 103(n) of the 1954 Code in the amount of $250,000,000 to the Industrial Development Board of the Parish of East Baton Rouge, Louisiana.
+
+
+The aggregate face amount of bonds to which this paragraph applies shall not exceed $98,500,000.
+
+“(5) A facility is described in this paragraph if—“(A) such facility is a solid waste disposal facility in Charleston, South Carolina, and
+
+“(B) a State political subdivision took formal action on April 1, 1980, to commit development funds for such facility.
+
+
+For purposes of determining whether a bond issued as part of an issue for a facility described in the preceding sentence is an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code, ‘90 percent’ shall be substituted for ‘95 percent’ in section 142(a) of the 1986 Code.
+
+“The aggregate face amount of bonds to which this paragraph applies shall not exceed $75,000,000.
+“(6) A facility is described in this paragraph if—“(A) such facility is a wastewater treatment facility for which site preparation commenced before September 1985, and
+
+“(B) a parish council approved a service agreement with respect to such facility on December 4, 1985.
+
+
+The aggregate face amount of bonds to which this paragraph applies shall not exceed $120,000,000.
+
+
+“(e) Treatment of Redevelopment Bonds.—Any bond to which section 1317(6) of this Act applies shall be treated for purposes of this section as described in subsection (c)(1). The preceding sentence shall not apply to any bond which (if issued on August 15, 1986) would have been an industrial development bond (as defined in section 103(b)(2) of the 1954 Code).
+

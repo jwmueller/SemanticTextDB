@@ -1,0 +1,45 @@
+“SEC. 5204. GENERAL AUTHORITIES AND REQUIREMENTS.“(a) Scope.—Subject to the provisions of this subtitle, the Secretary shall conduct an ongoing intelligent transportation system program to research, develop, and operationally test intelligent transportation systems and advance nationwide deployment of such systems as a component of the surface transportation systems of the United States.
+
+“(b) Policy.—Intelligent transportation system operational tests and deployment projects funded pursuant to this subtitle shall encourage and not displace public-private partnerships or private sector investment in such tests and projects.
+
+“(c) Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the United States private sector, the Federal laboratories, and colleges and universities, including historically black colleges and universities and other minority institutions of higher education.
+
+“(d) Consultation With Federal Officials.—In carrying out the intelligent transportation system program, the Secretary, as appropriate, shall consult with the Secretary of Commerce, the Secretary of the Treasury, the Administrator of the Environmental Protection Agency, the Director of the National Science Foundation, and the heads of other Federal departments and agencies.
+
+“(e) Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
+
+“(f) Transportation Planning.—The Secretary may provide funding to support adequate consideration of transportation system management and operations, including intelligent transportation systems, within metropolitan and statewide transportation planning processes.
+
+“(g) Information Clearinghouse.—“(1) In general.—The Secretary shall—“(A) maintain a repository for technical and safety data collected as a result of federally sponsored projects carried out under this subtitle; and
+
+“(B) on request, make that information (except for proprietary information and data) readily available to all users of the repository at an appropriate cost.
+
+
+“(2) Delegation of authority.—“(A) In general.—The Secretary may delegate the responsibility of the Secretary under this subsection, with continuing oversight by the Secretary, to an appropriate entity not within the Department of Transportation.
+
+“(B) Federal assistance.—If the Secretary delegates the responsibility, the entity to which the responsibility is delegated shall be eligible for Federal assistance under this section.
+
+
+
+“(h) Advisory Committees.—“(1) In general.—In carrying out this subtitle, the Secretary may use 1 or more advisory committees.
+
+“(2) Applicability of federal advisory committee act.—Any advisory committee so used shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+
+
+“(i) Procurement Methods.—“(1) Technical assistance.—The Secretary shall develop appropriate technical assistance and guidance to assist State and local agencies in evaluating and selecting appropriate methods of procurement for intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including innovative and nontraditional methods such as the Information Technology Omnibus Procurement.
+
+“(2) Intelligent transportation system software.—To the maximum extent practicable, contracting officials shall use as a critical evaluation criterion the Software Engineering Institute’s Capability Maturity Model, or another similar recognized standard risk assessment methodology, to reduce the cost, schedule, and performance risks associated with the development, management, and integration of intelligent transportation system software.
+
+
+“(j) Evaluations.—“(1) Guidelines and requirements.—“(A) In general.—The Secretary shall issue guidelines and requirements for the evaluation of operational tests and deployment projects carried out under this subtitle.
+
+“(B) Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the evaluator so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this subtitle.
+
+“(C) Funding.—The guidelines and requirements issued under subparagraph (A) shall establish evaluation funding levels based on the size and scope of each test or project that ensure adequate evaluation of the results of the test or project.
+
+
+“(2) Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the evaluation of any test, deployment project, or program assessment activity under this subtitle shall not be subject to chapter 35 of title 44.
+
+
+“(k) Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3) and 5117(b)(6) [set out above] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety.
+

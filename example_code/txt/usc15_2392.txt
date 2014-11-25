@@ -1,0 +1,12 @@
+§ 7711. Regulations(a) In generalThe Commission may issue regulations to implement the provisions of this Act (not including the amendments made by sections 4 and 12). Any such regulations shall be issued in accordance with section 553 of title 5.
+
+
+(b) LimitationSubsection (a) may not be construed to authorize the Commission to establish a requirement pursuant to section 7704(a)(5)(A) of this title to include any specific words, characters, marks, or labels in a commercial electronic mail message, or to include the identification required by section 7704(a)(5)(A) of this title in any particular part of such a mail message (such as the subject line or body).
+
+
+(Pub. L. 108–187, § 13, Dec. 16, 2003, 117 Stat. 2717.)
+
+
+References in TextThis Act (not including the amendments made by sections 4 and 12), referred to in subsec. (a), is Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. Section 4 enacted section 7703 of this title, section 1037 of Title 18, Crimes and Criminal Procedure, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure. Section 12 amended section 227 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+

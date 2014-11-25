@@ -1,0 +1,74 @@
+§ 8135. Lump-sum payment(a) The liability of the United States for compensation to a beneficiary in the case of death or of permanent total or permanent partial disability may be discharged by a lump-sum payment equal to the present value of all future payments of compensation computed at 4 percent true discount compounded annually if—(1) the monthly payment to the beneficiary is less than $50 a month;
+
+(2) the beneficiary is or is about to become a nonresident of the United States; or
+
+(3) the Secretary of Labor determines that it is for the best interest of the beneficiary.
+
+
+The probability of the death of the beneficiary before the expiration of the period during which he is entitled to compensation shall be determined according to the most current United States Life Tables, as developed by the United States Department of Health, Education, and Welfare, which shall be updated from time to time, but the lump-sum payment to a widow or widower of the deceased employee may not exceed 60 months’ compensation. The probability of the happening of any other contingency affecting the amount or duration of compensation shall be disregarded.
+
+(b) On remarriage before reaching age 55 a widow or widower entitled to compensation under section 8133 of this title, shall be paid a lump sum equal to twenty-four times the monthly compensation payment (excluding compensation on account of another individual) to which he was entitled immediately before the remarriage.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 548; Pub. L. 90–83, § 1(63), Sept. 11, 1967, 81 Stat. 211; Pub. L. 93–416, §§ 16(b), 19, 20, Sept. 7, 1974, 88 Stat. 1149; Pub. L. 101–303, § 3(2), May 29, 1990, 104 Stat. 251.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+1966 Act
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 764.Sept. 7, 1916, ch. 458, § 14, 39 Stat. 746.
+
+
+Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+
+
+
+
+
+
+
+
+
+
+1967 Act
+
+
+Section of title 5Source (U.S. Code)Source (Statutes at Large)
+
+
+8135(b)5 App.: 764(b).July 4, 1966, Pub. L. 89–488, § 8, 80 Stat. 254.
+
+
+The word “widower” is substituted for “dependent widower” to conform to the definition in 5 U.S.C. 8101(11). The words “section 8133 of title 5” are substituted for “section 10” to reflect the codification of that section in title 5, United States Code.
+
+Amendments1990—Subsec. (b). Pub. L. 101–303 substituted “age 55” for “age 60”.
+1974—Subsec. (a). Pub. L. 93–416, § 20, substituted provisions relating to use of the most current United States Life Tables, for provisions relating to deter­mination by the American Experience Tables of Mortality.
+Subsec. (a)(1). Pub. L. 93–416, § 19, substituted “$50” for “$5”.
+Subsec. (b). Pub. L. 93–416, § 16(b), inserted “before reaching age 60” after “On remarriage”.
+
+
+Change of Name
+United States Department of Health, Education, and Welfare redesignated the United States Department of Health and Human Services by section 3508 of Title 20, Education.
+
+Effective Date of 1974 AmendmentAmendment by Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+
+Personnel Not Affected by 1967 IncreaseIncreases authorized under amendment by section 1(63) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
+
+

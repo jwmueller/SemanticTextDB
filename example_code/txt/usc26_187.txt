@@ -1,0 +1,51 @@
+“SEC. 1314. SPECIAL RULES WHICH OVERRIDE OTHER RULES IN THIS SUBTITLE.“(a) Arbitrage Restriction on Investments in Annuities.—In the case of a bond issued after September 25, 1985, section 103(c) of the 1954 Code shall be applied by treating the reference to securities in paragraph (2) thereof as including a reference to an annuity contract. The preceding sentence shall not apply to the first advance refunding after September 25, 1985, if a bond issued before September 26, 1985.
+
+“(b) Temporary Period for Advance Refundings.—In the case of a bond issued after December 31, 1985, to advance refund a bond, the initial temporary period under section 103(c) of the 1954 Code with respect to the proceeds of the refunding bond shall end not later than 30 days after the date of issue of the refunding bond.
+
+“(c) Determination of Yield.—In the case of a bond issued after December 31, 1985, for purposes of section 103(c) of the 1954 Code, the yield on an issue shall be determined on the basis of the issue price (within the meaning of sections 1273 and 1274 of the 1986 Code).
+
+“(d) Arbitrage Rebate Requirement.—“(1) In general.—Except as otherwise provided in this subsection, in the case of a bond issued after December 31, 1985, section 103 of the 1954 Code shall be treated as including the requirements of section 148(f) of the 1986 Code in order for section 103(a) of the 1954 Code to apply.
+
+“(2) Government bonds.—In the case of a bond described in section 1312(c)(2) (and not described in paragraph (3) of this subsection), paragraph (1) shall be applied by substituting ‘August 31, 1986’ for ‘December 31, 1985’.
+
+“(3) Certain pools.—“(A) In general.—In the case of a bond described in section 1312(c)(2) and issued as part of an issue described in subparagraph (B), (C), (D), or (E), paragraph (1) shall be applied by substituting ‘3 p.m. E.D.T., July 17, 1986’ for ‘December 31, 1985’. Such a bond shall not be treated as a private activity bond for purposes of applying section 148(f) of the 1986 Code.
+
+“(B) Loans to unrelated governmental units.—An issue is described in this subparagraph if any portion of the proceeds of the issue is to be used to make or finance loans to any governmental unit other than any governmental unit which is subordinate to the issuer and the jurisdiction of which is within—“(i) the jurisdiction of the issuer, or
+
+“(ii) the jurisdiction of the governmental unit on behalf of which such issuer issued the issue.
+
+
+“(C) Less than 75 percent of projects identified.—An issue is described in this subparagraph if less than 75 percent of the proceeds of the issue is to be used to make or finance loans to initial borrowers to finance projects identified (with specificity) by the issuer, on or before the date of issuance of the issue, as projects to be financed with the proceeds of the issue.
+
+“(D) Less than 25 percent of funds committed to be borrowed.—An issue is described in this subparagraph if, on or before the date of issuance of the issue, commitments have not been entered into by initial borrowers to borrow at least 25 percent of the proceeds of the issue.
+
+“(E) Certain long maturity issues.—An issue is described in this subparagraph if—“(i) the maturity date of any bond issued as part of such issue exceeds 30 years, and
+
+“(ii) any principal payment on any loan made or financed by the proceeds of the issue is to be used to make or finance additional loans.
+
+
+“(F) Special rules.—“(i) Exception from subparagraphs (c) and (d) where similar pools issued by issuer.—An issue shall not be treated as described in subparagraph (C) or (D) with respect to any issue to make or finance loans to governmental units if—     “(I) the issuer, before 1986, issued 1 or more similar issues to make or finance loans to governmental units, and
+
+     “(II) the aggregate face amount of such issues issued during 1986 does not exceed 250 percent of the average of the annual aggregate face amounts of such similar issues issued during 1983, 1984, or 1985.
+
+
+“(ii) Determination of issuance.—For purposes of subparagraph (A), an issue shall not be treated as issued until—     “(I) the bonds issued as part of such issue are offered to the public (pursuant to final offering materials), and
+
+     “(II) at least 25 percent of such bonds is sold to the public.
+
+
+
+ For purposes of the preceding sentence, the sale of a bond to a securities firm, broker, or other person acting in the capacity of an underwriter or wholesaler shall not be treated as a sale to the public.
+
+
+
+“(e) Information Reporting.—In the case of a bond issued after December 31, 1986, nothing in section 103(a) of the 1986 Code or any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond unless such bond satisfies the requirements of section 149(e) of the 1986 Code. A bond described in section 1312(c)(2) shall not be treated as a private activity bond for purposes of applying such requirements.
+
+“(f) Abusive Transaction Limitation on Advance Refundings To Apply.—In the case of a bond issued after August 31, 1986, nothing in section 103(a) of the 1986 Code or any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any bond if the issue of which such bond is a part is described in paragraph (4) of section 149(d) of the 1986 Code (relating to abusive transactions).
+
+“(g) Termination of Mortgage Bond Policy Statement Requirement.—Paragraph (5) of section 103A(j) of the 1954 Code (relating to policy statement) shall not apply to any bond issued after August 15, 1986, and shall not apply to nonissued bond amounts elected under section 25 of the 1986 Code after such date.
+
+“(h) Arbitrage Restriction on Investments in Investment-Type Property.—In the case of a bond issued before August 16, 1986 (September 1, 1986 in the case of a bond described in section 1312(c)(2)), section 103(c) of the 1954 Code shall be applied by treating the reference to securities in paragraph (2) thereof as including a reference to investment-type property but only for purposes of determining whether any bond issued after October 16, 1987, to advance refund such bond (or a bond which is part of a series of refundings of such bond) is an arbitrage bond (within the meaning of section 148(a) of the 1986 Code).
+
+“(i) Section To Override Other Rules.—Except as otherwise expressly provided by reference to a provision to which a subsection of this section applies, nothing in any other section of this subtitle shall be construed as exempting any bond from the application of such provision.
+

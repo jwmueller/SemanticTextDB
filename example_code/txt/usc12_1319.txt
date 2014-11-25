@@ -1,0 +1,54 @@
+§ 2279aa–4. Stock issuance(a) Voting common stock(1) IssueThe Corporation shall issue voting common stock having such par value as may be fixed by the Board from time to time. Each share of voting common stock shall be entitled to one vote with rights of cumulative voting at all elections of directors. Voting shall be by classes as described in section 2279aa–2(a)(9) of this title. The stock shall be divided into two classes with the same par value per share. Class A stock may be held only by entities that are not Farm Credit System institutions and that are entitled to vote for directors specified in section 2279aa–2(b)(2)(A) of this title, including national banking associations (which shall be allowed to purchase and hold such stock). Class B stock may be held only by Farm Credit System institutions that are entitled to vote for directors specified in section 2279aa–2(b)(2)(B) of this title.
+
+
+(2) Limitation on issueAfter the date the permanent board first meets with a quorum of its members present, voting common stock of the Corporation may be issued only to originators and certified facilities.
+
+
+(3) Authority of Board to establish terms and proceduresThe Board shall adopt such terms, conditions, and procedures with regard to the issue of stock under this section as may be necessary, including the establishment of a maximum amount limitation on the number of shares of voting common stock that may be outstanding at any time.
+
+
+(4) TransferabilitySubject to such limitations as the Board may impose, any share of any class of voting common stock issued under this section shall be transferable among the institutions or entities to which shares of such class of common stock may be offered under paragraph (1), except that, as to the Corporation, such shares shall be transferable only on the books of the Corporation.
+
+
+(5) Maximum number of sharesNo stockholder, other than a holder of class B stock, may own, directly or indirectly, more than 33 percent of the outstanding shares of such class of the voting common stock of the Corporation.
+
+
+
+(b) Required capital contributions(1) In generalThe Corporation may require each originator and each certified facility to make, or commit to make, such nonrefundable capital contributions to the Corporation as are reasonable and necessary to meet the administrative expenses of the Corporation.
+
+
+(2) Stock issued as consideration for contributionThe Corporation, from time to time, shall issue to each originator or certified facility voting common stock evidencing any capital contributions made pursuant to this subsection.
+
+
+
+(c) Dividends(1) In generalSuch dividends as may be declared by the Board, in the discretion of the Board, shall be paid by the Corporation to the holders of the voting common stock of the Corporation pro rata based on the total number of shares of both classes of stock outstanding.
+
+
+(2) Reserves requirementNo dividend may be declared or paid by the Board under this section unless the Board determines that adequate provision has been made for the reserve required under section 2279aa–10(c)(1) of this title.
+
+
+(3) Dividends prohibited while obligations are outstandingNo dividend may be declared or paid by the Board under this section while any obligation issued by the Corporation to the Secretary of the Treasury under section 2279aa–13 of this title remains outstanding.
+
+
+
+(d) Nonvoting common stockThe Corporation is authorized to issue nonvoting common stock having such par value as may be fixed by the Board from time to time. Such nonvoting common stock shall be freely transferable, except that, as to the Corporation, such stock shall be transferable only on the books of the Corporation. Such dividends as may be declared by the Board, in the discretion of the Board, may be paid by the Corporation to the holders of the nonvoting common stock of the Corporation, subject to paragraphs (2) and (3) of subsection (c) of this section.
+
+
+(e) Preferred stock(1) Authority of BoardThe Corporation is authorized to issue nonvoting preferred stock having such par value as may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
+
+
+(2) Rights of preferred stockSubject to paragraphs (2) and (3) of subsection (c) of this section, the holders of the preferred stock shall be entitled to such rate of cumulative dividends, and such holders shall be subject to such redemption or other conversion provisions, as may be provided for at the time of issuance. No dividends shall be payable on any share of common stock at any time when any dividend is due on any share of preferred stock and has not been paid.
+
+
+(3) Preference on termination of businessIn the event of any liquidation, dissolution, or winding up of the business of the Corporation, the holders of the preferred shares of stock shall be paid in full at the par value thereof, plus all accrued dividends, before the holders of the common shares receive any payment.
+
+
+
+(Pub. L. 92–181, title VIII, § 8.4, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1692; amended Pub. L. 100–399, title VI, § 601(d), (e), Aug. 17, 1988, 102 Stat. 1005.)
+
+Amendments1988—Subsec. (a)(1). Pub. L. 100–399, § 601(d), in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
+Subsec. (e)(1). Pub. L. 100–399, § 601(e), substituted “books of the Corporation” for “books of the Association”.
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+

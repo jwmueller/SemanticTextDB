@@ -1,0 +1,32 @@
+§ 2227. Electronic submission and processing of claims for contract payments(a) Submission of Claims.—The Secretary of Defense shall require that any claim for payment under a Department of Defense contract shall be submitted to the Department of Defense in electronic form.
+
+(b) Processing.—A contracting officer, contract administrator, certifying official, or other officer or employee of the Department of Defense who receives a claim for payment in electronic form in accordance with subsection (a) and is required to transmit the claim to any other officer or employee of the Department of Defense for processing under procedures of the department shall transmit the claim and any additional documentation necessary to support the determination and payment of the claim to such other officer or employee electronically.
+
+(c) Waiver Authority.—If the Secretary of Defense determines that the requirement for using electronic means for submitting claims under subsection (a), or for transmitting claims and supporting documentation under subsection (b), is unduly burdensome in any category of cases, the Secretary may exempt the cases in that category from the application of the requirement.
+
+(d) Implementation of Requirements.—In implementing subsections (a) and (b), the Secretary of Defense shall provide for the following:(1) Policies, requirements, and procedures for using electronic means for the submission of claims for payment to the Department of Defense and for the transmission, between Department of Defense officials, of claims for payment received in electronic form, together with supporting documentation (such as receiving reports, contracts and contract modifications, and required certifications).
+
+(2) The format in which information can be accepted by the corporate database of the Defense Finance and Accounting Service.
+
+(3) The requirements to be included in contracts regarding the electronic submission of claims for payment by contractors.
+
+
+(e) Claim for Payment Defined.—In this section, the term “claim for payment” means an invoice or any other demand or request for payment.
+
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1008(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–249.)
+
+Effective DatePub. L. 106–398, § 1 [[div. A], title X, § 1008(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–250, provided that:
+“(1) Subject to paragraph (2), the Secretary of Defense shall apply section 2227 of title 10, United States Code (as added by subsection (a)), with respect to contracts for which solicitations of offers are issued after June 30, 2001.
+
+“(2)(A) The Secretary may delay the implementation of section 2227 to a date after June 30, 2001, upon a finding that it is impracticable to implement that section until that later date. In no event, however, may the implementation be delayed to a date after October 1, 2002.
+
+“(B) Upon determining to delay the implementation of such section 2227 to a later date under subparagraph (A), the Secretary shall promptly publish a notice of the delay in the Federal Register. The notice shall include a specification of the later date on which the implementation of that section is to begin. Not later than 30 days before the later implementation date, the Secretary shall publish in the Federal Register another notice that such section is being implemented beginning on that date.”
+
+
+
+
+[Notice by Department of Defense of delay in the implementation of this section from June 30, 2001, until Oct. 1, 2002, was published on Aug. 21, 2001, at 66 F.R. 43841.]
+
+Implementation PlanPub. L. 106–398, § 1 [[div. A], title X, § 1008(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–250, directed the Secretary of Defense, not later than Mar. 30, 2001, to submit to committees of Congress a plan for the implementation of the requirements imposed under this section.
+
+

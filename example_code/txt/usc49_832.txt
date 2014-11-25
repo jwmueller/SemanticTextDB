@@ -1,0 +1,54 @@
+“SEC. 211. AUTOMATIC DEPENDENT SURVEILLANCE-BROADCAST SERVICES.“(a) Review by DOT Inspector General.—“(1) In general.—The Inspector General of the Department of Transportation shall conduct a review concerning the Federal Aviation Administration’s award and oversight of any contracts entered into by the Administration to provide ADS–B services for the national airspace system.
+
+“(2) Contents.—The review shall include, at a minimum—“(A) an examination of how the Administration manages program risks;
+
+“(B) an assessment of expected benefits attributable to the deployment of ADS–B services, including the Administration’s plans for implementation of advanced operational procedures and air-to-air applications, as well as the extent to which ground radar will be retained;
+
+“(C) an assessment of the Administration’s analysis of specific operational benefits, and benefit/costs analyses of planned operational benefits conducted by the Administration, for ADS–B In and ADS–B Out avionics equipage for airspace users;
+
+“(D) a determination of whether the Administration has established sufficient mechanisms to ensure that all design, acquisition, operation, and maintenance requirements have been met by the contractor;
+
+“(E) an assessment of whether the Administration and any contractors are meeting cost, schedule, and performance milestones, as measured against the original baseline of the Administration’s program for providing ADS–B services;
+
+“(F) an assessment of how security issues are being addressed in the overall design and implementation of the ADS–B system;
+
+“(G) identification of any potential operational or workforce changes resulting from deployment of ADS–B; and
+
+“(H) any other matters or aspects relating to contract implementation and oversight that the Inspector General determines merit attention.
+
+
+“(3) Reports to congress.—The Inspector General shall submit, periodically (and on at least an annual basis), to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the review conducted under this subsection.
+
+
+“(b) Rulemaking.—“(1) ADS–B In.—Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall initiate a rulemaking proceeding to issue guidelines and regulations relating to ADS–B In technology that—“(A) identify the ADS–B In technology that will be required under NextGen;
+
+“(B) subject to paragraph (2), require all aircraft operating in capacity constrained airspace, at capacity constrained airports, or in any other airspace deemed appropriate by the Administrator to be equipped with ADS–B In technology by 2020; and
+
+“(C) identify—“(i) the type of avionics required of aircraft for all classes of airspace;
+
+“(ii) the expected costs associated with the avionics; and
+
+“(iii) the expected uses and benefits of the avionics.
+
+
+
+“(2) Readiness verification.—Before the Administrator completes an ADS–B In equipage rulemaking proceeding or issues an interim or final rule pursuant to paragraph (1), the Chief NextGen Officer shall verify that—“(A) the necessary ground infrastructure is installed and functioning properly;
+
+“(B) certification standards have been approved; and
+
+“(C) appropriate operational platforms interface safely and efficiently.
+
+
+
+“(c) Use of ADS–B Technology.—“(1) Plans.—Not later than 18 months after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall develop, in consultation with appropriate employee and industry groups, a plan for the use of ADS–B technology for surveillance and active air traffic control.
+
+“(2) Contents.—The plan shall—“(A) include provisions to test the use of ADS–B technology for surveillance and active air traffic control in specific regions of the United States with the most congested airspace;
+
+“(B) identify the equipment required at air traffic control facilities and the training required for air traffic controllers;
+
+“(C) identify procedures, to be developed in consultation with appropriate employee and industry groups, to conduct air traffic management in mixed equipage environments; and
+
+“(D) establish a policy in test regions referred to in subparagraph (A), in consultation with appropriate employee and industry groups, to provide incentives for equipage with ADS–B technology, including giving priority to aircraft equipped with such technology before the 2020 equipage deadline.
+
+
+

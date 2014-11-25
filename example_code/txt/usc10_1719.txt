@@ -1,0 +1,104 @@
+§ 2501. National security strategy for national technology and industrial base(a) National Security Strategy for National Technology and Industrial Base.—The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:(1) Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—(A) the objectives set forth in the national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a); 11 See References in Text note below.
+
+(B) the policy guidance of the Secretary of Defense provided pursuant to section 113(g) of this title; and
+
+(C) the future-years defense program submitted to Congress by the Secretary of Defense pursuant to section 221 of this title.
+
+
+(2) Sustaining production, maintenance, repair, logistics, and other activities in support of military operations of various durations and intensity.
+
+(3) Maintaining advanced research and development activities to provide the armed forces with systems capable of ensuring technological superiority over potential adversaries.
+
+(4) Reconstituting within a reasonable period the capability to develop, produce, and support supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
+
+(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
+
+(6) Providing for the generation of services capabilities that are not core functions of the armed forces and that are critical to military operations within the national technology and industrial base.
+
+(7) Providing for the development, production, and integration of information technology within the national technology and industrial base.
+
+(8) Maintaining critical design skills to ensure that the armed forces are provided with systems capable of ensuring technological superiority over potential adversaries.
+
+(9) Ensuring reliable sources of materials that are critical to national security, such as specialty metals, essential minerals, armor plate, and rare earth elements.
+
+(10) Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
+
+
+(b) Civil-Military Integration Policy.—It is the policy of Congress that the United States attain the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:(1) Relying, to the maximum extent practicable, upon the commercial national technology and industrial base that is required to meet the national security needs of the United States.
+
+(2) Reducing the reliance of the Department of Defense on technology and industrial base sectors that are economically dependent on Department of Defense business.
+
+(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
+
+
+(Added Pub. L. 102–484, div. D, title XLII, § 4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, § 201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, § 1182(a)(10), title XIII, § 1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, § 1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, § 829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, § 303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, § 895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, § 1603(a)(1), Jan. 2, 2013, 126 Stat. 2062.)
+
+
+References in TextThe National Security Act of 1947, referred to in subsec. (a)(1)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
+
+Prior ProvisionsA prior section 2501, added Pub. L. 100–456, div. A, title VIII, § 821(b)(1)(B), Sept. 29, 1988, 102 Stat. 2014, related to centralized guidance, analysis, and planning, prior to repeal by Pub. L. 102–484, § 4202(a).
+Another prior section 2501 was renumbered section 2533 of this title.
+
+Amendments2013—Pub. L. 112–239, § 1603(a)(1)(A), substituted “strategy for” for “objectives concerning” in section catchline.
+Subsec. (a). Pub. L. 112–239, § 1603(a)(1)(B)(i), (ii), substituted “Strategy” for “Objectives” in heading and “The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:” for “It is the policy of Congress that the national technology and industrial base be capable of meeting the following national security objectives:” in introductory provisions.
+Subsec. (a)(9), (10). Pub. L. 112–239, § 1603(a)(1)(B)(iii), added pars. (9) and (10).
+2011—Subsec. (a)(1). Pub. L. 111–383, § 895(b)(1), substituted “Supplying, equipping, and supporting” for “Supplying and equipping” in introductory provisions.
+Subsec. (a)(2). Pub. L. 111–383, § 895(b)(2), substituted “logistics, and other activities in support of” for “and logistics for”.
+Subsec. (a)(4). Pub. L. 111–383, § 895(b)(3), substituted “, produce, and support” for “and produce”.
+Subsec. (a)(6) to (8). Pub. L. 111–383, § 895(b)(4), added pars. (6) and (7) and redesignated former par. (6) as (8).
+2009—Subsec. (a)(6). Pub. L. 111–23 added par. (6).
+1996—Pub. L. 104–106, § 1081(a)(2), substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
+Subsec. (a). Pub. L. 104–106, § 1081(a)(1)(A)(i), substituted “National Security” for “Defense Policy” in heading.
+Subsec. (a)(5). Pub. L. 104–201 added par. (5).
+Pub. L. 104–106, § 1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policy objectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
+Subsecs. (b), (c). Pub. L. 104–106, § 1081(a)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
+1993—Subsec. (a)(1)(A). Pub. L. 103–35 substituted “section 108” for “section 104”.
+Subsec. (a)(5). Pub. L. 103–160, § 1313, added par. (5).
+Subsec. (b)(2). Pub. L. 103–160, § 1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
+
+Expansion of the Industrial BasePub. L. 111–383, div. A, title VIII, § 891, Jan. 7, 2011, 124 Stat. 4310, provided that:
+“(a) Program To Expand Industrial Base Required.—The Secretary of Defense shall establish a program to expand the industrial base of the Department of Defense to increase the Department’s access to innovation and the benefits of competition.
+
+“(b) Identifying and Communicating With Firms That Are Not Traditional Suppliers.—The program established under subsection (a) shall use tools and resources available within the Federal Government and available from the private sector to provide a capability for identifying and communicating with firms that are not traditional suppliers, including commercial firms and firms of all business sizes, that are engaged in markets of importance to the Department of Defense in which such firms can make a significant contribution.
+
+“(c) Outreach to Local Firms Near Defense Installations.—The program established under subsection (a) shall include outreach, using procurement technical assistance centers, to firms of all business sizes in the vicinity of Department of Defense installations regarding opportunities to obtain contracts and subcontracts to perform work at such installations.
+
+“(d) Industrial Base Review.—The program established under subsection (a) shall include a continuous effort to review the industrial base supporting the Department of Defense, including the identification of markets of importance to the Department of Defense in which firms that are not traditional suppliers can make a significant contribution.
+
+“(e) Firms That Are Not Traditional Suppliers.—For purposes of this section, a firm is not a traditional supplier of the Department of Defense if it does not currently have contracts and subcontracts to perform work for the Department of Defense with a total combined value in excess of $500,000.
+
+“(f) Procurement Technical Assistance Center.—In this section, the term ‘procurement technical assistance center’ means a center operating under a cooperative agreement with the Defense Logistics Agency to provide procurement technical assistance pursuant to the authority provided in chapter 142 of title 10, United States Code.”
+
+
+
+
+Executive Agent for Printed Circuit Board TechnologyPub. L. 110–417, [div. A], title II, § 256, Oct. 14, 2008, 122 Stat. 4404, provided that:
+“(a) Executive Agent.—Not later than 90 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary of Defense shall designate a senior official of the Department of Defense to act as the executive agent for printed circuit board technology.
+
+“(b) Roles, Responsibilities, and Authorities.—“(1) Establishment.—Not later than one year after the date of the enactment of this Act [Oct. 14, 2008], and in accordance with Directive 5101.1, the Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a).
+
+“(2) Specification.—The roles and responsibilities of the executive agent designated under subsection (a) shall include each of the following:“(A) Development and maintenance of a printed circuit board and interconnect technology roadmap that ensures that the Department of Defense has access to the manufacturing capabilities and technical expertise necessary to meet future military requirements regarding such technology.
+
+“(B) Development of recommended funding strategies necessary to meet the requirements of the roadmap developed under subparagraph (A).
+
+“(C) Assessment of the vulnerabilities, trustworthiness, and diversity of the printed circuit board supply chain, including the development of trustworthiness requirements for printed circuit boards used in defense systems, and to develop strategies to address matters that are identified as a result of such assessment.
+
+“(D) Such other roles and responsibilities as the Secretary of Defense considers appropriate.
+
+
+
+“(c) Support Within Department of Defense.—In accordance with Directive 5101.1, the Secretary of Defense shall ensure that the military departments, Defense Agencies, and other components of the Department of Defense provide the executive agent designated under subsection (a) with the appropriate support and resources needed to perform the roles, responsibilities, and authorities of the executive agent.
+
+“(d) Definitions.—In this section:“(1) The term ‘Directive 5101.1’ means Department of Defense Directive 5101.1, or any successor directive relating to the responsibilities of an executive agent of the Department of Defense.
+
+“(2) The term ‘executive agent’ has the meaning given the term ‘DoD Executive Agent’ in Directive 5101.1.”
+
+
+
+
+
+Requirement for Separate Reports on Technology Area Review and Assessment SummariesPub. L. 109–163, div. A, title II, § 253(c), Jan. 6, 2006, 119 Stat. 3180, provided that whenever the Secretary of Defense provided for the conduct of a study referred to as a Technology Area Review and Assessment, the Secretary, not later than March 1 of the year following the year in which that study was conducted, was to submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives a report containing a summary of each such Technology Area Review and Assessment conducted during that year, prior to repeal by Pub. L. 110–181, div. A, title II, § 236, Jan. 28, 2008, 122 Stat. 47.
+
+Essential Items Identification and Domestic Production Capabilities Improvement ProgramPub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, § 841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585, provided that:
+“SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.“No provision of this subtitle [subtitle B (§§ 811–828) of title VIII of div. A of Pub. L. 108–136, enacting section 2436 of this title, amending sections 2533a and 2534 of this title, and enacting provisions set out as notes under sections 2436, 2505, 2521, and 2534 of this title] or any amendment made by this subtitle shall apply to the extent the Secretary of Defense, in consultation with the Secretary of Commerce, the United States Trade Representative, and the Secretary of State, determines that it is inconsistent with United States obligations under an international agreement.
+

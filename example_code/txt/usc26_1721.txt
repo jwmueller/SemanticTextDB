@@ -1,0 +1,68 @@
+§ 6306. Qualified tax collection contracts(a) In generalNothing in any provision of law shall be construed to prevent the Secretary from entering into a qualified tax collection contract.
+
+
+(b) Qualified tax collection contractFor purposes of this section, the term “qualified tax collection contract” means any contract which—(1) is for the services of any person (other than an officer or employee of the Treasury Department)—(A) to locate and contact any taxpayer specified by the Secretary,
+
+(B) to request full payment from such taxpayer of an amount of Federal tax specified by the Secretary and, if such request cannot be met by the taxpayer, to offer the taxpayer an installment agreement providing for full payment of such amount during a period not to exceed 5 years, and
+
+(C) to obtain financial information specified by the Secretary with respect to such taxpayer,
+
+
+(2) prohibits each person providing such services under such contract from committing any act or omission which employees of the Internal Revenue Service are prohibited from committing in the performance of similar services,
+
+(3) prohibits subcontractors from—(A) having contacts with taxpayers,
+
+(B) providing quality assurance services, and
+
+(C) composing debt collection notices, and
+
+
+(4) permits subcontractors to perform other services only with the approval of the Secretary.
+
+
+(c) FeesThe Secretary may retain and use—(1) an amount not in excess of 25 percent of the amount collected under any qualified tax collection contract for the costs of services performed under such contract, and
+
+(2) an amount not in excess of 25 percent of such amount collected for collection enforcement activities of the Internal Revenue Service.
+
+
+The Secretary shall keep adequate records regarding amounts so retained and used. The amount credited as paid by any taxpayer shall be determined without regard to this subsection.
+
+(d) No Federal liabilityThe United States shall not be liable for any act or omission of any person performing services under a qualified tax collection contract.
+
+
+(e) Application of Fair Debt Collection Practices ActThe provisions of the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) shall apply to any qualified tax collection contract, except to the extent superseded by section 6304, section 7602(c), or by any other provision of this title.
+
+
+(f) Cross references(1) For damages for certain unauthorized collection actions by persons performing services under a qualified tax collection contract, see section 7433A.
+
+(2) For application of Taxpayer Assistance Orders to persons performing services under a qualified tax collection contract, see section 7811(g).
+
+
+(Added Pub. L. 108–357, title VIII, § 881(a)(1), Oct. 22, 2004, 118 Stat. 1625.)
+
+
+References in TextThe Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+
+Effective DatePub. L. 108–357, title VIII, § 881(f), Oct. 22, 2004, 118 Stat. 1627, provided that: “The amendments made to [by] this section [enacting this section and section 7433A of this title, amending sections 7809 and 7811 of this title, and amending provisions set out as a note under section 7804 of this title] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].”
+
+
+Biennial ReportPub. L. 108–357, title VIII, § 881(e), Oct. 22, 2004, 118 Stat. 1627, provided that: 
+“The Secretary of the Treasury shall biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under section 6306 of the Internal Revenue Code of 1986 (as added by this section) which includes—
+“(1) a complete cost benefit analysis,
+
+“(2) the impact of such contracts on collection enforcement staff levels in the Internal Revenue Service,
+
+“(3) the impact of such contracts on the total number and amount of unpaid assessments, and on the number and amount of assessments collected by Internal Revenue Service personnel after initial contact by a contractor,
+
+“(4) the amounts collected and the collection costs incurred (directly and indirectly) by the Internal Revenue Service,
+
+“(5) an evaluation of contractor performance,
+
+“(6) a disclosure safeguard report in a form similar to that required under section 6103(p)(5) of such Code, and
+
+“(7) a measurement plan which includes a comparison of the best practices used by the private collectors with the Internal Revenue Service’s own collection techniques and mechanisms to identify and capture information on successful collection techniques used by the contractors which could be adopted by the Internal Revenue Service.”
+
+
+
+
+

@@ -1,0 +1,154 @@
+§ 1941. Persons eligible for loans(a) In general(1) Eligibility requirementsThe Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities as the Secretary considers appropriate, that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, individuals holding a majority interest in such entity, must (A) be citizens of the United States, (B) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (C) be or will become operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (D) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this subsection, in the case of corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, the family farm requirement of subparagraph (C) of the preceding sentence shall apply as well to the farm or farms in which the entity has an operator interest and the requirement of subparagraph (D) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities.
+
+
+(2) Special ruleAn entity that is an operator described in paragraph (1) that is owned, in whole or in part, by other entities, shall be considered to meet the direct ownership requirement imposed under paragraph (1) if at least 75 percent of the ownership interests of each embedded entity of the entity is owned directly or indirectly by the individuals that own the family farm.
+
+
+
+(b) Rural youths in 4–H Clubs, Future Farmers of America, etc.(1) Loans may also be made under this subchapter without regard to the requirements of clauses (2) and (3) of subsection (a) of this section to youths to enable them to operate enterprises in connection with their participation in 4–H Clubs, Future Farmers of America, and similar organizations.
+
+(2) A person receiving a loan under this subsection who executes a promissory note therefor shall thereby incur full personal liability for the indebtedness evidenced by such note in accordance with its terms free of any disability of minority.
+
+(3) For loans under this subsection the Secretary may accept the personal liability of a cosigner of the promissory note in addition to the borrowers’ personal liability.
+
+(4) Youth enterprises not farming or ranching.—The operation of an enterprise by a youth under this subsection shall not be considered the operation of a farm or ranch under this chapter.
+
+(5) Equitable considerations for default.—(A) Debt forgiveness.—(i) In general.—The Secretary may, on a case-by-case basis, provide debt forgiveness to a borrower for a loan made under this subsection if the borrower was unable to timely repay the loan due to circumstances beyond the control of the borrower, as determined by the Secretary, including any natural disaster, act of terrorism, or other man-made disaster that results in an inordinate level of damage or disruption severely affecting the borrower.
+
+(ii) Eligibility for future loans.—Notwithstanding any other provision of law, debt forgiveness provided under this subparagraph shall not be used by any Federal agency in determining the eligibility of the borrower for any loan made or guaranteed by the agency.
+
+
+(B) Education loans.—Notwithstanding any other provision of law, if a borrower becomes delinquent or is provided with debt forgiveness with respect to a youth loan made under this subsection, the borrower shall not become ineligible, as a result of the delinquency or debt forgiveness, to receive loans and loan guarantees from the Federal Government to pay for education expenses of the borrower.
+
+
+
+(c) Direct loans(1) In generalSubject to paragraphs (3) and (4), the Secretary may make a direct loan under this subchapter only to a farmer or rancher who—(A) is a qualified beginning farmer or rancher;
+
+(B) has not received a previous direct operating loan made under this subchapter; or
+
+(C) has received a previous direct operating loan made under this subchapter during 6 or fewer years.
+
+
+(2) Definition of direct operating loanIn this subsection, the term “direct operating loan” does not include—(A) a loan made to a youth under subsection (b); or
+
+(B) a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) of this title).
+
+
+(3) Transition ruleIf, as of April 4, 1996, a farmer or rancher has received a direct operating loan under this subchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996.
+
+
+(4) Waivers(A) Farm and ranch operations on tribal landsThe Secretary shall waive the limitation under paragraph (1)(C) or (3) for a direct loan made under this subchapter to a farmer or rancher whose farm or ranch land is subject to the jurisdiction of an Indian tribe and whose loan is secured by 1 or more security instruments that are subject to the jurisdiction of an Indian tribe if the Secretary determines that commercial credit is not generally available for such farm or ranch operations.
+
+
+(B) Other farm and ranch operationsOn a case-by-case determination not subject to administrative appeal, the Secretary may grant a borrower a waiver, 1 time only for a period of 2 years, of the limitation under paragraph (1)(C) or (3) for a direct operating loan if the borrower demonstrates to the satisfaction of the Secretary that—(i) the borrower has a viable farm or ranch operation;
+
+(ii) the borrower applied for commercial credit from at least 2 commercial lenders;
+
+(iii) the borrower was unable to obtain a commercial loan (including a loan guaranteed by the Secretary); and
+
+(iv) the borrower successfully has completed, or will complete within 1 year, borrower training under section 2006a of this title (from which requirement the Secretary shall not grant a waiver under section 2006a(f) of this title).
+
+
+
+(5) Annual report on term limits on direct operating loans(A) In generalThe Secretary shall prepare a report annually that describes—(i) the status of the direct operating loan program of the Department of Agriculture; and
+
+(ii) the impact of term limits on direct loan borrowers.
+
+
+(B) Demographic information(i) In generalThe report shall provide a demographic breakdown, on a State-by-State basis, of—(I) all direct loan borrowers; and
+
+(II) borrowers that have reached the eligibility limit for direct lending programs during the previous calendar year.
+
+
+(ii) Demographic informationThe available demographic information shall include, to the maximum extent practicable, a description of race or ethnicity, gender, age, type of farm or ranch, financial classification, number of years of indebtedness, veteran status, and other similar information, as determined by the Secretary.
+
+
+
+(C) Additional contentIn addition to information described in subparagraph (B), the report shall provide—(i) a demographic analysis of the borrowers impacted by term limits;
+
+(ii) information on the conditions impacting the direct lending portfolio of the Department of Agriculture, including impacts by region and agriculture sector, and credit availability within those regions and sectors;
+
+(iii) to the maximum extent practicable, information on the status of borrower operations impacted by term limits; and
+
+(iv) recommendations, if appropriate, to address any identifiable unmet credit needs.
+
+
+(D) SubmissionThe Secretary shall—(i) annually submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the report; and
+
+(ii) make the report available to the public, including posting the report on the website of the Department of Agriculture.
+
+
+
+
+(Pub. L. 87–128, title III, § 311, Aug. 8, 1961, 75 Stat. 310; Pub. L. 92–419, title I, § 120(a), Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, § 114, Aug. 4, 1978, 92 Stat. 425; Pub. L. 97–98, title XVI, § 1601(b), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§ 1301(a), 1302(b), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §§ 611, 661(f), Apr. 4, 1996, 110 Stat. 1087, 1107; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 805(2)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§ 5101, 5302(a), May 13, 2002, 116 Stat. 343, 344; Pub. L. 110–234, title V, § 5101, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5101, June 18, 2008, 122 Stat. 1664, 1907; Pub. L. 113–79, title V, §§ 5101–5104, 5106(b)(1), Feb. 7, 2014, 128 Stat. 834–836, 838.)
+
+
+References in TextFor definition of “this chapter”, referred to in subsec. (b)(4), see note set out under section 1921 of this title.
+
+Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2014—Subsec. (a)(1). Pub. L. 113–79, § 5101(1)–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)” and “subparagraph (D)” for “clause (4)”.
+Subsec. (a)(2). Pub. L. 113–79, § 5101(6), added par. (2).
+Subsec. (b)(1). Pub. L. 113–79, § 5102, struck out “who are rural residents” after “youths”.
+Subsec. (b)(5). Pub. L. 113–79, § 5103, added par. (5).
+Subsec. (c)(2). Pub. L. 113–79, § 5106(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In this subsection, the term ‘direct operating loan’ shall not include a loan made to a youth under subsection (b) of this section.”
+Subsec. (c)(5). Pub. L. 113–79, § 5104, added par. (5).
+2008—Pub. L. 110–246, § 5101, inserted section catchline and, in subsec. (a), inserted heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
+2002—Subsec. (a). Pub. L. 107–171, § 5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
+Subsec. (c)(1). Pub. L. 107–171, § 5101(1)(A), substituted “paragraphs (3) and (4)” for “paragraph (3)” in introductory provisions.
+Subsec. (c)(1)(A). Pub. L. 107–171, § 5101(1)(B), struck out “who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 5 years” before semicolon.
+Subsec. (c)(4). Pub. L. 107–171, § 5101(2), added par. (4).
+1998—Subsec. (a). Pub. L. 105–277 inserted “for direct loans only,” before “have either” in cl. (2).
+1996—Subsec. (b)(1). Pub. L. 104–127, § 661(f), struck out “and for the purposes specified in section 1942 of this title” before period at end.
+Subsec. (b)(4). Pub. L. 104–127, § 611(b), added par. (4).
+Subsec. (c). Pub. L. 104–127, § 611(a), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1942 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
+1985—Subsec. (a). Pub. L. 99–198, § 1301(a), substituted—
+(1) “, partnerships, and joint operations” for “and partnerships” wherever appearing after “corporations”;
+(2) “, partnerships, and joint operations” for “, and partnerships” wherever appearing after “corporations”; and
+(3) “individuals” for “members, stockholders, or partners, as applicable,” wherever appearing.
+Pub. L. 99–198, § 1303, in cl. (3) parenthetical, inserted provision treating blood or marriage related owner-operators of the entire farm interest as separate interest holders of not larger than family farms though collective ownership constitutes a larger than a family farm.
+Subsec. (c). Pub. L. 99–198, § 1302(b), added subsec. (c).
+1981—Subsec. (a). Pub. L. 97–98 substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm” and “as well to the entity in the case of cooperatives, corporations, and partnerships” for “as well to the entity”.
+1978—Pub. L. 95–334 substituted provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations and partnerships controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, for provisions setting forth eligibility criteria for loans to farmers and ranchers in the United States, Puerto Rico, and the Virgin Islands.
+1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and added subsec. (b).
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Effective Date of 1996 AmendmentAmendment by section 611 of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, and amendment by section 661(f) of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+
+Effective Date of 1981 AmendmentAmendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+Farm Operating Loan EligibilityPub. L. 106–224, title II, § 255, June 20, 2000, 114 Stat. 424, provided that: 
+“During the period beginning on the date of the enactment of this Act [June 20, 2000] and ending on December 31, 2002—
+“(1) sections 311(c) and 319 of the Consolidated Farm and Rural Development Act (7 U.S.C. 1941(c), 1949) shall have no force or effect; and
+
+“(2) in making direct loans under subtitle B of that Act (7 U.S.C. 1941 et seq.), the Secretary shall give priority to a qualified beginning farmer or rancher who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 5 years.”
+
+
+
+
+Authority of Secretary To Make or Guarantee Certain LoansPub. L. 104–134, title II, § 2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B [7 U.S.C. 1941 et seq.] or an emergency loan under Subtitle C [7 U.S.C. 1961 et seq.] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
+
+
+1989 Farm Operating LoansPub. L. 101–82, title III, § 302, Aug. 14, 1989, 103 Stat. 582, provided that:
+“(a) Direct Credit.—To the maximum extent practicable, the Secretary of Agriculture shall ensure that direct operating loans made or insured under subtitle B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1941 et seq.) for 1990 crop production are made available to farmers and ranchers suffering major losses due to excess moisture, freeze, storm, or related condition occurring in 1989 or drought or related condition occurring in 1988 or 1989, as authorized under existing law and under regulations of the Secretary that implement the objective of enabling farmers and ranchers to stay in business.
+
+“(b) Loan Guarantees.—“(1) In general.—Notwithstanding any other provision of law, the Secretary shall make available in fiscal year 1990 guarantees to commercial or cooperative lenders for loans under subtitle B of the Consolidated Farm and Rural Development Act [7 U.S.C. 1941 et seq.], to refinance and reamortize 1989 operating loans, or 1989 or 1990 installments due and payable on real estate debt, farm equipment or building (including storage facilities) debt, livestock loans, or other operating debt, of farmers and ranchers that otherwise cannot be repaid due to major losses incurred by such farmers or ranchers as a result of excess moisture, freeze, storm, or related condition occurring in 1989 or drought or related condition occurring in 1988 or 1989.
+
+“(2) Reamortization.—Each fiscal year 1990 guaranteed loan for 1988 or 1989 natural disaster purposes, as described in paragraph (1), shall contain terms and conditions governing the reamortization of the debt of the farmer or rancher that will provide the farmer or rancher a reasonable opportunity to continue to receive new operating credit while repaying the guaranteed loan, as determined by the Secretary.
+
+“(3) Eligibility.—Notwithstanding any other provision of law, any person eligible to receive payments under subtitle A of title I [7 U.S.C. 1421 note] shall be deemed eligible to have guaranteed, in accordance with this subsection, loans made to such person by a commercial or cooperative lender to refinance installment payments that are or become due and payable during 1989 or 1990, as described in paragraph (1), except that, to be deemed eligible to have such loan guaranteed, the person must otherwise—“(A) be current in the person’s obligation to the commercial or cooperative lender that agrees to accept the guarantee in consideration of allowing the person to make the 1989 or 1990 payment or installment over a period of time not to exceed 6 years from the original due date of such payment or installment; and
+
+“(B) meet the criteria for guaranteed loan borrowers under subtitle B of the Consolidated Farm and Rural Development Act established by the Secretary.
+
+
+
+“(c) Use of Agricultural Credit Insurance Fund.—For purposes of providing guaranteed loans in accordance with subsection (b), in addition to funds otherwise available, the Secretary may use any funds available from the Agricultural Credit Insurance Fund during fiscal years [sic] 1989 or 1990 for emergency insured and guaranteed loans under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.) to meet the needs resulting from natural disasters, except that funds available from such Fund first shall be used to satisfy the level of assistance estimated by the Secretary to meet the needs of persons eligible for emergency disaster loans.”
+
+
+
+Similar provisions were contained in the following prior act:
+Pub. L. 100–387, title III, § 312, Aug. 11, 1988, 102 Stat. 948.
+
+

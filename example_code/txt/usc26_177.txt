@@ -1,0 +1,69 @@
+§ 139. Disaster relief payments(a) General ruleGross income shall not include any amount received by an individual as a qualified disaster relief payment.
+
+
+(b) Qualified disaster relief payment definedFor purposes of this section, the term “qualified disaster relief payment” means any amount paid to or for the benefit of an individual—(1) to reimburse or pay reasonable and necessary personal, family, living, or funeral expenses incurred as a result of a qualified disaster,
+
+(2) to reimburse or pay reasonable and necessary expenses incurred for the repair or rehabilitation of a personal residence or repair or replacement of its contents to the extent that the need for such repair, rehabilitation, or replacement is attributable to a qualified disaster,
+
+(3) by a person engaged in the furnishing or sale of transportation as a common carrier by reason of the death or personal physical injuries incurred as a result of a qualified disaster, or
+
+(4) if such amount is paid by a Federal, State, or local government, or agency or instrumentality thereof, in connection with a qualified disaster in order to promote the general welfare,
+
+
+but only to the extent any expense compensated by such payment is not otherwise compensated for by insurance or otherwise.
+
+(c) Qualified disaster definedFor purposes of this section, the term “qualified disaster” means—(1) a disaster which results from a terroristic or military action (as defined in section 692(c)(2)),
+
+(2) federally 11 So in original. Probably should be preceded by “a”. declared disaster (as defined by section 165(h)(3)(C)(i)),
+
+(3) a disaster which results from an accident involving a common carrier, or from any other event, which is determined by the Secretary to be of a catastrophic nature, or
+
+(4) with respect to amounts described in subsection (b)(4), a disaster which is determined by an applicable Federal, State, or local authority (as determined by the Secretary) to warrant assistance from the Federal, State, or local government or agency or instrumentality thereof.
+
+
+(d) Coordination with employment taxesFor purposes of chapter 2 and subtitle C, qualified disaster relief payments and qualified disaster mitigation payments shall not be treated as net earnings from self-employment, wages, or compensation subject to tax.
+
+
+(e) No relief for certain individualsSubsections (a), (f), and (g) shall not apply with respect to any individual identified by the Attorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
+
+
+(f) Exclusion of certain additional paymentsGross income shall not include any amount received as payment under section 406 of the Air Transportation Safety and System Stabilization Act.
+
+
+(g) Qualified disaster mitigation payments(1) In generalGross income shall not include any amount received as a qualified disaster mitigation payment.
+
+
+(2) Qualified disaster mitigation payment definedFor purposes of this section, the term “qualified disaster mitigation payment” means any amount which is paid pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date) to or for the benefit of the owner of any property for hazard mitigation with respect to such property. Such term shall not include any amount received for the sale or disposition of any property.
+
+
+(3) No increase in basisNotwithstanding any other provision of this subtitle, no increase in the basis or adjusted basis of any property shall result from any amount excluded under this subsection with respect to such property.
+
+
+
+(h) Denial of double benefitNotwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
+
+
+(Added Pub. L. 107–134, title I, § 111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, § 1(a), Apr. 15, 2005, 119 Stat. 21; Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(iv), Oct. 3, 2008, 122 Stat. 3922.)
+
+
+References in TextSection 406 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (f), is section 406 of Pub. L. 107–42, which is set out as a note under section 40101 of Title 49, Transportation.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The date of the enactment of this subsection, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
+The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+
+Prior ProvisionsA prior section 139 was renumbered section 140 of this title.
+
+Amendments2008—Subsec. (c)(2). Pub. L. 110–343 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a Presidentially declared disaster (as defined in section 1033(h)(3)),”.
+2005—Subsec. (d). Pub. L. 109–7, § 1(a)(2)(A), substituted “qualified disaster relief payments and qualified disaster mitigation payments” for “a qualified disaster relief payment”.
+Subsec. (e). Pub. L. 109–7, § 1(a)(2)(B), substituted “, (f), and (g)” for “and (f)”.
+Subsecs. (g), (h). Pub. L. 109–7, § 1(a)(1), added subsecs. (g) and (h).
+
+Effective Date of 2008 AmendmentAmendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
+
+Effective Date of 2005 AmendmentPub. L. 109–7, § 1(c)(1), Apr. 15, 2005, 119 Stat. 22, provided that: “The amendments made by subsection (a) [amending this section] shall apply to amounts received before, on, or after the date of the enactment of this Act [Apr. 15, 2005].”
+
+
+Effective DatePub. L. 107–134, title I, § 111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: “The amendments made by this section [enacting this section and renumbering former section 139 as section 140 of this title] shall apply to taxable years ending on or after September 11, 2001.”
+
+
+

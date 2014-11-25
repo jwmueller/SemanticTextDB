@@ -1,0 +1,127 @@
+§ 10101. Definitions
+In this title:(1) Administration.—The term “Administration” means the National Aeronautics and Space Administration.
+
+(2) Administrator.—The term “Administrator” means the Administrator of the National Aeronautics and Space Administration.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3329.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10101(no source) 
+
+
+Title-wide definitions for the terms “Administration” and “Administrator” are added for clarity and convenience.
+
+Short Title of 2013 AmendmentPub. L. 112–273, § 1, Jan. 14, 2013, 126 Stat. 2454, provided that: “This Act [amending section 50915 of this title, section 18313 of Title 42, The Public Health and Welfare, and provisions set out as a note under section 1701 of Title 50, War and National Defense] may be cited as the ‘Space Exploration Sustainability Act’.”
+
+
+Short Title of 2008 ActPub. L. 110–422, § 1(a), Oct. 15, 2008, 122 Stat. 4779, provided that: “This Act [see Tables for classification] may be cited as the ‘National Aeronautics and Space Administration Authorization Act of 2008’.”
+
+
+Short Title of 2005 ActPub. L. 109–155, § 1(a), Dec. 30, 2005, 119 Stat. 2895, provided that: “This Act [see Tables for classification] may be cited as the ‘National Aeronautics and Space Administration Authorization Act of 2005’.”
+
+
+Short Title of 2004 ActPub. L. 108–492, § 1, Dec. 23, 2004, 118 Stat. 3974, provided that: “This Act [see Tables for classification] may be cited as the ‘Commercial Space Launch Amendments Act of 2004’.”
+
+
+Short Title of 2002 ActPub. L. 107–248, title IX, § 901, Oct. 23, 2002, 116 Stat. 1573, provided that: “This title [see Tables for classification] may be cited as the ‘Commercial Reusable In-Space Transportation Act of 2002’.”
+
+
+Short Title of 2000 ActPub. L. 106–405, § 1, Nov. 1, 2000, 114 Stat. 1751, provided that: “This Act [see Tables for classification] may be cited as the ‘Commercial Space Transportation Competitiveness Act of 2000’.”
+
+
+Short Title of 1998 ActPub. L. 105–303, § 1(a), Oct. 28, 1998, 112 Stat. 2843, provided that: “This Act [see Tables for classification] may be cited as the ‘Commercial Space Act of 1998’.”
+
+
+Short Title of 1992 ActPub. L. 102–555, § 1, Oct. 28, 1992, 106 Stat. 4163, provided that: “This Act [see Tables for classification] may be cited as the ‘Land Remote Sensing Policy Act of 1992’.”
+
+
+Short Title of 1990 ActPub. L. 101–611, title II, § 201, Nov. 16, 1990, 104 Stat. 3205, provided that: “This title [see Tables for classification] may be cited as the ‘Launch Services Purchase Act of 1990’.”
+
+
+Short Title of 1987 ActPub. L. 100–147, title II, § 201, Oct. 30, 1987, 101 Stat. 869, provided that: “This title [see Tables for classification] may be cited as the ‘National Space Grant College and Fellowship Act’.”
+
+
+Short Title of 1958 ActPub. L. 85–568, title I, § 101, July 29, 1958, 72 Stat. 426, provided that: “This Act [see Tables for classification] may be cited as the ‘National Aeronautics and Space Act of 1958’.”
+
+
+
+Definitions
+Pub. L. 111–358, title II, § 206, Jan. 4, 2011, 124 Stat. 3996, provided that: 
+“In this title [amending section 18421 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 20303 of this title, preceding sections 30501 and 40901 of this title, and under section 18421 of Title 42]:
+“(1) Administrator.—The term ‘Administrator’ means the Administrator of NASA.
+
+“(2) NASA.—The term ‘NASA’ means the National Aeronautics and Space Administration.”
+
+
+
+Pub. L. 110–422, § 3, Oct. 15, 2008, 122 Stat. 4782, provided that: 
+“In this Act [see Short Title of 2008 Act note above]:
+“(1) Administrator.—The term ‘Administrator’ means the Administrator of NASA.
+
+“(2) NASA.—The term ‘NASA’ means the National Aeronautics and Space Administration.
+
+“(3) NOAA.—The term ‘NOAA’ means the National Oceanic and Atmospheric Administration.
+
+“(4) OSTP.—The term ‘OSTP’ means the Office of Science and Technology Policy.”
+
+
+
+Pub. L. 109–155, § 2, Dec. 30, 2005, 119 Stat. 2897, provided that: 
+“In this Act [see Short Title of 2005 Act note above]:
+“(1) Administrator.—The term ‘Administrator’ means the Administrator of the National Aeronautics and Space Administration.
+
+“(2) ISS.—The term ‘ISS’ means the International Space Station.
+
+“(3) NASA.—The term ‘NASA’ means the National Aeronautics and Space Administration.”
+
+
+
+Pub. L. 106–391, § 3, Oct. 30, 2000, 114 Stat. 1579, provided that: 
+“For purposes of this Act [see Tables for classification]—
+“(1) the term ‘Administrator’ means the Administrator of the National Aeronautics and Space Administration;
+
+“(2) the term ‘commercial provider’ means any person providing space transportation services or other space-related activities, the primary control of which is held by persons other than a Federal, State, local, or foreign government;
+
+“(3) the term ‘critical path’ means the sequence of events of a schedule of events under which a delay in any event causes a delay in the overall schedule;
+
+“(4) the term ‘grant agreement’ has the meaning given that term in section 6302(2) of title 31, United States Code;
+
+“(5) the term ‘institution of higher education’ has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001);
+
+“(6) the term ‘State’ means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States; and
+
+“(7) the term ‘United States commercial provider’ means a commercial provider, organized under the laws of the United States or of a State, which is—“(A) more than 50 percent owned by United States nationals; or
+
+“(B) a subsidiary of a foreign company and the Secretary of Commerce finds that—“(i) such subsidiary has in the past evidenced a substantial commitment to the United States market through—     “(I) investments in the United States in long-term research, development, and manufacturing (including the manufacture of major components and subassemblies); and
+
+     “(II) significant contributions to employment in the United States; and
+
+
+“(ii) the country or countries in which such foreign company is incorporated or organized, and, if appropriate, in which it principally conducts its business, affords reciprocal treatment to companies described in subparagraph (A) comparable to that afforded to such foreign company’s subsidiary in the United States, as evidenced by—     “(I) providing comparable opportunities for companies described in subparagraph (A) to participate in Government sponsored research and development similar to that authorized under this Act;
+
+     “(II) providing no barriers to companies described in subparagraph (A) with respect to local investment opportunities that are not provided to foreign companies in the United States; and
+
+     “(III) providing adequate and effective protection for the intellectual property rights of companies described in subparagraph (A).”
+
+
+
+
+
+
+
+

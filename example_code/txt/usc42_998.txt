@@ -1,0 +1,35 @@
+§ 300e–6. Administration of assistance programs(a) Recordkeeping; audit and examination(1) Each recipient of a loan or loan guarantee under this subchapter shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of the loan (directly made or guaranteed), the total cost of the undertaking in connection with which the loan was given or used, the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+
+(2) The Secretary, or any of his duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of a loan or loan guarantee under this subchapter which relate to such assistance.
+
+
+(b) Report upon expiration of periodUpon expiration of the period for which a loan or loan guarantee was provided an entity under this subchapter, such entity shall make a full and complete report to the Secretary in such manner as he may by regulation prescribe. Each such report shall contain, among such other matters as the Secretary may by regulation require, descriptions of plans, developments, and operations relating to the matters referred to in section 300e–5(b)(3) of this title.
+
+
+(c) Repealed. Pub. L. 99–660, title VIII, § 803(a), Nov. 14, 1986, 100 Stat. 3799
+
+(d) Other entities considered health maintenance organizationsAn entity which provides health services to a defined population on a prepaid basis and which has members who are entitled to insurance benefits under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] or to medical assistance under a State plan approved under title XIX of such Act [42 U.S.C. 1396 et seq.] may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if—(1) with respect to its members who are entitled to such insurance benefits or to such medical assistance it (A) provides health services in accordance with section 300e(b) of this title, except that (i) it does not furnish to those members the health services (within the basic health services) for which it may not be compensated under such title XVIII [42 U.S.C. 1395 et seq.] or such State plan, and (ii) it does not fix the basic or supplemental health services payment for such members under a community rating system, and (B) is organized and operated in the manner prescribed by section 300e(c) of this title, except that it does not assume full financial risk on a prospective basis for the provision to such members of basic or supplemental health services with respect to which it is not required under such title XVIII or such State plan to assume such financial risk; and
+
+(2) with respect to its other members it provides health services in accordance with section 300e(b) of this title and is organized and operated in the manner prescribed by section 300e(c) of this title.
+
+
+An entity which provides health services to a defined population on a prepaid basis and which has members who are enrolled under the health benefits program authorized by chapter 89 of title 5, may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if with respect to its other members it provides health services in accordance with section 300e(b) of this title and is organized and operated in the manner prescribed by section 300e(c) of this title.
+
+(July 1, 1944, ch. 373, title XIII, § 1307, as added Pub. L. 93–222, § 2, Dec. 29, 1973, 87 Stat. 926; amended Pub. L. 94–460, title I, §§ 109(b)(1), 112, Oct. 8, 1976, 90 Stat. 1950, 1953; Pub. L. 97–35, title IX, § 943(d), Aug. 13, 1981, 95 Stat. 576; Pub. L. 99–660, title VIII, § 803(a), (b)(2), Nov. 14, 1986, 100 Stat. 3799, 3800.)
+
+
+References in TextThe Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Amendments1986—Subsec. (a)(1). Pub. L. 99–660, § 803(b)(2), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
+Subsecs. (a)(2), (b). Pub. L. 99–660, § 803(b)(2)(A), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”.
+Subsec. (c). Pub. L. 99–660, § 803(a), struck out subsec. (c) which read as follows: “If in any fiscal year the funds appropriated under section 300e–8 of this title are insufficient to fund all applications approved under this subchapter for that fiscal year, the Secretary shall, after applying the applicable priorities under sections 300e–2 and 300e–3 of this title, give priority to the funding of applications for projects which the Secretary determines are the most likely to be economically viable.”
+1981—Subsec. (e). Pub. L. 97–35 struck out subsec. (e) which related to limitation on cumulative total of loan guarantees in any fiscal year.
+1976—Subsec. (d). Pub. L. 94–460, § 112, inserted sentence at end setting conditions upon which an entity providing health services to a defined population on a prepaid basis may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter.
+Subsec. (e). Pub. L. 94–460, § 109(b)(1), inserted “for a private health maintenance organization (other than a private nonprofit health maintenance organization)” after “may be made”, and “for private health maintenance organizations (other than private nonprofit health maintenance organizations)” after “guaranteed”.
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–660 not applicable to any grant made or contract entered into under this subchapter before Oct. 1, 1985, see section 803(c) of Pub. L. 99–660, set out as a note under section 300e–5 of this title.
+Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub. L. 99–660, set out as an Effective and Termination Dates of 1986 Amendment note under section 300e–1 of this title.
+
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–460 effective Oct. 8, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
+
+

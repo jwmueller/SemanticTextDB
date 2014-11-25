@@ -1,0 +1,167 @@
+§ 1671. Countervailing duties imposed(a) General ruleIf—(1) the administering authority determines that the government of a country or any public entity within the territory of a country is providing, directly or indirectly, a countervailable subsidy with respect to the manufacture, production, or export of a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States, and
+
+(2) in the case of merchandise imported from a Subsidies Agreement country, the Commission determines that—(A) an industry in the United States—(i) is materially injured, or
+
+(ii) is threatened with material injury, or
+
+
+(B) the establishment of an industry in the United States is materially retarded,
+
+
+by reason of imports of that merchandise or by reason of sales (or the likelihood of sales) of that merchandise for importation,
+
+
+then there shall be imposed upon such merchandise a countervailing duty, in addition to any other duty imposed, equal to the amount of the net countervailable subsidy. For purposes of this subsection and section 1671d(b)(1) of this title, a reference to the sale of merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
+
+(b) Subsidies Agreement countryFor purposes of this subtitle, the term “Subsidies Agreement country” means—(1) a WTO member country,
+
+(2) a country which the President has determined has assumed obligations with respect to the United States which are substantially equivalent to the obligations under the Subsidies Agreement, or
+
+(3) a country with respect to which the President determines that—(A) there is an agreement in effect between the United States and that country which—(i) was in force on December 8, 1994, and
+
+(ii) requires unconditional most-favored-nation treatment with respect to articles imported into the United States, and
+
+
+(B) the agreement described in subparagraph (A) does not expressly permit—(i) actions required or permitted by the GATT 1947 or GATT 1994, as defined in section 3501(1) of this title, or required by the Congress, or
+
+(ii) nondiscriminatory prohibitions or restrictions on importation which are designed to prevent deceptive or unfair practices.
+
+
+
+
+(c) Countervailing duty investigations involving imports not entitled to a material injury determinationIn the case of any article or merchandise imported from a country which is not a Subsidies Agreement country—(1) no determination by the Commission under section 1671b(a), 1671c, or 1671d(b) of this title shall be required,
+
+(2) an investigation may not be suspended under section 1671c(c) or 1671c(l) of this title,
+
+(3) no determination as to the presence of critical circumstances shall be made under section 1671b(e) or 1671d(a)(2) of this title,
+
+(4) section 1671e(c) of this title shall not apply,
+
+(5) any reference to a determination described in paragraph (1) or (3), or to the suspension of an investigation under section 1671c(c) or 1671c(l) of this title, shall be disregarded, and
+
+(6) section 1675(c) of this title shall not apply.
+
+
+(d) Treatment of international consortiaFor purposes of this part, if the members (or other participating entities) of an international consortium that is engaged in the production of subject merchandise receive countervailable subsidies from their respective home countries to assist, permit, or otherwise enable their participation in that consortium through production or manufacturing operations in their respective home countries, then the administering authority shall cumulate all such countervailable subsidies, as well as countervailable subsidies provided directly to the international consortium, in determining any countervailing duty upon such merchandise.
+
+
+(e) Upstream subsidiesWhenever the administering authority has reasonable grounds to believe or suspect that an upstream subsidy, as defined in section 1677–1(a)(1) 11 So in original. Probably should be section “1677–1(a)”. of this title, is being paid or bestowed, the administering authority shall investigate whether an upstream subsidy has in fact been paid or bestowed, and if so, shall include the amount of the upstream subsidy as provided in section 1677–1(a)(3) 22 So in original. Probably should be section “1677–1(c)”. of this title.
+
+
+(f) Applicability to proceedings involving nonmarket economy countries(1) In generalExcept as provided in paragraph (2), the merchandise on which countervailing duties shall be imposed under subsection (a) includes a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country.
+
+
+(2) ExceptionA countervailing duty is not required to be imposed under subsection (a) on a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country if the administering authority is unable to identify and measure subsidies provided by the government of the nonmarket economy country or a public entity within the territory of the nonmarket economy country because the economy of that country is essentially comprised of a single entity.
+
+
+
+(June 17, 1930, ch. 497, title VII, § 701, as added Pub. L. 96–39, title I, § 101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§ 602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, § 1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§ 1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, § 9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§ 233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917; Pub. L. 112–99, § 1(a), Mar. 13, 2012, 126 Stat. 265.)
+
+Amendments2012—Subsec. (f). Pub. L. 112–99 added subsec. (f).
+1994—Subsecs. (a) to (c). Pub. L. 103–465, § 262, amended subsecs. (a) to (c) generally, substituting present provisions for provisions which generally authorized the imposition of countervailing duties, defined “country under the Agreement”, and provided for revocation of status as country under the Agreement.
+Subsec. (d). Pub. L. 103–465, § 270(b)(1)(A), substituted “countervailable subsidies” for “subsidies” wherever appearing.
+Pub. L. 103–465, § 233(a)(5)(A), substituted “subject merchandise” for “a class or kind of merchandise subject to a countervailing duty investigation”.
+Subsec. (f). Pub. L. 103–465, § 261(d)(1)(B)(iii), struck out subsec. (f) which provided for cross reference to section 1303 of this title for provisions of law applicable in the case of merchandise which was product of country other than country under the Agreement.
+1988—Subsec. (c). Pub. L. 100–418, § 1314(2), added subsec. (c). Former subsec. (c) relating to upstream subsidies redesignated (d).
+Subsec. (d). Pub. L. 100–647 redesignated subsec. (d), relating to cross reference, as (f).
+Pub. L. 100–418, § 1315(2), added subsec. (d) relating to treatment of international consortia. Former subsec. (d), relating to upstream subsidies, redesignated (e).
+Pub. L. 100–418, § 1314(1), redesignated subsec. (c), relating to upstream subsidies, as (d).
+Subsec. (e). Pub. L. 100–418, § 1315(1), redesignated subsec. (d), relating to upstream subsidies, as (e).
+Subsec. (f). Pub. L. 100–647 redesignated subsec (d), relating to cross reference, as (f).
+1986—Subsecs. (c), (d), (g). Pub. L. 99–514 redesignated subsecs. (g) and (c) as (c) and (d), respectively.
+1984—Subsec. (a). Pub. L. 98–573, § 602(a)(1)(C), inserted last sentence which provided that for purposes of this subsection and section 1671d(b)(1) of this title, a reference to the sale of merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
+Subsec. (a)(1). Pub. L. 98–573, § 602(a)(1)(A), inserted “, or sold (or likely to be sold) for importation,” in provisions following subpar. (B).
+Subsec. (a)(2). Pub. L. 98–573, § 602(a)(1)(B), inserted “or by reason of sales (or the likelihood of sales) of that merchandise for importation” in provisions following subpar. (B).
+Subsec. (g). Pub. L. 98–573, § 613(b), added subsec. (g).
+
+Effective Date of 2012 AmendmentPub. L. 112–99, § 1(b), Mar. 13, 2012, 126 Stat. 265, provided that: 
+“Subsection (f) of section 701 of the Tariff Act of 1930 [19 U.S.C. 1671(f)], as added by subsection (a) of this section, applies to—
+“(1) all proceedings initiated under subtitle A of title VII of that Act (19 U.S.C. 1671 et seq.) on or after November 20, 2006;
+
+“(2) all resulting actions by U.S. Customs and Border Protection; and
+
+“(3) all civil actions, criminal proceedings, and other proceedings before a Federal court relating to proceedings referred to in paragraph (1) or actions referred to in paragraph (2).”
+
+
+
+
+Effective Date of 1994 AmendmentAmendment by section 261(d)(1)(B)(iii) of Pub. L. 103–465 effective on the effective date of title II of Pub. L. 103–465, Jan. 1, 1995, see section 261(d)(2) of Pub. L. 103–465, set out as a note under section 1315 of this title.
+Pub. L. 103–465, title II, § 291, Dec. 8, 1994, 108 Stat. 4931, provided that:
+“(a) In General.—Except as provided in section 261 [amending this section and sections 1315, 1337, 1677i, 2192, and 2194 of this title, repealing section 1303 of this title, enacting provisions set out as notes under sections 1303 and 1315 of this title, and amending provisions set out as a note under section 1303 of this title], the amendments made by this title [see Tables for classification] shall take effect on the date described in subsection (b) and apply with respect to—“(1) investigations initiated—“(A) on the basis of petitions filed under section 702(b), 732(b), or 783(b) of the Tariff Act of 1930 [19 U.S.C. 1671a(b), 1673a(b), or 1677n(b)] after the date described in subsection (b), or
+
+“(B) by the administering authority under section 702(a) or 732(a) of such Act after such date,
+
+
+“(2) reviews initiated under section 751 of such Act [19 U.S.C. 1675]—“(A) by the administering authority or the Commission on their own initiative after such date, or
+
+“(B) pursuant to a request filed after such date,
+
+
+“(3) investigations initiated under section 753 of such Act [19 U.S.C. 1675b] after such date,
+
+“(4) petitions filed under section 780 of such Act [19 U.S.C. 1677i] after such date, and
+
+“(5) inquiries initiated under section 781 of such Act [19 U.S.C. 1677j]—“(A) by the administering authority on its own initiative after such date, or
+
+“(B) pursuant to a request filed after such date.
+
+
+
+“(b) Date Described.—The date described in this subsection is the date on which the WTO Agreement (as defined in section 2(9) [19 U.S.C. 3501(9)]) enters into force with respect to the United States [Jan. 1, 1995].”
+
+
+
+
+Effective Date of 1988 AmendmentsAmendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+Pub. L. 100–418, title I, § 1337, Aug. 23, 1988, 102 Stat. 1211, as amended by Pub. L. 100–647, title IX, § 9001(a)(6), Nov. 10, 1988, 102 Stat. 3807, provided that:
+“(a) In General.—Except as otherwise provided in this section, the amendments made by this part [part 2 (§§ 1311–1337) of subtitle C of title I of Pub. L. 100–418, enacting sections 1673h, 1677–2, 1677i to 1677k of this title, amending this section and sections 1516, 1671a to 1671d, 1673a to 1673e, 1675, 1677, 1677b, 1677e, 1677f, and 1677h of this section, and amending provisions set out as a note under section 2253 of this title] shall take effect on the date of enactment of this Act [Aug. 23, 1988].
+
+“(b) Investigations and Reviews After Enactment.—The amendments made by sections 1312, 1315, 1316, 1318, 1325, 1326, 1327, 1328, 1329, 1331, and 1332 [amending this section and sections 1516, 1671a to 1671c, 1673a to 1673c, 1673e, 1677, 1677b, 1677e, and 1677f of this title] shall only apply with respect to—“(1) investigations initiated after the date of enactment of this Act [Aug. 23, 1988], and
+
+“(2) reviews initiated under section 736(c) or 751 of the Tariff Act of 1930 [19 U.S.C. 1673e(c) or 1675] after the date of enactment of this Act [Aug. 23, 1988].
+
+
+“(c) Investigations After Enactment.—The amendments made by sections 1324 and 1330 [amending sections 1671a, 1671b, 1671d, 1673a, 1673b, 1673d, and 1677 of this title] shall only apply with respect to investigations initiated after the date of enactment of this Act [Aug. 23, 1988].
+
+“(d) Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of 1930, as added by section 1321(a) [19 U.S.C. 1677j], and the amendments made by section 1334 [amending section 1677h of this title] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act [Aug. 23, 1988].
+
+“(e) Governmental Importations; Steel.—The amendments made by sections 1322 [amending provisions set out as a note under section 2253 of this title] and 1335 [amending section 1677 of this title] shall apply with respect to entries, and withdrawals from warehouse for consumption, that are liquidated on or after the date of enactment of this Act [Aug. 23, 1988].
+
+“(f) Fictitious Markets.—The amendment made by section 1319 [amending section 1677b of this title] shall only apply with respect to—“(1) reviews initiated under section 736(c) or 751 of the Tariff Act of 1930 [19 U.S.C. 1673e(c) or 1675] after the date of enactment of this Act [Aug. 23, 1988], and
+
+“(2) reviews initiated under such sections—“(A) which are pending on the date of enactment of this Act, and
+
+“(B) in which a request for revocation is pending on the date of enactment of this Act.”
+
+
+
+
+
+
+Effective Date of 1984 AmendmentPub. L. 98–573, title VI, § 626, Oct. 30, 1984, 98 Stat. 3042, as amended by Pub. L. 99–514, title XVIII, § 1886(b), Oct. 22, 1986, 100 Stat. 2922, provided that:
+“(a) Except as provided in subsections (b) and (c), this Act [probably should be “this title”], and the amendments made by it [enacting sections 1671h, 1677–1, and 1677h of this title, amending this section and sections 1671b to 1671e, 1673c, 1673d, 1677a to 1677f, and 1677g of this title, and repealing sections 1673h and 1673i of this title], shall take effect on the date of the enactment of this Act [Oct. 30, 1984].
+
+“(b)(1) The amendments made by sections 602, 609, 611, 612, and 620 [enacting sections 1676, 1676a, and 1677f–1 of this title and amending this section and sections 1514, 1671c, 1671d, 1673, 1673a, 1673c, 1673d, 1675, 1677, and 1677b of this title, section 2631 of Title 28, Judiciary and Judicial Procedure, and provisions set out as a note under this section] shall apply with respect to investigations initiated by petition or by the administering authority under subtitles A and B of title VII of the Tariff Act of 1930 [parts I and II of this subtitle], and to reviews begun under section 751 of that Act [section 1675 of this title], on or after such effective date.
+
+“(2) The amendments made by section 623 [amending section 1516a of this title and sections 2636 and 2647 of Title 28] shall apply with respect to civil actions pending on, or filed on or after, the date of the enactment of this Act [Oct. 30, 1984].
+
+“(3) The administering authority may delay implementation of any of the amendments referred to in subsections (a) and (b)(1) with respect to any investigation in progress on the date of enactment of this Act [Oct. 30, 1984] if the administering authority determines that immediate implementation would prevent compliance with a statutory deadline in title VII of the Tariff Act of 1930 [this subtitle] that is applicable to that investigation.
+
+“(4) The amendment made by section 621 [amending section 1677g of this title] shall apply with respect to merchandise that is unliquidated on or after November 4, 1984.
+
+
+“(c)(1) No provision of title VII of the Tariff Act of 1930 [this subtitle] shall be interpreted to prevent the refiling of a petition under section 702 or 732 of that title [sections 1671a and 1673a of this title] that was filed before the date of the enactment of this title, if the purpose of such refiling is to avail the petitioner of the amendment made by section 612(a)(1) [amending section 1677(4)(A) of this title].
+
+“(2) The amendment made by section 612(a)(1) shall not apply with respect to petitions filed (or refiled under paragraph (1)) under section 702 or 732 of the Tariff Act of 1930 after September 30, 1986.”
+
+
+
+
+
+Effective DatePub. L. 96–39, title I, § 107, July 26, 1979, 93 Stat. 193, provided that: 
+“Except as otherwise provided in this title, this title and the amendments made by it [enacting this subtitle, amending sections 1303, 1337, 2033, and 2251 of this title, repealing sections 160 to 171 of this title, and enacting provisions set out as notes under this section and sections 160 and 1303 of this title] shall take effect on January 1, 1980, if—“(1) the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade (relating to subsidies and countervailing measures), and
+
+“(2) the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade (relating to antidumping measures),
+
+
+approved by the Congress under section 2(a) of this Act [section 2503(a) of this title] have entered into force with respect to the United States as of that date.”

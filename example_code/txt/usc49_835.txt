@@ -1,0 +1,36 @@
+“SEC. 214. PERFORMANCE METRICS.“(a) In General.—Not later than 180 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall establish and begin tracking national airspace system performance metrics, including, at a minimum, metrics with respect to—“(1) actual arrival and departure rates per hour measured against the currently published aircraft arrival rate and aircraft departure rate for the 35 operational evolution partnership airports;
+
+“(2) average gate-to-gate times;
+
+“(3) fuel burned between key city pairs;
+
+“(4) operations using the advanced navigation procedures, including performance based navigation procedures;
+
+“(5) the average distance flown between key city pairs;
+
+“(6) the time between pushing back from the gate and taking off;
+
+“(7) continuous climb or descent;
+
+“(8) average gate arrival delay for all arrivals;
+
+“(9) flown versus filed flight times for key city pairs;
+
+“(10) implementation of NextGen Implementation Plan, or any successor document, capabilities designed to reduce emissions and fuel consumption;
+
+“(11) the Administration’s unit cost of providing air traffic control services; and
+
+“(12) runway safety, including runway incursions, operational errors, and loss of standard separation events.
+
+
+“(b) Baselines.—The Administrator, in consultation with aviation industry stakeholders, shall identify baselines for each of the metrics established under subsection (a) and appropriate methods to measure deviations from the baselines.
+
+“(c) Publication.—The Administrator shall make data obtained under subsection (a) available to the public in a searchable, sortable, and downloadable format through the Web site of the Administration and other appropriate media.
+
+“(d) Report.—Not later than 180 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that contains—“(1) a description of the metrics that will be used to measure the Administration’s progress in implementing NextGen capabilities and operational results;
+
+“(2) information on any additional metrics developed; and
+
+“(3) a process for holding the Administration accountable for meeting or exceeding the metrics baselines identified in subsection (b).
+
+

@@ -1,0 +1,55 @@
+§ 3304. Limitation on construction of facilities to be used primarily by intelligence community(a) In general(1) In generalExcept as provided in subsection (b) of this section, no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President’s annual fiscal year budget request and is specifically authorized by the Congress.
+
+
+(2) NotificationIn the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greater than $1,000,000, the Director of National Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
+
+
+
+(b) Exception(1) In generalNotwithstanding subsection (a) of this section but subject to paragraphs (2) and (3), a project for the construction of a facility to be used primarily by personnel of any component of the intelligence community may be carried out if the Secretary of Defense and the Director of National Intelligence jointly determine—(A) that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and
+
+(B) that the requirement for the project is so urgent that deferral of the project for inclusion in the next Act authorizing appropriations for the intelligence community would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
+
+
+(2) Report(A) When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of National Intelligence jointly shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (i) the justification for the project and the current estimate of the cost of the project, (ii) the justification for carrying out the project under this subsection, and (iii) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 7-day period beginning on the date the notification is received by such committees.
+
+(B) Notwithstanding subparagraph (A), a project referred to in paragraph (1) may begin on the date the notification is received by the appropriate committees of Congress under that paragraph if the Director of National Intelligence and the Secretary of Defense jointly determine that—(i) an emergency exists with respect to the national security or the protection of health, safety, or environmental quality; and
+
+(ii) any delay in the commencement of the project would harm any or all of those interests.
+
+
+
+(3) Projects primarily for CIAIf a project referred to in paragraph (1) is primarily for the Central Intelligence Agency, the Director of the Central Intelligence Agency shall make the determination and submit the report required by paragraphs (1) and (2).
+
+
+(4) LimitationA project carried out under this subsection shall be carried out within the total amount of funds appropriated for intelligence and intelligence-related activities that have not been obligated.
+
+
+
+(c) ApplicationThis section shall not apply to any project which is subject to subsection (a)(1)(A) or (c) of section 601.
+
+
+(Pub. L. 103–359, title VI, § 602, Oct. 14, 1994, 108 Stat. 3432; Pub. L. 108–177, title III, § 314, Dec. 13, 2003, 117 Stat. 2610; Pub. L. 111–259, title VIII, § 809, Oct. 7, 2010, 124 Stat. 2749.)
+
+
+References in TextSection 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359, title VI, Oct. 14, 1994, 108 Stat. 3431, which is not classified to the Code.
+
+Codification
+Section was formerly classified to section 403–2b of this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2010—Subsecs. (a)(2), (b)(1), (2)(A), (B). Pub. L. 111–259, § 809(1), (2)(A), (B), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+Subsec. (b)(3). Pub. L. 111–259, § 809(2)(C), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+2003—Subsec. (a). Pub. L. 108–177, § 314(a), substituted “$5,000,000” for “$750,000” in pars. (1) and (2) and “$1,000,000” for “$500,000” in two places in par. (2).
+Subsec. (b)(2). Pub. L. 108–177, § 314(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
+
+
+Definitions
+Pub. L. 103–359, title VI, § 604, Oct. 14, 1994, 108 Stat. 3433, provided that: 
+“As used in this title [enacting this section and section 3302 of this title]:
+“(1) Intelligence committees.—The term ‘intelligence committees’ means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+“(2) Intelligence community.—The term ‘intelligence community’ has the same meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).”
+
+
+
+
+

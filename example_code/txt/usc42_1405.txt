@@ -1,0 +1,142 @@
+§ 300jj–12. HIT Policy Committee(a) EstablishmentThere is established a HIT Policy Committee to make policy recommendations to the National Coordinator relating to the implementation of a nationwide health information technology infrastructure, including implementation of the strategic plan described in section 300jj–11(c)(3) of this title.
+
+
+(b) Duties(1) Recommendations on health information technology infrastructureThe HIT Policy Committee shall recommend a policy framework for the development and adoption of a nationwide health information technology infrastructure that permits the electronic exchange and use of health information as is consistent with the strategic plan under section 300jj–11(c)(3) of this title and that includes the recommendations under paragraph (2). The Committee shall update such recommendations and make new recommendations as appropriate.
+
+
+(2) Specific areas of standard development(A) In generalThe HIT Policy Committee shall recommend the areas in which standards, implementation specifications, and certification criteria are needed for the electronic exchange and use of health information for purposes of adoption under section 300jj–14 of this title and shall recommend an order of priority for the development, harmonization, and recognition of such standards, specifications, and certification criteria among the areas so recommended. Such standards and implementation specifications shall include named standards, architectures, and software schemes for the authentication and security of individually identifiable health information and other information as needed to ensure the reproducible development of common solutions across disparate entities.
+
+
+(B) Areas required for considerationFor purposes of subparagraph (A), the HIT Policy Committee shall make recommendations for at least the following areas:(i) Technologies that protect the privacy of health information and promote security in a qualified electronic health record, including for the segmentation and protection from disclosure of specific and sensitive individually identifiable health information with the goal of minimizing the reluctance of patients to seek care (or disclose information about a condition) because of privacy concerns, in accordance with applicable law, and for the use and disclosure of limited data sets of such information.
+
+(ii) A nationwide health information technology infrastructure that allows for the electronic use and accurate exchange of health information.
+
+(iii) The utilization of a certified electronic health record for each person in the United States by 2014.
+
+(iv) Technologies that as a part of a qualified electronic health record allow for an accounting of disclosures made by a covered entity (as defined for purposes of regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996) for purposes of treatment, payment, and health care operations (as such terms are defined for purposes of such regulations).
+
+(v) The use of certified electronic health records to improve the quality of health care, such as by promoting the coordination of health care and improving continuity of health care among health care providers, by reducing medical errors, by improving population health, by reducing health disparities, by reducing chronic disease, and by advancing research and education.
+
+(vi) Technologies that allow individually identifiable health information to be rendered unusable, unreadable, or indecipherable to unauthorized individuals when such information is transmitted in the nationwide health information network or physically transported outside of the secured, physical perimeter of a health care provider, health plan, or health care clearinghouse.
+
+(vii) The use of electronic systems to ensure the comprehensive collection of patient demographic data, including, at a minimum, race, ethnicity, primary language, and gender information.
+
+(viii) Technologies that address the needs of children and other vulnerable populations.
+
+
+(C) Other areas for considerationIn making recommendations under subparagraph (A), the HIT Policy Committee may consider the following additional areas:(i) The appropriate uses of a nationwide health information infrastructure, including for purposes of—(I) the collection of quality data and public reporting;
+
+(II) biosurveillance and public health;
+
+(III) medical and clinical research; and
+
+(IV) drug safety.
+
+
+(ii) Self-service technologies that facilitate the use and exchange of patient information and reduce wait times.
+
+(iii) Telemedicine technologies, in order to reduce travel requirements for patients in remote areas.
+
+(iv) Technologies that facilitate home health care and the monitoring of patients recuperating at home.
+
+(v) Technologies that help reduce medical errors.
+
+(vi) Technologies that facilitate the continuity of care among health settings.
+
+(vii) Technologies that meet the needs of diverse populations.
+
+(viii) Methods to facilitate secure access by an individual to such individual’s protected health information.
+
+(ix) Methods, guidelines, and safeguards to facilitate secure access to patient information by a family member, caregiver, or guardian acting on behalf of a patient due to age-related and other disability, cognitive impairment, or dementia.
+
+(x) Any other technology that the HIT Policy Committee finds to be among the technologies with the greatest potential to improve the quality and efficiency of health care.
+
+
+
+(3) ForumThe HIT Policy Committee shall serve as a forum for broad stakeholder input with specific expertise in policies relating to the matters described in paragraphs (1) and (2).
+
+
+(4) Consistency with evaluation conducted under MIPPA(A) Requirement for consistencyThe HIT Policy Committee shall ensure that recommendations made under paragraph (2)(B)(vi) are consistent with the evaluation conducted under section 1395b–10(a) of this title.
+
+
+(B) ScopeNothing in subparagraph (A) shall be construed to limit the recommendations under paragraph (2)(B)(vi) to the elements described in section 1395b–10(a)(3) of this title.
+
+
+(C) TimingThe requirement under subparagraph (A) shall be applicable to the extent that evaluations have been conducted under section 1395b–10(a) of this title, regardless of whether the report described in subsection (b) of such section has been submitted.
+
+
+
+
+(c) Membership and operations(1) In generalThe National Coordinator shall take a leading position in the establishment and operations of the HIT Policy Committee.
+
+
+(2) MembershipThe HIT Policy Committee shall be composed of members to be appointed as follows:(A) 3 members shall be appointed by the Secretary, 1 of whom shall be appointed to represent the Department of Health and Human Services and 1 of whom shall be a public health official.
+
+(B) 1 member shall be appointed by the majority leader of the Senate.
+
+(C) 1 member shall be appointed by the minority leader of the Senate.
+
+(D) 1 member shall be appointed by the Speaker of the House of Representatives.
+
+(E) 1 member shall be appointed by the minority leader of the House of Representatives.
+
+(F) Such other members as shall be appointed by the President as representatives of other relevant Federal agencies.
+
+(G) 13 members shall be appointed by the Comptroller General of the United States of whom—(i) 3 members shall advocates 11 So in original. for patients or consumers;
+
+(ii) 2 members shall represent health care providers, one of which shall be a physician;
+
+(iii) 1 member shall be from a labor organization representing health care workers;
+
+(iv) 1 member shall have expertise in health information privacy and security;
+
+(v) 1 member shall have expertise in improving the health of vulnerable populations;
+
+(vi) 1 member shall be from the research community;
+
+(vii) 1 member shall represent health plans or other third-party payers;
+
+(viii) 1 member shall represent information technology vendors;
+
+(ix) 1 member shall represent purchasers or employers; and
+
+(x) 1 member shall have expertise in health care quality measurement and reporting.
+
+
+
+(3) ParticipationThe members of the HIT Policy Committee appointed under paragraph (2) shall represent a balance among various sectors of the health care system so that no single sector unduly influences the recommendations of the Policy Committee.
+
+
+(4) Terms(A) In generalThe terms of the members of the HIT Policy Committee shall be for 3 years, except that the Comptroller General shall designate staggered terms for the members first appointed.
+
+
+(B) VacanciesAny member appointed to fill a vacancy in the membership of the HIT Policy Committee that occurs prior to the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has been appointed. A vacancy in the HIT Policy Committee shall be filled in the manner in which the original appointment was made.
+
+
+
+(5) Outside involvementThe HIT Policy Committee shall ensure an opportunity for the participation in activities of the Committee of outside advisors, including individuals with expertise in the development of policies for the electronic exchange and use of health information, including in the areas of health information privacy and security.
+
+
+(6) QuorumA majority of the member of the HIT Policy Committee shall constitute a quorum for purposes of voting, but a lesser number of members may meet and hold hearings.
+
+
+(7) Failure of initial appointmentIf, on the date that is 45 days after February 17, 2009, an official authorized under paragraph (2) to appoint one or more members of the HIT Policy Committee has not appointed the full number of members that such paragraph authorizes such official to appoint, the Secretary is authorized to appoint such members.
+
+
+(8) ConsiderationThe National Coordinator shall ensure that the relevant and available recommendations and comments from the National Committee on Vital and Health Statistics are considered in the development of policies.
+
+
+
+(d) Application of FACAThe Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of such Act, shall apply to the HIT Policy Committee.
+
+
+(e) PublicationThe Secretary shall provide for publication in the Federal Register and the posting on the Internet website of the Office of the National Coordinator for Health Information Technology of all policy recommendations made by the HIT Policy Committee under this section.
+
+
+(July 1, 1944, ch. 373, title XXX, § 3002, as added Pub. L. 111–5, div. A, title XIII, § 13101, Feb. 17, 2009, 123 Stat. 234.)
+
+
+References in TextSection 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(2)(B)(iv), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+

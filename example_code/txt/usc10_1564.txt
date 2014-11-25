@@ -1,0 +1,30 @@
+§ 2375. Relationship of commercial item provisions to other provisions of law(a) Applicability of Title.—Unless otherwise specifically provided, nothing in this chapter shall be construed as providing that any other provision of this title relating to procurement is inapplicable to the procurement of commercial items.
+
+(b) List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items.—No contract for the procurement of a commercial item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation (pursuant to section 1906 of title 41).
+
+(c) Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items.—For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see section 2306a(b) of this title.
+
+(Added Pub. L. 103–355, title VIII, § 8102, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 105–85, div. A, title X, § 1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, § 1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, § 5(b)(21), Jan. 4, 2011, 124 Stat. 3844.)
+
+Amendments2011—Subsec. (b). Pub. L. 111–350 substituted “section 1906 of title 41” for “section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)”.
+2001—Subsec. (b). Pub. L. 107–107 inserted “(41 U.S.C. 430)” after “section 34 of the Office of Federal Procurement Policy Act”.
+1997—Subsec. (c). Pub. L. 105–85 substituted “a provision relating to an exception” for “provisions relating to exceptions” and “section 2306a(b)” for “section 2306a(d)”.
+
+Effective DateFor effective date and applicability of chapter, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
+
+Provisions Not Affected by Title VIII of Pub. L. 103–355Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, provided that: 
+“Nothing in this title [see Tables for classification] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
+“(1) section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 [Pub. L. 103–355, 15 U.S.C. 644 note];
+
+“(2) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 ([former] 40 U.S.C. 759));
+
+“(3) Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 ([former] 40 U.S.C. 541 et seq.) [now 40 U.S.C. 1101–1104]);
+
+“(4) subsections (a) and (d) of section 8 of the Small Business Act (15 U.S.C. 637(a) and (d)); or
+
+“(5) the Javits-Wagner-O’Day Act ([former] 41 U.S.C. 46–48c) [now 41 U.S.C. 8501 et seq.].”
+
+
+
+
+

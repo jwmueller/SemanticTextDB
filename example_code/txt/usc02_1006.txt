@@ -1,0 +1,42 @@
+§ 1610. Estimates based on tax reporting system(a) Entities covered by section 6033(b) of title 26A person, other than a lobbying firm, that is required to report and does report lobbying expenditures pursuant to section 6033(b)(8) of title 26 may—(1) make a good faith estimate (by category of dollar value) of applicable amounts that would be required to be disclosed under such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
+
+(2) for all other purposes consider as lobbying contacts and lobbying activities only—(A) lobbying contacts with covered legislative branch officials (as defined in section 1602(4) of this title) and lobbying activities in support of such contacts; and
+
+(B) lobbying of Federal executive branch officials to the extent that such activities are influencing legislation as defined in section 4911(d) of title 26.
+
+
+
+(b) Entities covered by section 162(e) of title 26A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to section 162(e) of title 26 may—(1) make a good faith estimate (by category of dollar value) of applicable amounts that would not be deductible pursuant to such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and
+
+(2) for all other purposes consider as lobbying contacts and lobbying activities only—(A) lobbying contacts with covered legislative branch officials (as defined in section 1602(4) of this title) and lobbying activities in support of such contacts; and
+
+(B) lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to section 162(e) of title 26.
+
+
+
+(c) Disclosure of estimateAny registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) for reporting or threshold purposes shall—(1) inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and
+
+(2) make all such estimates, in a given calendar year, under such procedures.
+
+
+(d) StudyNot later than March 31, 1997, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) and report to the Congress—(1) the differences between the definition of “lobbying activities” in section 1602(7) of this title and the definitions of “lobbying expenditures”, “influencing legislation”, and related terms in sections 162(e) and 4911 of title 26, as each are implemented by regulations;
+
+(2) the impact that any such differences may have on filing and reporting under this chapter pursuant to this subsection; and
+
+(3) any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
+
+
+(Pub. L. 104–65, § 15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, § 4(a), (b), Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, § 201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
+
+
+References in TextThis chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+Amendments2007—Subsecs. (a)(1), (b)(1). Pub. L. 110–81 substituted “quarterly period” for “semiannual period”.
+1998—Subsec. (a). Pub. L. 105–166, § 4(a)(1), in introductory provisions, substituted “A person, other than a lobbying firm,” for “A registrant”.
+Subsec. (a)(2). Pub. L. 105–166, § 4(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities that are influencing legislation as defined in section 4911(d) of title 26.”
+Subsec. (b). Pub. L. 105–166, § 4(b)(1), in introductory provisions, substituted “A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to” for “A registrant that is subject to”.
+Subsec. (b)(2). Pub. L. 105–166, § 4(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in lieu of using the definition of ‘lobbying activities’ in section 1602(7) of this title, consider as lobbying activities only those activities, the costs of which are not deductible pursuant to section 162(e) of title 26.”
+
+Effective Date of 2007 AmendmentExcept as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under section 30104 of Title 52, Voting and Elections.
+
+

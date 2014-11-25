@@ -1,0 +1,23 @@
+“SEC. 215. DISPARITIES IN ACCESS TO THE INTERNET.“(a) Study and Report.—“(1) Study.—Not later than 90 days after the date of enactment of this Act [Dec. 17, 2002], the Administrator of General Services shall request that the National Academy of Sciences, acting through the National Research Council, enter into a contract to conduct a study on disparities in Internet access for online Government services.
+
+“(2) Report.—Not later than 2 years after the date of enactment of this Act, the Administrator of General Services shall submit to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives a final report of the study under this section, which shall set forth the findings, conclusions, and recommendations of the National Research Council.
+
+
+“(b) Contents.—The report under subsection (a) shall include a study of—“(1) how disparities in Internet access influence the effectiveness of online Government services, including a review of—“(A) the nature of disparities in Internet access;
+
+“(B) the affordability of Internet service;
+
+“(C) the incidence of disparities among different groups within the population; and
+
+“(D) changes in the nature of personal and public Internet access that may alleviate or aggravate effective access to online Government services;
+
+
+“(2) how the increase in online Government services is influencing the disparities in Internet access and how technology development or diffusion trends may offset such adverse influences; and
+
+“(3) related societal effects arising from the interplay of disparities in Internet access and the increase in online Government services.
+
+
+“(c) Recommendations.—The report shall include recommendations on actions to ensure that online Government initiatives shall not have the unintended result of increasing any deficiency in public access to Government services.
+
+“(d) Authorization of Appropriations.—There are authorized to be appropriated $950,000 in fiscal year 2003 to carry out this section.
+

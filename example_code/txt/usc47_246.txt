@@ -1,0 +1,31 @@
+§ 531. Cable channels for public, educational, or governmental use(a) Authority to establish requirements with respect to designation or use of channel capacityA franchising authority may establish requirements in a franchise with respect to the designation or use of channel capacity for public, educational, or governmental use only to the extent provided in this section.
+
+
+(b) Authority to require designation for public, educational, or governmental useA franchising authority may in its request for proposals require as part of a franchise, and may require as part of a cable operator’s proposal for a franchise renewal, subject to section 546 of this title, that channel capacity be designated for public, educational, or governmental use, and channel capacity on institutional networks be designated for educational or governmental use, and may require rules and procedures for the use of the channel capacity designated pursuant to this section.
+
+
+(c) Enforcement authorityA franchising authority may enforce any requirement in any franchise regarding the providing or use of such channel capacity. Such enforcement authority includes the authority to enforce any provisions of the franchise for services, facilities, or equipment proposed by the cable operator which relate to public, educational, or governmental use of channel capacity, whether or not required by the franchising authority pursuant to subsection (b) of this section.
+
+
+(d) Promulgation of rules and proceduresIn the case of any franchise under which channel capacity is designated under subsection (b) of this section, the franchising authority shall prescribe—(1) rules and procedures under which the cable operator is permitted to use such channel capacity for the provision of other services if such channel capacity is not being used for the purposes designated, and
+
+(2) rules and procedures under which such permitted use shall cease.
+
+
+(e) Editorial control by cable operatorSubject to section 544(d) of this title, a cable operator shall not exercise any editorial control over any public, educational, or governmental use of channel capacity provided pursuant to this section, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity.
+
+
+(f) “Institutional network” definedFor purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally available only to subscribers who are not residential subscribers.
+
+
+(June 19, 1934, ch. 652, title VI, § 611, as added Pub. L. 98–549, § 2, Oct. 30, 1984, 98 Stat. 2782; Pub. L. 104–104, title V, § 506(a), Feb. 8, 1996, 110 Stat. 136.)
+
+Amendments1996—Subsec. (e). Pub. L. 104–104 inserted before period at end “, except a cable operator may refuse to transmit any public access program or portion of a public access program which contains obscenity, indecency, or nudity”.
+
+Effective DateSection effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
+
+RegulationsPub. L. 102–385, § 10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Within 180 days following the date of the enactment of this Act [Oct. 5, 1992], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct.”
+
+[For information regarding constitutionality of section 10(c) of Pub. L. 102–385, set out above, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.]
+
+

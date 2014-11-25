@@ -1,0 +1,60 @@
+§ 1106. Improved cellular service in rural areas(a) Reinstatement of applicants as tentative selectees(1) In generalNotwithstanding the order of the Federal Communications Commission in the proceeding described in paragraph (3), the Commission shall—(A) reinstate each applicant as a tentative selectee under the covered rural service area licensing proceeding; and
+
+(B) permit each applicant to amend its application, to the extent necessary to update factual information and to comply with the rules of the Commission, at any time before the Commission’s final licensing action in the covered rural service area licensing proceeding.
+
+
+(2) Exemption from petitions to denyFor purposes of the amended applications filed pursuant to paragraph (1)(B), the provisions of section 309(d)(1) of this title shall not apply.
+
+
+(3) ProceedingThe proceeding described in this paragraph is the proceeding of the Commission In re Applications of Cellwave Telephone Services L.P., Futurewave General Partners L.P., and Great Western Cellular Partners, 7 FCC Rcd No. 19 (1992).
+
+
+
+(b) Continuation of license proceeding; fee assessment(1) Award of licensesThe Commission shall award licenses under the covered rural service area licensing proceeding within 90 days after December 21, 2000.
+
+
+(2) Service requirementsThe Commission shall provide that, as a condition of an applicant receiving a license pursuant to the covered rural service area licensing proceeding, the applicant shall provide cellular radiotelephone service to subscribers in accordance with sections 22.946 and 22.947 of the Commission’s rules (47 CFR 22.946, 22.947); except that the time period applicable under section 22.947 of the Commission’s rules (or any successor rule) to the applicants identified in subparagraphs (A) and (B) of subsection (d)(1) of this section shall be 3 years rather than 5 years and the waiver authority of the Commission shall apply to such 3-year period.
+
+
+(3) Calculation of license fee(A) Fee requiredThe Commission shall establish a fee for each of the licenses under the covered rural service area licensing proceeding. In determining the amount of the fee, the Commission shall consider—(i) the average price paid per person served in the Commission’s Cellular Unserved Auction (Auction No. 12); and
+
+(ii) the settlement payments required to be paid by the permittees pursuant to the consent decree set forth in the Commission’s order, In re the Tellesis Partners (7 FCC Rcd 3168 (1992)), multiplying such payments by two.
+
+
+(B) Notice of feeWithin 30 days after the date an applicant files the amended application permitted by subsection (a)(1)(B) of this section, the Commission shall notify each applicant of the fee established for the license associated with its application.
+
+
+
+(4) Payment for licensesNo later than 18 months after the date that an applicant is granted a license, each applicant shall pay to the Commission the fee established pursuant to paragraph (3) for the license granted to the applicant under paragraph (1).
+
+
+(5) Auction authorityIf, after the amendment of an application pursuant to subsection (a)(1)(B) of this section, the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a rural service area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee ( 11 So in original. No closing parenthesis was enacted. pursuant to subsection (a)(1)(B) of this section by competitive bidding pursuant to section 309(j) of this title.
+
+
+
+(c) Prohibition of transferDuring the 5-year period that begins on the date that an applicant is granted any license pursuant to subsection (a) of this section, the Commission may not authorize the transfer or assignment of that license under section 310 of this title. Nothing in this chapter may be construed to prohibit any applicant granted a license pursuant to subsection (a) of this section from contracting with other licensees to improve cellular telephone service.
+
+
+(d) DefinitionsFor the purposes of this section, the following definitions shall apply:(1) ApplicantThe term “applicant” means—(A) Great Western Cellular Partners, a California general partnership chosen by the Commission as tentative selectee for RSA #492 on May 4, 1989;
+
+(B) Monroe Telephone Services L.P., a Delaware limited partnership chosen by the Commission as tentative selectee for RSA #370 on August 24, 1989 (formerly Cellwave Telephone Services L.P.); and
+
+(C) FutureWave General Partners L.P., a Delaware limited partnership chosen by the Commission as tentative selectee for RSA #615 on May 25, 1990.
+
+
+(2) CommissionThe term “Commission” means the Federal Communications Commission.
+
+
+(3) Covered rural service area licensing proceedingThe term “covered rural service area licensing proceeding” means the proceeding of the Commission for the grant of cellular radiotelephone licenses for rural service areas #492 (Minnesota 11), #370 (Florida 11), and #615 (Pennsylvania 4).
+
+
+(4) Tentative selecteeThe term “tentative selectee” means a party that has been selected by the Commission under a licensing proceeding for grant of a license, but has not yet been granted the license because the Commission has not yet determined whether the party is qualified under the Commission’s rules for grant of the license.
+
+
+
+(Pub. L. 106–553, § 1(a)(2) [title X, § 1007], Dec. 21, 2000, 114 Stat. 2762, 2762A–138.)
+
+
+References in TextThis chapter, referred to subsec. (c), was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
+
+

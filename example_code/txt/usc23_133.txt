@@ -1,0 +1,4 @@
+“SEC. 5202. FINDINGS.“Congress finds that—“(1) investments authorized by the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1914 et seq.) [Pub. L. 104–240, see Tables for classification] have demonstrated that intelligent transportation systems can mitigate surface transportation problems in a cost-effective manner; and
+
+“(2) continued investment in architecture and standards development, research, and systems integration is needed to accelerate the rate at which intelligent transportation systems are incorporated into the national surface transportation network, thereby improving transportation safety and efficiency and reducing costs and negative impacts on communities and the environment.
+

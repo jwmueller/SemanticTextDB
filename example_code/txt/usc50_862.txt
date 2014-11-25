@@ -1,0 +1,12 @@
+§ 2735. Use of probabilistic risk assessment to ensure nuclear safety of facilities of the Administration and the Office of Environmental Management(a) Nuclear safety at NNSA and DOE facilitiesThe Administrator and the Secretary of Energy shall ensure that the methods for assessing, certifying, and overseeing nuclear safety at the facilities specified in subsection (c) use national and international standards and nuclear industry best practices, including probabilistic or quantitative risk assessment if sufficient data exist.
+
+
+(b) Adequate protectionThe use of probabilistic or quantitative risk assessment under subsection (a) shall be to support, rather than replace, the requirement under section 2232 of title 42 that the utilization or production of special nuclear material will be in accordance with the common defense and security and will provide adequate protection to the health and safety of the public.
+
+
+(c) Facilities specifiedSubsection (a) shall apply—(1) to the Administrator with respect to the national security laboratories and the nuclear weapons production facilities; and
+
+(2) to the Secretary of Energy with respect to defense nuclear facilities of the Office of Environmental Management of the Department of Energy.
+
+
+(Pub. L. 107–314, div. D, title XLVI, § 4645, as added Pub. L. 112–239, div. C, title XXXI, § 3161(a), Jan. 2, 2013, 126 Stat. 2203.)

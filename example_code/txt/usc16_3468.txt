@@ -1,0 +1,39 @@
+§ 824j–1. Open access by unregulated transmitting utilities(a) Definition of unregulated transmitting utilityIn this section, the term “unregulated transmitting utility” means an entity that—(1) owns or operates facilities used for the transmission of electric energy in interstate commerce; and
+
+(2) is an entity described in section 824(f) of this title.
+
+
+(b) Transmission operation servicesSubject to section 824k(h) of this title, the Commission may, by rule or order, require an unregulated transmitting utility to provide transmission services—(1) at rates that are comparable to those that the unregulated transmitting utility charges itself; and
+
+(2) on terms and conditions (not relating to rates) that are comparable to those under which the unregulated transmitting utility provides transmission services to itself and that are not unduly discriminatory or preferential.
+
+
+(c) ExemptionThe Commission shall exempt from any rule or order under this section any unregulated transmitting utility that—(1) sells not more than 4,000,000 megawatt hours of electricity per year;
+
+(2) does not own or operate any transmission facilities that are necessary for operating an interconnected transmission system (or any portion of the system); or
+
+(3) meets other criteria the Commission determines to be in the public interest.
+
+
+(d) Local distribution facilitiesThe requirements of subsection (b) of this section shall not apply to facilities used in local distribution.
+
+
+(e) Exemption terminationIf the Commission, after an evidentiary hearing held on a complaint and after giving consideration to reliability standards established under section 824o of this title, finds on the basis of a preponderance of the evidence that any exemption granted pursuant to subsection (c) of this section unreasonably impairs the continued reliability of an interconnected transmission system, the Commission shall revoke the exemption granted to the transmitting utility.
+
+
+(f) Application to unregulated transmitting utilitiesThe rate changing procedures applicable to public utilities under subsections (c) and (d) of section 824d of this title are applicable to unregulated transmitting utilities for purposes of this section.
+
+
+(g) RemandIn exercising authority under subsection (b)(1) of this section, the Commission may remand transmission rates to an unregulated transmitting utility for review and revision if necessary to meet the requirements of subsection (b) of this section.
+
+
+(h) Other requestsThe provision of transmission services under subsection (b) of this section does not preclude a request for transmission services under section 824j of this title.
+
+
+(i) LimitationThe Commission may not require a State or municipality to take action under this section that would violate a private activity bond rule for purposes of section 141 of title 26.
+
+
+(j) Transfer of control of transmitting facilitiesNothing in this section authorizes the Commission to require an unregulated transmitting utility to transfer control or operational control of its transmitting facilities to a Transmission Organization that is designated to provide nondiscriminatory transmission access.
+
+
+(June 10, 1920, ch. 285, pt. II, § 211A, as added Pub. L. 109–58, title XII, § 1231, Aug. 8, 2005, 119 Stat. 955.)

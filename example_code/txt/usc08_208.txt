@@ -1,0 +1,36 @@
+“SEC. 404. EMPLOYMENT ELIGIBILITY CONFIRMATION SYSTEM.“(a) In General.—The Secretary of Homeland Security shall establish a pilot program confirmation system through which the Secretary of Homeland Security (or a designee of the Secretary of Homeland Security, which may be a nongovernmental entity)—“(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual’s identity and whether the individual is authorized to be employed, and
+
+“(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs.
+
+
+To the extent practicable, the Secretary of Homeland Security shall seek to establish such a system using one or more nongovernmental entities.
+
+“(b) Initial Response.—The confirmation system shall provide confirmation or a tentative nonconfirmation of an individual’s identity and employment eligibility within 3 working days of the initial inquiry. If providing confirmation or tentative nonconfirmation, the confirmation system shall provide an appropriate code indicating such confirmation or such nonconfirmation.
+
+“(c) Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
+
+“(d) Design and Operation of System.—The confirmation system shall be designed and operated—“(1) to maximize its reliability and ease of use by persons and other entities making elections under section 402(a) of this division consistent with insulating and protecting the privacy and security of the underlying information;
+
+“(2) to respond to all inquiries made by such persons and entities on whether individuals are authorized to be employed and to register all times when such inquiries are not received;
+
+“(3) with appropriate administrative, technical, and physical safeguards to prevent unauthorized disclosure of personal information; and
+
+“(4) to have reasonable safeguards against the system’s resulting in unlawful discriminatory practices based on national origin or citizenship status, including—“(A) the selective or unauthorized use of the system to verify eligibility;
+
+“(B) the use of the system prior to an offer of employment; or
+
+“(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification will be required, beyond what is required for most job applicants.
+
+
+
+“(e) Responsibilities of the Commissioner of Social Security.—As part of the confirmation system, the Commissioner of Social Security, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and social security account number provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided regarding an individual whose identity and employment eligibility must be confirmed, the correspondence of the name and number, and whether the individual has presented a social security account number that is not valid for employment. The Commissioner shall not disclose or release social security information (other than such confirmation or nonconfirmation).
+
+“(f) Responsibilities of the Commissioner of the Immigration and Naturalization Service.—As part of the confirmation system, the Commissioner of the Immigration and Naturalization Service, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and alien identification or authorization number described in section 403(a)(1)(B) of this division which are provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided, the correspondence of the name and number, and whether the alien is authorized to be employed in the United States.
+
+“(g) Updating Information.—The Commissioners of Social Security and the Immigration and Naturalization Service shall update their information in a manner that promotes the maximum accuracy and shall provide a process for the prompt correction of erroneous information, including instances in which it is brought to their attention in the secondary verification process described in subsection (c).
+
+“(h) Limitation on Use of the Confirmation System and Any Related Systems.—“(1) In general.—Notwithstanding any other provision of law, nothing in this subtitle shall be construed to permit or allow any department, bureau, or other agency of the United States Government to utilize any information, data base, or other records assembled under this subtitle for any other purpose other than as provided for under this subtitle.
+
+“(2) No national identification card.—Nothing in this subtitle shall be construed to authorize, directly or indirectly, the issuance or use of national identification cards or the establishment of a national identification card.
+
+

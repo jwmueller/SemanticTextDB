@@ -1,0 +1,40 @@
+§ 2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes
+For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3542(b)(2) of title 44.
+(Added Pub. L. 97–86, title IX, § 908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, § 1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, § 5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, § 1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title X, § 1073(a)(49), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–217, § 3(b)(5), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, § 906(c), Oct. 17, 2006, 120 Stat. 2354.)
+
+Amendments2006—Pub. L. 109–364 amended text generally. Prior to amendment, section consisted of subsecs. (a) and (b) defining “national security systems” as meaning telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which involves intelligence or cryptologic activities, command and control of military forces, or equipment that is an integral part of a weapons system or is critical to military or intelligence missions but is not equipment or services to be used for routine administrative and business applications.
+2002—Subsec. (a). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” in introductory provisions.
+1997—Subsec. (a). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+1996—Subsec. (a). Pub. L. 104–106, as amended by Pub. L. 104–201, substituted “For the purposes of the Information Technology Management Reform Act of 1996, the term ‘national security systems’ means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which” for “Section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) is not applicable to the procurement by the Department of Defense of automatic data processing equipment or services if the function, operation, or use of the equipment or services”.
+1982—Subsec. (a). Pub. L. 97–295 substituted “(40 U.S.C. 759)” for “(40 U.S.C. 795)”.
+
+Effective Date of 1996 AmendmentAmendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
+
+Effective DatePub. L. 97–86, title IX, § 908(b), Dec. 1, 1981, 95 Stat. 1118, provided that: “Section 2315 of title 10, United States Code, as added by subsection (a), does not apply to a contract made before the date of the enactment of this Act [Dec. 1, 1981].”
+
+
+Limitation Regarding Telecommunications RequirementsPub. L. 103–337, div. A, title X, § 1075, Oct. 5, 1994, 108 Stat. 2861, provided that:
+“(a) Limitation.—No funds available to the Department of Defense or any other Executive agency may be expended to provide for meeting Department of Defense telecommunications requirements through the telecommunications procurement known as ‘FTS–2000’ or through any other Government-wide telecommunications procurement until—“(1) the Secretary of Defense submits to the Congress a report containing—“(A) a certification by the Secretary that the FTS–2000 procurement or the other telecommunications procurement will provide assured, secure telecommunications support (including associated telecommunications services) for Department of Defense activities; and
+
+“(B) a description of how the procurement will be implemented and managed to meet defense information infrastructure requirements, including requirements to support deployed forces and intelligence activities; and
+
+
+“(2) 30 days elapse after the date on which such report is received by the committees.
+
+
+“(b) Definitions.—In this section:“(1) The term ‘defense telecommunications requirements’ means requirements for telecommunications equipment and services that, if procured by the Department of Defense, would be exempt from the requirements of section 111 of the Federal Property and Administrative Services Act of 1949 ([former] 40 U.S.C. 759) pursuant to section 2315 of title 10, United States Code.
+
+“(2) The term ‘Executive agency’ has the meaning given such term in section 105 of title 5, United States Code.
+
+“(3) The term ‘procurement’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 403) [see 41 U.S.C. 111].
+
+
+“(c) Effect on Other Law.—Nothing in this section may be construed as modifying or superseding, or as intended to impair or restrict authorities or responsibilities under—“(1) section 111 of the Federal Property and Administrative Services Act of 1949 ([former] 40 U.S.C. 759); or
+
+“(2) section 620 of Public Law 103–123 [107 Stat. 1264].”
+
+
+
+
+
+

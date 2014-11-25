@@ -1,0 +1,64 @@
+“SEC. 310. ELECTRONIC CASE MANAGEMENT DEMONSTRATION PROJECT.“(a) Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director of the Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—“(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
+
+“(2) in accordance with the Federal Property and Administrative Services Act of 1949 [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts], the Office of Federal Procurement Policy Act [see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41], and title 31 of the United States Code.
+
+
+“(b) Study by General Accounting Office [now Government Accountability Office].—Not later than 1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office [now Government Accountability Office] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
+
+“(c) Term of Project.—The demonstration project required by subsection (a) shall be carried out until—“(1) the expiration of the 2-year period beginning on the date the electronic case management system begins to operate in all of the judicial districts participating in such project, or
+
+“(2) legislation is enacted to extend, expand, modify, or terminate the operation of such project,
+
+
+whichever occurs first.
+
+“(d) Use by Clerks of the Courts.—The electronic case management system demonstrated under the project required by subsection (a) shall provide the clerk of court in each district in which such system is operated, with a means of—“(1) maintaining a complete electronic case file of all relevant information contained in petitions and schedules (and any amendments thereto) relating to debtors in cases under title 11 of the United States Code, including—“(A) a complete list of creditors in each such case, as listed by the debtor,
+
+“(B) a complete list of assets scheduled by the debtor, the value of such asset, and any action taken by the trustee or debtor in possession with regard to such asset during the pendency of such case,
+
+“(C) a complete list of debts and, with respect to each debt—“(i) any priority of such debt under title 11 of the United States Code,
+
+“(ii) whether such debt is secured or unsecured, and
+
+“(iii) whether such debt is contingent or noncontingent, and
+
+
+“(D) the debtor’s statements of current expenses and income, and
+
+
+“(2) maintaining all calendars and dockets and producing all notices required to be sent in cases under title 11 of the United States Code.
+
+
+“(e) Use by United States Trustees.—The electronic case management system demonstrated under the project required by subsection (a) shall provide, at a minimum, the United States trustee in each district in which such system is operated with—“(1) complete electronic case files which contain, in addition to the information listed in subsection (d), records of case openings, case closings, hearings, and the filing of all motions, trustee appointments, pleadings, and responses, as well as a record of the responses by the United States trustee to those motions, trustee appointments, and pleadings,
+
+“(2) a means to generate standardized forms for motions, appointments, pleadings, and responses,
+
+“(3) a means to generate standard management reports and letters on an exception basis,
+
+“(4) a means to maintain accounting records, reports, and information required to be maintained by debtors in possession and trustees in cases under title 11 of the United States Code,
+
+“(5) a means to calculate and record distribution to creditors, final applications and orders for distribution, and final case closing reports, and
+
+“(6) a means to monitor the payment of filing and other required fees.
+
+
+“(f) Availability to Certain Governmental Entities.—Unlimited access to information maintained in the electronic case management system demonstrated under the project required by subsection (a) shall be provided at no charge to the following:“(1) The Congress.
+
+“(2) The Executive Office for the United States Trustees.
+
+“(3) The Administrative Office of the United States Courts.
+
+“(4) The clerks of the courts in judicial districts in which such system is operated and persons who review case information, in accordance with section 107(a) of title 11, United States Code, in the offices of the clerks.
+
+“(5) The judges on the bankruptcy and district courts in districts in which such system is operated.
+
+“(6) Trustees in cases pending in districts in which such system is operated.
+
+
+“(g) Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
+
+“(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
+
+
+“(h) Security.—Access provided under subsection (f) to an entity or an individual shall be subject to such security limitations as may be imposed by the Congress or the head of the affected entity.
+

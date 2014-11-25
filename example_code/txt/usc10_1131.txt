@@ -1,0 +1,9 @@
+“SEC. 1613. REPORT AND PLAN FOR COMPLETION OF ACQUISITION OF CENTRALIZED DEPARTMENT OF DEFENSE SEXUAL ASSAULT DATABASE.“(a) Report and Plan Required.—Not later than April 1, 2011, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report—“(1) describing the status of development and implementation of the centralized Department of Defense sexual assault database required by section 563 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4470; 10 U.S.C. 113 note) [now set out below];
+
+“(2) containing a revised implementation plan under subsection (c) of such section for completing implementation of the database; and
+
+“(3) indicating the date by which the database will be operational.
+
+
+“(b) Content of Implementation Plan.—The plan referred to in subsection (a)(2) shall address acquisition best practices associated with successfully acquiring and deploying information technology systems related to the centralized sexual assault database, such as economically justifying the proposed system solution and effectively developing and managing requirements.
+

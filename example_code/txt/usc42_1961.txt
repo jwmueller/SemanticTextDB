@@ -1,0 +1,8 @@
+“Notwithstanding any other provision of law, for purposes of section 1886(d)(1)(A) of the Social Security Act [42 U.S.C. 1395ww(d)(1)(A)], in the case of a hospital that—“(1) had a cost reporting period beginning on September 28, 29, or 30 of 1985,
+
+“(2) is located in a State in which inpatient hospital services were paid in fiscal year 1985 pursuant to a Statewide demonstration project under section 402 of the Social Security Amendments of 1967 [section 402 of Pub. L. 90–248, enacting section 1395b–1 of this title and amending section 1395ll of this title] and section 222 of the Social Security Amendments of 1972 [section 222 of Pub. L. 92–603, amending sections 1395b–1 and 1395ll of this title and enacting provisions set out as a note under section 1395b–1 of this title], and
+
+“(3) elects, by notice to the Secretary of Health and Human Services by not later than April 1, 1988, to have this subsection apply,
+
+
+during the first 7 months of such cost reporting period the ‘target percentage’ shall be 75 percent and the ‘DRG percentage’ shall be 25 percent, and during the remaining 5 months of such period the ‘target percentage’ and the ‘DRG percentage’ shall each be 50 percent.”

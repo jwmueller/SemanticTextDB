@@ -1,0 +1,129 @@
+“SEC. 524. RENEWAL OF EXPIRING PROJECT-BASED SECTION 8 CONTRACTS.“(a) In General.—“(1) Renewal.—Subject to paragraph (2), upon termination or expiration of a contract for project-based assistance under section 8 for a multifamily housing project (and notwithstanding section 8(v) of the United States Housing Act of 1937 [42 U.S.C. 1437f] for loan management assistance), the Secretary shall, at the request of the owner of the project and to the extent sufficient amounts are made available in appropriation Acts, use amounts available for the renewal of assistance under section 8 of such Act to provide such assistance for the project. The assistance shall be provided under a contract having such terms and conditions as the Secretary considers appropriate, subject to the requirements of this section. This section shall not require contract renewal for a project that is eligible under this subtitle for a mortgage restructuring and rental assistance sufficiency plan, if there is no approved plan for the project and the Secretary determines that such an approved plan is necessary.
+
+“(2) Prohibition on renewal.—Notwithstanding part 24 of title 24 of the Code of Federal Regulations, the Secretary may elect not to renew assistance for a project otherwise required to be renewed under paragraph (1) or provide comparable benefits under paragraph (1) or (2) of subsection (e) for a project described in either such paragraph, if the Secretary determines that a violation under paragraphs (1) through (4) of section 516(a) has occurred with respect to the project. For purposes of such a determination, the provisions of section 516 shall apply to a project under this section in the same manner and to the same extent that the provisions of such section apply to eligible multifamily housing projects, except that the Secretary shall make the determination under section 516(a)(4).
+
+“(3) Contract term for mark-up-to-market contracts.—In the case of an expiring or terminating contract that has rent levels less than comparable market rents for the market area, if the rent levels under the renewal contract under this section are equal to comparable market rents for the market area, the contract shall have a term of not less than 5 years, subject to the availability of sufficient amounts in appropriation Acts.
+
+“(4) Renewal rents.—Except as provided in subsection (b), the contract for assistance shall provide assistance at the following rent levels:“(A) Market rents.—At the request of the owner of the project, at rent levels equal to the lesser of comparable market rents for the market area or 150 percent of the fair market rents, in the case only of a project that—“(i) has rent levels under the expiring or terminating contract that do not exceed such comparable market rents;
+
+“(ii) does not have a low- and moderate-income use restriction that can not be eliminated by unilateral action by the owner;
+
+“(iii) is decent, safe, and sanitary housing, as determined by the Secretary;
+
+“(iv) is not—     “(I) owned by a nonprofit entity;
+
+     “(II) subject to a contract for moderate rehabilitation assistance under section 8(e)(2) of the United States Housing Act of 1937, as in effect before October 1, 1991; or
+
+     “(III) a project for which the public housing agency provided voucher assistance to one or more of the tenants after the owner has provided notice of termination of the contract covering the tenant’s unit; and
+
+
+“(v) has units assisted under the contract for which the comparable market rent exceeds 110 percent of the fair market rent.
+
+
+  The Secretary may adjust the percentages of fair market rent (as specified in the matter preceding clause (i) and in clause (v)), but only upon a determination and written notification to the Congress within 10 days of making such determination, that such adjustment is necessary to ensure that this subparagraph covers projects with a high risk of nonrenewal of expiring contracts for project-based assistance.
+
+“(B) Reduction to market rents.—In the case of a project that has rent levels under the expiring or terminating contract that exceed comparable market rents for the market area, at rent levels equal to such comparable market rents.
+
+“(C) Rents not exceeding market rents.—In the case of a project that is not subject to subparagraph (A) or (B), at rent levels that—“(i) are not less than the existing rents under the terminated or expiring contract, as adjusted by an operating cost adjustment factor established by the Secretary (which shall not result in a negative adjustment), if such adjusted rents do not exceed comparable market rents for the market area; and
+
+“(ii) do not exceed comparable market rents for the market area.
+
+
+  In determining the rent level for a contract under this subparagraph, the Secretary shall approve rents sufficient to cover budget-based cost increases and shall give greater consideration to providing rent at a level up to comparable market rents for the market area based on the number of the criteria under clauses (i) through (iii) of subparagraph (D) that the project meets. Notwithstanding any other provision of law, the Secretary shall include in such budget-based cost increases costs relating to the project as a whole (including costs incurred with respect to units not covered by the contract for assistance), but only (I) if inclusion of such costs is requested by the owner or purchaser of the project, (II) if inclusion of such costs will permit capital repairs to the project or acquisition of the project by a nonprofit organization, and (III) to the extent that inclusion of such costs (or a portion thereof) complies with the requirement under clause (ii).
+
+“(D) Waiver of 150 percent limitation.—Notwithstanding subparagraph (A), at rent levels up to comparable market rents for the market area, in the case of a project that meets the requirements under clauses (i) through (v) of subparagraph (A) and—“(i) has residents who are a particularly vulnerable population, as demonstrated by a high percentage of units being rented to elderly families, disabled families, or large families;
+
+“(ii) is located in an area in which tenant-based assistance would be difficult to use, as demonstrated by a low vacancy rate for affordable housing, a high turnback rate for vouchers, or a lack of comparable rental housing; or
+
+“(iii) is a high priority for the local community, as demonstrated by a contribution of State or local funds to the property.
+
+
+  In determining the rent level for a contract under this subparagraph, the Secretary shall approve rents sufficient to cover budget-based cost increases and shall give greater consideration to providing rent at a level up to comparable market rents for the market area based on the number of the criteria under clauses (i) through (iv) that the project meets.
+
+
+“(5) Comparable market rents and comparison with fair market rents.—The Secretary shall prescribe the method for determining comparable market rent by comparison with rents charged for comparable properties (as such term is defined in section 512), which may include appropriate adjustments for utility allowances and adjustments to reflect the value of any subsidy (other than section 8 assistance) provided by the Department of Housing and Urban Development.
+
+
+“(b) Exception Rents.—“(1) Renewal.—In the case of a multifamily housing project described in paragraph (2), pursuant to the request of the owner of the project, the contract for assistance for the project pursuant to subsection (a) shall provide assistance at the lesser of the following rent levels:“(A) Adjusted existing rents.—The existing rents under the expiring contract, as adjusted by an operating cost adjustment factor established by the Secretary (which shall not result in a negative adjustment).
+
+“(B) Budget-based rents.—Subject to a determination by the Secretary that a rent level under this subparagraph is appropriate for a project, a rent level that provides income sufficient to support a budget-based rent (including a budget-based rent adjustment if justified by reasonable and expected operating expenses).
+
+
+“(2) Projects covered.—A multifamily housing project described in this paragraph is a multifamily housing project that—“(A) is not an eligible multifamily housing project under section 512(2); or
+
+“(B) is exempt from mortgage restructuring under this subtitle pursuant to section 514(h).
+
+
+“(3) Moderate rehabilitation projects.—In the case of a project with a contract under the moderate rehabilitation program, other than a moderate rehabilitation contract under [former] section 441 of the McKinney-Vento Homeless Assistance Act [42 U.S.C. 11401], pursuant to the request of the owner of the project, the contract for assistance for the project pursuant to subsection (a) shall provide assistance at the lesser of the following rent levels:“(A) Adjusted existing rents.—The existing rents under the expiring contract, as adjusted by an operating cost adjustment factor established by the Secretary (which shall not result in a negative adjustment).
+
+“(B) Fair market rents.—Fair market rents (less any amounts allowed for tenant-purchased utilities).
+
+“(C) Market rents.—Comparable market rents for the market area.
+
+
+
+“(c) Rent Adjustments After Renewal of Contract.—“(1) Required.—After the initial renewal of a contract for assistance under section 8 of the United States Housing Act of 1937 [42 U.S.C. 1437f] pursuant to subsection (a), (b)(1), or (e)(2), the Secretary shall annually adjust the rents using an operating cost adjustment factor established by the Secretary (which shall not result in a negative adjustment) or, upon the request of the owner and subject to approval of the Secretary, on a budget basis. In the case of projects with contracts renewed pursuant to subsection (a) or pursuant to subsection (e)(2) at rent levels equal to comparable market rents for the market area, at the expiration of each 5-year period, the Secretary shall compare existing rents with comparable market rents for the market area and may make any adjustments in the rent necessary to maintain the contract rents at a level not greater than comparable market rents or to increase rents to comparable market rents.
+
+“(2) Discretionary.—In addition to review and adjustment required under paragraph (1), in the case of projects with contracts renewed pursuant to subsection (a) or pursuant to subsection (e)(2) at rent levels equal to comparable market rents for the market area, the Secretary may, at the discretion of the Secretary but only once within each 5-year period referred to in paragraph (1), conduct a comparison of rents for a project and adjust the rents accordingly to maintain the contract rents at a level not greater than comparable market rents or to increase rents to comparable market rents.
+
+
+“(d) Enhanced Vouchers Upon Contract Expiration.—“(1) In general.—In the case of a contract for project-based assistance under section 8 for a covered project that is not renewed under subsection (a) or (b) of this section (or any other authority), to the extent that amounts for assistance under this subsection are provided in advance in appropriation Acts, upon the date of the expiration of such contract the Secretary shall make enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)) available on behalf of each low-income family who, upon the date of such expiration, is residing in an assisted dwelling unit in the covered project.
+
+“(2) Definitions.—For purposes of this subsection, the following definitions shall apply:“(A) Assisted dwelling unit.—The term ‘assisted dwelling unit’ means a dwelling unit that—“(i) is in a covered project; and
+
+“(ii) is covered by rental assistance provided under the contract for project-based assistance for the covered project.
+
+
+“(B) Covered project.—The term ‘covered project’ means any housing that—“(i) consists of more than four dwelling units;
+
+“(ii) is covered in whole or in part by a contract for project-based assistance under—     “(I) the new construction or substantial rehabilitation program under section 8(b)(2) of the United States Housing Act of 1937 (as in effect before October 1, 1983);
+
+     “(II) the property disposition program under section 8(b) of the United States Housing Act of 1937;
+
+     “(III) the moderate rehabilitation program under section 8(e)(2) of the United States Housing Act of 1937 (as in effect before October 1, 1991);
+
+     “(IV) the loan management assistance program under section 8 of the United States Housing Act of 1937;
+
+     “(V) section 23 of the United States Housing Act of 1937 [42 U.S.C. 1437u] (as in effect before January 1, 1975);
+
+     “(VI) the rent supplement program under section 101 of the Housing and Urban Development Act of 1965 [12 U.S.C. 1701s]; or
+
+     “(VII) section 8 of the United States Housing Act of 1937, following conversion from assistance under section 101 of the Housing and Urban Development Act of 1965,
+
+
+
+ which contract will (under its own terms) expire during the period consisting of fiscal years 2000 through 2004; and
+“(iii) is not housing for which residents are eligible for enhanced voucher assistance as provided, pursuant to the ‘Preserving Existing Housing Investment’ account in the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204; 110 Stat. 2884) or any other subsequently enacted provision of law, in lieu of any benefits under section 223 of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4113).
+
+
+
+“(4) Authorization of appropriations.—There are authorized to be appropriated for each of fiscal years 2000, 2001, 2002, 2003, and 2004 such sums as may be necessary for enhanced voucher assistance under this subsection.
+
+
+“(e) Contractual Commitments Under Preservation Laws.—Except as provided in subsection (a)(2) and notwithstanding any other provision of this subtitle, the following shall apply:“(1) Preservation projects.—Upon expiration of a contract for assistance under section 8 [42 U.S.C. 1437f] for a project that is subject to an approved plan of action under the Emergency Low Income Housing Preservation Act of 1987 (12 U.S.C. 1715l note) or the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4101 et seq.), to the extent amounts are specifically made available in appropriation Acts, the Secretary shall provide to the owner benefits comparable to those provided under such plan of action, including distributions, rent increase procedures, and duration of low-income affordability restrictions. This paragraph shall apply to projects with contracts expiring before, on, or after the date of the enactment of this section [Oct. 27, 1997].
+
+“(2) Demonstration projects.—“(A) In general.—Upon expiration of a contract for assistance under section 8 for a project entered into pursuant to any authority specified in subparagraph (B) for which the Secretary determines that debt restructuring is inappropriate, the Secretary shall, at the request of the owner of the project and to the extent sufficient amounts are made available in appropriation Acts, provide benefits to the owner comparable to those provided under such contract, including annual distributions, rent increase procedures, and duration of low-income affordability restrictions. This paragraph shall apply to projects with contracts expiring before, on, or after the date of the enactment of this section [Oct. 27, 1997].
+
+“(B) Demonstration programs.—The authority specified in this subparagraph is the authority under—“(i) section 210 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996 (Public Law 104–134; 110 Stat. 1321–285; 42 U.S.C. 1437f note);
+
+“(ii) section 212 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204; 110 Stat. 2897; 42 U.S.C. 1437f note); and
+
+“(iii) either of such sections, pursuant to any provision of this title [see Short Title of 1997 Amendment note set out under section 1701 of title 12].
+
+
+
+“(3) Mortgage restructuring and rental assistance sufficiency plans.—Notwithstanding paragraph (1), the owner of the project may request, and the Secretary may consider, mortgage restructuring and rental assistance sufficiency plans to facilitate sales or transfers of properties under this subtitle, subject to an approved plan of action under the Emergency Low Income Housing Preservation Act of 1987 (12 U.S.C. 1715l note) [see Codification note preceding section 4101 of Title 12, Banks and Banking] or the Low-Income Housing Preservation and Resident Homeownership Act of 1990 (12 U.S.C. 4101 et seq.), which plans shall result in a sale or transfer of those properties.
+
+
+“(f) Preemption of Conflicting State Laws Limiting Distributions.—“(1) In general.—Except as provided in paragraph (2), no State or political subdivision of a State may establish, continue in effect, or enforce any law or regulation that limits or restricts, to an amount that is less than the amount provided for under the regulations of the Secretary establishing allowable project distributions to provide a return on investment, the amount of surplus funds accruing after the date of the enactment of this section [Oct. 27, 1997] that may be distributed from any multifamily housing project assisted under a contract for rental assistance renewed under any provision of this section (except subsection (b)) to the owner of the project.
+
+“(2) Exception and waiver.—Paragraph (1) shall not apply to any law or regulation to the extent such law or regulation applies to—“(A) a State-financed multifamily housing project; or
+
+“(B) a multifamily housing project for which the owner has elected to waive the applicability of paragraph (1).
+
+
+“(3) Treatment of low-income use restrictions.—This subsection may not be construed to provide for, allow, or result in the release or termination, for any project, of any low- or moderate-income use restrictions that can not be eliminated by unilateral action of the owner of the project.
+
+
+“(g) Applicability.—Except to the extent otherwise specifically provided in this section, this section shall apply with respect to any multifamily housing project having a contract for project-based assistance under section 8 [42 U.S.C. 1437f] that terminates or expires during fiscal year 2000 or thereafter.
+

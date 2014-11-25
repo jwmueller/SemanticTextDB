@@ -1,0 +1,37 @@
+§ 6699. Failure to file S corporation return(a) General ruleIn addition to the penalty imposed by section 7203 (relating to willful failure to file return, supply information, or pay tax), if any S corporation required to file a return under section 6037 for any taxable year—(1) fails to file such return at the time prescribed therefor (determined with regard to any extension of time for filing), or
+
+(2) files a return which fails to show the information required under section 6037,
+
+
+such S corporation shall be liable for a penalty determined under subsection (b) for each month (or fraction thereof) during which such failure continues (but not to exceed 12 months), unless it is shown that such failure is due to reasonable cause.
+
+(b) Amount per monthFor purposes of subsection (a), the amount determined under this subsection for any month is the product of—(1) $195, multiplied by
+
+(2) the number of persons who were shareholders in the S corporation during any part of the taxable year.
+
+
+(c) Assessment of penaltyThe penalty imposed by subsection (a) shall be assessed against the S corporation.
+
+
+(d) Deficiency procedures not to applySubchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
+
+
+(Added Pub. L. 110–142, § 9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I, § 128(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, § 16(a), Nov. 6, 2009, 123 Stat. 2996.)
+
+Codification
+Section 9(a) of Pub. L. 110–142, which directed amendment of this part by adding this section at the end, was executed by inserting this section after section 6698, to reflect the probable intent of Congress.
+
+Prior ProvisionsA prior section 6699, added Pub. L. 95–600, title I, § 141(c)(1), Nov. 6, 1978, 92 Stat. 2794; amended Pub. L. 96–222, title I, § 101(a)(7)(L)(iii)(VI), (v)(IX), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, § 331(c)(3), (4), Aug. 13, 1981, 95 Stat. 293, 294; Pub. L. 97–448, title I, § 103(g)(2)(B)–(D), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 98–369, div. A, title IV, § 491(e)(9), July 18, 1984, 98 Stat. 853; Pub. L. 99–514, title XVIII, § 1847(b)(9), Oct. 22, 1986, 100 Stat. 2857, related to assessable penalties applicable to tax credit employee stock ownership plans, prior to repeal by Pub. L. 99–514, title XI, § 1171(b)(7)(A), Oct. 22, 1986, 100 Stat. 2513. For effective date of repeal, see section 1171(c) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 38 of this title.
+
+Amendments2009—Subsec. (b)(1). Pub. L. 111–92 substituted “$195” for “$89”.
+2008—Subsec. (b)(1). Pub. L. 110–458 substituted “$89” for “$85”.
+
+Effective Date of 2009 AmendmentAmendment by Pub. L. 111–92 applicable to returns for taxable years beginning after Dec. 31, 2009, see section 16(b) of Pub. L. 111–92, set out as a note under section 6698 of this title.
+
+Effective Date of 2008 AmendmentPub. L. 110–458, title I, § 128(b), Dec. 23, 2008, 122 Stat. 5116, provided that: “The amendment made by subsection (a) [amending this section] shall apply to returns required to be filed after December 31, 2008.”
+
+
+Effective DatePub. L. 110–142, § 9(c), Dec. 20, 2007, 121 Stat. 1808, provided that: “The amendments made by this section [enacting this section] shall apply to returns required to be filed after the date of the enactment of this Act [Dec. 20, 2007].”
+
+
+

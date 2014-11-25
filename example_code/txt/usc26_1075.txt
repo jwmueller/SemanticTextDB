@@ -1,0 +1,143 @@
+“Sec. 4002. (a) In General.—Any agreement under this title shall provide that the State will establish, for each eligible individual who files an application for emergency unemployment compensation, an emergency unemployment compensation account with respect to such individual’s benefit year.
+
+“(b) Amount in Account.—“(1) In general.—The amount established in an account under subsection (a) shall be equal to the lesser of—“(A) 80 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under such law, or
+
+“(B) 20 times the individual’s average weekly benefit amount for the benefit year.
+
+
+“(2) Special rule relating to amounts established in an account as of a week ending after september 2, 2012.—Notwithstanding any provision of paragraph (1), in the case of any account established as of a week ending after September 2, 2012—“(A) paragraph (1)(A) shall be applied by substituting ‘54 percent’ for ‘80 percent’; and
+
+“(B) paragraph (1)(B) shall be applied by substituting ‘14 weeks’ for ‘20 weeks’ [probably should be “ ‘14 times’ for ‘20 times’ ”].
+
+
+“(3) Weekly benefit amount.—For purposes of this subsection, an individual’s weekly benefit amount for any week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment.
+
+
+“(c) Second-tier Emergency Unemployment Compensation.—“(1) In general.—If, at the time that the amount established in an individual’s account under subsection (b) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be augmented by an amount (hereinafter ‘second-tier emergency unemployment compensation’) equal to the lesser of—“(A) 54 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law, or
+
+“(B) 14 times the individual’s average weekly benefit amount (as determined under subsection (b)(2)) for the benefit year.
+
+
+“(2) Extended benefit period.—For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if such a period would then be in effect for such State under such Act [probably means title II of Pub. L. 91–373] if—“(A) section 203(f) of the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373, set out below] were applied to such State (regardless of whether the State by law had provided for such application); and
+
+“(B) such section 203(f)—“(i) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
+
+“(ii) did not include the requirement under paragraph (1)(A)(ii) thereof.
+
+
+
+“(3) Applicable percentage.—The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—“(A) before June 1, 2012, 0 percent; and
+
+“(B) after the last week under subparagraph (A), 6 percent.
+
+
+“(4) Limitation.—The account of an individual may be augmented not more than once under this subsection.
+
+
+“(d) Third-tier Emergency Unemployment Compensation.—“(1) In general.—If, at the time that the amount added to an individual’s account under subsection (c)(1) (hereinafter ‘second-tier emergency unemployment compensation’) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be further augmented by an amount (hereinafter ‘third-tier emergency unemployment compensation’) equal to the lesser of—“(A) 50 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
+
+“(B) 13 times the individual’s average weekly benefit amount (as determined under subsection (b)(2) [probably should be “(b)(3)”]) for the benefit year.
+
+
+“(2) Extended benefit period.—For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if—“(A) such a period would then be in effect for such State under the Federal-State Extended Unemployment Compensation Act of 1970 [title II of Pub. L. 91–373, set out below] if section 203(d) of such Act—“(i) were applied by substituting ‘4’ for ‘5’ each place it appears; and
+
+“(ii) did not include the requirement under paragraph (1)(A) thereof; or
+
+
+“(B) such a period would then be in effect for such State under such Act if—“(i) section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
+
+“(ii) such section 203(f)—     “(I) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
+
+     “(II) did not include the requirement under paragraph (1)(A)(ii) thereof.
+
+
+
+
+“(3) Applicable percentage.—The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—“(A) before June 1, 2012, 6 percent; and
+
+“(B) after the last week under subparagraph (A), 7 percent.
+
+
+“(4) Limitation.—The account of an individual may be augmented not more than once under this subsection.
+
+“(5) Special rule relating to amounts added to an account as of a week ending after september 2, 2012.—Notwithstanding any provision of paragraph (1), if augmentation under this subsection occurs as of a week ending after September 2, 2012—“(A) paragraph (1)(A) shall be applied by substituting ‘35 percent’ for ‘50 percent’; and
+
+“(B) paragraph (1)(B) shall be applied by substituting ‘9 times’ for ‘13 times’.
+
+
+
+“(e) Fourth-tier Emergency Unemployment Compensation.—“(1) In general.—If, at the time that the amount added to an individual’s account under subsection (d)(1) (third-tier emergency unemployment compensation) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be further augmented by an amount (hereinafter ‘fourth-tier emergency unemployment compensation’) equal to the lesser of—“(A) 24 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
+
+“(B) 6 times the individual’s average weekly benefit amount (as determined under subsection (b)(2) [probably should be “(b)(3)”]) for the benefit year.
+
+
+“(2) Extended benefit period.—For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if—“(A) such a period would then be in effect for such State under the Federal-State Extended Unemployment Compensation Act of 1970 [title II of Pub. L. 91–373, set out below] if section 203(d) of such Act—“(i) were applied by substituting ‘6’ for ‘5’ each place it appears; and
+
+“(ii) did not include the requirement under paragraph (1)(A) thereof; or
+
+
+“(B) such a period would then be in effect for such State under such Act if—“(i) section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
+
+“(ii) such section 203(f)—     “(I) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
+
+     “(II) did not include the requirement under paragraph (1)(A)(ii) thereof.
+
+
+
+
+“(3) Applicable percentage.—The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—“(A) before June 1, 2012, 8.5 percent; and
+
+“(B) after the last week under subparagraph (A), 9 percent.
+
+
+“(4) Limitation.—The account of an individual may be augmented not more than once under this subsection.
+
+“(5) Special rules relating to amounts added to an account.—“(A) March to may of 2012.—“(i) Special rule.—Notwithstanding any provision of paragraph (1) but subject to the following 2 sentences, if augmentation under this subsection occurs as of a week ending after the date of enactment of this paragraph [Feb. 22, 2012] and before June 1, 2012 (or if, as of such date of enactment, any fourth-tier amounts remain in the individual’s account)—     “(I) paragraph (1)(A) shall be applied by substituting ‘62 percent’ for ‘24 percent’; and
+
+     “(II) paragraph (1)(B) shall be applied by substituting ‘16 times’ for ‘6 times’.
+
+
+
+ The preceding sentence shall apply only if, at the time that the account would be augmented under this subparagraph, such individual’s State is not in an extended benefit period as determined under the Federal-State Extended Unemployment Compensation Act of 1970 [title II of Pub. L. 91–373, set out below]. In no event shall the total amount added to the account of an individual under this subparagraph cause, in the case of an individual described in the parenthetical matter in the first sentence of this clause, the sum of the total amount previously added to such individual’s account under this subsection (as in effect before the date of enactment of this paragraph) and any further amounts added as a result of the enactment of this clause, to exceed the total amount allowable under subclause (I) or (II), as the case may be.
+“(ii) Limitation.—Notwithstanding any other provision of this title, the amounts added to the account of an individual under this subparagraph may not cause the sum of the amounts previously established in or added to such account, plus any weeks of extended benefits provided to such individual under the Federal-State Extended Unemployment Compensation Act of 1970 [title II of Pub. L. 91–373, set out below] (based on the same exhaustion of regular compensation under section 4001(b)(1)), to in the aggregate exceed the lesser of—     “(I) 282 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
+
+     “(II) 73 times the individual’s average weekly benefit amount (as determined under subsection (b)(3)) for the benefit year.
+
+
+
+“(B) After august of 2012.—Notwithstanding any provision of paragraph (1), if augmentation under this subsection occurs as of a week ending after September 2, 2012—“(i) paragraph (1)(A) shall be applied by substituting ‘39 percent’ for ‘24 percent’; and
+
+“(ii) paragraph (1)(B) shall be applied by substituting ‘10 times’ for ‘6 times’.
+
+
+
+
+“(f) Coordination Rules.—“(1) Coordination with extended compensation.—Notwithstanding an election under section 4001(e) by a State to provide for the payment of emergency unemployment compensation prior to extended compensation, such State may pay extended compensation to an otherwise eligible individual prior to any emergency unemployment compensation under subsection (c), (d), or (e) (by reason of the amendments made by sections 2, 3, and 4 of the Worker, Homeownership, and Business Assistance Act of 2009 [Pub. L. 111–92]), if such individual claimed extended compensation for at least 1 week of unemployment after the exhaustion of emergency unemployment compensation under subsection (b) (as such subsection was in effect on the day before the date of the enactment of this subsection [Nov. 6, 2009]).
+
+“(2) Coordination with tiers ii, iii, and iv.—If a State determines that implementation of the increased entitlement to second-tier emergency unemployment compensation by reason of the amendments made by section 2 of the Worker, Homeownership, and Business Assistance Act of 2009 [Pub. L. 111–92] would unduly delay the prompt payment of emergency unemployment compensation under this title by reason of the amendments made by such Act, such State may elect to pay third-tier emergency unemployment compensation prior to the payment of such increased second-tier emergency unemployment compensation until such time as such State determines that such increased second-tier emergency unemployment compensation may be paid without such undue delay. If a State makes the election under the preceding sentence, then, for purposes of determining whether an account may be augmented for fourth-tier emergency unemployment compensation under subsection (e), such State shall treat the date of exhaustion of such increased second-tier emergency unemployment compensation as the date of exhaustion of third-tier emergency unemployment compensation, if such date is later than the date of exhaustion of the third-tier emergency unemployment compensation.
+
+
+“(g) Coordination of Emergency Unemployment Compensation With Regular Compensation.—“(1) If—“(A) an individual has been determined to be entitled to emergency unemployment compensation with respect to a benefit year,
+
+“(B) that benefit year has expired,
+
+“(C) that individual has remaining entitlement to emergency unemployment compensation with respect to that benefit year, and
+
+“(D) that individual would qualify for a new benefit year in which the weekly benefit amount of regular compensation is at least either $100 or 25 percent less than the individual’s weekly benefit amount in the benefit year referred to in subparagraph (A),
+
+
+then the State shall determine eligibility for compensation as provided in paragraph (2).
+
+“(2) For individuals described in paragraph (1), the State shall determine whether the individual is to be paid emergency unemployment compensation or regular compensation for a week of unemployment using one of the following methods:“(A) The State shall, if permitted by State law, establish a new benefit year, but defer the payment of regular compensation with respect to that new benefit year until exhaustion of all emergency unemployment compensation payable with respect to the benefit year referred to in paragraph (1)(A);
+
+“(B) The State shall, if permitted by State law, defer the establishment of a new benefit year (which uses all the wages and employment which would have been used to establish a benefit year but for the application of this paragraph), until exhaustion of all emergency unemployment compensation payable with respect to the benefit year referred to in paragraph(1)(A);
+
+“(C) The State shall pay, if permitted by State law—“(i) regular compensation equal to the weekly benefit amount established under the new benefit year, and
+
+“(ii) emergency unemployment compensation equal to the difference between that weekly benefit amount and the weekly benefit amount for the expired benefit year; or
+
+
+“(D) The State shall determine rights to emergency unemployment compensation without regard to any rights to regular compensation if the individual elects to not file a claim for regular compensation under the new benefit year.
+
+
+

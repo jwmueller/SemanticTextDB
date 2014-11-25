@@ -1,0 +1,29 @@
+§ 16152. Definitions
+In this subchapter:(1) Fuel cellThe term “fuel cell” means a device that directly converts the chemical energy of a fuel, which is supplied from an external source, and an oxidant into electricity by electrochemical processes occurring at separate electrodes in the device.
+
+
+(2) Heavy-duty vehicleThe term “heavy-duty vehicle” means a motor vehicle that—(A) is rated at more than 8,500 pounds gross vehicle weight;
+
+(B) has a curb weight of more than 6,000 pounds; or
+
+(C) has a basic vehicle frontal area in excess of 45 square feet.
+
+
+(3) InfrastructureThe term “infrastructure” means the equipment, systems, or facilities used to produce, distribute, deliver, or store hydrogen (except for onboard storage).
+
+
+(4) Light-duty vehicleThe term “light-duty vehicle” means a motor vehicle that is rated at 8,500 or less pounds gross vehicle weight.
+
+
+(5) Stationary; portableThe terms “stationary” and “portable”, when used in reference to a fuel cell, include—(A) continuous electric power; and
+
+(B) backup electric power.
+
+
+(6) Task ForceThe term “Task Force” means the Hydrogen and Fuel Cell Technical Task Force established under section 16155 of this title.
+
+
+(7) Technical Advisory CommitteeThe term “Technical Advisory Committee” means the independent Technical Advisory Committee established under section 16156 of this title.
+
+
+(Pub. L. 109–58, title VIII, § 803, Aug. 8, 2005, 119 Stat. 844.)

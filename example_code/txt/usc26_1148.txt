@@ -1,0 +1,121 @@
+§ 4101. Registration and bond(a) Registration(1) In generalEvery person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+
+
+(2) Registration of persons within foreign trade zones, etc.The Secretary shall require registration by any person which—(A) operates a terminal or refinery within a foreign trade zone or within a customs bonded storage facility, or
+
+(B) holds an inventory position with respect to a taxable fuel in such a terminal.
+
+
+(3) Display of registrationEvery operator of a vessel required by the Secretary to register under this section shall display proof of registration through an identification device prescribed by the Secretary on each vessel used by such operator to transport any taxable fuel.
+
+
+(4) Registration of persons extending credit on certain exempt sales of fuelThe Secretary shall require registration by any person which—(A) extends credit by credit card to any ultimate purchaser described in subparagraph (C) or (D) of section 6416(b)(2) for the purchase of taxable fuel upon which tax has been imposed under section 4041 or 4081, and
+
+(B) does not collect the amount of such tax from such ultimate purchaser.
+
+
+(5) Reregistration in event of change in ownershipUnder regulations prescribed by the Secretary, a person (other than a corporation the stock of which is regularly traded on an established securities market) shall be required to reregister under this section if after a transaction (or series of related transactions) more than 50 percent of ownership interests in, or assets of, such person are held by persons other than persons (or persons related thereto) who held more than 50 percent of such interests or assets before the transaction (or series of related transactions).
+
+
+
+(b) Bonds and liens(1) In generalUnder regulations prescribed by the Secretary, the Secretary may require, as a condition of permitting any person to be registered under subsection (a), that such person—(A) give a bond in such sum as the Secretary determines appropriate, and
+
+(B) agree to the imposition of a lien—(i) on such property (or rights to property) of such person used in the trade or business for which the registration is sought, or
+
+(ii) with the consent of such person, on any other property (or rights to property) of such person as the Secretary determines appropriate.
+
+
+Rules similar to the rules of section 6323 shall apply to the lien imposed pursuant to this paragraph.
+
+
+(2) Release or discharge of lienIf a lien is imposed pursuant to paragraph (1), the Secretary shall issue a certificate of discharge or a release of such lien in connection with a transfer of the property if there is furnished to the Secretary (and accepted by him) a bond in such sum as the Secretary determines appropriate or the transferor agrees to the imposition of a substitute lien under paragraph (1)(B) in such sum as the Secretary determines appropriate. The Secretary shall respond to any request to discharge or release a lien imposed pursuant to paragraph (1) in connection with a transfer of property not later than 90 days after the date the request for such a discharge or release is made.
+
+
+
+(c) Denial, revocation, or suspension of registrationRules similar to the rules of section 4222(c) shall apply to registration under this section.
+
+
+(d) Information reportingThe Secretary may require—(1) information reporting by any person registered under this section, and
+
+(2) information reporting by such other persons as the Secretary deems necessary to carry out this part.
+
+
+Any person who is required to report under this subsection and who has 25 or more reportable transactions in a month shall file such report in electronic format.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, § 802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, § 515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, § 1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, § 10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, § 11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, § 13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, § 1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, § 6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, § 615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, § 301(b), title VIII, §§ 853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§ 11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, § 11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, § 15321(b)(3)(A), May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, § 4(a), title XV, § 15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275; Pub. L. 112–240, title IV, § 404(b)(3)(C), Jan. 2, 2013, 126 Stat. 2339.)
+
+Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2013—Subsec. (a)(1). Pub. L. 112–240 substituted “second generation biofuel” for “cellulosic biofuel”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 15321(b)(3)(A), substituted “, every person producing or importing” for “and every person producing or importing” and inserted “, and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E))” before “shall register”.
+2007—Subsec. (a)(4), (5). Pub. L. 110–172 redesignated par. (4) relating to reregistration in event of change of ownership as (5).
+2005—Subsec. (a)(1). Pub. L. 109–59, § 11113(c), substituted “4041(a)” for “4041(a)(1)”.
+Subsec. (a)(4). Pub. L. 109–59, § 11164(a), added par. (4) relating to reregistration in event of change in ownership.
+Pub. L. 109–59, § 11163(a), added par. (4) relating to registration of persons extending credit on certain exempt sales of fuel.
+2004—Subsec. (a). Pub. L. 108–357, § 861(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Pub. L. 108–357, § 853(d)(2)(F), substituted “or 4081” for “, 4081, or 4091”.
+Pub. L. 108–357, § 301(b), amended par. (1), as amended by Pub. L. 108–357, § 861, by inserting “and every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A))” before “shall register with the Secretary”.
+Subsec. (a)(2), (3). Pub. L. 108–357, § 862(a), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (d). Pub. L. 108–357, § 864(a), inserted concluding provisions.
+2002—Subsec. (e). Pub. L. 107–147 struck out heading and text of subsec. (e). Text read as follows:
+“(1) In general.—A terminal for kerosene or diesel fuel may not be an approved facility for storage of non-tax-paid diesel fuel or kerosene under this section unless the operator of such terminal offers such fuel in a dyed form for removal for nontaxable use in accordance with section 4082(a).
+“(2) Exception.—Paragraph (1) shall not apply to any terminal exclusively providing aviation-grade kerosene by pipeline to an airport.”
+1998—Subsec. (e)(1). Pub. L. 105–206 substituted “such fuel in a dyed form” for “dyed diesel fuel and kerosene”.
+1997—Subsec. (e). Pub. L. 105–34 added subsec. (e).
+1993—Subsec. (a). Pub. L. 103–66 substituted “4041(a)(1), 4081,” for “4081”.
+1990—Pub. L. 101–508 amended section generally. Prior to amendment, section read as follows:
+“(a) Registration.—Every person subject to tax under section 4081 or 4091 shall, before incurring any liability for tax under such section, register with the Secretary.
+“(b) Bond.—Under regulations prescribed by the Secretary, every person who registers under subsection (a) may be required to give a bond in such sum as the Secretary determines.”
+1987—Subsec. (a). Pub. L. 100–203 inserted “or 4091” after “section 4081”.
+1986—Pub. L. 99–514 amended section generally, substituting “Registration and bond” for “Registration” in section catchline, designating existing provisions as subsec. (a), inserting subsec. (a) heading, and adding subsec. (b).
+1983—Pub. L. 97–424 struck out “or section 4091” after “4081”.
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+1965—Pub. L. 89–44 struck out all references to a bond to be given and its terms and requirements.
+
+Effective Date of 2013 AmendmentAmendment by Pub. L. 112–240 applicable to fuels sold or used after Jan. 2, 2013, see section 404(b)(4) of Pub. L. 112–240, set out as a note under section 40 of this title.
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment by section 15321(b)(3)(A) of Pub. L. 110–246 applicable to fuel produced after Dec. 31, 2008, see section 15321(g) of Pub. L. 110–246, set out as a note under section 40 of this title.
+
+Effective Date of 2005 AmendmentAmendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
+Pub. L. 109–59, title XI, § 11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: “The amendments made by this section [amending this section and sections 6206, 6416, 6427, and 6675 of this title] shall apply to sales after December 31, 2005.”
+
+Pub. L. 109–59, title XI, § 11164(c), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendments made by this section [amending this section and sections 6719, 7232, and 7272 of this title] shall apply to actions, or failures to act, after the date of the enactment of this Act [Aug. 10, 2005].”
+
+
+Effective Date of 2004 AmendmentAmendment by section 301(b) of Pub. L. 108–357 effective Apr. 1, 2005, see section 301(d)(2) of Pub. L. 108–357, set out as a note under section 40 of this title.
+Amendment by section 853(d)(2)(F) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
+Pub. L. 108–357, title VIII, § 861(c)(1), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2005.”
+
+Pub. L. 108–357, title VIII, § 862(c), Oct. 22, 2004, 118 Stat. 1619, provided that: “The amendments made by this section [amending this section and section 6718 of this title] shall take effect on January 1, 2005.”
+
+Pub. L. 108–357, title VIII, § 864(b), Oct. 22, 2004, 118 Stat. 1621, provided that: “The amendment made by this section [amending this section] shall apply on January 1, 2006.”
+
+
+Effective Date of 2002 AmendmentPub. L. 107–147, title VI, § 615(b), Mar. 9, 2002, 116 Stat. 62, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2002.”
+
+
+Effective Date of 1998 AmendmentAmendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+
+Effective Date of 1997 AmendmentAmendment by Pub. L. 105–34 effective Jan. 1, 2002, see section 1032(f)(2) of Pub. L. 105–34, as amended, set out as a note under section 4041 of this title.
+
+Effective Date of 1993 AmendmentAmendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
+
+Effective Date of 1990 AmendmentAmendment by Pub. L. 101–508 effective Dec. 1, 1990, see section 11212(f)(2) of Pub. L. 101–508, set out as a note under section 4081 of this title.
+
+Effective Date of 1987 AmendmentAmendment by Pub. L. 100–203 applicable to sales after Mar. 31, 1988, see section 10502(e) of Pub. L. 100–203, set out as a note under section 40 of this title.
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
+
+Effective Date of 1983 AmendmentAmendment by Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
+
+Effective Date of 1965 AmendmentAmendment by Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section 802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
+
+Treatment of Deep-Draft VesselsPub. L. 109–59, title XI, § 11166(a), Aug. 10, 2005, 119 Stat. 1976, provided that: “On and after the date of the enactment of this Act [Aug. 10, 2005], the Secretary of the Treasury shall require that a vessel described in section 4042(c)(1) of the Internal Revenue Code of 1986 be considered a vessel for purposes of the registration of the operator of such vessel under section 4101 of such Code, unless such operator uses such vessel exclusively for purposes of the entry of taxable fuel.”
+
+
+Publication of Registered PersonsPub. L. 108–357, title VIII, § 860(c), Oct. 22, 2004, 118 Stat. 1618, provided that: “Beginning on January 1, 2005, the Secretary of the Treasury (or the Secretary’s delegate) shall periodically publish under section 6103(k)(7) of the Internal Revenue Code of 1986 a current list of persons registered under section 4101 of such Code who are required to register under such section.”
+
+
+

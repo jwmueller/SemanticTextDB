@@ -1,0 +1,30 @@
+§ 1398. Interstate Commerce Commission’s orders(a) Except as otherwise provided by law, a civil action brought under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office.
+
+(b) A civil action to enforce, enjoin, set aside, annul, or suspend, in whole or in part, an order of the Interstate Commerce Commission made pursuant to the referral of a question or issue by a district court or by the United States Court of Federal Claims, shall be brought only in the court which referred the question or issue.
+
+(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 88–513, § 2, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, § 2, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, § 130, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 43 (Oct. 22, 1913, ch. 32, 38 Stat. 219).
+This section is completely rewritten to give effect to changes recommended by the Judicial Conference of the United States.
+Section 43 of title 28, U.S.C., 1940 ed., is as follows:
+“§ 43. Venue of suits relating to orders of Interstate Commerce Commission.
+“The venue of any suit brought to enforce, suspend, or set aside, in whole or in part, any order of the Interstate Commerce Commission shall be in the judicial district wherein is the residence of the party or any of the parties upon whose petition the order was made, except that where the order does not relate to transportation or is not made upon the petition of any party the venue shall be in the district where the matter complained of in the petition before the commission arises, and except that where the order does not relate either to transportation or to a matter so complained of before the commission the matter covered by the order shall be deemed to arise in the district where one of the petitioners in court has either its principal office or its principal operating office. In case such transportation relates to a through shipment the term ‘destination’ shall be construed as meaning final destination of such shipment.” The amendment of section 207 of title 28, U.S.C., 1940 ed., proposed by the Judicial Conference is:
+“Except as otherwise provided in the Act entitled ‘An Act to Regulate Commerce’, approved February 4, 1887, as amended, the venue of any suit brought to enforce, suspend, or set aside, in whole or in part, any order of the Interstate Commerce Commission shall be in the judicial district wherein is the residence of the party or any of the parties bringing the suit or wherein such party or any of such parties has its principal office.”
+The revised section substitutes the words “Except as otherwise provided by law” for the words of the conference bill, “in the act entitled ‘An Act to Regulate Commerce, approved February 4, 1887, as amended’ ”. (See section 16 of title 49, U.S.C., 1940 ed., which provides for jurisdiction and venue of actions to enforce Interstate Commerce Commission orders for the payment of money.)
+
+Amendments1992—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1982—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+1975—Subsec. (a). Pub. L. 93–584 substituted provisions that civil actions under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office, for provisions that civil actions to enforce, suspend, or set aside in whole or in part orders of the Interstate Commerce Commission shall be brought in such judicial district.
+1964—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsec. (b).
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
+
+Effective Date of 1982 AmendmentAmendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
+
+Effective Date of 1975 AmendmentAmendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
+
+
+Abolition of Interstate Commerce Commission and Transfer of Functions
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
+

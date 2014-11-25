@@ -1,0 +1,201 @@
+§ 141. Private activity bond; qualified bond(a) Private activity bondFor purposes of this title, the term “private activity bond” means any bond issued as part of an issue—(1) which meets—(A) the private business use test of paragraph (1) of subsection (b), and
+
+(B) the private security or payment test of paragraph (2) of subsection (b), or
+
+
+(2) which meets the private loan financing test of subsection (c).
+
+
+(b) Private business tests(1) Private business use testExcept as otherwise provided in this subsection, an issue meets the test of this paragraph if more than 10 percent of the proceeds of the issue are to be used for any private business use.
+
+
+(2) Private security or payment testExcept as otherwise provided in this subsection, an issue meets the test of this paragraph if the payment of the principal of, or the interest on, more than 10 percent of the proceeds of such issue is (under the terms of such issue or any underlying arrangement) directly or indirectly—(A) secured by any interest in—(i) property used or to be used for a private business use, or
+
+(ii) payments in respect of such property, or
+
+
+(B) to be derived from payments (whether or not to the issuer) in respect of property, or borrowed money, used or to be used for a private business use.
+
+
+(3) 5 percent test for private business use not related or disproportionate to government use financed by the issue(A) In generalAn issue shall be treated as meeting the tests of paragraphs (1) and (2) if such tests would be met if such paragraphs were applied—(i) by substituting “5 percent” for “10 percent” each place it appears, and
+
+(ii) by taking into account only—(I) the proceeds of the issue which are to be used for any private business use which is not related to any government use of such proceeds,
+
+(II) the disproportionate related business use proceeds of the issue, and
+
+(III) payments, property, and borrowed money with respect to any use of proceeds described in subclause (I) or (II).
+
+
+
+(B) Disproportionate related business use proceedsFor purposes of subparagraph (A), the disproportionate related business use proceeds of an issue is an amount equal to the aggregate of the excesses (determined under the following sentence) for each private business use of the proceeds of an issue which is related to a government use of such proceeds. The excess determined under this sentence is the excess of—(i) the proceeds of the issue which are to be used for the private business use, over
+
+(ii) the proceeds of the issue which are to be used for the government use to which such private business use relates.
+
+
+
+(4) Lower limitation for certain output facilitiesAn issue 5 percent or more of the proceeds of which are to be used with respect to any output facility (other than a facility for the furnishing of water) shall be treated as meeting the tests of paragraphs (1) and (2) if the nonqualified amount with respect to such issue exceeds the excess of—(A) $15,000,000, over
+
+(B) the aggregate nonqualified amounts with respect to all prior tax-exempt issues 5 percent or more of the proceeds of which are or will be used with respect to such facility (or any other facility which is part of the same project).
+
+
+There shall not be taken into account under subparagraph (B) any bond which is not outstanding at the time of the later issue or which is to be redeemed (other than in an advance refunding) from the net proceeds of the later issue.
+
+(5) Coordination with volume cap where nonqualified amount exceeds $15,000,000If the nonqualified amount with respect to an issue—(A) exceeds $15,000,000, but
+
+(B) does not exceed the amount which would cause a bond which is part of such issue to be treated as a private activity bond without regard to this paragraph,
+
+
+such bond shall nonetheless be treated as a private activity bond unless the issuer allocates a portion of its volume cap under section 146 to such issue in an amount equal to the excess of such nonqualified amount over $15,000,000.
+
+(6) Private business use defined(A) In generalFor purposes of this subsection, the term “private business use” means use (directly or indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account.
+
+
+(B) Clarification of trade or businessFor purposes of the 1st sentence of subparagraph (A), any activity carried on by a person other than a natural person shall be treated as a trade or business.
+
+
+
+(7) Government useThe term “government use” means any use other than a private business use.
+
+
+(8) Nonqualified amountFor purposes of this subsection, the term “nonqualified amount” means, with respect to an issue, the lesser of—(A) the proceeds of such issue which are to be used for any private business use, or
+
+(B) the proceeds of such issue with respect to which there are payments (or property or borrowed money) described in paragraph (2).
+
+
+(9) Exception for qualified 501(c)(3) bondsThere shall not be taken into account under this subsection or subsection (c) the portion of the proceeds of an issue which (if issued as a separate issue) would be treated as a qualified 501(c)(3) bond if the issuer elects to treat such portion as a qualified 501(c)(3) bond.
+
+
+
+(c) Private loan financing test(1) In generalAn issue meets the test of this subsection if the amount of the proceeds of the issue which are to be used (directly or indirectly) to make or finance loans (other than loans described in paragraph (2)) to persons other than governmental units exceeds the lesser of—(A) 5 percent of such proceeds, or
+
+(B) $5,000,000.
+
+
+(2) Exception for tax assessment, etc., loansFor purposes of paragraph (1), a loan is described in this paragraph if such loan—(A) enables the borrower to finance any governmental tax or assessment of general application for a specific essential governmental function,
+
+(B) is a nonpurpose investment (within the meaning of section 148(f)(6)(A)), or
+
+(C) is a qualified natural gas supply contract (as defined in section 148(b)(4)).
+
+
+
+(d) Certain issues used to acquire nongovernmental output property treated as private activity bonds(1) In generalFor purposes of this title, the term “private activity bond” includes any bond issued as part of an issue if the amount of the proceeds of the issue which are to be used (directly or indirectly) for the acquisition by a governmental unit of nongovernmental output property exceeds the lesser of—(A) 5 percent of such proceeds, or
+
+(B) $5,000,000.
+
+
+(2) Nongovernmental output propertyExcept as otherwise provided in this subsection, for purposes of paragraph (1), the term “nongovernmental output property” means any property (or interest therein) which before such acquisition was used (or held for use) by a person other than a governmental unit in connection with an output facility (within the meaning of subsection (b)(4)) (other than a facility for the furnishing of water). For purposes of the preceding sentence, use (or the holding for use) before October 14, 1987, shall not be taken into account.
+
+
+(3) Exception for property acquired to provide output to certain areasFor purposes of paragraph (1)—(A) In generalThe term “nongovernmental output property” shall not include any property which is to be used in connection with an output facility 95 percent or more of the output of which will be consumed in—(i) a qualified service area of the governmental unit acquiring the property, or
+
+(ii) a qualified annexed area of such unit.
+
+
+(B) DefinitionsFor purposes of subparagraph (A)—(i) Qualified service areaThe term “qualified service area” means, with respect to the governmental unit acquiring the property, any area throughout which such unit provided (at all times during the 10-year period ending on the date such property is acquired by such unit) output of the same type as the output to be provided by such property. For purposes of the preceding sentence, the period before October 14, 1987, shall not be taken into account.
+
+
+(ii) Qualified annexed areaThe term “qualified annexed area” means, with respect to the governmental unit acquiring the property, any area if—(I) such area is contiguous to, and annexed for general governmental purposes into, a qualified service area of such unit,
+
+(II) output from such property is made available to all members of the general public in the annexed area, and
+
+(III) the annexed area is not greater than 10 percent of such qualified service area.
+
+
+
+(C) Limitation on size of annexed area not to apply where output capacity does not increase by more than 10 percentSubclause (III) of subparagraph (B)(ii) shall not apply to an annexation of an area by a governmental unit if the output capacity of the property acquired in connection with the annexation, when added to the output capacity of all other property which is not treated as nongovernmental output property by reason of subparagraph (A)(ii) with respect to such annexed area, does not exceed 10 percent of the output capacity of the property providing output of the same type to the qualified service area into which it is annexed.
+
+
+(D) Rules for determining relative size, etc.For purposes of subparagraphs (B)(ii) and (C)—(i) The size of any qualified service area and the output capacity of property serving such area shall be determined as the close of the calendar year preceding the calendar year in which the acquisition of nongovernmental output property or the annexation occurs.
+
+(ii) A qualified annexed area shall be treated as part of the qualified service area into which it is annexed for purposes of determining whether any other area annexed in a later year is a qualified annexed area.
+
+
+
+(4) Exception for property converted to nonoutput useFor purposes of paragraph (1)—(A) In generalThe term “nongovernmental output property” shall not include any property which is to be converted to a use not in connection with an output facility.
+
+
+(B) ExceptionSubparagraph (A) shall not apply to any property which is part of the output function of a nuclear power facility.
+
+
+
+(5) Special rulesIn the case of a bond which is a private activity bond solely by reason of this subsection—(A) subsections (c) and (d) of section 147 (relating to limitations on acquisition of land and existing property) shall not apply, and
+
+(B) paragraph (8) of section 142(a) shall be applied as if it did not contain “local”.
+
+
+(6) Treatment of joint action agenciesWith respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units, this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
+
+
+(7) Exception for qualified electric and natural gas supply contractsThe term “nongovernmental output property” shall not include any contract for the prepayment of electricity or natural gas which is not investment property under section 148(b)(2).
+
+
+
+(e) Qualified bondFor purposes of this part, the term “qualified bond” means any private activity bond if—(1) In generalSuch bond is—(A) an exempt facility bond,
+
+(B) a qualified mortgage bond,
+
+(C) a qualified veterans’ mortgage bond,
+
+(D) a qualified small issue bond,
+
+(E) a qualified student loan bond,
+
+(F) a qualified redevelopment bond, or
+
+(G) a qualified 501(c)(3) bond.
+
+
+(2) Volume capSuch bond is issued as part of an issue which meets the applicable requirements of section 146, and 11 So in original. Probably should end with a period after “146”.
+
+
+(3) Other requirementsSuch bond meets the applicable requirements of each subsection of section 147.
+
+
+
+(Added Pub. L. 99–514, title XIII, § 1301(b), Oct. 22, 1986, 100 Stat. 2603; amended Pub. L. 100–203, title X, § 10631(a), Dec. 22, 1987, 101 Stat. 1330–453; Pub. L. 100–647, title I, § 1013(a)(38), Nov. 10, 1988, 102 Stat. 3544; Pub. L. 109–58, title XIII, § 1327(b), (c), Aug. 8, 2005, 119 Stat. 1019.)
+
+Prior ProvisionsA prior section 141, acts Aug. 16, 1954, ch. 736, 68A Stat. 40; Feb. 26, 1964, Pub. L. 88–272, title I, § 112(a), 78 Stat. 23; Dec. 30, 1969, Pub. L. 91–172, title VIII, § 802(a), (c)(4), (e), 83 Stat. 676, 678; Dec. 10, 1971, Pub. L. 92–178, title II, §§ 202, 203(a)–(c), title III, § 301(a), 85 Stat. 511, 520; Mar. 29, 1975, Pub. L. 94–12, title II, §§ 201(a), 202(a), 89 Stat. 28, 29; Dec. 23, 1975, Pub. L. 94–164, § 2(a)(1), (b)(1), 89 Stat. 970, 971; Oct. 4, 1976, Pub. L. 94–455, title IV, § 401(b)(1), (2), title XIX, § 1906(b)(13)(A), 90 Stat. 1556, 1834, provided for standard deduction, prior to repeal by Pub. L. 95–30, title I, § 101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+
+Amendments2005—Subsec. (c)(2)(C). Pub. L. 109–58, § 1327(b), added subpar. (C).
+Subsec. (d)(7). Pub. L. 109–58, § 1327(c), added par. (7).
+1988—Subsec. (b)(5)(B). Pub. L. 100–647 substituted “cause a bond” for “cause bond”.
+1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+Effective Date of 2005 AmendmentPub. L. 109–58, title XIII, § 1327(d), Aug. 8, 2005, 119 Stat. 1019, provided that: “The amendments made by this section [amending this section and section 148 of this title] shall apply to obligations issued after the date of the enactment of this Act [Aug. 8, 2005].”
+
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+Effective Date of 1987 AmendmentPub. L. 100–203, title X, § 10631(c), Dec. 22, 1987, 101 Stat. 1330–455, provided that:
+“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 142 and 146 of this title] shall apply to bonds issued after October 13, 1987 (other than bonds issued to refund bonds issued on or before such date).
+
+“(2) Binding agreements.—The amendments made by this section shall not apply to bonds (other than advance refunding bonds) with respect to a facility acquired after October 13, 1987, pursuant to a binding contract entered into on or before such date.
+
+“(3) Transitional rule.—The amendments made by this section shall not apply to bonds issued—“(A) after October 13, 1987, by an authority created by a statute—“(i) approved by the State Governor on July 24, 1986, and
+
+“(ii) sections 1 through 10 of which became effective on January 15, 1987, and
+
+
+“(B) to provide facilities serving the area specified in such statute on the date of its enactment.”
+
+
+
+
+
+Effective Date; Transitional RulesPub. L. 99–514, title XIII, subtitle B, Oct. 22, 1986, 100 Stat. 2659, as amended by Pub. L. 100–647, title I, § 1013(b), (c)(1), (2)(A), (3)–(11)(D), (13), (14)(A), (d), (e)(1), (2)(A), (f)(1)(A), (2)–(7)(A), (8), (9), (11), (g), (h), Nov. 10, 1988, 102 Stat. 3545–3550, 3558; Pub. L. 101–239, title VII, § 7831(e), Dec. 19, 1989, 103 Stat. 2427, provided that:
+“SEC. 1311. GENERAL EFFECTIVE DATES.“(a) In General.—Except as otherwise provided in this subtitle, the amendments made by section 1301 [enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, omitting former section 143 of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title] shall apply to bonds issued after August 15, 1986.
+
+“(b) Section 1301(f).—“(1) Increase in trade-in rate.—The amendments made by paragraph (1) of section 1301(f) [amending section 25 of this title] shall apply to nonissued bond amounts elected after August 15, 1986.
+
+“(2) Certificates.—The amendments made by paragraph (2) of section 1301(f) [amending section 25 of this title] shall apply to certificates issued with respect to non-issued bond amounts elected after August 15, 1986.
+
+
+“(c) Changes in Use, Etc., of Facilities Financed With Private Activity Bonds.—Subsection (b) of section 150 of the 1986 Code shall apply to changes in use (and ownership) after August 15, 1986, but only with respect to financing (including refinancings) provided after such date.
+
+“(d) Public Approval and Information Reporting.—Sections 147(f) and 149(e) of the 1986 Code shall apply to bonds issued after December 31, 1986.
+
+“(e) Rebate Requirement for Qualified Scholarship Funding Bonds.—Section 150(d) of the 1986 Code shall apply to payments made after August 15, 1986.
+
+“(f) Section 1303.—The amendments made by section 1303 [amending sections 172, 1016, and 3402 of this title and repealing sections 1391 to 1397 and 6039B of this title] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].
+

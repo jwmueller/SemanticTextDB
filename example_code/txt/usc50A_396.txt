@@ -1,0 +1,37 @@
+§ 1984. Compromise of claims by Attorney General; jurisdiction of United States Court of Federal Claims to determine claims timely filed; report to Congress; payment of awards; finality of decisions(a) The Attorney General is authorized to compromise and settle and make an award in an amount not to exceed $100,000 on any claim timely filed under this Act, as amended [sections 1981 to 1987 of this Appendix], on the basis of affidavits, available Government records, and other information satisfactory to him.
+
+(b) The United States Court of Federal Claims shall have jurisdiction to determine any claim timely filed under this Act [sections 1981 to 1987 of this Appendix]. A petition for the determination of a claim by the United States Court of Federal Claims shall be filed with the clerk of the said court and a copy of the petition shall be served upon the Attorney General by registered mail. Such a petition may be filed at any time after enactment of this subsection except that it must be filed within ninety days after the date of a notice by the Attorney General served on the claimant by registered mail that no further consideration will be given to the compromise of the claim. Upon the timely filing and serving of such petition, the United States Court of Federal Claims shall have jurisdiction to hear and determine said claim in the same manner and under the same rules as any other cause properly before it and applying rules of equity and justice. Upon being served with a copy of such petition, the Attorney General shall forthwith certify and transmit to the clerk of the United States Court of Federal Claims the original statement of the claim and any requested amendments thereto for filing with the said clerk as a preliminary record in the case.
+
+(c) On the first day of each regular session of Congress the Attorney General shall transmit to Congress a full and complete statement of all compromise settlements effected by the Attorney General under this Act, as amended [sections 1981 to 1987 of this Appendix], during the previous year, stating the name and address of each claimant, the amount claimed, and the amount awarded. All awards shall be paid in like manner as are final judgments of the United States Court of Federal Claims.
+
+(d) Except as herein provided, the payment of an award shall be final and conclusive for all purposes, notwithstanding any other provision of law to the contrary, and shall be a full discharge of the United States and all of its officers, agents, servants, and employees with respect to all claims arising out of the same subject matter.
+
+(July 2, 1948, ch. 814, § 4, 62 Stat. 1232; Aug. 17, 1951, ch. 327, § 1, 65 Stat. 192; July 9, 1956, ch. 531, 70 Stat. 514; Pub. L. 97–164, title I, § 160(a)(19), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, § 402(55), Nov. 8, 1984, 98 Stat. 3361; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+
+References in TextAny time after enactment of this subsection, referred to in subsec. (b), probably means any time after July 9, 1956, which was the date of enactment of the 1956 amendment of subsec. (b).
+
+Amendments1992—Subsecs. (b), (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” wherever appearing.
+1984—Subsec. (b). Pub. L. 98–620 struck out provisions that required that such petitions be treated for docketing, hearing and determination, to the fullest practicable extent, as if the petition had been filed with the United States Claims Court on the date the original claim was received by the Attorney General, but that no such petition would have precedence over petitions involving interest-bearing obligations of the United States.
+1982—Subsecs. (b), (c). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” wherever appearing.
+1956—Subsec. (a). Act July 9, 1956, substituted provisions permitting the Attorney General to compromise and settle and make an award in an amount not to exceed $100,000 for provisions which required him to adjudicate, except as to compromised claims, all claims filed, by award or order of dismissal, upon written findings of fact and reasons for the decision.
+Subsec. (b). Act July 9, 1956, substituted provisions granting jurisdiction to the Court of Claims to determine timely claims for provisions which authorized the Attorney General to make payment of any award not exceeding $2,500 in amount.
+Subsec. (c). Act July 9, 1956, required the Attorney General to report on all compromise settlements effected during the previous year.
+Subsec. (d). Act July 9, 1956, inserted “Except as herein provided”, and struck out provisions which barred any further claim against the United States where there is an order of dismissal against a claimant, unless set aside by the Attorney General.
+1951—Subsec. (a). Act Aug. 17, 1951, inserted exception as to claims compromised.
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+
+Effective Date of 1982 AmendmentAmendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164 set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+Exclusion From Gross Income of Certain Awards Made Pursuant to Evacuation Claims of Japanese-American PersonsPub. L. 87–834, § 27, Oct. 16, 1962, 76 Stat. 1067, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+“(a) In General.—No amount received as an award under the Act entitled ‘An Act to authorize the Attorney General to adjudicate certain claims resulting from evacuation of certain persons of Japanese ancestry under military orders’, approved July 2, 1948, as amended by Public Law 116, Eighty-second Congress, and Public Law 673, Eighty-fourth Congress (50 U.S.C. App., secs. 1981–1987), shall be included in gross income for purposes of chapter 1 of the Internal Revenue Code of 1939 or chapter 1 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954].
+
+“(b) Effective Date, etc.—Subsection (a) shall apply with respect to taxable years ending after July 2, 1948. If refund or credit of any overpayment of Federal income tax resulting from the application of subsection (a) (including interest, additions to the tax, additional amounts, and penalties) is prevented on the date of the enactment of this Act [Oct. 16, 1962], or within one year from such date, by the operation of any law or rule of law, the refund or credit of such overpayment may nevertheless be made or allowed if claim therefor is filed within one year after the date of enactment of this Act [Oct. 16, 1962]. In the case of a claim to which the preceding sentence applies, the amount to be refunded or credited as an overpayment shall not be diminished by any credit or setoff based upon any item other than the amount of the award referred to in subsection (a). No interest shall be allowed or paid on any overpayment resulting from the application of this section.”
+
+
+
+
+

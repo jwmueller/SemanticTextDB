@@ -1,0 +1,55 @@
+§ 2276. Confidentiality of information(a) Authorized disclosureIn the case of information furnished under a provision of law referred to in subsection (d), neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
+
+(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
+
+(3) in the case of information collected under the authority described in subsection (d)(12), disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
+
+
+(b) Duty of Secretary; immunity from disclosure; necessary consent(1) In carrying out a provision of law referred to in subsection (d), no department, agency, officer, or employee of the Federal Government, other than the Secretary of Agriculture, shall require a person to furnish a copy of statistical information provided to the Department of Agriculture.
+
+(2) A copy of such information—(A) shall be immune from mandatory disclosure of any type, including legal process; and
+
+(B) shall not, without the consent of such person, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
+
+
+
+(c) Violations; penaltiesAny person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d), in any manner or for any purpose prohibited in section 11 So in original. Probably should be “subsection”. (a), shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
+
+
+(d) Specific provisions for collection of informationFor purposes of this section, a provision of law referred to in this subsection means—(1) the first section of the Act entitled “An Act authorizing the Secretary of Agriculture to collect and publish statistics of the grade and staple length of cotton”, approved March 3, 1927 (7 U.S.C. 471) (commonly referred to as the “Cotton Statistics and Estimates Act”);
+
+(2) the first section of the Act entitled “An Act to provide for the collection and publication of statistics of tobacco by the Department of Agriculture”, approved January 14, 1929 (7 U.S.C. 501);
+
+(3) the first section of the Act entitled “An Act to provide for the collection and publication of statistics of peanuts by the Department of Agriculture”, approved June 24, 1936 (7 U.S.C. 951);
+
+(4) section 203(g) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1622(g));
+
+(5) section 526(a) of the Revised Statutes (7 U.S.C. 2204(a));
+
+(6) the Act entitled “An Act providing for the publication of statistics relating to spirits of turpentine and resin”, approved August 15, 1935 (7 U.S.C. 2248);
+
+(7) section 42 of title 13;
+
+(8) section 4 of the Act entitled “An Act to establish the Department of Commerce and Labor”, approved February 14, 1903 (15 U.S.C. 1516);
+
+(9) section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 (15 U.S.C. 1516a);
+
+(10) section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e));
+
+(11) section 2204g of this title; or
+
+(12) section 302 of the Rural Development Act of 1972 (7 U.S.C. 1010a) regarding the authority to collect data for the National Resources Inventory.
+
+
+(e) Information provided to Secretary of CommerceThis section shall not prohibit the release of information under section 2204g(f)(2) of this title.
+
+
+(Pub. L. 99–198, title XVII, § 1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, § 4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 348], Nov. 29, 1999, 113 Stat. 1535, 1501A–207; Pub. L. 107–171, title II, § 2004(b), May 13, 2002, 116 Stat. 236.)
+
+Amendments2002—Subsec. (a)(3). Pub. L. 107–171, § 2004(b)(1), added par. (3).
+Subsec. (d)(12). Pub. L. 107–171, § 2004(b)(2), added par. (12).
+1999—Subsec. (d)(10), (11). Pub. L. 106–113 added par. (10) and redesignated former par. (10) as (11).
+1997—Subsec. (d)(10). Pub. L. 105–113, § 4(a)(2), added par. (10).
+Subsec. (e). Pub. L. 105–113, § 4(b), added subsec. (e).
+
+

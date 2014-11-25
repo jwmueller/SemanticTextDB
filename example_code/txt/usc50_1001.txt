@@ -1,0 +1,75 @@
+§ 3103. Future budget projections(a) Future Year Intelligence Plans(1) The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall provide to the congressional intelligence committees a Future Year Intelligence Plan, as described in paragraph (2), for—(A) each expenditure center in the National Intelligence Program; and
+
+(B) each major system in the National Intelligence Program.
+
+
+(2)(A) A Future Year Intelligence Plan submitted under this subsection shall include the year-by-year proposed funding for each center or system referred to in subparagraph (A) or (B) of paragraph (1), for the budget year for which the Plan is submitted and not less than the 4 subsequent fiscal years.
+
+(B) A Future Year Intelligence Plan submitted under subparagraph (B) of paragraph (1) for a major system shall include—(i) the estimated total life-cycle cost of such major system; and
+
+(ii) major milestones that have significant resource implications for such major system.
+
+
+
+
+(b) Long-term Budget Projections(1) The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall provide to the congressional intelligence committees a Long-term Budget Projection for each element of the intelligence community funded under the National Intelligence Program acquiring a major system that includes the budget for such element for the 5-year period that begins on the day after the end of the last fiscal year for which year-by-year proposed funding is included in a Future Year Intelligence Plan for such major system in accordance with subsection (a)(2)(A).
+
+(2) A Long-term Budget Projection submitted under paragraph (1) shall include—(A) projections for the appropriate element of the intelligence community for—(i) pay and benefits of officers and employees of such element;
+
+(ii) other operating and support costs and minor acquisitions of such element;
+
+(iii) research and technology required by such element;
+
+(iv) current and planned major system acquisitions for such element;
+
+(v) any future major system acquisitions for such element; and
+
+(vi) any additional funding projections that the Director of National Intelligence considers appropriate;
+
+
+(B) a budget projection based on effective cost and schedule execution of current or planned major system acquisitions and application of Office of Management and Budget inflation estimates to future major system acquisitions;
+
+(C) any additional assumptions and projections that the Director of National Intelligence considers appropriate; and
+
+(D) a description of whether, and to what extent, the total projection for each year exceeds the level that would result from applying the most recent Office of Management and Budget inflation estimate to the budget of that element of the intelligence community.
+
+
+
+(c) Submission to CongressThe Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall submit to the congressional intelligence committees each Future Year Intelligence Plan or Long-term Budget Projection required under subsection (a) or (b) for a fiscal year at the time that the President submits to Congress the budget for such fiscal year pursuant section 11 So in original. Probably should be preceded by “to”. 1105 of title 31.
+
+
+(d) Major system affordability report(1) The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall prepare a report on the acquisition of a major system funded under the National Intelligence Program before the time that the President submits to Congress the budget for the first fiscal year in which appropriated funds are anticipated to be obligated for the development or procurement of such major system.
+
+(2) The report on such major system shall include an assessment of whether, and to what extent, such acquisition, if developed, procured, and operated, is projected to cause an increase in the most recent Future Year Intelligence Plan and Long-term Budget Projection submitted under this section for an element of the intelligence community.
+
+(3) The Director of National Intelligence shall update the report whenever an independent cost estimate must be updated pursuant to section 3097(a)(4) of this title.
+
+(4) The Director of National Intelligence shall submit each report required by this subsection at the time that the President submits to Congress the budget for a fiscal year pursuant to section 1105 of title 31.
+
+
+(e) DefinitionsIn this section:(1) Budget yearThe term “budget year” means the next fiscal year for which the President is required to submit to Congress a budget pursuant to section 1105 of title 31.
+
+
+(2) Independent cost estimate; major systemThe terms “independent cost estimate” and “major system” have the meaning given those terms in section 3097(e) of this title.
+
+
+
+(July 26, 1947, ch. 343, title V, § 506G, as added Pub. L. 111–259, title III, § 325(a), Oct. 7, 2010, 124 Stat. 2681.)
+
+Codification
+Section was formerly classified to section 415a–9 of this title prior to editorial reclassification and renumbering as this section.
+
+Applicability DatePub. L. 111–259, title III, § 325(b), Oct. 7, 2010, 124 Stat. 2683, provided that: “The first Future Year Intelligence Plan and Long-term Budget Projection required to be submitted under subsection (a) and (b) of section 506G of the National Security Act of 1947 [50 U.S.C. 3103(a), (b)], as added by subsection (a), shall be submitted to the congressional intelligence committees at the time that the President submits to Congress the budget for fiscal year 2012 pursuant to section 1105 of title 31, United States Code.”
+
+[For definition of “congressional intelligence committees” as used in section 325(b) of Pub. L. 111–259, set out above, see section 2 of Pub. L. 111–259, set out as a note under section 3003 of this title.]
+
+Future-Years Intelligence ProgramPub. L. 113–76, div. C, title VIII, § 8090, Jan. 17, 2014, 128 Stat. 126, provided that: “The Director of National Intelligence shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress that year under section 1105(a) of title 31, United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.”
+
+Similar provisions were contained in the following appropriation acts:
+Pub. L. 113–6, div. C, title VIII, § 8091, Mar. 26, 2013, 127 Stat. 318.
+Pub. L. 112–74, div. A, title VIII, § 8094, Dec. 23, 2011, 125 Stat. 828.
+Pub. L. 112–10, div. A, title VIII, § 8094, Apr. 15, 2011, 125 Stat. 77.
+Pub. L. 111–118, div. A, title VIII, § 8104, Dec. 19, 2009, 123 Stat. 3451, repealed by Pub. L. 111–259, title III, § 325(c)(2), Oct. 7, 2010, 124 Stat. 2683.
+Pub. L. 110–329, div. C, title VIII, § 8112, Sept. 30, 2008, 122 Stat. 3645.
+
+

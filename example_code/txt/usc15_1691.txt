@@ -1,0 +1,165 @@
+§ 2603. Testing of chemical substances and mixtures(a) Testing requirementsIf the Administrator finds that—(1)(A)(i) the manufacture, distribution in commerce, processing, use, or disposal of a chemical substance or mixture, or that any combination of such activities, may present an unreasonable risk of injury to health or the environment,
+
+(ii) there are insufficient data and experience upon which the effects of such manufacture, distribution in commerce, processing, use, or disposal of such substance or mixture or of any combination of such activities on health or the environment can reasonably be determined or predicted, and
+
+(iii) testing of such substance or mixture with respect to such effects is necessary to develop such data; or
+
+
+(B)(i) a chemical substance or mixture is or will be produced in substantial quantities, and (I) it enters or may reasonably be anticipated to enter the environment in substantial quantities or (II) there is or may be significant or substantial human exposure to such substance or mixture,
+
+(ii) there are insufficient data and experience upon which the effects of the manufacture, distribution in commerce, processing, use, or disposal of such substance or mixture or of any combination of such activities on health or the environment can reasonably be determined or predicted, and
+
+(iii) testing of such substance or mixture with respect to such effects is necessary to develop such data; and
+
+
+
+(2) in the case of a mixture, the effects which the mixture’s manufacture, distribution in commerce, processing, use, or disposal or any combination of such activities may have on health or the environment may not be reasonably and more efficiently determined or predicted by testing the chemical substances which comprise the mixture;
+
+
+the Administrator shall by rule require that testing be conducted on such substance or mixture to develop data with respect to the health and environmental effects for which there is an insufficiency of data and experience and which are relevant to a determination that the manufacture, distribution in commerce, processing, use, or disposal of such substance or mixture, or that any combination of such activities, does or does not present an unreasonable risk of injury to health or the environment.
+
+(b) Testing requirement rule(1) A rule under subsection (a) of this section shall include—(A) identification of the chemical substance or mixture for which testing is required under the rule,
+
+(B) standards for the development of test data for such substance or mixture, and
+
+(C) with respect to chemical substances which are not new chemical substances and to mixtures, a specification of the period (which period may not be of unreasonable duration) within which the persons required to conduct the testing shall submit to the Administrator data developed in accordance with the standards referred to in subparagraph (B).
+
+
+In determining the standards and period to be included, pursuant to subparagraphs (B) and (C), in a rule under subsection (a) of this section, the Administrator’s considerations shall include the relative costs of the various test protocols and methodologies which may be required under the rule and the reasonably foreseeable availability of the facilities and personnel needed to perform the testing required under the rule. Any such rule may require the submission to the Administrator of preliminary data during the period prescribed under subparagraph (C).
+
+(2)(A) The health and environmental effects for which standards for the development of test data may be prescribed include carcinogenesis, mutagenesis, teratogenesis, behavioral disorders, cumulative or synergistic effects, and any other effect which may present an unreasonable risk of injury to health or the environment. The characteristics of chemical substances and mixtures for which such standards may be prescribed include persistence, acute toxicity, subacute toxicity, chronic toxicity, and any other characteristic which may present such a risk. The methodologies that may be prescribed in such standards include epidemiologic studies, serial or hierarchical tests, in vitro tests, and whole animal tests, except that before prescribing epidemiologic studies of employees, the Administrator shall consult with the Director of the National Institute for Occupational Safety and Health.
+
+(B) From time to time, but not less than once each 12 months, the Administrator shall review the adequacy of the standards for development of data prescribed in rules under subsection (a) of this section and shall, if necessary, institute proceedings to make appropriate revisions of such standards.
+
+
+(3)(A) A rule under subsection (a) of this section respecting a chemical substance or mixture shall require the persons described in subparagraph (B) to conduct tests and submit data to the Administrator on such substance or mixture, except that the Administrator may permit two or more of such persons to designate one such person or a qualified third party to conduct such tests and submit such data on behalf of the persons making the designation.
+
+(B) The following persons shall be required to conduct tests and submit data on a chemical substance or mixture subject to a rule under subsection (a) of this section:(i) Each person who manufactures or intends to manufacture such substance or mixture if the Administrator makes a finding described in subsection (a)(1)(A)(ii) or (a)(1)(B)(ii) of this section with respect to the manufacture of such substance or mixture.
+
+(ii) Each person who processes or intends to process such substance or mixture if the Administrator makes a finding described in subsection (a)(1)(A)(ii) or (a)(1)(B)(ii) of this section with respect to the processing of such substance or mixture.
+
+(iii) Each person who manufactures or processes or intends to manufacture or process such substance or mixture if the Administrator makes a finding described in subsection (a)(1)(A)(ii) or (a)(1)(B)(ii) of this section with respect to the distribution in commerce, use, or disposal of such substance or mixture.
+
+
+
+(4) Any rule under subsection (a) of this section requiring the testing of and submission of data for a particular chemical substance or mixture shall expire at the end of the reimbursement period (as defined in subsection (c)(3)(B) of this section) which is applicable to test data for such substance or mixture unless the Administrator repeals the rule before such date; and a rule under subsection (a) of this section requiring the testing of and submission of data for a category of chemical substances or mixtures shall expire with respect to a chemical substance or mixture included in the category at the end of the reimbursement period (as so defined) which is applicable to test data for such substance or mixture unless the Administrator before such date repeals the application of the rule to such substance or mixture or repeals the rule.
+
+(5) Rules issued under subsection (a) of this section (and any substantive amendment thereto or repeal thereof) shall be promulgated pursuant to section 553 of title 5 except that (A) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions; (B) a transcript shall be made of any oral presentation; and (C) the Administrator shall make and publish with the rule the findings described in paragraph (1)(A) or (1)(B) of subsection (a) of this section and, in the case of a rule respecting a mixture, the finding described in paragraph (2) of such subsection.
+
+
+(c) Exemption(1) Any person required by a rule under subsection (a) of this section to conduct tests and submit data on a chemical substance or mixture may apply to the Administrator (in such form and manner as the Administrator shall prescribe) for an exemption from such requirement.
+
+(2) If, upon receipt of an application under paragraph (1), the Administrator determines that—(A) the chemical substance or mixture with respect to which such application was submitted is equivalent to a chemical substance or mixture for which data has been submitted to the Administrator in accordance with a rule under subsection (a) of this section or for which data is being developed pursuant to such a rule, and
+
+(B) submission of data by the applicant on such substance or mixture would be duplicative of data which has been submitted to the Administrator in accordance with such rule or which is being developed pursuant to such rule,
+
+
+the Administrator shall exempt, in accordance with paragraph (3) or (4), the applicant from conducting tests and submitting data on such substance or mixture under the rule with respect to which such application was submitted.
+
+(3)(A) If the exemption under paragraph (2) of any person from the requirement to conduct tests and submit test data on a chemical substance or mixture is granted on the basis of the existence of previously submitted test data and if such exemption is granted during the reimbursement period for such test data (as prescribed by subparagraph (B)), then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—(i) to the person who previously submitted such test data, for a portion of the costs incurred by such person in complying with the requirement to submit such data, and
+
+(ii) to any other person who has been required under this subparagraph to contribute with respect to such costs, for a portion of the amount such person was required to contribute.
+
+
+In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance or mixture, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including the effect on the competitive position of the person required to provide reimbursement in relation to the person to be reimbursed and the share of the market for such substance or mixture of the person required to provide reimbursement in relation to the share of such market of the persons to be reimbursed. An order under this subparagraph shall, for purposes of judicial review, be considered final agency action.
+
+(B) For purposes of subparagraph (A), the reimbursement period for any test data for a chemical substance or mixture is a period—(i) beginning on the date such data is submitted in accordance with a rule promulgated under subsection (a) of this section, and
+
+(ii) ending—(I) five years after the date referred to in clause (i), or
+
+(II) at the expiration of a period which begins on the date referred to in clause (i) and which is equal to the period which the Administrator determines was necessary to develop such data,
+
+
+whichever is later.
+
+
+
+(4)(A) If the exemption under paragraph (2) of any person from the requirement to conduct tests and submit test data on a chemical substance or mixture is granted on the basis of the fact that test data is being developed by one or more persons pursuant to a rule promulgated under subsection (a) of this section, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—(i) to each such person who is developing such test data, for a portion of the costs incurred by each such person in complying with such rule, and
+
+(ii) to any other person who has been required under this subparagraph to contribute with respect to the costs of complying with such rule, for a portion of the amount such person was required to contribute.
+
+
+In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance or mixture, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider the factors described in the second sentence of paragraph (3)(A). An order under this subparagraph shall, for purposes of judicial review, be considered final agency action.
+
+(B) If any exemption is granted under paragraph (2) on the basis of the fact that one or more persons are developing test data pursuant to a rule promulgated under subsection (a) of this section and if after such exemption is granted the Administrator determines that no such person has complied with such rule, the Administrator shall (i) after providing written notice to the person who holds such exemption and an opportunity for a hearing, by order terminate such exemption, and (ii) notify in writing such person of the requirements of the rule with respect to which such exemption was granted.
+
+
+
+(d) NoticeUpon the receipt of any test data pursuant to a rule under subsection (a) of this section, the Administrator shall publish a notice of the receipt of such data in the Federal Register within 15 days of its receipt. Subject to section 2613 of this title, each such notice shall (1) identify the chemical substance or mixture for which data have been received; (2) list the uses or intended uses of such substance or mixture and the information required by the applicable standards for the development of test data; and (3) describe the nature of the test data developed. Except as otherwise provided in section 2613 of this title, such data shall be made available by the Administrator for examination by any person.
+
+
+(e) Priority list(1)(A) There is established a committee to make recommendations to the Administrator respecting the chemical substances and mixtures to which the Administrator should give priority consideration for the promulgation of a rule under subsection (a) of this section. In making such a recommendation with respect to any chemical substance or mixture, the committee shall consider all relevant factors, including—(i) the quantities in which the substance or mixture is or will be manufactured,
+
+(ii) the quantities in which the substance or mixture enters or will enter the environment,
+
+(iii) the number of individuals who are or will be exposed to the substance or mixture in their places of employment and the duration of such exposure,
+
+(iv) the extent to which human beings are or will be exposed to the substance or mixture,
+
+(v) the extent to which the substance or mixture is closely related to a chemical substance or mixture which is known to present an unreasonable risk of injury to health or the environment,
+
+(vi) the existence of data concerning the effects of the substance or mixture on health or the environment,
+
+(vii) the extent to which testing of the substance or mixture may result in the development of data upon which the effects of the substance or mixture on health or the environment can reasonably be determined or predicted, and
+
+(viii) the reasonably foreseeable availability of facilities and personnel for performing testing on the substance or mixture.
+
+
+The recommendations of the committee shall be in the form of a list of chemical substances and mixtures which shall be set forth, either by individual substance or mixture or by groups of substances or mixtures, in the order in which the committee determines the Administrator should take action under subsection (a) of this section with respect to the substances and mixtures. In establishing such list, the committee shall give priority attention to those chemical substances and mixtures which are known to cause or contribute to or which are suspected of causing or contributing to cancer, gene mutations, or birth defects. The committee shall designate chemical substances and mixtures on the list with respect to which the committee determines the Administrator should, within 12 months of the date on which such substances and mixtures are first designated, initiate a proceeding under subsection (a) of this section. The total number of chemical substances and mixtures on the list which are designated under the preceding sentence may not, at any time, exceed 50.
+
+(B) As soon as practicable but not later than nine months after January 1, 1977, the committee shall publish in the Federal Register and transmit to the Administrator the list and designations required by subparagraph (A) together with the reasons for the committee’s inclusion of each chemical substance or mixture on the list. At least every six months after the date of the transmission to the Administrator of the list pursuant to the preceeding 11 So in original. Probably should be “preceding”. sentence, the committee shall make such revisions in the list as it determines to be necessary and shall transmit them to the Administrator together with the committee’s reasons for the revisions. Upon receipt of any such revision, the Administrator shall publish in the Federal Register the list with such revision, the reasons for such revision, and the designations made under subparagraph (A). The Administrator shall provide reasonable opportunity to any interested person to file with the Administrator written comments on the committee’s list, any revision of such list by the committee, and designations made by the committee, and shall make such comments available to the public. Within the 12-month period beginning on the date of the first inclusion on the list of a chemical substance or mixture designated by the committee under subparagraph (A) the Administrator shall with respect to such chemical substance or mixture either initiate a rulemaking proceeding under subsection (a) of this section or if such a proceeding is not initiated within such period, publish in the Federal Register the Administrator’s reason for not initiating such a proceeding.
+
+
+(2)(A) The committee established by paragraph (1)(A) shall consist of eight members as follows:(i) One member appointed by the Administrator from the Environmental Protection Agency.
+
+(ii) One member appointed by the Secretary of Labor from officers or employees of the Department of Labor engaged in the Secretary’s activities under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.].
+
+(iii) One member appointed by the Chairman of the Council on Environmental Quality from the Council or its officers or employees.
+
+(iv) One member appointed by the Director of the National Institute for Occupational Safety and Health from officers or employees of the Institute.
+
+(v) One member appointed by the Director of the National Institute of Environmental Health Sciences from officers or employees of the Institute.
+
+(vi) One member appointed by the Director of the National Cancer Institute from officers or employees of the Institute.
+
+(vii) One member appointed by the Director of the National Science Foundation from officers or employees of the Foundation.
+
+(viii) One member appointed by the Secretary of Commerce from officers or employees of the Department of Commerce.
+
+
+(B)(i) An appointed member may designate an individual to serve on the committee on the member’s behalf. Such a designation may be made only with the approval of the applicable appointing authority and only if the individual is from the entity from which the member was appointed.
+
+(ii) No individual may serve as a member of the committee for more than four years in the aggregate. If any member of the committee leaves the entity from which the member was appointed, such member may not continue as a member of the committee, and the member’s position shall be considered to be vacant. A vacancy in the committee shall be filled in the same manner in which the original appointment was made.
+
+(iii) Initial appointments to the committee shall be made not later than the 60th day after January 1, 1977. Not later than the 90th day after such date the members of the committee shall hold a meeting for the selection of a chairperson from among their number.
+
+
+(C)(i) No member of the committee, or designee of such member, shall accept employment or compensation from any person subject to any requirement of this chapter or of any rule promulgated or order issued thereunder, for a period of at least 12 months after termination of service on the committee.
+
+(ii) No person, while serving as a member of the committee, or designee of such member, may own any stocks or bonds, or have any pecuniary interest, of substantial value in any person engaged in the manufacture, processing, or distribution in commerce of any chemical substance or mixture subject to any requirement of this chapter or of any rule promulgated or order issued thereunder.
+
+(iii) The Administrator, acting through attorneys of the Environmental Protection Agency, or the Attorney General may bring an action in the appropriate district court of the United States to restrain any violation of this subparagraph.
+
+
+(D) The Administrator shall provide the committee such administrative support services as may be necessary to enable the committee to carry out its function under this subsection.
+
+
+
+(f) Required actionsUpon the receipt of—(1) any test data required to be submitted under this chapter, or
+
+(2) any other information available to the Administrator,
+
+
+which indicates to the Administrator that there may be a reasonable basis to conclude that a chemical substance or mixture presents or will present a significant risk of serious or widespread harm to human beings from cancer, gene mutations, or birth defects, the Administrator shall, within the 180-day period beginning on the date of the receipt of such data or information, initiate appropriate action under section 2604, 2605, or 2606 of this title to prevent or reduce to a sufficient extent such risk or publish in the Federal Register a finding that such risk is not unreasonable. For good cause shown the Administrator may extend such period for an additional period of not more than 90 days. The Administrator shall publish in the Federal Register notice of any such extension and the reasons therefor. A finding by the Administrator that a risk is not unreasonable shall be considered agency action for purposes of judicial review under chapter 7 of title 5. This subsection shall not take effect until two years after January 1, 1977.
+
+(g) Petition for standards for the development of test dataA person intending to manufacture or process a chemical substance for which notice is required under section 2604(a) of this title and who is not required under a rule under subsection (a) of this section to conduct tests and submit data on such substance may petition the Administrator to prescribe standards for the development of test data for such substance. The Administrator shall by order either grant or deny any such petition within 60 days of its receipt. If the petition is granted, the Administrator shall prescribe such standards for such substance within 75 days of the date the petition is granted. If the petition is denied, the Administrator shall publish, subject to section 2613 of this title, in the Federal Register the reasons for such denial.
+
+
+(Pub. L. 94–469, title I, § 4, Oct. 11, 1976, 90 Stat. 2006; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+
+
+References in TextThe Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+
+Effective DateSection effective Jan. 1, 1977, except as provided in subsec. (f) of this section, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
+
+

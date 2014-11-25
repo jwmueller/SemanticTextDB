@@ -1,0 +1,258 @@
+§ 1400L. Tax benefits for New York Liberty Zone(a) Expansion of work opportunity tax credit(1) In generalFor purposes of section 51, a New York Liberty Zone business employee shall be treated as a member of a targeted group.
+
+
+(2) New York Liberty Zone business employeeFor purposes of this subsection—(A) In generalThe term “New York Liberty Zone business employee” means, with respect to any period, any employee of a New York Liberty Zone business if substantially all the services performed during such period by such employee for such business are performed in the New York Liberty Zone.
+
+
+(B) Inclusion of certain employees outside the New York Liberty Zone(i) In generalIn the case of a New York Liberty Zone business described in subclause (II) of subparagraph (C)(i), the term “New York Liberty Zone business employee” includes any employee of such business (not described in subparagraph (A)) if substantially all the services performed during such period by such employee for such business are performed in the City of New York, New York.
+
+
+(ii) LimitationThe number of employees of such a business that are treated as New York Liberty Zone business employees on any day by reason of clause (i) shall not exceed the excess of—(I) the number of employees of such business on September 11, 2001, in the New York Liberty Zone, over
+
+(II) the number of New York Liberty Zone business employees (determined without regard to this subparagraph) of such business on the day to which the limitation is being applied.
+
+
+
+ The Secretary may require any trade or business to have the number determined under subclause (I) verified by the New York State Department of Labor.
+
+(C) New York Liberty Zone business(i) In generalThe term “New York Liberty Zone business” means any trade or business which is—(I) located in the New York Liberty Zone, or
+
+(II) located in the City of New York, New York, outside the New York Liberty Zone, as a result of the physical destruction or damage of such place of business by the September 11, 2001, terrorist attack.
+
+
+(ii) Credit not allowed for large businessesThe term “New York Liberty Zone business” shall not include any trade or business for any taxable year if such trade or business employed an average of more than 200 employees on business days during the taxable year.
+
+
+
+(D) Special rules for determining amount of creditFor purposes of applying subpart F of part IV of subchapter A of this chapter to wages paid or incurred to any New York Liberty Zone business employee—(i) section 51(a) shall be applied by substituting “qualified wages” for “qualified first-year wages”,
+
+(ii) the rules of section 52 shall apply for purposes of determining the number of employees under this paragraph,
+
+(iii) subsections (c)(4) and (i)(2) of section 51 shall not apply, and
+
+(iv) in determining qualified wages, the following shall apply in lieu of section 51(b):(I) Qualified wagesThe term “qualified wages” means wages paid or incurred by the employer to individuals who are New York Liberty Zone business employees of such employer for work performed during calendar year 2002 or 2003.
+
+
+(II) Only first $6,000 of wages per calendar year taken into accountThe amount of the qualified wages which may be taken into account with respect to any individual shall not exceed $6,000 per calendar year.
+
+
+
+
+
+
+(b) Special allowance for certain property acquired after September 10, 2001(1) Additional allowanceIn the case of any qualified New York Liberty Zone property—(A) the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 30 percent of the adjusted basis of such property, and
+
+(B) the adjusted basis of the qualified New York Liberty Zone property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.
+
+
+(2) Qualified New York Liberty Zone propertyFor purposes of this subsection—(A) In generalThe term “qualified New York Liberty Zone property” means property—(i)(I) which is described in section 168(k)(2)(A)(i), or
+
+(II) which is nonresidential real property, or residential rental property, which is described in subparagraph (B),
+
+
+(ii) substantially all of the use of which is in the New York Liberty Zone and is in the active conduct of a trade or business by the taxpayer in such Zone,
+
+(iii) the original use of which in the New York Liberty Zone commences with the taxpayer after September 10, 2001,
+
+(iv) which is acquired by the taxpayer by purchase (as defined in section 179(d)) after September 10, 2001, but only if no written binding contract for the acquisition was in effect before September 11, 2001, and
+
+(v) which is placed in service by the taxpayer on or before the termination date.
+
+
+The term “termination date” means December 31, 2006 (December 31, 2009, in the case of nonresidential real property and residential rental property).
+
+(B) Eligible real propertyNonresidential real property or residential rental property is described in this subparagraph only to the extent it rehabilitates real property damaged, or replaces real property destroyed or condemned, as a result of the September 11, 2001, terrorist attack. For purposes of the preceding sentence, property shall be treated as replacing real property destroyed or condemned if, as part of an integrated plan, such property replaces real property which is included in a continuous area which includes real property destroyed or condemned.
+
+
+(C) Exceptions(i) Bonus depreciation property under section 168(k)Such term shall not include property to which section 168(k) applies.
+
+
+(ii) Alternative depreciation propertyThe term “qualified New York Liberty Zone property” shall not include any property described in section 168(k)(2)(D)(i).
+
+
+(iii) Qualified New York Liberty Zone leasehold improvement propertySuch term shall not include any qualified New York Liberty Zone leasehold improvement property.
+
+
+(iv) Election outFor purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
+
+
+
+(D) Special rulesFor purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2014”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
+
+
+(E) Allowance against alternative minimum taxFor purposes of this subsection, rules similar to the rules of section 168(k)(2)(G) shall apply.
+
+
+
+
+(c) 5-year recovery period for depreciation of certain leasehold improvements(1) In generalFor purposes of section 168, the term “5-year property” includes any qualified New York Liberty Zone leasehold improvement property.
+
+
+(2) Qualified New York Liberty Zone leasehold improvement propertyFor purposes of this section, the term “qualified New York Liberty Zone leasehold improvement property” means qualified leasehold improvement property (as defined in section 168(k)(3)) if—(A) such building is located in the New York Liberty Zone,
+
+(B) such improvement is placed in service after September 10, 2001, and before January 1, 2007, and
+
+(C) no written binding contract for such improvement was in effect before September 11, 2001.
+
+
+(3) Requirement to use straight line methodThe applicable depreciation method under section 168 shall be the straight line method in the case of qualified New York Liberty Zone leasehold improvement property.
+
+
+(4) 9-year recovery period under alternative systemFor purposes of section 168(g), the class life of qualified New York Liberty Zone leasehold improvement property shall be 9 years.
+
+
+(5) Election outFor purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
+
+
+
+(d) Tax-exempt bond financing(1) In generalFor purposes of this title, any qualified New York Liberty Bond shall be treated as an exempt facility bond.
+
+
+(2) Qualified New York Liberty BondFor purposes of this subsection, the term “qualified New York Liberty Bond” means any bond issued as part of an issue if—(A) 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of such issue are to be used for qualified project costs,
+
+(B) such bond is issued by the State of New York or any political subdivision thereof,
+
+(C) the Governor or the Mayor designates such bond for purposes of this section, and
+
+(D) such bond is issued after the date of the enactment of this section and before January 1, 2014.
+
+
+(3) Limitations on amount of bonds(A) Aggregate amount designatedThe maximum aggregate face amount of bonds which may be designated under this subsection shall not exceed $8,000,000,000, of which not to exceed $4,000,000,000 may be designated by the Governor and not to exceed $4,000,000,000 may be designated by the Mayor.
+
+
+(B) Specific limitationsThe aggregate face amount of bonds issued which are to be used for—(i) costs for property located outside the New York Liberty Zone shall not exceed $2,000,000,000,
+
+(ii) residential rental property shall not exceed $1,600,000,000, and
+
+(iii) costs with respect to property used for retail sales of tangible property and functionally related and subordinate property shall not exceed $800,000,000.
+
+
+The limitations under clauses (i), (ii), and (iii) shall be allocated proportionately between the bonds designated by the Governor and the bonds designated by the Mayor in proportion to the respective amounts of bonds designated by each.
+
+(C) Movable propertyNo bonds shall be issued which are to be used for movable fixtures and equipment.
+
+
+
+(4) Qualified project costsFor purposes of this subsection—(A) In generalThe term “qualified project costs” means the cost of acquisition, construction, reconstruction, and renovation of—(i) nonresidential real property and residential rental property (including fixed tenant improvements associated with such property) located in the New York Liberty Zone, and
+
+(ii) public utility property (as defined in section 168(i)(10)) located in the New York Liberty Zone.
+
+
+(B) Costs for certain property outside zone includedSuch term includes the cost of acquisition, construction, reconstruction, and renovation of nonresidential real property (including fixed tenant improvements associated with such property) located outside the New York Liberty Zone but within the City of New York, New York, if such property is part of a project which consists of at least 100,000 square feet of usable office or other commercial space located in a single building or multiple adjacent buildings.
+
+
+
+(5) Special rulesIn applying this title to any qualified New York Liberty Bond, the following modifications shall apply:(A) Section 146 (relating to volume cap) shall not apply.
+
+(B) Section 147(d) (relating to acquisition of existing property not permitted) shall be applied by substituting “50 percent” for “15 percent” each place it appears.
+
+(C) Section 148(f)(4)(C) (relating to exception from rebate for certain proceeds to be used to finance construction expenditures) shall apply to the available construction proceeds of bonds issued under this section.
+
+(D) Repayments of principal on financing provided by the issue—(i) may not be used to provide financing, and
+
+(ii) must be used not later than the close of the 1st semiannual period beginning after the date of the repayment to redeem bonds which are part of such issue.
+
+
+The requirement of clause (ii) shall be treated as met with respect to amounts received within 10 years after the date of issuance of the issue (or, in the case of a refunding bond, the date of issuance of the original bond) if such amounts are used by the close of such 10 years to redeem bonds which are part of such issue.
+
+(E) Section 57(a)(5) shall not apply.
+
+
+(6) Separate issue treatment of portions of an issueThis subsection shall not apply to the portion of an issue which (if issued as a separate issue) would be treated as a qualified bond or as a bond that is not a private activity bond (determined without regard to paragraph (1)), if the issuer elects to so treat such portion.
+
+
+
+(e) Advance refundings of certain tax-exempt bonds(1) In generalWith respect to a bond described in paragraph (2) issued as part of an issue 90 percent (95 percent in the case of a bond described in paragraph (2)(C)) or more of the net proceeds (as defined in section 150(a)(3)) of which were used to finance facilities located within the City of New York, New York (or property which is functionally related and subordinate to facilities located within the City of New York for the furnishing of water), one additional advanced refunding after the date of the enactment of this section and before January 1, 2006, shall be allowed under the applicable rules of section 149(d) if—(A) the Governor or the Mayor designates the advance refunding bond for purposes of this subsection, and
+
+(B) the requirements of paragraph (4) are met.
+
+
+(2) Bonds describedA bond is described in this paragraph if such bond was outstanding on September 11, 2001, and is—(A) a State or local bond (as defined in section 103(c)(1)) which is a general obligation of the City of New York, New York,
+
+(B) a State or local bond (as so defined) other than a private activity bond (as defined in section 141(a)) issued by the New York Municipal Water Finance Authority or the Metropolitan Transportation Authority of the State of New York or the Municipal Assistance Corporation, or
+
+(C) a qualified 501(c)(3) bond (as defined in section 145(a)) which is a qualified hospital bond (as defined in section 145(c)) issued by or on behalf of the State of New York or the City of New York, New York.
+
+
+(3) Aggregate limitFor purposes of paragraph (1), the maximum aggregate face amount of bonds which may be designated under this subsection by the Governor shall not exceed $4,500,000,000 and the maximum aggregate face amount of bonds which may be designated under this subsection by the Mayor shall not exceed $4,500,000,000.
+
+
+(4) Additional requirementsThe requirements of this paragraph are met with respect to any advance refunding of a bond described in paragraph (2) if—(A) no advance refundings of such bond would be allowed under any provision of law after September 11, 2001,
+
+(B) the advance refunding bond is the only other outstanding bond with respect to the refunded bond, and
+
+(C) the requirements of section 148 are met with respect to all bonds issued under this subsection.
+
+
+
+(f) Increase in expensing under section 179(1) In generalFor purposes of section 179—(A) the limitation under section 179(b)(1) shall be increased by the lesser of—(i) $35,000, or
+
+(ii) the cost of section 179 property which is qualified New York Liberty Zone property placed in service during the taxable year, and
+
+
+(B) the amount taken into account under section 179(b)(2) with respect to any section 179 property which is qualified New York Liberty Zone property shall be 50 percent of the cost thereof.
+
+
+(2) Qualified New York Liberty Zone propertyFor purposes of this subsection, the term “qualified New York Liberty Zone property” has the meaning given such term by subsection (b)(2), determined without regard to subparagraph (C)(i) thereof.
+
+
+(3) RecaptureRules similar to the rules under section 179(d)(10) shall apply with respect to any qualified New York Liberty Zone property which ceases to be used in the New York Liberty Zone.
+
+
+
+(g) Extension of replacement period for nonrecognition of gainNotwithstanding subsections (g) and (h) of section 1033, clause (i) of section 1033(a)(2)(B) shall be applied by substituting “5 years” for “2 years” with respect to property which is compulsorily or involuntarily converted as a result of the terrorist attacks on September 11, 2001, in the New York Liberty Zone but only if substantially all of the use of the replacement property is in the City of New York, New York.
+
+
+(h) New York Liberty ZoneFor purposes of this section, the term “New York Liberty Zone” means the area located on or south of Canal Street, East Broadway (east of its intersection with Canal Street), or Grand Street (east of its intersection with East Broadway) in the Borough of Manhattan in the City of New York, New York.
+
+
+(i) References to Governor and MayorFor purposes of this section, the terms “Governor” and “Mayor” mean the Governor of the State of New York and the Mayor of the City of New York, New York, respectively.
+
+
+(Added Pub. L. 107–147, title III, § 301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, § 201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, § 309(a)–(c), title IV, § 403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§ 405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, § 103(c)(8), Feb. 13, 2008, 122 Stat. 619; Pub. L. 111–240, title II, § 2022(b)(6), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, § 401(d)(6), title VII, § 761(a), Dec. 17, 2010, 124 Stat. 3306, 3323; Pub. L. 112–240, title III, §§ 328(a), 331(e)(4), Jan. 2, 2013, 126 Stat. 2334, 2337.)
+
+
+References in TextThe date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of Pub. L. 107–147, which was approved Mar. 9, 2002.
+
+Amendments2013—Subsec. (b)(2)(D). Pub. L. 112–240, § 331(e)(4), substituted “January 1, 2014” for “January 1, 2013”.
+Subsec. (d)(2)(D). Pub. L. 112–240, § 328(a), substituted “January 1, 2014” for “January 1, 2012”.
+2010—Subsec. (b)(2)(D). Pub. L. 111–312, § 401(d)(6), substituted “January 1, 2013” for “January 1, 2011”.
+Pub. L. 111–240 substituted “January 1, 2011” for “January 1, 2010”.
+Subsec. (d)(2)(D). Pub. L. 111–312, § 761(a), substituted “2012” for “2010”.
+2008—Subsec. (b)(2)(D). Pub. L. 110–185 substituted “January 1, 2010” for “January 1, 2005”.
+2005—Subsec. (b)(2)(C)(ii). Pub. L. 109–135, § 412(ss)(1), substituted “section 168(k)(2)(D)(i)” for “section 168(k)(2)(C)(i)”.
+Subsec. (b)(2)(C)(iv). Pub. L. 109–135, § 412(ss)(2), substituted “section 168(k)(2)(D)(iii)” for “section 168(k)(2)(C)(iii)”.
+Subsec. (b)(2)(D). Pub. L. 109–135, § 412(ss)(3), substituted “section 168(k)(2)(E)” for “section 168(k)(2)(D)”.
+Pub. L. 109–135, § 405(a)(2), substituted “January 1, 2005” for “September 11, 2004”.
+Subsec. (b)(2)(E). Pub. L. 109–135, § 412(ss)(4), substituted “section 168(k)(2)(G)” for “section 168(k)(2)(F)”.
+Subsec. (c)(5). Pub. L. 109–135, § 412(ss)(5), substituted “section 168(k)(2)(D)(iii)” for “section 168(k)(2)(C)(iii)”.
+2004—Subsec. (a)(2)(D). Pub. L. 108–311, § 403(c)(1)(A), substituted “subchapter A” for “subchapter B” in introductory provisions.
+Subsec. (a)(2)(D)(ii). Pub. L. 108–311, § 403(c)(1)(B), substituted “this paragraph” for “subparagraph (B)”.
+Subsec. (b)(2)(D). Pub. L. 108–311, § 403(c)(2), inserted “, and clause (iv) thereof shall be applied by substituting ‘qualified New York Liberty Zone property’ for ‘qualified property’ ” before period at end.
+Subsec. (c)(5). Pub. L. 108–311, § 403(c)(3), added par. (5).
+Subsec. (d)(2)(D). Pub. L. 108–311, § 309(a), substituted “2010” for “2005”.
+Subsec. (e)(1). Pub. L. 108–311, § 309(b), substituted “2006” for “2005”.
+Subsec. (e)(2)(B). Pub. L. 108–311, § 309(c), substituted “or the Municipal Assistance Corporation, or” for “, or” at end.
+Subsec. (f)(2). Pub. L. 108–311, § 403(c)(4), inserted “, determined without regard to subparagraph (C)(i) thereof” before period at end.
+2003—Subsec. (b)(2)(C)(i). Pub. L. 108–27, which directed amendment of heading by substituting “Bonus depreciation property under section 168(k)” for “30-percent additional allowance property”, was executed by making the substitution for “30 percent additional allowance property” to reflect the probable intent of Congress.
+
+Effective Date of 2013 AmendmentPub. L. 112–240, title III, § 328(b), Jan. 2, 2013, 126 Stat. 2334, provided that: “The amendment made by this section [amending this section] shall apply to bonds issued after December 31, 2011.”
+
+Amendment by section 331(e)(4) of Pub. L. 112–240 applicable to property placed in service after Dec. 31, 2012, in taxable years ending after such date, see section 331(f) of Pub. L. 112–240, set out as a note under section 168 of this title.
+
+Effective Date of 2010 AmendmentAmendment by section 401(d)(6) of Pub. L. 111–312 applicable to property placed in service after Dec. 31, 2010, in taxable years ending after such date, see section 401(e)(1) of Pub. L. 111–312, set out as a note under section 168 of this title.
+Pub. L. 111–312, title VII, § 761(b), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendment made by this section [amending this section] shall apply to bonds issued after December 31, 2009.”
+
+Amendment by Pub. L. 111–240 applicable to property placed in service after Dec. 31, 2009, in taxable years ending after such date, see section 2022(c) of Pub. L. 111–240, set out as a note under section 168 of this title.
+
+Effective Date of 2008 AmendmentAmendment by Pub. L. 110–185 applicable to property placed in service after Dec. 31, 2007, in taxable years ending after such date, see section 103(d) of Pub. L. 110–185, set out as a note under section 168 of this title.
+
+Effective Date of 2005 AmendmentAmendment by section 405(a)(2) of Pub. L. 109–135 effective as if included in section 201 of the Jobs and Growth Tax Relief Reconciliation Act of 2003, Pub. L. 108–27, see section 405(b) of Pub. L. 109–135, set out as a note under section 168 of this title.
+
+Effective Date of 2004 AmendmentPub. L. 108–311, title III, § 309(d), Oct. 4, 2004, 118 Stat. 1180, provided that: “The amendment made by subsection (c) [amending this section] shall take effect as if included in the amendments made by section 301 of the Job Creation and Worker Assistance Act of 2002 [Pub. L. 107–147].”
+
+Amendment by section 403(c) of Pub. L. 108–311 effective as if included in the provisions of the Job Creation and Worker Assistance Act of 2002, Pub. L. 107–147, to which such amendment relates, see section 403(f) of Pub. L. 108–311, set out as a note under section 56 of this title.
+
+Effective Date of 2003 AmendmentAmendment by Pub. L. 108–27 applicable to taxable years ending after May 5, 2003, see section 201(d) of Pub. L. 108–27, set out as a note under section 168 of this title.
+
+

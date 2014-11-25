@@ -1,0 +1,34 @@
+§ 17251. Carbon capture(a) Program establishment(1) In generalThe Secretary shall carry out a program to demonstrate technologies for the large-scale capture of carbon dioxide from industrial sources. In making awards under this program, the Secretary shall select, as appropriate, a diversity of capture technologies to address the need to capture carbon dioxide from a range of industrial sources.
+
+
+(2) Scope of awardAwards under this section shall be only for the portion of the project that—(A) carries out the large-scale capture (including purification and compression) of carbon dioxide from industrial sources;
+
+(B) provides for the transportation and injection of carbon dioxide; and
+
+(C) incorporates a comprehensive measurement, monitoring, and validation program.
+
+
+(3) Preferences for awardTo ensure reduced carbon dioxide emissions, the Secretary shall take necessary actions to provide for the integration of the program under this paragraph with the large-scale carbon dioxide sequestration tests described in section 16293(c)(3) of this title. These actions should not delay implementation of these tests. The Secretary shall give priority consideration to projects with the following characteristics:(A) CapacityProjects that will capture a high percentage of the carbon dioxide in the treated stream and large volumes of carbon dioxide as determined by the Secretary.
+
+
+(B) SequestrationProjects that capture carbon dioxide from industrial sources that are near suitable geological reservoirs and could continue sequestration including—(i) a field testing validation activity under section 16293 of this title; or
+
+(ii) other geologic sequestration projects approved by the Secretary.
+
+
+
+(4) RequirementFor projects that generate carbon dioxide that is to be sequestered, the carbon dioxide stream shall be of a sufficient purity level to allow for safe transport and sequestration.
+
+
+(5) Cost-sharingThe cost-sharing requirements of section 16352 of this title for research and development projects shall apply to this section.
+
+
+
+(b) Authorization of appropriationsThere is authorized to be appropriated to the Secretary to carry out this section $200,000,000 per year for fiscal years 2009 through 2013.
+
+
+(Pub. L. 110–140, title VII, § 703, Dec. 19, 2007, 121 Stat. 1708.)
+
+Short TitleSubtitle A (§§ 701–708) of title VII of Pub. L. 110–140, which is classified principally to this part, is known as the “Department of Energy Carbon Capture and Sequestration Research, Development, and Demonstration Act of 2007”. See Short Title note set out under section 17001 of this title.
+
+

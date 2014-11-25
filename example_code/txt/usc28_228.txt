@@ -1,0 +1,88 @@
+§ 522. Report of business and statistics(a) The Attorney General, by April 1 of each year, shall report to Congress on the business of the Department of Justice for the last preceding fiscal year, and on any other matters pertaining to the Department that he considers proper, including—(1) a statement of the several appropriations which are placed under the control of the Department and the amount appropriated;
+
+(2) the statistics of crime under the laws of the United States; and
+
+(3) a statement of the number of causes involving the United States, civil and criminal, pending during the preceding year in each of the several courts of the United States.
+
+
+(b) With respect to any data, records, or other information acquired, collected, classified, preserved, or published by the Attorney General for any statistical, research, or other aggregate reporting purpose beginning not later than 1 year after the date of enactment of 11 So in original. Probably should be followed by “the”. 21st Century Department of Justice Appropriations Authorization Act and continuing thereafter, and notwithstanding any other provision of law, the same criteria shall be used (and shall be required to be used, as applicable) to classify or categorize offenders and victims (in the criminal context), and to classify or categorize actors and acted upon (in the noncriminal context).
+
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 94–273, § 19, Apr. 21, 1976, 90 Stat. 379; Pub. L. 107–273, div. A, title II, § 204(b), Nov. 2, 2002, 116 Stat. 1776.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 333.R.S. § 384.
+
+
+The words “The Attorney General . . . shall report” are substituted for “It shall be the duty of the Attorney General to make . . . a report”. The word “beginning” is substituted for “commencement”. The words “pertaining to the Department that he considers proper” are substituted for “appertaining thereto that he may deem proper”.
+The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsolete in view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223 (Chapter 41 of this title).
+In paragraph (3), the words “involving the United States” are inserted for clarity. The function of reporting on all cases pending in the United States courts is now vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
+
+
+References in TextThe date of enactment of 21st Century Department of Justice Appropriations Authorization Act, referred to in subsec. (b), is the date of enactment of Pub. L. 107–273, which was approved Nov. 2, 2002.
+
+Amendments2002—Pub. L. 107–273 designated existing provisions as subsec. (a) and added subsec. (b).
+1976—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
+
+Report to Congress on Banking Law OffensesPub. L. 101–647, title XXV, § 2546, Nov. 29, 1990, 104 Stat. 4885, provided that:
+“(a) In General.—“(1) Data collection.—The Attorney General shall compile and collect data concerning—“(A) the nature and number of civil and criminal investigations, prosecutions, and related proceedings, and civil enforcement and recovery proceedings, in progress with respect to banking law offenses under sections 981, 1008, 1032, and 3322(d) of title 18, United States Code, and section 951 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 [12 U.S.C. 1833a] and conspiracies to commit any such offense, including inactive investigations of such offenses;
+
+“(B) the number of—“(i) investigations, prosecutions, and related proceedings described in subparagraph (A) which are inactive as of the close of the reporting period but have not been closed or declined; and
+
+“(ii) unaddressed referrals which allege criminal misconduct involving offenses described in subparagraph (A),
+
+
+  and the reasons such matters are inactive and the referrals unaddressed;
+
+“(C) the nature and number of such matters closed, settled, or litigated to conclusion; and
+
+“(D) the results achieved, including convictions and pretrial diversions, fines and penalties levied, restitution assessed and collected, and damages recovered, in such matters.
+
+
+“(2) Analysis and report.—The Attorney General shall analyze and report to the Congress on the data described in paragraph (1) and its coordination and other related activities named in section 2539(c)(2) [probably means section 2539(c)(3) of Pub. L. 101–647, set out as a note under section 509 of this title] and shall provide such report on the data monthly through December 31, 1991, and quarterly after such date.
+
+
+“(b) Specifics of Report.—The report required by subsection (a) shall—“(1) categorize data as to various types of financial institutions and appropriate dollar loss categories;
+
+“(2) disclose data for each Federal judicial district;
+
+“(3) describe the activities of the Financial Institution Fraud Unit; and
+
+“(4) list—“(A) the number of institutions, categorized by failed and open institutions, in which evidence of significant fraud, unlawful activity, insider abuse or serious misconduct has been alleged or detected;
+
+“(B) civil, criminal, and administrative enforcement actions, including those of the Federal financial institutions regulatory agencies, brought against offenders;
+
+“(C) any settlements or judgments obtained against offenders;
+
+“(D) indictments, guilty pleas, or verdicts obtained against offenders; and
+
+“(E) the resources allocated in pursuit of investigations, prosecutions, and sentencings (including indictments, guilty pleas, or verdicts obtained against offenders) and related proceedings.”
+
+
+
+
+
+
+Congressional OversightPub. L. 100–700, § 6, Nov. 19, 1988, 102 Stat. 4634, which required the Attorney General to report annually to Congress on referrals of fraud cases and related matters, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 120 of House Document No. 103–7.
+
+Report to Congress on Robberies and Burglaries Involving Controlled SubstancesPub. L. 98–305, § 4, May 31, 1984, 98 Stat. 222, provided that: “For each of the first three years after the date of enactment of this Act [May 31, 1984], the Attorney General of the United States shall submit an annual report to the Congress with respect to the enforcement activities of the Attorney General relating to the offenses created by the amendment made by section 2 of this Act [enacting section 2118 of Title 18, Crimes and Criminal Procedure].”
+
+
+Report to Congress on Sexual Exploitation of ChildrenPub. L. 98–292, § 9, May 21, 1984, 98 Stat. 206, provided that: “Beginning one hundred and twenty days after the date of enactment of this Act [May 21, 1984], and every year thereafter, the Attorney General shall report to the Congress on prosecutions, convictions, and forfeitures under chapter 110 of title 18 of the United States Code.”
+
+
+

@@ -1,0 +1,91 @@
+§ 31136. United States Government regulations(a) Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secretary of Transportation shall prescribe regulations on commercial motor vehicle safety. The regulations shall prescribe minimum safety standards for commercial motor vehicles. At a minimum, the regulations shall ensure that—(1) commercial motor vehicles are maintained, equipped, loaded, and operated safely;
+
+(2) the responsibilities imposed on operators of commercial motor vehicles do not impair their ability to operate the vehicles safely;
+
+(3) the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely and the periodic physical examinations required of such operators are performed by medical examiners who have received training in physical and medical examination standards and, after the national registry maintained by the Department of Transportation under section 31149(d) is established, are listed on such registry;
+
+(4) the operation of commercial motor vehicles does not have a deleterious effect on the physical condition of the operators; and
+
+(5) an operator of a commercial motor vehicle is not coerced by a motor carrier, shipper, receiver, or transportation intermediary to operate a commercial motor vehicle in violation of a regulation promulgated under this section, or chapter 51 or chapter 313 of this title.
+
+
+(b) Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
+
+(c) Procedures and Considerations.—(1) A regulation under this section shall be prescribed under section 553 of title 5 (without regard to sections 556 and 557 of title 5).
+
+(2) Before prescribing regulations under this section, the Secretary shall consider, to the extent practicable and consistent with the purposes of this chapter—(A) costs and benefits; and
+
+(B) State laws and regulations on commercial motor vehicle safety, to minimize their unnecessary preemption.
+
+
+
+(d) Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984, shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
+
+(e) Exemptions.—The Secretary may grant in accordance with section 31315 waivers and exemptions from, or conduct pilot programs with respect to, any regulations prescribed under this section.
+
+(f) Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) The Secretary may not—(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
+
+(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
+
+
+(2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—(A) paragraph (1) of this subsection;
+
+(B) a minimum age requirement of the United States Government for operation of the vehicle; and
+
+(C) a medical or physical condition that—(i) would prevent an operator from operating a commercial motor vehicle under the commercial motor vehicle safety regulations in title 49, Code of Federal Regulations;
+
+(ii) existed on July 1, 1988;
+
+(iii) has not substantially worsened; and
+
+(iv) does not involve alcohol or drug abuse.
+
+
+
+(3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
+
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, § 344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, § 5(60), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title IV, § 4007(c), June 9, 1998, 112 Stat. 403; Pub. L. 109–59, title IV, § 4116(b), Aug. 10, 2005, 119 Stat. 1728; Pub. L. 112–141, div. C, title II, § 32911, July 6, 2012, 126 Stat. 818.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+31136(a)49 App.:2505(a), (g).Oct. 30, 1984, Pub. L. 98–554, § 206(a)–(g), 98 Stat. 2834.
+31136(b)49 App.:2505(b).
+31136(c)49 App.:2505(c).
+31136(d)49 App.:2505(d), (e).
+31136(e)49 App.:2505(f).
+31136(f)49 App.:2505(h).Oct. 30, 1984, Pub. L. 98–554, § 206(h), 98 Stat. 2835; restated Nov. 18, 1988, Pub. L. 100–690, § 9102(a), 102 Stat. 4528.
+
+
+In subsection (a), the text of 49 App.:2505(g) is omitted because 5:ch. 7 applies unless otherwise stated. Before clause (1), the words “Not later than 18 months after October 30, 1984” are omitted because the time period specified has expired. The words “Subject to section 30103(a) of this title” are added to alert the reader to that section.
+In subsection (c)(1), the words “except that the time periods specified in this subsection shall apply to the issuance of such regulations” are omitted because the time periods referred to do not appear in subsection (c) as enacted. The reference was probably to the time periods in a prior version of subsection (c). See S. 2174, 98th Cong., 2d Sess., § 6(b) (as reported by the Committee on Commerce, Science, and Transportation of the Senate on May 2, 1984, in S. Rept. 98–424).
+In subsection (d), the text of 49 App.:2505(d) is omitted as obsolete.
+In subsection (f)(2)(C)(i), the words “an operator” are substituted for “such person” because only a natural person can have a medical or physical condition.
+
+Amendments2012—Subsec. (a)(5). Pub. L. 112–141 added par. (5).
+2005—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and”.
+1998—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
+1996—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted “November 28, 1995” for “the date of the enactment of this paragraph”.
+1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
+
+Effective Date of 2012 AmendmentAmendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+Effective Date of 2005 AmendmentAmendment by Pub. L. 109–59 effective on the 365th day following Aug. 10, 2005, see section 4116(f) of Pub. L. 109–59, set out as an Effective Date note under section 31149 of this title.
+
+Reliable Home HeatingPub. L. 113–125, June 30, 2014, 128 Stat. 1388, provided that:
+“SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Reliable Home Heating Act’.
+

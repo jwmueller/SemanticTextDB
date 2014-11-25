@@ -1,0 +1,6 @@
+“In the case of an individual whose average monthly wage is computed under the provisions of section 215(b) of the Social Security Act [42 U.S.C. 415(b)], as amended by this Act, and—“(1) who is entitled, by reason of the provisions of section 202(j)(1) or section 223(b) of the Social Security Act [42 U.S.C. 402(j)(1), 423(b)], to a monthly benefit for any month prior to January 1961, or
+
+“(2) who is (or would, but for the fact that such recomputation would not result in a higher primary insurance amount for such individual, be) entitled, by reason of section 215(f) of the Social Security Act [42 U.S.C. 415(f)], to have his primary insurance amount recomputed effective for a month prior to January 1961,
+
+
+his average monthly wage as determined under the provisions of such section 215(b) [42 U.S.C. 415(b)] shall be his average monthly wage for the purposes of determining his primary insurance amount for such prior month.”

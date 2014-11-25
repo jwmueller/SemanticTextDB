@@ -1,0 +1,10 @@
+§ 744. Executory contracts
+Notwithstanding section 365(d)(1) of this title, the trustee shall assume or reject, under section 365 of this title, any executory contract of the debtor for the purchase or sale of a security in the ordinary course of the debtor’s business, within a reasonable time after the date of the order for relief, but not to exceed 30 days. If the trustee does not assume such a contract within such time, such contract is rejected.
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2613; Pub. L. 97–222, § 10, July 27, 1982, 96 Stat. 238.)
+
+Historical and Revision Notes
+senate report no. 95–989Section 744 instructs the court to give the trustee a reasonable time, not to exceed 30 days, to assume or reject any executory contract of the stockbroker to buy or sell securities. Any contract not assumed within the time fixed by the court is considered to be rejected.
+
+Amendments1982—Pub. L. 97–222 inserted “but” after “relief,”.
+
+

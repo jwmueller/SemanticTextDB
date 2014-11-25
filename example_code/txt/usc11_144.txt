@@ -1,0 +1,34 @@
+§ 930. Dismissal(a) After notice and a hearing, the court may dismiss a case under this chapter for cause, including—(1) want of prosecution;
+
+(2) unreasonable delay by the debtor that is prejudicial to creditors;
+
+(3) failure to propose a plan within the time fixed under section 941 of this title;
+
+(4) if a plan is not accepted within any time fixed by the court;
+
+(5) denial of confirmation of a plan under section 943(b) of this title and denial of additional time for filing another plan or a modification of a plan; or
+
+(6) if the court has retained jurisdiction after confirmation of a plan—(A) material default by the debtor with respect to a term of such plan; or
+
+(B) termination of such plan by reason of the occurrence of a condition specified in such plan.
+
+
+
+(b) The court shall dismiss a case under this chapter if confirmation of a plan under this chapter is refused.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2623, § 927; Pub. L. 98–353, title III, § 496, July 10, 1984, 98 Stat. 384; renumbered § 930, Pub. L. 100–597, § 7(1), Nov. 3, 1988, 102 Stat. 3029.)
+
+Historical and Revision Notes
+legislative statementsSection 927(b) of the House amendment is derived from section 927(b) of the Senate bill. The provision requires mandatory dismissal if confirmation of a plan is refused.
+The House amendment deletes section 929 of the Senate amendment as unnecessary since the bankruptcy court has original exclusive jurisdiction of all cases under chapter 9.
+The House amendment deletes section 930 of the Senate amendment and incorporates section 507(a)(1) by reference.
+
+senate report no. 95–989Section 927 conforms to section 98 of current law [section 418 of former title 11]. The Section permits dismissal by the court for unreasonable delay by the debtor, failure to propose a plan, failure of acceptance of a plan, or default by the debtor under a conformed plan. Mandatory dismissal is required if confirmation is refused.
+
+house report no. 95–595Section 926 [enacted as section 927] generally conforms to section 98(a) [section 418(a) of former title 11] of current law. Stylistic changes have been made to conform the language with that used in chapter 11, section 1112. The section permits dismissal by the court for unreasonable delay by the debtor that is prejudicial to creditors, failure to propose a plan, failure of confirmation of a plan, or material default by the debtor under a confirmed plan. The only significant change from current law lies in the second ground. Currently, section 98(a)(2) provides for dismissal if a proposed plan is not accepted, and section 98(b) requires dismissal if an accepted plan is not confirmed. In order to provide greater flexibility to the court, the debtor, and creditors, the bill allows the court to permit the debtor to propose another plan if the first plan is not confirmed. In that event the debtor need not, as under current law, commence the case all over again. This could provide savings in time and administrative expenses if a plan is denied confirmation.
+
+Amendments1984—Subsec. (b). Pub. L. 98–353 substituted “confirmation of a plan under this chapter” for “confirmation”.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+

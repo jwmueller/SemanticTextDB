@@ -1,0 +1,26 @@
+“SEC. 305. LOCAL NETWORK CHANNEL BROADCAST REPORTS.“(a) Requirement.—“(1) In general.—On the 270th day after the date of the enactment of this Act [deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights], and on each succeeding anniversary of such 270th day, each satellite carrier shall submit an annual report to the Federal Communications Commission setting forth—“(A) each local market in which it—“(i) retransmits signals of 1 or more television broadcast stations with a community of license in that market;
+
+“(ii) has commenced providing such signals in the preceding 1-year period; and
+
+“(iii) has ceased to provide such signals in the preceding 1-year period; and
+
+
+“(B) detailed information regarding the use and potential use of satellite capacity for the retransmission of local signals in each local market.
+
+
+“(2) Termination.—The requirement under paragraph (1) shall cease after each satellite carrier has submitted 5 reports under such paragraph.
+
+
+“(b) FCC Study; Report.—“(1) Study.—If no satellite carrier files a request for a certification under section 342 of the Communications Act of 1934 [47 U.S.C. 342] (as added by section 206 of this title) within 270 days after the date of the enactment of this Act, the Federal Communications Commission shall initiate a study of—“(A) incentives that would induce a satellite carrier to provide the signals of 1 or more television broadcast stations licensed to provide signals in local markets in which the satellite carrier does not provide such signals; and
+
+“(B) the economic and satellite capacity conditions affecting delivery of local signals by satellite carriers to these markets.
+
+
+“(2) Report.—Within 1 year after the date of the initiation of the study under paragraph (1), the Federal Communications Commission shall submit a report to the appropriate Congressional committees containing its findings, conclusions, and recommendations.
+
+
+“(c) Definitions.—In this section—“(1) the terms ‘local market’ and ‘satellite carrier’ have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
+
+“(2) the term ‘television broadcast station’ has the meaning given such term in section 325(b)(7) of such Act (47 U.S.C. 325(b)(7)).”
+
+

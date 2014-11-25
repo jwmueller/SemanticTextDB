@@ -1,0 +1,739 @@
+§ 1071. Purpose of this chapter
+The purpose of this chapter is to create and maintain high morale in the uniformed services by providing an improved and uniform program of medical and dental care for members and certain former members of those services, and for their dependents.
+(Added Pub. L. 85–861, § 1(25)(B), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 89–614, § 2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, § 511(34)(A), (B), Dec. 12, 1980, 94 Stat. 2922.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+107137:401.June 7, 1956, ch. 374, § 101, 70 Stat. 250.
+
+
+The words “and certain former members” are inserted to reflect the fact that many of the persons entitled to retired pay are former members only. The words “and dental” are inserted to reflect the fact that members and, in certain limited situations, dependents are entitled to dental care under sections 1071–1085 of this title.
+
+Prior ProvisionsA prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by Pub. L. 85–861, § 36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+
+Amendments1980—Pub. L. 96–513 substituted “Purpose of this chapter” for “Purpose of sections 1071–1087 of this title” in section catchline, and substituted reference to this chapter for reference to sections 1071–1087 of this title in text.
+1966—Pub. L. 89–614 substituted “1087” for “1085” in section catchline and text.
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+Effective Date of 1966 AmendmentPub. L. 89–614, § 3, Sept. 30, 1966, 80 Stat. 866, provided that: “The amendments made by this Act [see Short Title of 1966 Amendment note below] shall become effective January 1, 1967, except that those amendments relating to outpatient care in civilian facilities for spouses and children of members of the uniformed services who are on active duty for a period of more than 30 days shall become effective on October 1, 1966.”
+
+
+Short Title of 2008 AmendmentPub. L. 110–181, div. A, title XVI, § 1601, Jan. 28, 2008, 122 Stat. 431, provided that: “This title [enacting sections 1074l, 1216a, and 1554a of this title, amending sections 1074, 1074f, 1074i, 1145, 1201, 1203, 1212, and 1599c of this title and section 6333 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section, sections 1074, 1074f, 1074i, 1074l, 1212, and 1554a of this title, and section 6333 of Title 5] may be cited as the ‘Wounded Warrior Act’.”
+
+
+Short Title of 1987 AmendmentPub. L. 100–180, div. A, title VII, § 701, Dec. 4, 1987, 101 Stat. 1108, provided that: “This title [enacting sections 1103, 2128 to 2130 [now 16201 to 16203], and 6392 of this title, amending sections 533, 591, 1079, 1086, 1251, 2120, 2122, 2123, 2124, 2127, 2172 [now 16302], 3353, 3855, 5600, 8353, and 8855 of this title, section 302 of Title 37, Pay and Allowances of the Uniformed Services, and section 460 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under sections 1073, 1074, 1079, 1092, 1103, 2121, 2124, 12201, and 16201 of this title, amending provisions set out as notes under sections 1073 and 1101 of this title, and repealing provisions set out as notes under sections 2121 and 2124 of this title] may be cited as the ‘Military Health Care Amendments of 1987’.”
+
+
+Short Title of 1966 AmendmentPub. L. 89–614, § 1, Sept. 30, 1966, 80 Stat. 862, provided: “That this Act [enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+
+
+Comprehensive Policy on Improvements to Care and Transition of Members of the Armed Forces With UrotraumaPub. L. 113–66, div. A, title VII, § 703, Dec. 26, 2013, 127 Stat. 791, provided that:
+“(a) Comprehensive Policy Required.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense and the Secretary of Veterans Affairs shall jointly develop and implement a comprehensive policy on improvements to the care, management, and transition of recovering members of the Armed Forces with urotrauma.
+
+“(2) Scope of policy.—The policy shall cover each of the following:“(A) The care and management of the specific needs of members who are urotrauma patients, including eligibility for the Recovery Care Coordinator Program pursuant to the Wounded Warrior Act [title XVI of div. A of Pub. L. 110–181] (10 U.S.C. 1071 note).
+
+“(B) The return of members who have recovered to active duty when appropriate.
+
+“(C) The transition of recovering members from receipt of care and services through the Department of Defense to receipt of care and services through the Department of Veterans Affairs.
+
+
+
+“(b) Report.—“(1) In general.—Not later than one year after implementing the policy under subsection (a)(1), the Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate congressional committees a report that includes—“(A) a review that identifies gaps in the care of members who are urotrauma patients; and
+
+“(B) suggested options to respond to such gaps.
+
+
+“(2) Appropriate congressional committees defined.—In this subsection, the term ‘appropriate congressional committees’ means the following:“(A) The Committees on Armed Services of the Senate and the House of Representatives.
+
+“(B) The Committees on Veterans’ Affairs of the Senate and the House of Representatives.”
+
+
+
+
+
+
+Electronic Health Records of the Department of Defense and the Department of Veterans AffairsPub. L. 113–66, div. A, title VII, § 713, Dec. 26, 2013, 127 Stat. 794, provided that:
+“(a) Sense of Congress.—It is the sense of Congress that—“(1) the Secretary of Defense and the Secretary of Veterans Affairs have failed to implement a solution that allows for seamless electronic sharing of medical health care data; and
+
+“(2) despite the significant amount of read-only information shared between the Department of Defense and Department of Veterans Affairs, most of the information shared as of the date of the enactment of this Act [Dec. 26, 2013] is not standardized or available in real time to support all clinical decisions.
+
+
+“(b) Implementation.—The Secretary of Defense and the Secretary of Veterans Affairs—“(1) shall each ensure that the electronic health record systems of the Department of Defense and the Department of Veterans Affairs are interoperable with an integrated display of data, or a single electronic health record, by complying with the national standards and architectural requirements identified by the Interagency Program Office of the Departments (in this section referred to as the ‘Office’), in collaboration with the Office of the National Coordinator for Health Information Technology of the Department of Health and Human Services; and
+
+“(2) shall each deploy modernized electronic health record software supporting clinicians of the Departments by no later than December 31, 2016, while ensuring continued support and compatibility with the interoperability platform and full standards-based interoperability.
+
+
+“(c) Design Principles.—The interoperable electronic health records with integrated display of data, or a single electronic health record, established under subsection (b) shall adhere to the following principles:“(1) To the extent practicable, efforts to establish such records shall be based on objectives, activities, and milestones established by the Joint Executive Committee Joint Strategic Plan Fiscal Years 2013–2015, as well as future addendums or revisions.
+
+“(2) Transition the current data exchanges between the Departments and private sector health care providers where practical to modern, open-architecture frameworks that use computable data mapped to national standards to make data available for determining medical trends and for enhanced clinician decision support.
+
+“(3) Principles with respect to open architecture standards, including—“(A) adoption of national data standards;
+
+“(B) if such national standards do not exist as of the date on which the record is being established, adoption of the articulation of data of the Health Data Dictionary until such national standards are established;
+
+“(C) use of enterprise investment strategies that maximize the use of commercial best practices to ensure robust competition and best value;
+
+“(D) aggressive life-cycle sustainment planning that uses proven technology insertion strategies and product upgrade techniques;
+
+“(E) enforcement of system design transparency, continuous design disclosure and improvement, and peer reviews that align with the requirements of the Federal Acquisition Regulation; and
+
+“(F) strategies for data management rights to ensure a level competitive playing field and access to alternative solutions and sources across the life-cycle of the programs.
+
+
+“(4) By the point of deployment, such record must be at a generation 3 level or better for a health information technology system.
+
+“(5) To the extent the Secretaries consider feasible and advisable, principles with respect to—“(A) the creation of a health data authoritative source by the Department of Defense and the Department of Veterans Affairs that can be accessed by multiple providers and standardizes the input of new medical information;
+
+“(B) the ability of patients of both the Department of Defense and the Department of Veterans Affairs to download, or otherwise receive electronically, the medical records of the patient; and
+
+“(C) the feasibility of establishing a secure, remote, network-accessible computer storage system to provide members of the Armed Forces and veterans the ability to upload the health care records of the member or veteran if the member or veteran elects to do so and allow medical providers of the Department of Defense and the Department of Veterans Affairs to access such records in the course of providing care to the member or veteran.
+
+
+
+“(d) Programs Plan.—Not later than January 31, 2014, the Secretaries shall prepare and brief the appropriate congressional committees with a detailed programs plan for the oversight and execution of the interoperable electronic health records with an integrated display of data, or a single electronic health record, established under subsection (b). This briefing and supporting documentation shall include—“(1) programs objectives;
+
+“(2) organization;
+
+“(3) responsibilities of the Departments;
+
+“(4) technical objectives and design principles;
+
+“(5) milestones, including a schedule for the development, acquisition, or industry competitions for capabilities needed to satisfy the technical system requirements;
+
+“(6) data standards being adopted by the programs;
+
+“(7) outcome-based metrics proposed to measure the performance and effectiveness of the programs; and
+
+“(8) the level of funding for fiscal years 2014 through 2017.
+
+
+“(e) Limitation on Funds.—Not more than 25 percent of the amounts authorized to be appropriated by this Act or otherwise made available for development, procurement, modernization, or enhancement of the interoperable electronic health records with an integrated display of data, or a single electronic health record, established under subsection (b) for the Department of Defense or the Department of Veterans Affairs may be obligated or expended until the date on which the Secretaries brief the appropriate congressional committees of the programs plan under subsection (d).
+
+“(f) Reporting.—“(1) Quarterly reporting.—On a quarterly basis, the Secretaries shall submit to the appropriate congressional committees a detailed financial summary.
+
+“(2) Notification.—The Secretary of Defense and Secretary of Veterans Affairs shall submit to the appropriate congressional committees written notification prior to obligating funds for any contract or task order for electronic health record system modernization efforts that is in excess of $5,000,000.
+
+
+“(g) Requirements.—“(1) In general.—Not later than October 1, 2014, all health care data contained in the Department of Defense AHLTA and the Department of Veterans Affairs VistA systems shall be computable in real time and comply with the existing national data standards and have a process in place to ensure data is standardized as national standards continue to evolve. On a quarterly basis, the Secretaries shall submit to the appropriate congressional committees updates on the progress of data sharing.
+
+“(2) Certification.—At such time as the operational capability described in subsection (b)(1) is achieved, the Secretaries shall jointly certify to the appropriate congressional committees that the Secretaries have complied with such data standards described in paragraph (1).
+
+“(3) Responsible official.—The Secretaries shall each identify a senior official to be responsible for the modern platforms supporting an interoperable electronic health record with an integrated display of data, or a single electronic health record, established under subsection (b). The Secretaries shall also each identify a senior official to be responsible for modernizing the electronic health record software of the respective Department. Such official shall have included within their performance evaluation performance metrics related to the execution of the responsibilities under this paragraph. Not later than 30 days after the date of the enactment of this Act [Dec. 26, 2013], each Secretary shall submit to the appropriate congressional committees the name of each senior official selected under this paragraph.
+
+“(4) Comptroller general assessment.—If both Secretaries do not meet the requirements under paragraph (1), the Comptroller General of the United States shall submit to the appropriate congressional committees an assessment of the performance of the compliance of both Secretaries of such requirements.
+
+
+“(h) Executive Committee.—“(1) Establishment.—Not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretaries shall jointly establish an executive committee to support the development and validation of adopted standards, required architectural platforms and structure, and the capacity to enforce such standards, platforms, and structure as the Secretaries execute requirements and develop programmatic assessment as needed by the Secretaries to ensure interoperable electronic health records with an integrated display of data, or a single electronic health record, are established pursuant to the requirements of subsection (b). The Executive Committee shall annually certify to the appropriate congressional committees that such record meets the definition of ‘integrated’ as specified in subsection (k)(4).
+
+“(2) Membership.—The Executive Committee established under paragraph (1) shall consist of not more than 6 members, appointed by the Secretaries as follows:“(A) Two co-chairs, one appointed by each of the Secretaries.
+
+“(B) One member from the technical community of the Department of Defense appointed by the Secretary of Defense.
+
+“(C) One member from the technical community of the Department of Veterans Affairs appointed by the Secretary of Veterans Affairs.
+
+“(D) One member from the clinical community of the Department of Defense appointed by the Secretary of Defense.
+
+“(E) One member from the clinical community of the Department of Veterans Affairs appointed by the Secretary of Veterans Affairs.
+
+
+“(3) Reporting.—Not later than June 1, 2014, and on a quarterly basis thereafter, the Executive Committee shall submit to the appropriate congressional committees a report on the activities of the Committee.
+
+
+“(i) Independent Review.—The Secretary of Defense shall request the Defense Science Board to conduct an annual review of the progress of the Secretary toward achieving the requirements in paragraphs (1) and (2) of subsection (b). The Defense Science Board shall submit to the Secretary a report of the findings of the review. Not later than 30 days after receiving the report, the Secretary shall submit to the appropriate congressional committees the report with any comments considered appropriate by the Secretary.
+
+“(j) Deadline for Completion of Implementation of the Healthcare Artifact and Image Management Solution Program.—“(1) Deadline.—The Secretary of Defense shall complete the implementation of the Healthcare Artifact and Image Management Solution program of the Department of Defense by not later than the date that is 180 days after the date of the enactment of this Act [Dec. 26, 2013].
+
+“(2) Report.—Upon completion of the implementation of the Healthcare Artifact and Image Management Solution program, the Secretary shall submit to the appropriate congressional committees a report describing the extent of the interoperability between the Healthcare Artifact and Image Management Solution program and the Veterans Benefits Management System of the Department of Veterans Affairs.
+
+
+“(k) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and
+
+“(B) the Committees on Veterans’ Affairs of the Senate and the House of Representatives.
+
+
+“(2) Generation 3.—The term ‘generation 3’ means, with respect to an electronic health system, a system that has the technical capability to bring evidence-based medicine to the point of care and provide functionality for multiple care venues.
+
+“(3) Interoperable.—The term ‘interoperable’ refers to the ability of different electronic health records systems or software to meaningfully exchange information in real time and provide useful results to one or more systems.
+
+“(4) Integrated.—The term ‘integrated’ refers to the integration of health data from the Department of Defense and the Department of Veterans Affairs and outside providers to provide clinicians with a comprehensive medical record that allows data existing on disparate systems to be shared or accessed across functional or system boundaries in order to make the most informed decisions when treating patients.”
+
+
+
+
+
+Enhancement of Oversight and Management of Department of Defense Suicide Prevention and Resilience ProgramsPub. L. 112–239, div. A, title V, § 580, Jan. 2, 2013, 126 Stat. 1764, provided that:
+“(a) In General.—The Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, establish within the Office of the Secretary of Defense a position with responsibility for oversight of all suicide prevention and resilience programs of the Department of Defense (including those of the military departments and the Armed Forces).
+
+“(b) Scope of Responsibilities.—The individual serving in the position established under subsection (a) shall have the responsibilities as follows:“(1) To establish a uniform definition of resiliency for use in the suicide prevention and resilience programs and preventative behavioral health programs of the Department of Defense (including those of the military departments and the Armed Forces).
+
+“(2) To oversee the implementation of the comprehensive policy on the prevention of suicide among members of the Armed Forces required by section 582.”
+
+
+
+
+
+Comprehensive Policy on Prevention of Suicide Among Members of the Armed ForcesPub. L. 112–239, div. A, title V, § 582, Jan. 2, 2013, 126 Stat. 1766, provided that:
+“(a) Comprehensive Policy Required.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, develop within the Department of Defense a comprehensive policy on the prevention of suicide among members of the Armed Forces. In developing the policy, the Secretary shall consider recommendations from the operational elements of the Armed Forces regarding the feasibility of the implementation and execution of particular elements of the policy.
+
+“(b) Elements.—The policy required by subsection (a) shall cover each of the following:“(1) Increased awareness among members of the Armed Forces about mental health conditions and the stigma associated with mental health conditions and mental health care.
+
+“(2) The means of identifying members who are at risk for suicide (including enhanced means for early identification and treatment of such members).
+
+“(3) The continuous access by members to suicide prevention services, including suicide crisis services.
+
+“(4) The means to evaluate and assess the effectiveness of the suicide prevention and resilience programs and preventative behavioral health programs of the Department of Defense (including those of the military departments and the Armed Forces), including the development of metrics for that purpose.
+
+“(5) The means to evaluate and assess the current diagnostic tools and treatment methods in the programs referred to in paragraph (4) to ensure clinical best practices are used in such programs.
+
+“(6) The standard of care for suicide prevention to be used throughout the Department.
+
+“(7) The training of mental health care providers on suicide prevention.
+
+“(8) The training standards for behavioral health care providers to ensure that such providers receive training on clinical best practices and evidence-based treatments as information on such practices and treatments becomes available.
+
+“(9) The integration of mental health screenings and suicide risk and prevention for members into the delivery of primary care for such members.
+
+“(10) The standards for responding to attempted or completed suicides among members, including guidance and training to assist commanders in addressing incidents of attempted or completed suicide within their units.
+
+“(11) The means to ensure the protection of the privacy of members seeking or receiving treatment relating to suicide.
+
+“(12) Such other matters as the Secretary considers appropriate in connection with the prevention of suicide among members.”
+
+
+
+
+
+Research and Medical Practice on Mental Health ConditionsPub. L. 112–239, div. A, title VII, § 725, Jan. 2, 2013, 126 Stat. 1806, provided that:
+“(a) Research and Practice.—The Secretary of Defense shall provide for the translation of research on the diagnosis and treatment of mental health conditions into policy on medical practices.
+
+“(b) Report.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the translation of research into policy as described in subsection (a). The report shall include the following:“(1) A summary of the efforts of the Department of Defense to carry out such translation.
+
+“(2) A description of any policy established pursuant to subsection (a).
+
+“(3) Additional legislative or administrative actions the Secretary considers appropriate with respect to such translation.”
+
+
+
+
+
+Plan for Reform of the Administration of the Military Health SystemPub. L. 112–239, div. A, title VII, § 731, Jan. 2, 2013, 126 Stat. 1815, provided that:
+“(a) Detailed Plan.—In implementing reforms to the governance of the military health system described in the memorandum of the Deputy Secretary of Defense dated March 2012, the Secretary of Defense shall develop a detailed plan to carry out such reform.
+
+“(b) Elements.—The plan developed under subsection (a) shall include the following:“(1) Goals to achieve while carrying out the reform described in subsection (a), including goals with respect to improving clinical and business practices, cost reductions, infrastructure reductions, and personnel reductions, achieved by establishing the Defense Health Agency, carrying out shared services, and modifying the governance of the National Capital Region.
+
+“(2) Metrics to evaluate the achievement of each goal under paragraph (1) with respect to the purpose, objective, and improvements made by each such goal.
+
+“(3) The personnel levels required for the Defense Health Agency and the National Capital Region Medical Directorate.
+
+“(4) A detailed schedule to carry out the reform described in subsection (a), including a schedule for meeting the goals under paragraph (1).
+
+“(5) Detailed information describing the initial operating capability of the Defense Health Agency.
+
+“(6) With respect to each shared service that the Secretary will implement during fiscal year 2013 or 2014—“(A) a timeline for such implementation; and
+
+“(B) a business case analysis detailing—“(i) the services that will be consolidated into the shared service;
+
+“(ii) the purpose of the shared service;
+
+“(iii) the scope of the responsibilities and goals for the shared service;
+
+“(iv) the cost of implementing the shared service, including the costs regarding personnel severance, relocation, military construction, information technology, and contractor support; and
+
+“(v) the anticipated cost savings to be realized by implementing the shared service.
+
+
+
+
+“(c) Submission.—The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the plan developed under subsection (a) as follows:“(1) The contents of the plan described in paragraphs (1) and (4) of subsection (b) shall be submitted not later than March 31, 2013.
+
+“(2) The contents of the plan described in paragraphs (2) and (3) of subsection (b) and paragraph (6) of such subsection with respect to shared services implemented during fiscal year 2013 shall be submitted not later than June 30, 2013.
+
+“(3) The contents of the plan described in paragraph (6) of such subsection with respect to shared services implemented during fiscal year 2014 shall be submitted not later than September 30, 2013.
+
+
+“(d) Limitations.—“(1) First submission.—Of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2013 for the accounts and activities described in paragraph (4), not more than 50 percent may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees the contents of the plan under subsection (c)(1).
+
+“(2) Second submission.—Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2013 for the accounts and activities described in paragraph (4), not more than 75 percent may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees the contents of the plan under subsection (c)(2).
+
+“(3) Comptroller general review.—The Comptroller General of the United States shall submit to the congressional defense committees a review of the contents of the plan submitted under each of paragraphs (1) and (2) to assess whether the Secretary of Defense meets the requirements of such contents.
+
+“(4) Accounts and activities described.—The accounts and activities described in this paragraph are as follows:“(A) Operation and maintenance, Defense-wide, for the Office of the Secretary of Defense for travel.
+
+“(B) Operation and maintenance, Defense-wide, for the Office of the Secretary of Defense for management professional support services.
+
+“(C) Operation and maintenance, Defense Health Program, for travel.
+
+“(D) Operation and maintenance, Defense Health Program, for management professional support services.
+
+
+
+“(e) Shared Services Defined.—In this section, the term ‘shared services’ means the common services required for each military department to provide medical support to the Armed Forces and authorized beneficiaries.”
+
+
+
+
+Performance Metrics and Reports on Warriors in Transition Programs of the Military DepartmentsPub. L. 112–239, div. A, title VII, § 738, Jan. 2, 2013, 126 Stat. 1820, provided that:
+“(a) Metrics Required.—The Secretary of Defense shall establish a policy containing uniform performance outcome measurements to be used by each Secretary of a military department in tracking and monitoring members of the Armed Forces in Warriors in Transition programs.
+
+“(b) Elements.—The policy established under subsection (a) shall identify outcome measurements with respect to the following:“(1) Physical health and behavioral health.
+
+“(2) Rehabilitation.
+
+“(3) Educational and vocational preparation.
+
+“(4) Such other matters as the Secretary considers appropriate.
+
+
+“(c) Milestones.—In establishing the policy under subsection (a), the Secretary of Defense shall establish metrics and milestones for members in Warriors in Transition programs. Such metrics and milestones shall cover members throughout the course of care and rehabilitation in Warriors in Transitions programs by applying to the following occasions:“(1) When the member commences participation in the program.
+
+“(2) At least once each year the member participates in the program.
+
+“(3) When the member ceases participation in the program or is transferred to the jurisdiction of the Secretary of Veterans Affairs.
+
+
+“(d) Cohort Groups and Parameters.—The policy established under subsection (a)—“(1) may differentiate among cohort groups within the population of members in Warriors in Transition programs, as appropriate; and
+
+“(2) shall include parameters for specific outcome measurements in each element under subsection (b) and each metric and milestone under subsection (c).
+
+
+“(e) Reports Required.—“(1) Initial report.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the policy established under subsection (a), including the outcome measurements for each element under subsection (b) and each metric and milestone under subsection (c).
+
+“(2) Annual reports.—Not later than February of each year beginning in 2014 and ending in 2018, the Secretary of Defense shall submit to the congressional defense committees a report on the performance of the military departments with respect to the policy established under subsection (a). Each report shall include—“(A) an analysis of—“(i) data on improvements in the progress of members in Warriors in Transition programs in each specific area identified in the policy;
+
+“(ii) access to health and rehabilitation services by such members, including average appointment waiting times by specialty;
+
+“(iii) effectiveness of the programs in assisting in the transition of such members to military duty or civilian life through education and vocational assistance;
+
+“(iv) any differences in outcomes in Warriors in Transition programs, and the reason for any such differences; and
+
+“(v) the quantities and effectiveness of medical and nonmedical case managers, legal support and physical evaluation board liaison officers, mental health care providers, and medical evaluation physicians in comparison to the actual number of members requiring such services; and
+
+
+“(B) such other results and analyses as the Secretary considers appropriate, including any recommendations for legislation if needed.
+
+
+
+“(f) Warriors in Transition Program Defined.—In this section, the term ‘Warriors in Transition program’ means any major support program of the Armed Forces for members of the Armed Forces with severe wounds, illnesses, or injuries that is intended to provide such members with nonmedical case management service and care coordination services, and includes the programs as follows:“(1) Warrior Transition Units and the Wounded Warrior Program of the Army.
+
+“(2) The Wounded Warrior Safe Harbor program of the Navy.
+
+“(3) The Wounded Warrior Regiment of the Marine Corps.
+
+“(4) The Recovery Care Program and the Wounded Warrior programs of the Air Force.
+
+“(5) The Care Coalition of the United States Special Operations Command.”
+
+
+
+
+
+Department of Defense Suicide Prevention ProgramPub. L. 112–81, div. A, title V, § 533(a), (b), Dec. 31, 2011, 125 Stat. 1404, provided that:
+“(a) Program Enhancement.—The Secretary of Defense shall take appropriate actions to enhance the suicide prevention program of the Department of Defense through the provision of suicide prevention information and resources to members of the Armed Forces from their initial enlistment or appointment through their final retirement or separation.
+
+“(b) Cooperative Effort.—The Secretary of Defense shall develop suicide prevention information and resources in consultation with—“(1) the Secretary of Veterans Affairs, the National Institute of Mental Health, and the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services; and
+
+“(2) to the extent appropriate, institutions of higher education and other public and private entities, including international entities, with expertise regarding suicide prevention.”
+
+
+
+
+
+Treatment of Wounded WarriorsPub. L. 112–81, div. A, title VII, § 722, Dec. 31, 2011, 125 Stat. 1479, provided that: “The Secretary of Defense may establish a program to enter into partnerships to enable coordinated, rapid clinical evaluation and the application of evidence-based treatment strategies for wounded service members, with an emphasis on the most common musculoskeletal injuries, that will address the priorities of the Armed Forces with respect to retention and readiness.”
+
+
+Comprehensive Plan on Prevention, Diagnosis, and Treatment of Substance Use Disorders and Disposition of Substance Abuse Offenders in the Armed ForcesPub. L. 111–84, div. A, title V, § 596, Oct. 28, 2009, 123 Stat. 2339, provided that:
+“(a) Review and Assessment of Current Capabilities.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense, in consultation with the Secretaries of the military departments, shall conduct a comprehensive review of the following:“(A) The programs and activities of the Department of Defense for the prevention, diagnosis, and treatment of substance use disorders in members of the Armed Forces.
+
+“(B) The policies of the Department of Defense relating to the disposition of substance abuse offenders in the Armed Forces, including disciplinary action and administrative separation.
+
+
+“(2) Elements.—The review conducted under paragraph (1) shall include an assessment of each of the following:“(A) The current state and effectiveness of the programs of the Department of Defense and the military departments relating to the prevention, diagnosis, and treatment of substance use disorders.
+
+“(B) The adequacy of the availability of care, and access to care, for substance abuse in military medical treatment facilities and under the TRICARE program.
+
+“(C) The adequacy of oversight by the Department of Defense of programs relating to the prevention, diagnosis, and treatment of substance abuse in members of the Armed Forces.
+
+“(D) The adequacy and appropriateness of current credentials and other requirements for healthcare professionals treating members of the Armed Forces with substance use disorders.
+
+“(E) The advisable ratio of physician and nonphysician care providers for substance use disorders to members of the Armed Forces with such disorders.
+
+“(F) The adequacy and appropriateness of protocols and directives for the diagnosis and treatment of substance use disorders in members of the Armed Forces and for the disposition, including disciplinary action and administrative separation, of members of the Armed Forces for substance abuse.
+
+“(G) The adequacy of the availability of and access to care for substance use disorders for members of the reserve components of the Armed Forces, including an identification of any obstacles that are unique to the prevention, diagnosis, and treatment of substance use disorders among members of the reserve components, and the appropriate disposition, including disciplinary action and administrative separation, of members of the reserve components for substance abuse.
+
+“(H) The adequacy of the prevention, diagnosis, and treatment of substance use disorders in dependents of members of the Armed Forces.
+
+“(I) Any gaps in the current capabilities of the Department of Defense for the prevention, diagnosis, and treatment of substance use disorders in members of the Armed Forces.
+
+
+“(3) Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the findings and recommendations of the Secretary as a result of the review conducted under paragraph (1). The report shall—“(A) set forth the findings and recommendations of the Secretary regarding each element of the review specified in paragraph (2);
+
+“(B) set forth relevant statistics on the frequency of substance use disorders, disciplinary actions, and administrative separations for substance abuse in members of the regular components of the Armed Forces, members of the reserve component of the Armed Forces, and to the extent applicable, dependents of such members (including spouses and children); and
+
+“(C) include such other findings and recommendations on improvements to the current capabilities of the Department of Defense for the prevention, diagnosis, and treatment of substance use disorders in members of the Armed Forces and the policies relating to the disposition, including disciplinary action and administrative separation, of members of the Armed Forces for substance abuse, as the Secretary considers appropriate.
+
+
+
+“(b) Plan for Improvement and Enhancement of Programs and Policies.—“(1) Plan required.—Not later than 270 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a comprehensive plan for the improvement and enhancement of the following:“(A) The programs and activities of the Department of Defense for the prevention, diagnosis, and treatment of substance use disorders in members of the Armed Forces and their dependents.
+
+“(B) The policies of the Department of Defense relating to the disposition of substance abuse offenders in the Armed Forces, including disciplinary action and administrative separation.
+
+
+“(2) Basis.—The comprehensive plan required by paragraph (1) shall take into account the following:“(A) The results of the review and assessment conducted under subsection (a).
+
+“(B) Similar initiatives of the Secretary of Veterans Affairs to expand and improve care for substance use disorders among veterans, including the programs and activities conducted under title I of the Veterans’ Mental Health and Other Care Improvements Act of 2008 (Public Law 110–387; 112 Stat. 4112) [see Tables for classification].
+
+
+“(3) Comprehensive statement of policy.—The comprehensive plan required by paragraph (1) shall include a comprehensive statement of the following:“(A) The policy of the Department of Defense regarding the prevention, diagnosis, and treatment of substance use disorders in members of the Armed Forces and their dependents.
+
+“(B) The policies of the Department of Defense relating to the disposition of substance abuse offenders in the Armed Forces, including disciplinary action and administrative separation.
+
+
+“(4) Availability of services and treatment.—The comprehensive plan required by paragraph (1) shall include mechanisms to ensure the availability to members of the Armed Forces and their dependents of a core of evidence-based practices across the spectrum of medical and non-medial services and treatments for substance use disorders, including the reestablishment of regional long-term inpatient substance abuse treatment programs. The Secretary may use contracted services for not longer than three years after the date of the enactment of this Act to perform such inpatient substance abuse treatment until the Department of Defense reestablishes this capability within the military health care system.
+
+“(5) Prevention and reduction of disorders.—The comprehensive plan required by paragraph (1) shall include mechanisms to facilitate the prevention and reduction of substance use disorders in members of the Armed Forces through science-based initiatives, including education programs, for members of the Armed Forces and their dependents.
+
+“(6) Specific instructions.—The comprehensive plan required by paragraph (1) shall include each of the following:“(A) Substances of abuse.—Instructions on the prevention, diagnosis, and treatment of substance abuse in members of the Armed Forces, including the abuse of alcohol, illicit drugs, and nonmedical use and abuse of prescription drugs.
+
+“(B) Healthcare professionals.—Instructions on—“(i) appropriate training of healthcare professionals in the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces;
+
+“(ii) appropriate staffing levels for healthcare professionals at military medical treatment facilities for the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces; and
+
+“(iii) such uniform training and credentialing requirements for physician and nonphysician healthcare professionals in the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces as the Secretary considers appropriate.
+
+
+“(C) Services for dependents.—Instructions on the availability of services for substance use disorders for dependents of members of the Armed Forces, including instructions on making such services available to dependents to the maximum extent practicable.
+
+“(D) Relationship between disciplinary action and treatment.—Policy on the relationship between disciplinary actions and administrative separation processing and prevention and treatment of substance use disorders in members of the Armed Forces.
+
+“(E) Confidentiality.—Recommendations regarding policies pertaining to confidentiality for members of the Armed Forces in seeking or receiving services or treatment for substance use disorders.
+
+“(F) Participation of chain of command.—Policy on appropriate consultation, reference to, and involvement of the chain of command of members of the Armed Forces in matters relating to the diagnosis and treatment of substance abuse and disposition of members of the Armed Forces for substance abuse.
+
+“(G) Consideration of gender.—Instructions on gender specific requirements, if appropriate, in the prevention, diagnosis, treatment, and management of substance use disorders in members of the Armed Forces, including gender specific care and treatment requirements.
+
+“(H) Coordination with other healthcare initiatives.—Instructions on the integration of efforts on the prevention, diagnosis, treatment, and management of substance use disorders in members of the Armed Forces with efforts to address co-occurring health care disorders (such as post-traumatic stress disorder and depression) and suicide prevention.
+
+
+“(7) Other elements.—In addition to the matters specified in paragraph (3), the comprehensive plan required by paragraph (1) shall include the following:“(A) Implementation plan.—An implementation plan for the achievement of the goals of the comprehensive plan, including goals relating to the following:“(i) Enhanced education of members of the Armed Forces and their dependents regarding substance use disorders.
+
+“(ii) Enhanced and improved identification and diagnosis of substance use disorders in members of the Armed Forces and their dependents.
+
+“(iii) Enhanced and improved access of members of the Armed Forces to services and treatment for and management of substance use disorders.
+
+“(iv) Appropriate staffing of military medical treatment facilities and other facilities for the treatment of substance use disorders in members of the Armed Forces.
+
+
+“(B) Best practices.—The incorporation of evidence-based best practices utilized in current military and civilian approaches to the prevention, diagnosis, treatment, and management of substance use disorders.
+
+“(C) Available research.—The incorporation of applicable results of available studies, research, and academic reviews on the prevention, diagnosis, treatment, and management of substance use disorders.
+
+
+“(8) Update in light of independent study.—Upon the completion of the study required by subsection (c), the Secretary of Defense shall—“(A) in consultation with the Secretaries of the military departments, make such modifications and improvements to the comprehensive plan required by paragraph (1) as the Secretary of Defense considers appropriate in light of the findings and recommendations of the study; and
+
+“(B) submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth the comprehensive plan as modified and improved under subparagraph (A).
+
+
+
+“(c) Independent Report on Substance Use Disorders Programs for Members of the Armed Forces.—“(1) Study required.—Upon completion of the policy review required by subsection (a), the Secretary of Defense shall provide for a study on substance use disorders programs for members of the Armed Forces to be conducted by the Institute of Medicine of the National Academies of Sciences or such other independent entity as the Secretary shall select for purposes of the study.
+
+“(2) Elements.—The study required by paragraph (1) shall include a review and assessment of the following:“(A) The adequacy and appropriateness of protocols for the diagnosis, treatment, and management of substance use disorders in members of the Armed Forces.
+
+“(B) The adequacy of the availability of and access to care for substance use disorders in military medical treatment facilities and under the TRICARE program.
+
+“(C) The adequacy and appropriateness of current credentials and other requirements for physician and non-physician healthcare professionals treating members of the Armed Forces with substance use disorders.
+
+“(D) The advisable ratio of physician and non-physician care providers for substance use disorders to members of the Armed Forces with such disorders.
+
+“(E) The adequacy of the availability of and access to care for substance use disorders for members of the reserve components of the Armed Forces when compared with the availability of and access to care for substance use disorders for members of the regular components of the Armed Forces.
+
+“(F) The adequacy of the prevention, diagnosis, treatment, and management of substance use disorders programs for dependents of members of the Armed Forces, whether such dependents suffer from their own substance use disorder or because of the substance use disorder of a member of the Armed Forces.
+
+“(G) Such other matters as the Secretary considers appropriate for purposes of the study.
+
+
+“(3) Report.—Not later than two years after the date of the enactment of this Act [Oct. 28, 2009], the entity conducting the study required by paragraph (1) shall submit to the Secretary of Defense and the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the study. The report shall set forth the findings and recommendations of the entity as a result of the study.”
+
+
+
+
+
+Comprehensive Policy on Pain Management by the Military Health Care SystemPub. L. 111–84, div. A, title VII, § 711, Oct. 28, 2009, 123 Stat. 2378, provided that:
+“(a) Comprehensive Policy Required.—Not later than March 31, 2011, the Secretary of Defense shall develop and implement a comprehensive policy on pain management by the military health care system.
+
+“(b) Scope of Policy.—The policy required by subsection (a) shall cover each of the following:“(1) The management of acute and chronic pain.
+
+“(2) The standard of care for pain management to be used throughout the Department of Defense.
+
+“(3) The consistent application of pain assessments throughout the Department of Defense.
+
+“(4) The assurance of prompt and appropriate pain care treatment and management by the Department when medically necessary.
+
+“(5) Programs of research related to acute and chronic pain, including pain attributable to central and peripheral nervous system damage characteristic of injuries incurred in modern warfare, brain injuries, and chronic migraine headache.
+
+“(6) Programs of pain care education and training for health care personnel of the Department.
+
+“(7) Programs of patient education for members suffering from acute or chronic pain and their families.
+
+
+“(c) Updates.—The Secretary shall revise the policy required by subsection (a) on a periodic basis in accordance with experience and evolving best practice guidelines.
+
+“(d) Annual Report.—“(1) In general.—Not later than 180 days after the date of the commencement of the implementation of the policy required by subsection (a), and on October 1 each year thereafter through 2018, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the policy.
+
+“(2) Elements.—Each report required by paragraph (1) shall include the following:“(A) A description of the policy implemented under subsection (a), and any revisions to such policy under subsection (c).
+
+“(B) A description of the performance measures used to determine the effectiveness of the policy in improving pain care for beneficiaries enrolled in the military health care system.
+
+“(C) An assessment of the adequacy of Department pain management services based on a current survey of patients managed in Department clinics.
+
+“(D) An assessment of the research projects of the Department relevant to the treatment of the types of acute and chronic pain suffered by members of the Armed Forces and their families.
+
+“(E) An assessment of the training provided to Department health care personnel with respect to the diagnosis, treatment, and management of acute and chronic pain.
+
+“(F) An assessment of the pain care education programs of the Department.
+
+“(G) An assessment of the dissemination of information on pain management to beneficiaries enrolled in the military health care system.”
+
+
+
+
+
+
+Plan To Increase the Mental Health Capabilities of the Department of DefensePub. L. 111–84, div. A, title VII, § 714, Oct. 28, 2009, 123 Stat. 2381, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(8), Jan. 7, 2011, 124 Stat. 4373, provided that:
+“(a) Increased Authorizations.—Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of each military department shall increase the number of active duty mental health personnel authorized for the department under the jurisdiction of the Secretary in an amount equal to the sum of the following amounts:“(1) The greater of—“(A) the amount identified on personnel authorization documents as required but not authorized to be filled; or
+
+“(B) the amount that is 25 percent of the amount identified on personnel authorization documents as authorized.
+
+
+“(2) The amount required to fulfill the requirements of section 708 [10 U.S.C. 1074f note], as determined by the Secretary concerned.
+
+
+“(b) Report and Plan on the Required Number of Mental Health Personnel.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the appropriate number of mental health personnel required to meet the mental health care needs of members of the Armed Forces, retired members, and dependents. The report shall include, at a minimum, the following:“(A) An evaluation of the recommendation titled ‘Ensure an Adequate Supply of Uniformed Providers’ made by the Department of Defense Task Force on Mental Health established by section 723 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3348).
+
+“(B) The criteria and models used to determine the appropriate number of mental health personnel.
+
+“(C) The plan under paragraph (2).
+
+
+“(2) Plan.—The Secretary shall develop and implement a plan to significantly increase the number of military and civilian mental health personnel of the Department of Defense by September 30, 2013. The plan may include the following:“(A) The allocation of scholarships and financial assistance under the Health Professions Scholarship and Financial Assistance Program under subchapter I of chapter 105 of title 10, United States Code, to students pursuing advanced degrees in clinical psychology and other mental health professions.
+
+“(B) The offering of accession and retention bonuses for psychologists pursuant to section 620 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4489) [enacting section 302c–1 of Title 37, Pay and Allowances of the Uniformed Services, and provisions set out as a note under section 335 of Title 37].
+
+“(C) An expansion of the capacity for training doctoral-level clinical psychologists at the Uniformed Services University of the Health Sciences.
+
+“(D) An expansion of the capacity of the Department of Defense for training masters-level clinical psychologists and social workers with expertise in deployment-related mental health disorders, such as post-traumatic stress disorder.
+
+“(E) The detail of commissioned officers of the Armed Forces to accredited schools of psychology for training leading to a doctoral degree in clinical psychology or social work.
+
+“(F) The reassignment of military mental health personnel from administrative positions to clinical positions in support of military units.
+
+“(G) The offering of civilian hiring incentives and bonuses and the use of direct hiring authority to increase the number of mental health personnel of the Department of Defense.
+
+“(H) Such other mechanisms to increase the number of mental health personnel of the Department of Defense as the Secretary considers appropriate.
+
+
+
+“(c) Report on Additional Officer or Enlisted Military Specialties for Mental Health.—“(1) Report.—Not later than 120 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth the assessment of the Secretary of the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces in order to better meet the mental health care needs of members of the Armed Forces and their families.
+
+“(2) Elements.—The report required by paragraph (1) shall set forth the following:“(A) A recommendation as to the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces.
+
+“(B) For each military specialty recommended to be established under subparagraph (A)—“(i) a description of the qualifications required for such speciality [sic], which shall reflect lessons learned from best practices in academia and the civilian health care industry regarding positions analogous to such specialty; and
+
+“(ii) a description of the incentives or other mechanisms, if any, that would be advisable to facilitate recruitment and retention of individuals to and in such specialty.”
+
+
+
+
+
+
+
+Study and Plan To Improve Military Health CarePub. L. 111–84, div. A, title VII, § 721, Oct. 28, 2009, 123 Stat. 2385, provided that:
+“(a) Study and Report Required.—Not later than one year after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the health care needs of dependents (as defined in section 1072(2) of title 10, United States Code). The report shall include, at a minimum, the following:“(1) With respect to both the direct care system and the purchased care system, an analysis of the type of health care facility in which dependents seek care.
+
+“(2) The 10 most common medical conditions for which dependents seek care.
+
+“(3) The availability of and access to health care providers to treat the conditions identified under paragraph (2), both in the direct care system and the purchased care system.
+
+“(4) Any shortfalls in the ability of dependents to obtain required health care services.
+
+“(5) Recommendations on how to improve access to care for dependents.
+
+“(6) With respect to dependents accompanying a member stationed at a military installation outside of the United States, the need for and availability of mental health care services.
+
+
+“(b) Enhanced Military Health System and Improved TRICARE.—“(1) In general.—The Secretary of Defense, in consultation with the other administering Secretaries, shall undertake actions to enhance the capability of the military health system and improve the TRICARE program.
+
+“(2) Elements.—In undertaking actions to enhance the capability of the military health system and improve the TRICARE program under paragraph (1), the Secretary shall consider the following actions:“(A) Actions to guarantee the availability of care within established access standards for eligible beneficiaries, based on the results of the study required by subsection (a).
+
+“(B) Actions to expand and enhance sharing of health care resources among Federal health care programs, including designated providers (as that term is defined in section 721(5) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2593; 10 U.S.C. 1073 note)).
+
+“(C) Actions using medical technology to speed and simplify referrals for specialty care.
+
+“(D) Actions to improve regional or national staffing capabilities in order to enhance support provided to military medical treatment facilities facing staff shortages.
+
+“(E) Actions to improve health care access for members of the reserve components and their families, including such access with respect to mental health care and consideration of access issues for members and their families located in rural areas.
+
+“(F) Actions to ensure consistency throughout the TRICARE program to comply with access standards, which are applicable to both commanders of military treatment facilities and managed care support contractors.
+
+“(G) Actions to create new budgeting and resource allocation methodologies to fully support and incentivize care provided by military treatment facilities.
+
+“(H) Actions regarding additional financing options for health care provided by civilian providers.
+
+“(I) Actions to reduce administrative costs.
+
+“(J) Actions to control the cost of health care and pharmaceuticals.
+
+“(K) Actions to audit the Defense Enrollment Eligibility Reporting System to improve system checks on the eligibility of TRICARE beneficiaries.
+
+“(L) Actions, including a comprehensive plan, for the enhanced availability of prevention and wellness care.
+
+“(M) Actions using technology to improve direct communication with beneficiaries regarding health and preventive care.
+
+“(N) Actions to create performance metrics by which to measure improvement in the TRICARE program.
+
+“(O) Such other actions as the Secretary, in consultation with the other administering Secretaries, considers appropriate.
+
+
+
+“(c) Quality Assurance.—In undertaking actions under this section, the Secretary of Defense and the other administering Secretaries shall continue or enhance the current level of quality health care provided by the Department of Defense and the military departments with no adverse impact to cost, access, or care.
+
+“(d) Consultation.—In considering actions to be undertaken under this section, and in undertaking such actions, the Secretary shall consult with a broad range of national health care and military advocacy organizations.
+
+“(e) Reports Required.—“(1) Initial report.—Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] an initial report on the progress made in undertaking actions under this section and future plans for improvement of the military health system.
+
+“(2) Report required with fiscal year 2012 budget proposal.—Together with the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2012 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the Secretary shall submit to the congressional defense committees a report setting forth the following:“(A) Updates on the progress made in undertaking actions under this section.
+
+“(B) Future plans for improvement of the military health system.
+
+“(C) An explanation of how the budget submission may reflect such progress and plans.
+
+
+“(3) Periodic reports.—The Secretary shall, on a periodic basis, submit to the congressional defense committees a report on the progress being made in the improvement of the TRICARE program under this section.
+
+“(4) Elements.—Each report under this subsection shall include the following:“(A) A description and assessment of the progress made as of the date of such report in the improvement of the TRICARE program.
+
+“(B) Such recommendations for administrative or legislative action as the Secretary considers appropriate to expedite and enhance the improvement of the TRICARE program.
+
+
+
+“(f) Definitions.—In this section:“(1) The term ‘administering Secretaries’ has the meaning given that term in section 1072(3) of title 10, United States Code.
+
+“(2) The term ‘TRICARE program’ has the meaning given that term in section 1072(7) of title 10, United States Code.”
+
+
+
+
+
+Program for Health Care Delivery at Military Installations With Projected GrowthPub. L. 110–417, [div. A], title VII, § 705, Oct. 14, 2008, 122 Stat. 4499, provided that:
+“(a) Program.—The Secretary of Defense is authorized to develop a plan to establish a program to build cooperative health care arrangements and agreements between military installations projected to grow and local and regional non-military health care systems.
+
+“(b) Requirements of Plan.—In developing the plan, the Secretary of Defense shall—“(1) identify and analyze health care delivery options involving the private sector and health care services in military facilities located on military installations;
+
+“(2) develop methods for determining the cost avoidance or savings resulting from innovative partnerships between the Department of Defense and the private sector;
+
+“(3) develop requirements for Department of Defense health care providers to deliver health care in civilian community hospitals; and
+
+“(4) collaborate with State and local authorities to create an arrangement to share and exchange, between the Department of Defense and nonmilitary health care systems, personal health information, and data of military personnel and their families.
+
+
+“(c) Coordination With Other Entities.—The plan shall include requirements for coordination with Federal, State, and local entities, TRICARE managed care support contractors, and other contracted assets around installations selected for participation in the program.
+
+“(d) Consultation Requirements.—The Secretary of Defense shall develop the plan in consultation with the Secretaries of the military departments.
+
+“(e) Selection of Military Installations.—Each selected military installation shall meet the following criteria:“(1) The military installation has members of the Armed Forces on active duty and members of reserve components of the Armed Forces that use the installation as a training and operational base, with members routinely deploying in support of the global war on terrorism.
+
+“(2) The military population of an installation will significantly increase by 2013 due to actions related to either Grow the Force initiatives or recommendations of the Defense Base Realignment and Closure Commission.
+
+“(3) There is a military treatment facility on the installation that has—“(A) no inpatient or trauma center care capabilities; and
+
+“(B) no current or planned capacity that would satisfy the proposed increase in military personnel at the installation.
+
+
+“(4) There is a civilian community hospital near the military installation, and the military treatment facility has—“(A) no inpatient services or limited capability to expand inpatient care beds, intensive care, and specialty services; and
+
+“(B) limited or no capability to provide trauma care.
+
+
+
+“(f) Reports.—Not later than one year after the date of the enactment of this Act [Oct. 14, 2008], and every year thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report on any plan developed under subsection (a).”
+
+
+
+
+Center of Excellence in Prevention, Diagnosis, Mitigation, Treatment, and Rehabilitation of Hearing Loss and Auditory System InjuriesPub. L. 110–417, [div. A], title VII, § 721, Oct. 14, 2008, 122 Stat. 4506, provided that:
+“(a) In General.—The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of hearing loss and auditory system injury to carry out the responsibilities specified in subsection (c).
+
+“(b) Partnerships.—The Secretary shall ensure that the center collaborates to the maximum extent practicable with the Secretary of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c).
+
+“(c) Responsibilities.—“(1) In general.—The center shall—“(A) implement a comprehensive plan and strategy for the Department of Defense, as developed by the Secretary of Defense, for a registry of information for the tracking of the diagnosis, surgical intervention or other operative procedure, other treatment, and follow up for each case of hearing loss and auditory system injury incurred by a member of the Armed Forces while serving on active duty;
+
+“(B) ensure the electronic exchange with the Secretary of Veterans Affairs of information obtained through tracking under subparagraph (A); and
+
+“(C) enable the Secretary of Veterans Affairs to access the registry and add information pertaining to additional treatments or surgical procedures and eventual hearing outcomes for veterans who were entered into the registry and subsequently received treatment through the Veterans Health Administration.
+
+
+“(2) Designation of registry.—The registry under this subsection shall be known as the ‘Hearing Loss and Auditory System Injury Registry’ (hereinafter referred to as the ‘Registry’).
+
+“(3) Consultation in development.—The center shall develop the Registry in consultation with audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Defense and the audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Veterans Affairs. The mechanisms and procedures of the Registry shall reflect applicable expert research on military and other hearing loss.
+
+“(4) Mechanisms.—The mechanisms of the Registry for tracking under paragraph (1)(A) shall ensure that each military medical treatment facility or other medical facility shall submit to the center for inclusion in the Registry information on the diagnosis, surgical intervention or other operative procedure, other treatment, and follow up for each case of hearing loss and auditory system injury described in that paragraph as follows (to the extent applicable):“(A) Not later than 30 days after surgery or other operative intervention, including a surgery or other operative intervention carried out as a result of a follow-up examination.
+
+“(B) Not later than 180 days after the hearing loss and auditory system injury is reported or recorded in the medical record.
+
+
+“(5) Coordination of care and benefits.—(A) The center shall provide notice to the National Center for Rehabilitative Auditory Research (NCRAR) of the Department of Veterans Affairs and to the auditory system impairment services of the Veterans Health Administration on each member of the Armed Forces described in subparagraph (B) for purposes of ensuring the coordination of the provision of ongoing auditory system rehabilitation benefits and services by the Department of Veterans Affairs after the separation or release of such member from the Armed Forces.
+
+“(B) A member of the Armed Forces described in this subparagraph is a member of the Armed Forces with significant hearing loss or auditory system injury incurred while serving on active duty, including a member with auditory dysfunction related to traumatic brain injury.
+
+
+
+“(d) Utilization of Registry Information.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that information in the Registry is available to appropriate audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Defense and the Department of Veterans Affairs for purposes of encouraging and facilitating the conduct of research, and the development of best practices and clinical education, on hearing loss or auditory system injury incurred by members of the Armed Forces.
+
+“(e) Inclusion of Records of OIF/OEF Veterans.—The Secretary of Defense shall take appropriate actions to include in the Registry such records of members of the Armed Forces who incurred a hearing loss or auditory system injury while serving on active duty on or after September 11, 2001, but before the establishment of the Registry, as the Secretary considers appropriate for purposes of the Registry.”
+
+
+
+
+Wounded Warrior Health Care ImprovementsPub. L. 110–181, div. A, title XVI, §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, 122 Stat. 431–443, 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by Pub. L. 110–417, [div. A], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, 122 Stat. 4400, 4508, 4509, 4613; Pub. L. 111–84, div. A, title VI, § 632(h), Oct. 28, 2009, 123 Stat. 2362; Pub. L. 112–56, title II, § 231, Nov. 21, 2011, 125 Stat. 719; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), title VII, § 707, Dec. 31, 2011, 125 Stat. 1465, 1474; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–175, title I, § 105, Sept. 26, 2014, 128 Stat. 1903, provided that:
+“SEC. 1602. GENERAL DEFINITIONS.“In this title [see Short Title of 2008 Amendment note above]:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committees on Armed Services, Veterans’ Affairs, and Appropriations of the Senate; and
+
+“(B) the Committees on Armed Services, Veterans’ Affairs, and Appropriations of the House of Representatives.
+
+
+“(2) Benefits delivery at discharge program.—The term ‘Benefits Delivery at Discharge Program’ means a program administered jointly by the Secretary of Defense and the Secretary of Veterans Affairs to provide information and assistance on available benefits and other transition assistance to members of the Armed Forces who are separating from the Armed Forces, including assistance to obtain any disability benefits for which such members may be eligible.
+
+“(3) Disability evaluation system.—The term ‘Disability Evaluation System’ means the following:“(A) A system or process of the Department of Defense for evaluating the nature and extent of disabilities affecting members of the Armed Forces that is operated by the Secretaries of the military departments and is comprised of medical evaluation boards, physical evaluation boards, counseling of members, and mechanisms for the final disposition of disability evaluations by appropriate personnel.
+
+“(B) A system or process of the Coast Guard for evaluating the nature and extent of disabilities affecting members of the Coast Guard that is operated by the Secretary of Homeland Security and is similar to the system or process of the Department of Defense described in subparagraph (A).
+
+
+“(4) Eligible family member.—The term ‘eligible family member’, with respect to a recovering service member, means a family member (as defined in section 481h(b)(3)(B) of title 37, United States Code) who is on invitational travel orders or serving as a non-medical attendee while caring for the recovering service member for more than 45 days during a one-year period.
+
+“(5) Medical care.—The term ‘medical care’ includes mental health care.
+
+“(6) Outpatient status.—The term ‘outpatient status’, with respect to a recovering service member, means the status of a recovering service member assigned to—“(A) a military medical treatment facility as an outpatient; or
+
+“(B) a unit established for the purpose of providing command and control of members of the Armed Forces receiving medical care as outpatients.
+
+
+“(7) Recovering service member.—The term ‘recovering service member’ means a member of the Armed Forces, including a member of the National Guard or a Reserve, who is undergoing medical treatment, recuperation, or therapy and is in an outpatient status while recovering from a serious injury or illness related to the member’s military service.
+
+“(8) Serious injury or illness.—The term ‘serious injury or illness’, in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.
+
+“(9) TRICARE program.—The term ‘TRICARE program’ has the meaning given that term in section 1072(7) of title 10, United States Code. [As amended Pub. L. 110–417, [div. A], title X, § 1061(b)(13), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–84, div. A, title VI, § 632(h), Oct. 28, 2009, 123 Stat. 2362.]
+

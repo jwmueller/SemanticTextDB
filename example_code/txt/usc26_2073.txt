@@ -1,0 +1,73 @@
+§ 7527. Advance payment of credit for health insurance costs of eligible individuals(a) General ruleNot later than August 1, 2003, the Secretary shall establish a program for making payments on behalf of certified individuals to providers of qualified health insurance (as defined in section 35(e)) for such individuals.
+
+
+(b) Limitation on advance payments during any taxable yearThe Secretary may make payments under subsection (a) only to the extent that the total amount of such payments made on behalf of any individual during the taxable year does not exceed 72.5 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+
+
+(c) Certified individualFor purposes of this section, the term “certified individual” means any individual for whom a qualified health insurance costs credit eligibility certificate is in effect.
+
+
+(d) Qualified health insurance costs eligibility certificate(1) In generalFor purposes of this section, the term “qualified health insurance costs eligibility certificate” means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—(A) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
+
+(B) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).
+
+
+(2) Inclusion of certain informationIn the case of any statement described in paragraph (1), such statement shall not be treated as a qualified health insurance costs credit eligibility certificate unless such statement includes—(A) the name, address, and telephone number of the State office or offices responsible for providing the individual with assistance with enrollment in qualified health insurance (as defined in section 35(e)),
+
+(B) a list of the coverage options that are treated as qualified health insurance (as so defined) by the State in which the individual resides, and
+
+(C) in the case of a TAA-eligible individual (as defined in section 4980B(f)(5)(C)(iv)(II)), a statement informing the individual that the individual has 63 days from the date that is 7 days after the date of the issuance of such certificate to enroll in such insurance without a lapse in creditable coverage (as defined in section 9801(c)).
+
+
+
+(e) Payment for premiums due prior to commencement of advance payments(1) In generalThe program established under subsection (a) shall provide that the Secretary shall make 1 or more retroactive payments on behalf of a certified individual in an aggregate amount equal to 72.5 percent of the premiums for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months (as defined in section 35(b)) occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
+
+
+(2) Reduction of payment for amounts received under national emergency grantsThe amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 for a taxable year including the eligible coverage months described in paragraph (1).
+
+
+
+(Added Pub. L. 107–210, div. A, title II, § 202(a), Aug. 6, 2002, 116 Stat. 960; amended Pub. L. 111–5, div. B, title I, §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, 123 Stat. 424, 430; Pub. L. 111–344, title I, §§ 111(b), 112(a), 118(a), Dec. 29, 2010, 124 Stat. 3615, 3616; Pub. L. 112–40, title II, § 241(b)(2), Oct. 21, 2011, 125 Stat. 418; Pub. L. 113–128, title V, § 512(r), July 22, 2014, 128 Stat. 1712.)
+
+Amendment of Subsection (e)(2)Pub. L. 113–128, title V, §§ 506, 512(r), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (e)(2) of this section is amended by inserting “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”. See 2014 Amendment note below.
+
+
+References in TextSection 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), is classified to section 2918(f) of Title 29, Labor.
+
+Amendments2014—Subsec. (e)(2). Pub. L. 113–128 inserted “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”.
+2011—Subsec. (b). Pub. L. 112–40, § 241(b)(2)(A), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
+Subsec. (d)(2). Pub. L. 112–40, § 241(b)(2)(B), struck out “which is issued before February 13, 2011” after “in paragraph (1)” in introductory provisions.
+Subsec. (e). Pub. L. 112–40, § 241(b)(2)(D), struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
+Subsec. (e)(1). Pub. L. 112–40, § 241(b)(2)(C), substituted “72.5 percent” for “80 percent”.
+2010—Subsec. (b). Pub. L. 111–344, § 111(b), substituted “February 13, 2011” for “January 1, 2011”.
+Subsec. (d)(2). Pub. L. 111–344, § 118(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+Subsec. (e). Pub. L. 111–344, § 112(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+2009—Subsec. (b). Pub. L. 111–5, § 1899A(a)(2), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
+Subsec. (d). Pub. L. 111–5, § 1899H(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified health insurance costs credit eligibility certificate’ means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
+“(1) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
+“(2) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).”
+Subsec. (e). Pub. L. 111–5, § 1899B(a), added subsec. (e).
+
+Effective Date of 2014 AmendmentAmendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+
+Effective Date of 2011 AmendmentAmendment by Pub. L. 112–40 applicable to coverage months beginning after Feb. 12, 2011, except that amendment by section 241(b)(2)(B) of Pub. L. 112–40 applicable to certificates issued after the date which is 30 days after Oct. 21, 2011, and amendment by section 241(b)(2)(D) of Pub. L. 112–40 applicable to coverage months beginning after the date which is 30 days after Oct. 21, 2011, see section 241(c) of Pub. L. 112–40, set out as a note under section 35 of this title.
+
+Effective Date of 2010 AmendmentAmendment by section 111(b) of Pub. L. 111–344 applicable to coverage months beginning after Dec. 31, 2010, see section 111(c) of Pub. L. 111–344, set out as a note under section 35 of this title.
+Pub. L. 111–344, title I, § 112(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section [amending this section] shall apply to coverage months beginning after December 31, 2010.”
+
+Pub. L. 111–344, title I, § 118(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after December 31, 2010.”
+
+
+Effective Date of 2009 AmendmentExcept as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+Amendment by section 1899A(a)(2) of Pub. L. 111–5 applicable to coverage months beginning on or after the first day of the first month beginning 60 days after Feb. 17, 2009, see section 1899A(b) of Pub. L. 111–5, set out as a note under section 35 of this title.
+Pub. L. 111–5, div. B, title I, § 1899B(b), Feb. 17, 2009, 123 Stat. 424, provided that: “The amendments made by this section [amending this section] shall apply to coverage months beginning after December 31, 2008.”
+
+Pub. L. 111–5, div. B, title I, § 1899H(b), Feb. 17, 2009, 123 Stat. 431, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
+
+
+ConstructionNothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
+
+Transitional RulePub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: “The Secretary of the Treasury shall not be required to make any payments under section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
+
+
+

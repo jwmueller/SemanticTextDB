@@ -1,0 +1,19 @@
+“SEC. 806. DEFINITIONS.“For purposes of this title:“(1) Agency.—The term ‘agency’ means a department or agency of the United States Government as defined in section 901(b) of title 31, United States Code.
+
+“(2) Director.—The term ‘Director’ means the Director of the Office of Management and Budget.
+
+“(3) Federal Accounting Standards.—The term ‘Federal accounting standards’ means applicable accounting principles, standards, and requirements consistent with section 902(a)(3)(A) of title 31, United States Code.
+
+“(4) Financial management systems.—The term ‘financial management systems’ includes the financial systems and the financial portions of mixed systems necessary to support financial management, including automated and manual processes, procedures, controls, data, hardware, software, and support personnel dedicated to the operation and maintenance of system functions.
+
+“(5) Financial system.—The term ‘financial system’ includes an information system, comprised of one or more applications, that is used for—“(A) collecting, processing, maintaining, transmitting, or reporting data about financial events;
+
+“(B) supporting financial planning or budgeting activities;
+
+“(C) accumulating and reporting costs information; or
+
+“(D) supporting the preparation of financial statements.
+
+
+“(6) Mixed system.—The term ‘mixed system’ means an information system that supports both financial and nonfinancial functions of the Federal Government or components thereof.
+

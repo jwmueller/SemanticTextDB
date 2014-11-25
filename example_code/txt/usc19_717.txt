@@ -1,0 +1,120 @@
+§ 2318. Reemployment trade adjustment assistance program(a) In general(1) EstablishmentThe Secretary shall establish a reemployment trade adjustment assistance program that provides the benefits described in paragraph (2).
+
+
+(2) Benefits(A) PaymentsA State shall use the funds provided to the State under section 2313 of this title to pay, for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be), to a worker described in paragraph (3)(B), 50 percent of the difference between—(i) the wages received by the worker at the time of separation; and
+
+(ii) the wages received by the worker from reemployment.
+
+
+(B) Health insuranceA worker described in paragraph (3)(B) participating in the program established under paragraph (1) is eligible to receive, for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be), a credit for health insurance costs under section 35 of title 26.
+
+
+(C) Training and other servicesA worker described in paragraph (3)(B) participating in the program established under paragraph (1) is eligible to receive training approved under section 2296 of this title and employment and case management services under section 2295 of this title.
+
+
+
+(3) Eligibility(A) In generalA group of workers certified under subpart A as eligible for adjustment assistance under subpart A is eligible for benefits described in paragraph (2) under the program established under paragraph (1).
+
+
+(B) Individual eligibilityA worker in a group of workers described in subparagraph (A) may elect to receive benefits described in paragraph (2) under the program established under paragraph (1) if the worker—(i) is at least 50 years of age;
+
+(ii) earns not more than $50,000 each year in wages from reemployment;
+
+(iii)(I) is employed on a full-time basis as defined by the law of the State in which the worker is employed and is not enrolled in a training program approved under section 2296 of this title; or
+
+(II) is employed at least 20 hours per week and is enrolled in a training program approved under section 2296 of this title; and
+
+
+(iv) is not employed at the firm from which the worker was separated.
+
+
+
+(4) Eligibility period for payments(A) Worker who has not received trade readjustment allowanceIn the case of a worker described in paragraph (3)(B) who has not received a trade readjustment allowance under division I of subpart B pursuant to the certification described in paragraph (3)(A), the worker may receive benefits described in paragraph (2) for a period not to exceed 2 years beginning on the earlier of—(i) the date on which the worker exhausts all rights to unemployment insurance based on the separation of the worker from the adversely affected employment that is the basis of the certification; or
+
+(ii) the date on which the worker obtains reemployment described in paragraph (3)(B).
+
+
+(B) Worker who has received trade readjustment allowanceIn the case of a worker described in paragraph (3)(B) who has received a trade readjustment allowance under division I of subpart B pursuant to the certification described in paragraph (3)(A), the worker may receive benefits described in paragraph (2) for a period of 104 weeks beginning on the date on which the worker obtains reemployment described in paragraph (3)(B), reduced by the total number of weeks for which the worker received such trade readjustment allowance.
+
+
+
+(5) Total amount of payments(A) In generalThe payments described in paragraph (2)(A) made to a worker may not exceed—(i) $10,000 per worker during the eligibility period under paragraph (4)(A); or
+
+(ii) the amount described in subparagraph (B) per worker during the eligibility period under paragraph (4)(B).
+
+
+(B) Amount describedThe amount described in this subparagraph is the amount equal to the product of—(i) $10,000, and
+
+(ii) the ratio of—(I) the total number of weeks in the eligibility period under paragraph (4)(B) with respect to the worker, to
+
+(II) 104 weeks.
+
+
+
+
+(6) Calculation of amount of payments for certain workers(A) In generalIn the case of a worker described in paragraph (3)(B)(iii)(II), paragraph (2)(A) shall be applied by substituting the percentage described in subparagraph (B) for “50 percent”.
+
+
+(B) Percentage describedThe percentage described in this subparagraph is the percentage—(i) equal to ½ of the ratio of—(I) the number of weekly hours of employment of the worker referred to in paragraph (3)(B)(iii)(II), to
+
+(II) the number of weekly hours of employment of the worker at the time of separation, but
+
+
+(ii) in no case more than 50 percent.
+
+
+
+(7) Limitation on other benefitsA worker described in paragraph (3)(B) may not receive a trade readjustment allowance under division I of subpart B pursuant to the certification described in paragraph (3)(A) during any week for which the worker receives a payment described in paragraph (2)(A).
+
+
+
+(b) Termination(1) In generalExcept as provided in paragraph (2), no payments may be made by a State under the program established under subsection (a)(1) of this section after December 31, 2013.
+
+
+(2) ExceptionNotwithstanding paragraph (1), a worker receiving payments under the program established under subsection (a)(1) of this section on the termination date described in paragraph (1) shall continue to receive such payments if the worker meets the criteria described in subsection (a)(3) of this section.
+
+
+
+(Pub. L. 93–618, title II, § 246, as added Pub. L. 107–210, div. A, title I, § 124(a), Aug. 6, 2002, 116 Stat. 944; amended Pub. L. 108–429, title II, § 2004(a)(7), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, § 1841(a), (b), Feb. 17, 2009, 123 Stat. 386, 389; Pub. L. 111–344, title I, § 101(c)(3), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§ 201(b), (c), 215, Oct. 21, 2011, 125 Stat. 403, 407.)
+
+Reversion to Provisions in Effect on February 13, 2011For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.
+
+Codification
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, § 201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§ 201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival note below.
+
+Prior ProvisionsA prior section 2318, Pub. L. 93–618, title II, § 246, as added Pub. L. 100–418, title I, § 1423(d)(1), Aug. 23, 1988, 102 Stat. 1246; amended Pub. L. 101–382, title I, § 136, Aug. 20, 1990, 104 Stat. 652, related to supplemental wage allowance demonstration projects, prior to repeal by Pub. L. 107–210, div. A, title I, §§ 124(a), 151, Aug. 6, 2002, 116 Stat. 944, 953, applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002.
+Another prior section 2318, Pub. L. 93–618, title II, § 246, Jan. 3, 1975, 88 Stat. 2027, contained transition provisions for events taking place during specified periods prior to the effective date of this part, prior to repeal by Pub. L. 97–35, title XXV, § 2513(c), Aug. 13, 1981, 95 Stat. 889.
+
+Amendments2011—Pub. L. 112–40, §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
+Subsec. (a)(3)(B)(ii). Pub. L. 112–40, §§ 215(a)(1), 233, temporarily substituted “$50,000” for “$55,000”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (a)(5)(A)(i), (B)(i). Pub. L. 112–40, §§ 215(a)(2), 233, temporarily substituted “$10,000” for “$12,000”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (b)(1). Pub. L. 112–40, §§ 215(b), 233, temporarily substituted “December 31, 2013” for “February 12, 2011”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+2010—Subsec. (b)(1). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”. See Codification note above.
+2009—Pub. L. 111–5, §§ 1841(a)(1), 1893, temporarily substituted “Reemployment trade adjustment assistance program” for “Demonstration project for alternative trade adjustment assistance for older workers” in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(1). Pub. L. 111–5, §§ 1841(a)(2)(A), 1893, temporarily substituted “The Secretary” for “Not later than 1 year after August 6, 2002, the Secretary” and “a reemployment trade adjustment assistance program” for “an alternative trade adjustment assistance program for older workers”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(A). Pub. L. 111–5, §§ 1841(a)(2)(B)(i)(I), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§ 1841(a)(2)(B)(i)(II), 1893, temporarily added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+“(i) the wages received by the worker from reemployment; and
+“(ii) the wages received by the worker at the time of separation.”
+See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(B). Pub. L. 111–5, §§ 1841(a)(2)(B)(ii), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” and struck out “, as added by section 201 of the Trade Act of 2002” before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(C). Pub. L. 111–5, §§ 1841(a)(2)(B)(iii), 1893, temporarily added subpar. (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(3) to (7). Pub. L. 111–5, §§ 1841(a)(2)(C), 1893, temporarily added pars. (3) to (7) and struck out former pars. (3) to (5) which related to eligibility, total amount of payments, and limitation on other benefits, respectively. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(1). Pub. L. 111–5, §§ 1841(b), 1893, temporarily substituted “December 31, 2010.” for “the date that is 5 years after the date on which such program is implemented by the State.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(2). Pub. L. 111–5, §§ 1841(a)(3), 1893, temporarily substituted “subsection (a)(3)” for “subsection (a)(3)(B)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+2004—Subsec. (a)(3)(B)(iii). Pub. L. 108–429, § 2004(a)(7)(A), struck out “and” after semicolon.
+Subsec. (a)(5). Pub. L. 108–429, § 2004(a)(7)(B), substituted “paragraph (2)(B)” for “section 2298(a)(2)(B) of this title”.
+Subsec. (b)(2). Pub. L. 108–429, § 2004(a)(7)(C), substituted “if” for “provided that”.
+
+Effective and Termination Dates of 2011 RevivalFor temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub. L. 111–344, set out as a note preceding section 2271 of this title.
+
+Effective and Termination Dates of 2009 AmendmentExcept as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, with certain exceptions, was repealed by Pub. L. 112–40, title II, § 201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
+
+Effective DateSection applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as an Effective Date of 2002 Amendment note preceding section 2271 of this title.
+
+Termination DateNo trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+
+

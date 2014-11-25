@@ -1,0 +1,66 @@
+§ 1829. Penalty for unauthorized participation by convicted individual(a) Prohibition(1) In generalExcept with the prior written consent of the Corporation—(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such offense, may not—(i) become, or continue as, an institution-affiliated party with respect to any insured depository institution;
+
+(ii) own or control, directly or indirectly, any insured depository institution; or
+
+(iii) otherwise participate, directly or indirectly, in the conduct of the affairs of any insured depository institution; and
+
+
+(B) any insured depository institution may not permit any person referred to in subparagraph (A) to engage in any conduct or continue any relationship prohibited under such subparagraph.
+
+
+(2) Minimum 10-year prohibition period for certain offenses(A) In generalIf the offense referred to in paragraph (1)(A) in connection with any person referred to in such paragraph is—(i) an offense under—(I) section 215, 656, 657, 1005, 1006, 1007, 1008,11 See References in Text note below. 1014, 1032, 1344, 1517, 1956, or 1957 of title 18; or
+
+(II) section 1341 or 1343 of such title which affects any financial institution (as defined in section 20 of such title); or
+
+
+(ii) the offense of conspiring to commit any such offense,
+
+
+the Corporation may not consent to any exception to the application of paragraph (1) to such person during the 10-year period beginning on the date the conviction or the agreement of the person becomes final.
+
+(B) Exception by order of sentencing court(i) In generalOn motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
+
+
+(ii) Period for filingA motion may be filed under clause (i) at any time during the 10-year period described in subparagraph (A) with regard to the person on whose behalf such motion is made.
+
+
+
+
+
+(b) PenaltyWhoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+
+
+(d) 22 So in original. No subsec. (c) has been enacted. Bank holding companies(1) In generalSubsections (a) and (b) shall apply to any company (other than a foreign bank) that is a bank holding company and any organization organized and operated under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.] or operating under section 25 of the Federal Reserve Act [12 U.S.C. 601 et seq.], as if such bank holding company or organization were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
+
+
+(2) Authority of BoardThe Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
+
+
+
+(e) Savings and loan holding companies(1) In generalSubsections (a) and (b) shall apply to any savings and loan holding company as if such savings and loan holding company were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
+
+
+(2) Authority of DirectorThe Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
+
+
+
+(Sept. 21, 1950, ch. 967, § 2[19], 64 Stat. 893; Pub. L. 101–73, title IX, § 910(a), Aug. 9, 1989, 103 Stat. 477; Pub. L. 101–647, title XXV, § 2502(a), Nov. 29, 1990, 104 Stat. 4860; Pub. L. 102–550, title XV, § 1505, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–322, title XXXII, § 320605, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 109–351, title VII, § 710(a), Oct. 13, 2006, 120 Stat. 1990; Pub. L. 111–203, title III, § 363(8), July 21, 2010, 124 Stat. 1554.)
+
+
+References in TextSection 1008 of title 18, referred to in subsec. (a)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, § 961(g)(1), Aug. 9, 1989, 103 Stat. 500.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
+
+Amendments2010—Subsec. (e). Pub. L. 111–203 substituted “Board of Governors of the Federal Reserve System” for “Director of the Office of Thrift Supervision” in two places.
+2006—Subsecs. (d), (e). Pub. L. 109–351 added subsecs. (d) and (e).
+1994—Subsec. (a)(2)(A)(i)(I). Pub. L. 103–322 substituted “1517, 1956, or 1957” for “or 1956”.
+1992—Subsec. (a)(1)(A). Pub. L. 102–550 inserted “or money laundering” after “breach of trust”.
+1990—Subsec. (a). Pub. L. 101–647 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except with the prior written consent of the Corporation—
+“(1) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured depository institution; and
+“(2) an insured depository institution may not permit such participation.”
+1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “Except with the written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use.”
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+Provisions Not Repealed, Modified or AffectedNothing contained in sections 201 to 205 and 207 of Pub. L. 89–695 amending sections 1813 and 1817 to 1820 and repealing section 77 of this title to be construed as repealing, modifying, or affecting this section, see section 206 of Pub. L. 89–695, set out as a note under section 1813 of this title.
+
+

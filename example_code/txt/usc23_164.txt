@@ -1,0 +1,24 @@
+§ 518. Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment(a) In General.—Not later than 3 years after the date of enactment of this section, the Secretary shall submit to the Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate and the Committees on Transportation and Infrastructure, Energy and Commerce, and Science, Space, and Technology of the House of Representatives that—(1) assesses the status of dedicated short-range communications technology and applications developed through research and development;
+
+(2) analyzes the known and potential gaps in short-range communications technology and applications;
+
+(3) defines a recommended implementation path for dedicated short-range communications technology and applications that—(A) is based on the assessment described in paragraph (1); and
+
+(B) takes into account the analysis described in paragraph (2);
+
+
+(4) includes guidance on the relationship of the proposed deployment of dedicated short-range communications to the National ITS Architecture and ITS Standards; and
+
+(5) ensures competition by not preferencing the use of any particular frequency for vehicle to infrastructure operations.
+
+
+(b) Report Review.—The Secretary shall enter into agreements with the National Research Council and an independent third party with subject matter expertise for the review of the report described in subsection (a).
+
+(Added Pub. L. 112–141, div. E, title III, § 53006(a), July 6, 2012, 126 Stat. 904.)
+
+
+References in TextThe date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 121–141, which was approved July 6, 2012.
+
+Effective DateSection effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+

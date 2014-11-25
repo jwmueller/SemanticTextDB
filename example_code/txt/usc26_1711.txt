@@ -1,0 +1,24 @@
+§ 6247. Judicial review of partnership adjustment(a) General ruleWithin 90 days after the date on which a notice of a partnership adjustment is mailed to the partnership with respect to any partnership taxable year, the partnership may file a petition for a readjustment of the partnership items for such taxable year with—(1) the Tax Court,
+
+(2) the district court of the United States for the district in which the partnership’s principal place of business is located, or
+
+(3) the Claims Court.
+
+
+(b) Jurisdictional requirement for bringing action in district court or Claims Court(1) In generalA readjustment petition under this section may be filed in a district court of the United States or the Claims Court only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount for which the partnership would be liable under section 6242(b) (as of the date of the filing of the petition) if the partnership items were adjusted as provided by the notice of partnership adjustment. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.
+
+
+(2) Interest payableAny amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).
+
+
+
+(c) Scope of judicial reviewA court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership items of the partnership for the partnership taxable year to which the notice of partnership adjustment relates and the proper allocation of such items among the partners (and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under section 6242(b)).
+
+
+(d) Determination of court reviewableAny determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court’s order entering the decision.
+
+
+(e) Effect of decision dismissing actionIf an action brought under this section is dismissed other than by reason of a rescission under section 6245(b)(3), the decision of the court dismissing the action shall be considered as its decision that the notice of partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
+
+
+(Added Pub. L. 105–34, title XII, § 1222(a), Aug. 5, 1997, 111 Stat. 1014.)

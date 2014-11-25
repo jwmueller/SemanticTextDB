@@ -1,0 +1,10 @@
+§ 394. Computation of time(a) Method of computing timeIn computing any period of time prescribed or allowed by this chapter or by the rules or any order of the committee, the day of the act, event, or default after which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a Saturday, a Sunday, or a legal holiday, in which event the period shall run until the end of the next day which is neither a Saturday, a Sunday, nor a legal holiday. When the period of time prescribed or allowed is less than seven days, intermediate Saturdays, Sundays, and legal holidays shall be excluded in the computation. For the purposes of this chapter, “legal holiday” shall mean New Year’s Day, Washington’s Birthday, Memorial Day, Independence Day, Labor Day, Veterans Day, Thanksgiving Day, Christmas Day, and any other day appointed as a holiday by the President or the Congress of the United States.
+
+
+(b) Service by mailWhenever a party has the right or is required to do some act or take some proceeding within a prescribed period after the service of a pleading, motion, notice, brief, or other paper upon him, which is served upon him by mail, three days shall be added to the prescribed period.
+
+
+(c) Enlargement of timeWhen by this chapter or by the rules or any order of the committee an act is required or allowed to be done at or within a specified time, the committee, for good cause shown, may at any time in its discretion (1) with or without motion or notice, order the period enlarged if request therefor is made before the expiration of the period originally prescribed or as extended by a previous order, or (2) upon motion made after the expiration of the specified period, permit the act to be done where the failure to act was the result of excusable neglect, but it shall not extend the time for serving and filing the notice of contest under section 382 of this title.
+
+
+(Pub. L. 91–138, § 15, Dec. 5, 1969, 83 Stat. 290.)

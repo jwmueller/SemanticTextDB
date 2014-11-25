@@ -1,0 +1,8 @@
+“In the case of a hospital in a State that has had a waiver approved under section 1886(c) of the Social Security Act [42 U.S.C. 1395ww(c)] or section 402 of the Social Security Amendments of 1967 [42 U.S.C. 1395b–1], for cost reporting periods beginning on or after January 1, 1986, if the waiver is terminated—“(1) the Secretary of Health and Human Services shall permit the hospital to change the method by which it allocates administrative and general costs to the direct medical education cost centers to the method specified in the medicare cost report;
+
+“(2) the Secretary may make appropriate adjustments in the regional adjusted DRG prospective payment rate (for the region in which the State is located), based on the assumption that all teaching hospitals in the State use the medicare cost report; and
+
+“(3) the Secretary shall adjust the hospital-specific portion of payment under section 1886(d) of such Act [42 U.S.C. 1395ww(d)] for any such hospital that actually chooses to use the medicare cost report.
+
+
+The Secretary shall implement this subsection based on the best available data.”

@@ -1,0 +1,142 @@
+“SEC. 2. ESTIMATES OF IMPROPER PAYMENTS AND REPORTS ON ACTIONS TO REDUCE THEM.“(a) Identification of Susceptible Programs and Activities.—“(1) In general.—The head of each agency shall, in accordance with guidance prescribed by the Director of the Office of Management and Budget, periodically review all programs and activities that the relevant agency head administers and identify all programs and activities that may be susceptible to significant improper payments.
+
+“(2) Frequency.—Reviews under paragraph (1) shall be performed for each program and activity that the relevant agency head administers during the year after which the Improper Payments Elimination and Recovery Act of 2010 is enacted [July 22, 2010] and at least once every 3 fiscal years thereafter. For those agencies already performing a risk assessment every 3 years, agencies may apply to the Director of the Office of Management and Budget for a waiver from the requirement of the preceding sentence and continue their 3-year risk assessment cycle.
+
+“(3) Risk assessments.—“(A) Definition.—In this subsection the term ‘significant’ means—“(i) except as provided under clause (ii), that improper payments in the program or activity in the preceding fiscal year may have exceeded—     “(I) $10,000,000 of all program or activity payments made during that fiscal year reported and 2.5 percent of program outlays; or
+
+     “(II) $100,000,000; and
+
+
+“(ii) with respect to fiscal year 2014 and each fiscal year thereafter, that improper payments in the program or activity in the preceding fiscal year may have exceeded—     “(I) $10,000,000 of all program or activity payments made during that fiscal year reported and 1.5 percent of program outlays; or
+
+     “(II) $100,000,000.
+
+
+
+“(B) Scope.—In conducting the reviews under paragraph (1), the head of each agency shall take into account those risk factors that are likely to contribute to a susceptibility to significant improper payments, such as—“(i) whether the program or activity reviewed is new to the agency;
+
+“(ii) the complexity of the program or activity reviewed;
+
+“(iii) the volume of payments made through the program or activity reviewed;
+
+“(iv) whether payments or payment eligibility decisions are made outside of the agency, such as by a State or local government;
+
+“(v) recent major changes in program funding, authorities, practices, or procedures;
+
+“(vi) the level, experience, and quality of training for personnel responsible for making program eligibility determinations or certifying that payments are accurate; and
+
+“(vii) significant deficiencies in the audit report of the agency or other relevant management findings that might hinder accurate payment certification.
+
+
+
+
+“(b) Improving the Determination of Improper Payments.—“(1) In general.—The Director of the Office of Management and Budget shall on an annual basis—“(A) identify a list of high-priority Federal programs for greater levels of oversight and review—“(i) in which the highest dollar value or highest rate of improper payments occur; or
+
+“(ii) for which there is a higher risk of improper payments; and
+
+
+“(B) in coordination with the agency responsible for administering the high-priority program, establish annual targets and semi-annual or quarterly actions for reducing improper payments associated with each high-priority program.
+
+
+“(2) Report on high-priority improper payments.—“(A) In general.—Subject to Federal privacy policies and to the extent permitted by law, each agency with a program identified under paragraph (1)(A) on an annual basis shall submit to the Inspector General of that agency, and make available to the public (including availability through the Internet), a report on that program.
+
+“(B) Contents.—Each report under this paragraph—“(i) shall describe—     “(I) any action the agency—“(aa) has taken or plans to take to recover improper payments; and
+
+“(bb) intends to take to prevent future improper payments; and
+
+
+
+“(ii) shall not include any referrals the agency made or anticipates making to the Department of Justice, or any information provided in connection with such referrals.
+
+
+“(C) Public availability on central website.—The Office of Management and Budget shall make each report submitted under this paragraph available on a central website.
+
+“(D) Availability of information to inspector general.—Subparagraph (B)(ii) shall not prohibit any referral or information being made available to an Inspector General as otherwise provided by law.
+
+“(E) Assessment and recommendations.—The Inspector General of each agency that submits a report under this paragraph shall, for each program of the agency that is identified under paragraph (1)(A)—“(i) review—     “(I) the assessment of the level of risk associated with the program, and the quality of the improper payment estimates and methodology of the agency relating to the program; and
+
+     “(II) the oversight or financial controls to identify and prevent improper payments under the program; and
+
+
+“(ii) submit to Congress recommendations, which may be included in another report submitted by the Inspector General to Congress, for modifying any plans of the agency relating to the program, including improvements for improper payments determination and estimation methodology.
+
+
+
+
+“(c) Estimation of Improper Payments.—With respect to each program and activity identified under subsection (a), the head of the relevant agency shall—“(1) produce a statistically valid estimate, or an estimate that is otherwise appropriate using a methodology approved by the Director of the Office of Management and Budget, of the improper payments made by each program and activity; and
+
+“(2) include those estimates in the accompanying materials to the annual financial statement of the agency required under section 3515 of title 31, United States Code, or similar provision of law and applicable guidance of the Office of Management and Budget.
+
+
+“(d) Reports on Actions To Reduce Improper Payments.—With respect to any program or activity of an agency with estimated improper payments under subsection (c), the head of the agency shall provide with the estimate under subsection (c) a report on what actions the agency is taking to reduce improper payments, including—“(1) a description of the causes of the improper payments, actions planned or taken to correct those causes, and the planned or actual completion date of the actions taken to address those causes;
+
+“(2) in order to reduce improper payments to a level below which further expenditures to reduce improper payments would cost more than the amount such expenditures would save in prevented or recovered improper payments, a statement of whether the agency has what is needed with respect to—“(A) internal controls;
+
+“(B) human capital; and
+
+“(C) information systems and other infrastructure;
+
+
+“(3) if the agency does not have sufficient resources to establish and maintain effective internal controls under paragraph (2)(A), a description of the resources the agency has requested in its budget submission to establish and maintain such internal controls;
+
+“(4) program-specific and activity-specific improper payments reduction targets that have been approved by the Director of the Office of Management and Budget; and
+
+“(5) a description of the steps the agency has taken to ensure that agency managers, programs, and, where appropriate, States and localities are held accountable through annual performance appraisal criteria for—“(A) meeting applicable improper payments reduction targets; and
+
+“(B) establishing and maintaining sufficient internal controls, including an appropriate control environment, that effectively—“(i) prevent improper payments from being made; and
+
+“(ii) promptly detect and recover improper payments that are made.
+
+
+
+
+“(e) Reports on Actions To Recover Improper Payments.—With respect to any improper payments identified in recovery audits conducted under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 [Pub. L. 111–204] (31 U.S.C. 3321 note), the head of the agency shall provide with the estimate under subsection (c) a report on all actions the agency is taking to recover improper payments, including—“(1) a discussion of the methods used by the agency to recover overpayments;
+
+“(2) the amounts recovered, outstanding, and determined to not be collectable, including the percent such amounts represent of the total overpayments of the agency;
+
+“(3) if a determination has been made that certain overpayments are not collectable, a justification of that determination;
+
+“(4) an aging schedule of the amounts outstanding;
+
+“(5) a summary of how recovered amounts have been disposed of;
+
+“(6) a discussion of any conditions giving rise to improper payments and how those conditions are being resolved; and
+
+“(7) if the agency has determined under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note) that performing recovery audits for any applicable program or activity is not cost-effective, a justification for that determination.
+
+
+“(f) Governmentwide Reporting of Improper Payments and Actions To Recover Improper Payments.—“(1) Report.—Each fiscal year the Director of the Office of Management and Budget shall submit a report with respect to the preceding fiscal year on actions agencies have taken to report information regarding improper payments and actions to recover improper overpayments to—“(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+“(B) the Committee on Oversight and Government Reform of the House of Representatives.
+
+
+“(2) Contents.—Each report under this subsection shall include—“(A) a summary of the reports of each agency on improper payments and recovery actions submitted under this section;
+
+“(B) an identification of the compliance status of each agency to which this Act applies;
+
+“(C) governmentwide improper payment reduction targets; and
+
+“(D) a discussion of progress made towards meeting governmentwide improper payment reduction targets.
+
+
+
+“(g) Definitions.—In this section:“(1) Agency.—The term ‘agency’ means an executive agency, as that term is defined in section 102 of title 31, United States Code.
+
+“(2) Improper payment.—The term ‘improper payment’—“(A) means any payment that should not have been made or that was made in an incorrect amount (including overpayments and underpayments) under statutory, contractual, administrative, or other legally applicable requirements; and
+
+“(B) includes any payment to an ineligible recipient, any payment for an ineligible good or service, any duplicate payment, any payment for a good or service not received (except for such payments where authorized by law), and any payment that does not account for credit for applicable discounts.
+
+
+“(3) Payment.—The term ‘payment’ means any transfer or commitment for future transfer of Federal funds such as cash, securities, loans, loan guarantees, and insurance subsidies to any non-Federal person or entity or a Federal employee, that is made by a Federal agency, a Federal contractor, a Federal grantee, or a governmental or other organization administering a Federal program or activity.
+
+“(4) Payment for an ineligible good or service.—The term ‘payment for an ineligible good or service’ shall include a payment for any good or service that is rejected under any provision of any contract, grant, lease, cooperative agreement, or any other funding mechanism.
+
+
+“(h) Guidance by the Office of Management and Budget.—“(1) In general.—Not later than 6 months after the date of enactment of the Improper Payments Elimination and Recovery Act of 2010 [July 22, 2010], the Director of the Office of Management and Budget shall prescribe guidance for agencies to implement the requirements of this section. The guidance shall not include any exemptions to such requirements not specifically authorized by this section.
+
+“(2) Contents.—The guidance under paragraph (1) shall prescribe—“(A) the form of the reports on actions to reduce improper payments, recovery actions, and governmentwide reporting; and
+
+“(B) strategies for addressing risks and establishing appropriate prepayment and postpayment internal controls.”
+
+
+

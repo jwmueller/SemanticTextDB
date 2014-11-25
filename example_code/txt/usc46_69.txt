@@ -1,0 +1,125 @@
+§ 3306. Regulations(a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for—(1) the design, construction, alteration, repair, and operation of those vessels, including superstructures, hulls, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, boilers, unfired pressure vessels, piping, electric installations, and accommodations for passengers and crew, sailing school instructors, and sailing school students;
+
+(2) lifesaving equipment and its use;
+
+(3) firefighting equipment, its use, and precautionary measures to guard against fire;
+
+(4) inspections and tests related to paragraphs (1), (2), and (3) of this subsection; and
+
+(5) the use of vessel stores and other supplies of a dangerous nature.
+
+
+(b)(1) Equipment and material subject to regulation under this section may not be used on any vessel without prior approval of the Secretary.
+
+(2) Except with respect to use on a public vessel, the Secretary may treat an approval of equipment or materials by a foreign government as approval by the Secretary for purposes of paragraph (1) if the Secretary determines that—(A) the design standards and testing procedures used by that government meet the requirements of the International Convention for the Safety of Life at Sea, 1974;
+
+(B) the approval of the equipment or material by the foreign government will secure the safety of individuals and property on board vessels subject to inspection; and
+
+(C) for lifesaving equipment, the foreign government—(i) has given equivalent treatment to approvals of lifesaving equipment by the Secretary; and
+
+(ii) otherwise ensures that lifesaving equipment approved by the Secretary may be used on vessels that are documented and subject to inspection under the laws of that country.
+
+
+
+
+(c) In prescribing regulations for sailing school vessels, the Secretary shall consult with representatives of the private sector having experience in the operation of vessels likely to be certificated as sailing school vessels. The regulations shall—(1) reflect the specialized nature of sailing school vessel operations, and the character, design, and construction of vessels operating as sailing school vessels; and
+
+(2) include requirements for notice to sailing school instructors and sailing school students about the specialized nature of sailing school vessels and applicable safety regulations.
+
+
+(d) In prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy (as defined in section 51102 of this title), the Secretary shall consider the function, purpose, and operation of the vessels, their routes, and the number of individuals who may be carried on the vessels.
+
+(e) When the Secretary finds it in the public interest, the Secretary may suspend or grant exemptions from the requirements of a regulation prescribed under this section related to lifesaving and firefighting equipment, muster lists, ground tackle and hawsers, and bilge systems.
+
+(f) In prescribing regulations for offshore supply vessels, the Secretary shall consider the characteristics, methods of operation, and the nature of the service of offshore supply vessels.
+
+(g) In prescribing regulations for fish processing or fish tender vessels, the Secretary shall consult with representatives of the private sector having experience in the operation of these vessels. The regulations shall reflect the specialized nature and economics of fish processing or fish tender vessel operations and the character, design, and construction of fish processing or fish tender vessels.
+
+(h) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title.
+
+(i) The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title.
+
+(j) The Secretary may establish by regulation a safety management system appropriate for the characteristics, methods of operation, and nature of service of towing vessels.
+
+(k)(1) Each vessel of the United States that is constructed under a contract entered into after the date of enactment of the Maritime Safety Act of 2010, or that is delivered after January 1, 2011, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled “Oil Fuel Tank Protection”.
+
+(2) The Secretary may prescribe regulations to apply the requirements described in Regulation 12A to vessels described in paragraph (1) that are not otherwise subject to that convention. Any such regulation shall be considered to be an interpretive rule for the purposes of section 553 of title 5.
+
+(3) In this subsection the term “oil fuel” means any oil used as fuel in connection with the propulsion and auxiliary machinery of the vessel in which such oil is carried.
+
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, § 402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, § 512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, § 604(a), (c), title VII, § 712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936; Pub. L. 108–293, title IV, § 415(b), Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–304, § 15(12), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 111–281, title VI, § 612, Oct. 15, 2010, 124 Stat. 2970.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+330646:366
+ 46:369
+ 46:375
+ 46:390b
+ 46:392
+ 46:404
+ 46:408
+ 46:411
+ 46:412
+ 46:416
+ 46:420
+ 46:445
+ 46:459
+ 46:473
+ 46:477
+ 46:478
+ 46:479
+ 46:481
+ 46:482
+ 46:483
+ 46:489
+ 46:526p
+ 46:1295f(c)
+
+
+Section 3306 contains broad authority to prescribe regulations for the proper inspection and certification of vessels. It provides regulatory flexibility for meeting technological changes. The section also permits flexibility in prescribing regulations for nautical school vessels operated by the United States Merchant Marine Academy or by a State maritime academy. The Secretary may suspend or grant exemptions to certain limited inspection requirements when the Secretary finds that this is necessary in the public interest. It also contains the requirement that in regulating offshore supply vessels consideration must be given to the special nature of their operations.
+
+
+References in TextThe date of enactment of the Maritime Safety Act of 2010, referred to in subsec. (k)(1), is the date of enactment of title VI of Pub. L. 111–281, which was approved Oct. 15, 2010.
+
+Amendments2010—Subsec. (k). Pub. L. 111–281 added subsec. (k).
+2006—Subsec. (d). Pub. L. 109–304 substituted “section 51102 of this title” for “section 1302(3) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1295a(3))”.
+2004—Subsec. (j). Pub. L. 108–293 added subsec. (j).
+1996—Subsec. (a)(4). Pub. L. 104–324, § 604(c), substituted “paragraphs (1), (2), and (3)” for “clauses (1)–(3)”.
+Subsec. (b). Pub. L. 104–324, § 604(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Equipment subject to regulation under this section may not be used on any vessel without prior approval as prescribed by regulation.”
+Subsec. (h). Pub. L. 104–324, § 712(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “300 gross tons”.
+Subsec. (i). Pub. L. 104–324, § 712(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+1993—Subsecs. (h), (i). Pub. L. 103–206 added subsecs. (h) and (i).
+1984—Subsec. (g). Pub. L. 98–364 added subsec. (g).
+
+RegulationsPub. L. 103–206, title V, § 512(b), (c), Dec. 20, 1993, 107 Stat. 2442, provided that:
+“(b) The Secretary of Transportation shall, within twenty-four months of the date of enactment of this Act [Dec. 20, 1993], prescribe regulations establishing the structural fire protection, manning, operating, and equipment requirements for vessels which meet the requirements of subsections (h) and (i) of section 3306 of title 46, United States Code, as amended by this Act.
+
+“(c) Before the Secretary of Transportation prescribes regulations under subsections (h) and (i) of section 3306 of title 46, United States Code, as amended by this Act, the Secretary may prescribe the route, service, manning, and equipment for those vessels based on existing passenger vessel and small passenger vessel regulations.”
+
+
+
+
+Towing VesselsPub. L. 111–281, title VII, § 701(c), Oct. 15, 2010, 124 Stat. 2980, provided that: “No later than 90 days after the date of enactment of this Act [Oct. 15, 2010], the Secretary shall issue a notice of proposed rulemaking regarding inspection requirements for towing vessels required under section 3306(j) of title 46, United States Code. The Secretary shall issue a final rule pursuant to that rulemaking no later than 1 year after the date of enactment of this Act.”
+
+[“Secretary” as used in section 701(c) of Pub. L. 111–281, set out above, probably means the Secretary of the department in which the Coast Guard is operating, see section 701(a)(1) of Pub. L. 111–281, set out as a note under section 1321 of Title 33, Navigation and Navigable Waters.]
+
+Foreign ApprovalsPub. L. 104–324, title VI, § 604(b), Oct. 19, 1996, 110 Stat. 3931, provided that: “The Secretary of Transportation, in consultation with other interested Federal agencies, shall work with foreign governments to have those governments approve the use of the same equipment and materials on vessels documented under the laws of those countries that the Secretary requires on United States documented vessels.”
+
+
+International Convention for Safety of Life at SeaFor International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+
+

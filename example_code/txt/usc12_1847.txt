@@ -1,0 +1,21 @@
+§ 5111. Confidentiality of information(a) System confidentialityExcept as otherwise provided in this section, any requirement under Federal or State law regarding the privacy or confidentiality of any information or material provided to the Nationwide Mortgage Licensing System and Registry or a system established by the Director under section 5108 of this title, and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to the system. Such information and material may be shared with all State and Federal regulatory officials with mortgage industry oversight authority without the loss of privilege or the loss of confidentiality protections provided by Federal and State laws.
+
+
+(b) Nonapplicability of certain requirementsInformation or material that is subject to a privilege or confidentiality under subsection (a) shall not be subject to—(1) disclosure under any Federal or State law governing the disclosure to the public of information held by an officer or an agency of the Federal Government or the respective State; or
+
+(2) subpoena or discovery, or admission into evidence, in any private civil action or administrative process, unless with respect to any privilege held by the Nationwide Mortgage Licensing System and Registry or the Director with respect to such information or material, the person to whom such information or material pertains waives, in whole or in part, in the discretion of such person, that privilege.
+
+
+(c) Coordination with other lawAny State law, including any State open record law, relating to the disclosure of confidential supervisory information or any information or material described in subsection (a) that is inconsistent with subsection (a) shall be superseded by the requirements of such provision to the extent State law provides less confidentiality or a weaker privilege.
+
+
+(d) Public access to informationThis section shall not apply with respect to the information or material relating to the employment history of, and publicly adjudicated disciplinary and enforcement actions against, loan originators that is included in Nationwide Mortgage Licensing System and Registry for access by the public.
+
+
+(Pub. L. 110–289, div. A, title V, § 1512, July 30, 2008, 122 Stat. 2820; Pub. L. 111–203, title X, § 1100(3), July 21, 2010, 124 Stat. 2106.)
+
+Amendments2010—Subsecs. (a), (b)(2). Pub. L. 111–203 substituted “Director” for “Secretary”.
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+

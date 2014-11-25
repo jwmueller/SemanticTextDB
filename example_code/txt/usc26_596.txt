@@ -1,0 +1,47 @@
+§ 835. Election by reciprocal(a) In generalExcept as otherwise provided in this section, any mutual insurance company which is an interinsurer or reciprocal underwriter (hereinafter in this section referred to as a “reciprocal”) subject to the taxes imposed by section 831(a) may, under regulations prescribed by the Secretary, elect to be subject to the limitation provided in subsection (b). Such election shall be effective for the taxable year for which made and for all succeeding taxable years, and shall not be revoked except with the consent of the Secretary.
+
+
+(b) LimitationThe deduction for amounts paid or incurred in the taxable year to the attorney-in-fact by a reciprocal making the election provided in subsection (a) shall be limited to, but in no case increased by, the deductions of the attorney-in-fact allocable, in accordance with regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal.
+
+
+(c) ExceptionAn election may not be made by a reciprocal under subsection (a) unless the attorney-in-fact of such reciprocal—(1) is subject to the tax imposed by section 11;
+
+(2) consents in such manner as the Secretary shall prescribe by regulations to make available such information as may be required during the period in which the election provided in subsection (a) is in effect, under regulations prescribed by the Secretary;
+
+(3) reports the income received from the reciprocal and the deductions allocable thereto under the same method of accounting under which the reciprocal reports deductions for amounts paid to the attorney-in-fact; and
+
+(4) files its return on the calendar year basis.
+
+
+(d) CreditAny reciprocal electing to be subject to the limitation provided in subsection (b) shall be credited with so much of the tax paid by the attorney-in-fact as is attributable, under regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal in such taxable year.
+
+
+(e) Benefits of graduated rates deniedAny increase in the taxable income of a reciprocal attributable to the limits provided in subsection (b) shall be taxed at the highest rate of tax specified in section 11(b).
+
+
+(f) Adjustment for refundIf for any taxable year an attorney-in-fact is allowed a credit or refund for taxes paid with respect to which credit or refund to the reciprocal resulted under subsection (d), the taxes of such reciprocal for such taxable year shall be properly adjusted under regulations prescribed by the Secretary.
+
+
+(g) Taxes of attorney-in-fact unaffectedNothing in this section shall increase or decrease the taxes imposed by this chapter on the income of the attorney-in-fact.
+
+
+(Added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 996, § 826; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, § 301(b)(10), Nov. 6, 1978, 92 Stat. 2822; renumbered § 835 and amended Pub. L. 99–514, title X, § 1024(a)(3), (c)(9), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 100–647, title I, § 1010(f)(2), (3), Nov. 10, 1988, 102 Stat. 3454.)
+
+Amendments1988—Subsec. (a). Pub. L. 100–647, § 1010(f)(2), substituted “section 831(a)” for “section 821(a)”.
+Subsec. (f). Pub. L. 100–647, § 1010(f)(3), substituted “subsection (d)” for “subsection (e)”.
+1986—Pub. L. 99–514, § 1024(a)(3), renumbered section 826 of this title as this section.
+Subsec. (d). Pub. L. 99–514, § 1024(c)(9)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d), special rule, which read as follows: “In applying section 824(d)(1)(D), any amount which was added to the protection against loss account by reason of an election under this section shall be treated as having been added by reason of section 824(a)(1)(A).”
+Subsec. (e). Pub. L. 99–514, § 1024(c)(9), redesignated subsec. (f) as (e), substituted “Benefits of graduated rates” for “Surtax exemption” in heading, and amended text generally. Prior to amendment, text read as follows: “Any increase in taxable income of a reciprocal attributable to the limitation provided in subsection (b) shall be taxed without regard to the surtax exemption provided in section 821(a)(2).” Former subsec. (e) redesignated (d).
+Subsecs. (f) to (h). Pub. L. 99–514, § 1024(c)(9)(A), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+1978—Subsec. (c)(1). Pub. L. 95–600 substituted “the tax imposed by section 11” for “the taxes imposed by section 11(b) and (c)”.
+1976—Subsecs. (a), (b), (c)(2), (e), (g). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+
+Effective DateSection applicable with respect to taxable years beginning after Dec. 31, 1962, see section 8(h) of Pub. L. 87–834, set out as an Effective Date of 1962 Amendment note under section 501 of this title.
+
+

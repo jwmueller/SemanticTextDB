@@ -1,0 +1,48 @@
+§ 2201. Creation of remedy(a) In a case of actual controversy within its jurisdiction, except with respect to Federal taxes other than actions brought under section 7428 of the Internal Revenue Code of 1986, a proceeding under section 505 or 1146 of title 11, or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930), as determined by the administering authority, any court of the United States, upon the filing of an appropriate pleading, may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought. Any such declaration shall have the force and effect of a final judgment or decree and shall be reviewable as such.
+
+(b) For limitations on actions brought with respect to drug patents see section 505 or 512 of the Federal Food, Drug, and Cosmetic Act, or section 351 of the Public Health Service Act.
+
+(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, § 111, 63 Stat. 105; Aug. 28, 1954, ch. 1033, 68 Stat. 890; Pub. L. 85–508, § 12(p), July 7, 1958, 72 Stat. 349; Pub. L. 94–455, title XIII, § 1306(b)(8), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 95–598, title II, § 249, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 98–417, title I, § 106, Sept. 24, 1984, 98 Stat. 1597; Pub. L. 100–449, title IV, § 402(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 100–670, title I, § 107(b), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 103–182, title IV, § 414(b), Dec. 8, 1993, 107 Stat. 2147; Pub. L. 111–148, title VII, § 7002(c)(2), Mar. 23, 2010, 124 Stat. 816.)
+
+Amendment of SectionFor termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
+
+Historical and Revision Notes
+1948 ActBased on title 28, U.S.C., 1940 ed., § 400 (Mar. 3, 1911, ch. 231, § 274d, as added June 14, 1934, ch. 512, 48 Stat. 955; Aug. 30, 1935, ch. 829, § 405, 49 Stat. 1027).
+This section is based on the first paragraph of section 400 of title 28, U.S.C., 1940 ed. Other provisions of such section are incorporated in section 2202 of this title.
+While this section does not exclude declaratory judgments with respect to State taxes, such suits will not ordinarily be entertained in the courts of the United States where State law makes provision for payment under protest and recovery back or otherwise affords adequate remedy in the State courts. See Great Lakes Dredge &amp; Dock Co. v. Huffman, La. 1943, 63 S.Ct. 1070, 319 U.S. 293, 87 L.Ed. 1407. See also Spector Motor Service v. McLaughlin, Conn. 1944, 65 S.Ct. 152, 323 U.S. 101, 89 L.Ed. 101. See also section 1341 of this title forbidding district courts to restrain enforcements of State taxes where State courts afford plain, speedy, and efficient remedy.
+Changes were made in phraseology.
+
+1949 ActSection corrects a typographical error in section 2201 of title 28, U.S.C.
+
+
+References in TextSection 7428 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 7428 of Title 26, Internal Revenue Code.
+Section 516A(f)(10) of the Tariff Act of 1930, referred to in subsec. (a), is classified to section 1516a(f)(10) of Title 19, Customs Duties.
+Sections 505 and 512 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), are classified to sections 355 and 360b, respectively, of Title 21, Food and Drugs.
+Section 351 of the Public Health Service Act, referred to in subsec. (b), is classified to section 262 of Title 42, The Public Health and Welfare.
+
+Amendments2010—Subsec. (b). Pub. L. 111–148 inserted “, or section 351 of the Public Health Service Act” before period.
+1993—Subsec. (a). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930),” for “Canadian merchandise,”.
+1988—Subsec. (a). Pub. L. 100–449 temporarily substituted “1986,” for “1954 or” and inserted “or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of Canadian merchandise, as determined by the administering authority,” after “title 11,”. See Effective and Termination Dates of 1988 Amendment note below.
+Subsec. (b). Pub. L. 100–670 inserted “or 512” after “505”.
+1984—Pub. L. 98–417 designated existing provisions as subsec. (a) and added subsec. (b).
+1978—Pub. L. 95–598 inserted reference to proceedings under section 505 or 1146 of title 11.
+1976—Pub. L. 94–455 substituted “taxes other than actions brought under section 7428 of the Internal Revenue Code of 1954” for “taxes”.
+1958—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1954—Act Aug. 28, 1954, extended provisions to Alaska.
+1949—Act May 24, 1949, corrected spelling of “or” in second sentence.
+
+Effective Date of 1993 AmendmentAmendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of Title 19, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of Title 19.
+
+Effective and Termination Dates of 1988 AmendmentAmendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
+
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–455 applicable with respect to pleadings filed with the United States Tax Court, the District Court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976, but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under section 7428 of Title 26, Internal Revenue Code.
+
+Effective Date of 1958 AmendmentAmendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+
+Effect of Termination of NAFTA Country StatusFor provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see section 3451 of Title 19, Customs Duties.
+
+Amount in ControversyJurisdictional amount in diversity of citizenship cases, see section 1332 of this title.
+
+

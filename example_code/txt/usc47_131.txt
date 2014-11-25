@@ -1,0 +1,12 @@
+“SEC. 3. LIMITATIONS.“In designing the program required by this Act, the Commission shall—“(1) take into account market-by-market needs, based upon factors such as channel and transmitter availability;
+
+“(2) ensure that broadcasting of the program specified in section 2(b) will not cause harmful interference with signals in the digital television service;
+
+“(3) not require the analog television service signals broadcast under this Act to be retransmitted or otherwise carried pursuant to section 325(b), 338, 339, 340, 614, or 615 of the Communications Act of 1934 (47 U.S.C. 325(b), 338, 339, 340, 614 [534], or 615 [535]);
+
+“(4) take into consideration broadcasters’ digital power levels and transition and coordination plans that already have been adopted with respect to cable systems and satellite carriers’ systems;
+
+“(5) prohibit any broadcast of analog television service signals under section 2(b) on any spectrum that is approved or pending approval by the Commission to be used for public safety radio services, including television channels 14-20; and
+
+“(6) not include the analog spectrum between channels 52 and 69, inclusive (between frequencies 698 and 806 megahertz, inclusive) reclaimed from analog television broadcasting pursuant to section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)).
+

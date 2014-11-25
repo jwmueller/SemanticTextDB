@@ -1,0 +1,28 @@
+§ 255. Access by persons with disabilities(a) DefinitionsAs used in this section—(1) DisabilityThe term “disability” has the meaning given to it by section 12102(2)(A) 11 See References in Text note below. of title 42.
+
+
+(2) Readily achievableThe term “readily achievable” has the meaning given to it by section 12181(9) of title 42.
+
+
+
+(b) ManufacturingA manufacturer of telecommunications equipment or customer premises equipment shall ensure that the equipment is designed, developed, and fabricated to be accessible to and usable by individuals with disabilities, if readily achievable.
+
+
+(c) Telecommunications servicesA provider of telecommunications service shall ensure that the service is accessible to and usable by individuals with disabilities, if readily achievable.
+
+
+(d) CompatibilityWhenever the requirements of subsections (b) and (c) of this section are not readily achievable, such a manufacturer or provider shall ensure that the equipment or service is compatible with existing peripheral devices or specialized customer premises equipment commonly used by individuals with disabilities to achieve access, if readily achievable.
+
+
+(e) GuidelinesWithin 18 months after February 8, 1996, the Architectural and Transportation Barriers Compliance Board shall develop guidelines for accessibility of telecommunications equipment and customer premises equipment in conjunction with the Commission. The Board shall review and update the guidelines periodically.
+
+
+(f) No additional private rights authorizedNothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
+
+
+(June 19, 1934, ch. 652, title II, § 255, as added Pub. L. 104–104, title I, § 101(a), Feb. 8, 1996, 110 Stat. 75.)
+
+
+References in TextSection 12102 of title 42, referred to in subsec. (a)(1), was amended generally by Pub. L. 110–325, § 4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, provisions formerly appearing in par. (2)(A) are now contained in par. (1)(A).
+
+

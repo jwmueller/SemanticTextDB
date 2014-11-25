@@ -1,0 +1,14 @@
+“SEC. 5205. NATIONAL ITS PROGRAM PLAN.“(a) In General.—“(1) Updates.—The Secretary shall maintain and update, as necessary, the National ITS Program Plan developed by the Department of Transportation and the Intelligent Transportation Society of America.
+
+“(2) Scope.—The National ITS Program Plan shall—“(A) specify the goals, objectives, and milestones for the research and deployment of intelligent transportation systems in the context of major metropolitan areas, smaller metropolitan and rural areas, and commercial vehicle operations;
+
+“(B) specify how specific programs and projects will achieve the goals, objectives, and milestones referred to in subparagraph (A), including consideration of the 5- and 10-year timeframes for the goals and objectives;
+
+“(C) identify activities that provide for the dynamic development of standards and protocols to promote and ensure interoperability in the implementation of intelligent transportation system technologies, including actions taken to establish critical standards; and
+
+“(D) establish a cooperative process with State and local governments for determining desired surface transportation system performance levels and developing plans for incorporation of specific intelligent transportation system capabilities into surface transportation systems.
+
+
+
+“(b) Reporting.—The plan described in subsection (a) shall be transmitted and updated as part of the Surface Transportation Research and Development Strategic Plan developed under section 508 of title 23, United States Code.
+

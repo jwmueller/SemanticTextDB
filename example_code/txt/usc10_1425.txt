@@ -1,0 +1,49 @@
+§ 2249d. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces(a) Distribution Authorized.—To enhance interoperability between the armed forces and military forces of friendly foreign nations, the Secretary of Defense, with the concurrence of the Secretary of State, may—(1) provide to personnel referred to in subsection (b) electronically-distributed learning content for the education and training of such personnel for the development or enhancement of allied and friendly military and civilian capabilities for multinational operations, including joint exercises and coalition operations; and
+
+(2) provide information technology, including computer software developed for such purpose, but only to the extent necessary to support the use of such learning content for the education and training of such personnel.
+
+
+(b) Authorized Recipients.—The personnel to whom learning content and information technology may be provided under subsection (a) are military and civilian personnel of a friendly foreign government, with the permission of that government.
+
+(c) Education and Training.—Any education and training provided under subsection (a) shall include the following:(1) Internet-based education and training.
+
+(2) Advanced distributed learning and similar Internet learning tools, as well as distributed training and computer-assisted exercises.
+
+
+(d) Applicability of Export Control Regimes.—The provision of learning content and information technology under this section shall be subject to the provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.) and any other export control regime under law relating to the transfer of military technology to foreign nations.
+
+(e) Guidance on Utilization of Authority.—(1) Guidance required.—The Secretary of Defense shall develop and issue guidance on the procedures for the use of the authority in this section.
+
+(2) Modification.—If the Secretary modifies the guidance issued under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report setting forth the modified guidance not later than 30 days after the date of such modification.
+
+
+(f) Annual Report.—(1) Report required.—Not later than October 31 following each fiscal year in which the authority in this section is used, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the exercise of the authority during such fiscal year.
+
+(2) Elements.—Each report under paragraph (1) shall include, for the fiscal year covered by such report, the following:(A) A statement of the recipients of learning content and information technology provided under this section.
+
+(B) A description of the type, quantity, and value of the learning content and information technology provided under this section.
+
+
+
+(g) Appropriate Committees of Congress Defined.—In this section, the term “appropriate committees of Congress” means—(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+
+(Added Pub. L. 110–417, [div. A], title XII, § 1205(a)(1), Oct. 14, 2008, 122 Stat. 4623.)
+
+
+References in TextThe Arms Export Control Act, referred to in subsec. (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+
+Effective DatePub. L. 110–417, [div. A], title XII, § 1205(d), Oct. 14, 2008, 122 Stat. 4625, provided that: “This section [enacting this section and provisions set out as notes under this section] and the amendments made by this section shall take effect on October 1, 2008.”
+
+
+Guidance on Utilization of AuthorityPub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 4624, provided that:
+“(1) Submittal to congress.—Not later than 30 days after issuing the guidance required by section 2249d(e) of title 10, United States Code, as added by subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such guidance.
+
+“(2) Utilization of similar guidance.—In developing the guidance required by section 2249d(e) of title 10, United States Code, as so added, the Secretary may utilize applicable portions of the current guidance developed by the Secretary under subsection (f) of section 1207 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2419) for purposes of the exercise of the authority in such section 1207.”
+
+
+
+
+

@@ -1,0 +1,24 @@
+§ 776. Special rules for partnerships holding oil and gas properties(a) Computation of percentage depletionIn the case of an electing large partnership, except as provided in subsection (b)—(1) the allowance for depletion under section 611 with respect to any partnership oil or gas property shall be computed at the partnership level without regard to any provision of section 613A requiring such allowance to be computed separately by each partner,
+
+(2) such allowance shall be determined without regard to the provisions of section 613A(c) limiting the amount of production for which percentage depletion is allowable and without regard to paragraph (1) of section 613A(d), and
+
+(3) paragraph (3) of section 705(a) shall not apply.
+
+
+(b) Treatment of certain partners(1) In generalIn the case of a disqualified person, the treatment under this chapter of such person’s distributive share of any item of income, gain, loss, deduction, or credit attributable to any partnership oil or gas property shall be determined without regard to this part. Such person’s distributive share of any such items shall be excluded for purposes of making determinations under sections 772 and 773.
+
+
+(2) Disqualified personFor purposes of paragraph (1), the term “disqualified person” means, with respect to any partnership taxable year—(A) any person referred to in paragraph (2) or (4) of section 613A(d) for such person’s taxable year in which such partnership taxable year ends, and
+
+(B) any other person if such person’s average daily production of domestic crude oil and natural gas for such person’s taxable year in which such partnership taxable year ends exceeds 500 barrels.
+
+
+(3) Average daily productionFor purposes of paragraph (2), a person’s average daily production of domestic crude oil and natural gas for any taxable year shall be computed as provided in section 613A(c)(2)—(A) by taking into account all production of domestic crude oil and natural gas (including such person’s proportionate share of any production of a partnership),
+
+(B) by treating 6,000 cubic feet of natural gas as a barrel of crude oil, and
+
+(C) by treating as 1 person all persons treated as 1 taxpayer under section 613A(c)(8) or among whom allocations are required under such section.
+
+
+
+(Added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1007.)

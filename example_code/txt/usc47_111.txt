@@ -1,0 +1,234 @@
+§ 303. Powers and duties of Commission
+Except as otherwise provided in this chapter, the Commission from time to time, as public convenience, interest, or necessity requires, shall—(a) Classify radio stations;
+
+(b) Prescribe the nature of the service to be rendered by each class of licensed stations and each station within any class;
+
+(c) Assign bands of frequencies to the various classes of stations, and assign frequencies for each individual station and determine the power which each station shall use and the time during which it may operate;
+
+(d) Determine the location of classes of stations or individual stations;
+
+(e) Regulate the kind of apparatus to be used with respect to its external effects and the purity and sharpness of the emissions from each station and from the apparatus therein;
+
+(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this chapter: Provided, however, That changes in the frequencies, authorized power, or in the times of operation of any station, shall not be made without the consent of the station licensee unless the Commission shall determine that such changes will promote public convenience or interest or will serve public necessity, or the provisions of this chapter will be more fully complied with;
+
+(g) Study new uses for radio, provide for experimental uses of frequencies, and generally encourage the larger and more effective use of radio in the public interest;
+
+(h) Have authority to establish areas or zones to be served by any station;
+
+(i) Have authority to make special regulations applicable to radio stations engaged in chain broadcasting;
+
+(j) Have authority to make general rules and regulations requiring stations to keep such records of programs, transmissions of energy, communications, or signals as it may deem desirable;
+
+(k) Have authority to exclude from the requirements of any regulations in whole or in part any radio station upon railroad rolling stock, or to modify such regulations in its discretion;
+
+(l)(1) Have authority to prescribe the qualifications of station operators, to classify them according to the duties to be performed, to fix the forms of such licenses, and to issue them to persons who are found to be qualified by the Commission and who otherwise are legally eligible for employment in the United States, except that such requirement relating to eligibility for employment in the United States shall not apply in the case of licenses issued by the Commission to (A) persons holding United States pilot certificates; or (B) persons holding foreign aircraft pilot certificates which are valid in the United States, if the foreign government involved has entered into a reciprocal agreement under which such foreign government does not impose any similar requirement relating to eligibility for employment upon citizens of the United States;
+
+(2) Notwithstanding paragraph (1) of this subsection, an individual to whom a radio station is licensed under the provisions of this chapter may be issued an operator’s license to operate that station.
+
+(3) In addition to amateur operator licenses which the Commission may issue to aliens pursuant to paragraph (2) of this subsection, and notwithstanding section 301 of this title and paragraph (1) of this subsection, the Commission may issue authorizations, under such conditions and terms as it may prescribe, to permit an alien licensed by his government as an amateur radio operator to operate his amateur radio station licensed by his government in the United States, its possessions, and the Commonwealth of Puerto Rico provided there is in effect a multilateral or bilateral agreement, to which the United States and the alien’s government are parties, for such operation on a reciprocal basis by United States amateur radio operators. Other provisions of this chapter and of subchapter II of chapter 5, and chapter 7, of title 5 shall not be applicable to any request or application for or modification, suspension, or cancellation of any such authorization.
+
+
+(m)(1) Have authority to suspend the license of any operator upon proof sufficient to satisfy the Commission that the licensee—(A) has violated, or caused, aided, or abetted the violation of, any provision of any Act, treaty, or convention binding on the United States, which the Commission is authorized to administer, or any regulation made by the Commission under any such Act, treaty, or convention; or
+
+(B) has failed to carry out a lawful order of the master or person lawfully in charge of the ship or aircraft on which he is employed; or
+
+(C) has willfully damaged or permitted radio apparatus or installations to be damaged; or
+
+(D) has transmitted superfluous radio communications or signals or communications containing profane or obscene words, language, or meaning, or has knowingly transmitted—(1) false or deceptive signals or communications, or
+
+(2) a call signal or letter which has not been assigned by proper authority to the station he is operating; or
+
+
+(E) has willfully or maliciously interfered with any other radio communications or signals; or
+
+(F) has obtained or attempted to obtain, or has assisted another to obtain or attempt to obtain, an operator’s license by fraudulent means.
+
+
+(2) No order of suspension of any operator’s license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
+
+
+(n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act, treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of the Commission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
+
+(o) Have authority to designate call letters of all stations;
+
+(p) Have authority to cause to be published such call letters and such other announcements and data as in the judgment of the Commission may be required for the efficient operation of radio stations subject to the jurisdiction of the United States and for the proper enforcement of this chapter;
+
+(q) Have authority to require the painting and/or illumination of radio towers if and when in its judgment such towers constitute, or there is a reasonable possibility that they may constitute, a menace to air navigation. The permittee or licensee, and the tower owner in any case in which the owner is not the permittee or licensee, shall maintain the painting and/or illumination of the tower as prescribed by the Commission pursuant to this section. In the event that the tower ceases to be licensed by the Commission for the transmission of radio energy, the owner of the tower shall maintain the prescribed painting and/or illumination of such tower until it is dismantled, and the Commission may require the owner to dismantle and remove the tower when the Administrator of the Federal Aviation Agency determines that there is a reasonable possibility that it may constitute a menace to air navigation.
+
+(r) Make such rules and regulations and prescribe such restrictions and conditions, not inconsistent with law, as may be necessary to carry out the provisions of this chapter, or any international radio or wire communications treaty or convention, or regulations annexed thereto, including any treaty or convention insofar as it relates to the use of radio, to which the United States is or may hereafter become a party.
+
+(s) Have authority to require that apparatus designed to receive television pictures broadcast simultaneously with sound be capable of adequately receiving all frequencies allocated by the Commission to television broadcasting when such apparatus is shipped in interstate commerce, or is imported from any foreign country into the United States, for sale or resale to the public.
+
+(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
+
+(u) Require that, if technically feasible—(1) apparatus designed to receive or play back video programming transmitted simultaneously with sound, if such apparatus is manufactured in the United States or imported for use in the United States and uses a picture screen of any size—(A) be equipped with built-in closed caption decoder circuitry or capability designed to display closed-captioned video programming;
+
+(B) have the capability to decode and make available the transmission and delivery of video description services as required by regulations reinstated and modified pursuant to section 613(f) of this title; and
+
+(C) have the capability to decode and make available emergency information (as that term is defined in section 79.2 of the Commission’s regulations (47 CFR 79.2)) in a manner that is accessible to individuals who are blind or visually impaired; and
+
+
+(2) notwithstanding paragraph (1) of this subsection—(A) apparatus described in such paragraph that use a picture screen that is less than 13 inches in size meet the requirements of subparagraph (A), (B), or (C) of such paragraph only if the requirements of such subparagraphs are achievable (as defined in section 617 of this title);
+
+(B) any apparatus or class of apparatus that are display-only video monitors with no playback capability are exempt from the requirements of such paragraph; and
+
+(C) the Commission shall have the authority, on its own motion or in response to a petition by a manufacturer, to waive the requirements of this subsection for any apparatus or class of apparatus—(i) primarily designed for activities other than receiving or playing back video programming transmitted simultaneously with sound; or
+
+(ii) for equipment designed for multiple purposes, capable of receiving or playing video programming transmitted simultaneously with sound but whose essential utility is derived from other purposes.
+
+
+
+
+(v) Have exclusive jurisdiction to regulate the provision of direct-to-home satellite services. As used in this subsection, the term “direct-to-home satellite services” means the distribution or broadcasting of programming or services by satellite directly to the subscriber’s premises without the use of ground receiving or distribution equipment, except at the subscriber’s premises or in the uplink process to the satellite.
+
+(w) Omitted.
+
+(x) Require, in the case of an apparatus designed to receive television signals that are shipped in interstate commerce or manufactured in the United States and that have a picture screen 13 inches or greater in size (measured diagonally), that such apparatus be equipped with a feature designed to enable viewers to block display of all programs with a common rating, except as otherwise permitted by regulations pursuant to section 330(c)(4) of this title.
+
+(y) Have authority to allocate electromagnetic spectrum so as to provide flexibility of use, if—(1) such use is consistent with international agreements to which the United States is a party; and
+
+(2) the Commission finds, after notice and an opportunity for public comment, that—(A) such an allocation would be in the public interest;
+
+(B) such use would not deter investment in communications services and systems, or technology development; and
+
+(C) such use would not result in harmful interference among users.
+
+
+
+(z) Require that—(1) if achievable (as defined in section 617 of this title), apparatus designed to record video programming transmitted simultaneously with sound, if such apparatus is manufactured in the United States or imported for use in the United States, enable the rendering or the pass through of closed captions, video description signals, and emergency information (as that term is defined in section 79.2 of title 47, Code of Federal Regulations) such that viewers are able to activate and de-activate the closed captions and video description as the video programming is played back on a picture screen of any size; and
+
+(2) interconnection mechanisms and standards for digital video source devices are available to carry from the source device to the consumer equipment the information necessary to permit or render the display of closed captions and to make encoded video description and emergency information audible.
+
+
+(aa) Require—(1) if achievable (as defined in section 617 of this title) that digital apparatus designed to receive or play back video programming transmitted in digital format simultaneously with sound, including apparatus designed to receive or display video programming transmitted in digital format using Internet protocol, be designed, developed, and fabricated so that control of appropriate built-in apparatus functions are accessible to and usable by individuals who are blind or visually impaired, except that the Commission may not specify the technical standards, protocols, procedures, and other technical requirements for meeting this requirement;
+
+(2) that if on-screen text menus or other visual indicators built in to the digital apparatus are used to access the functions of the apparatus described in paragraph (1), such functions shall be accompanied by audio output that is either integrated or peripheral to the apparatus, so that such menus or indicators are accessible to and usable by individuals who are blind or visually impaired in real-time;
+
+(3) that for such apparatus equipped with the functions described in paragraphs (1) and (2) built in access to those closed captioning and video description features through a mechanism that is reasonably comparable to a button, key, or icon designated for activating the closed captioning or accessibility features; and
+
+(4) that in applying this subsection the term “apparatus” does not include a navigation device, as such term is defined in section 76.1200 of the Commission’s rules (47 CFR 76.1200).
+
+
+(bb) Require—(1) if achievable (as defined in section 617 of this title), that the on-screen text menus and guides provided by navigation devices (as such term is defined in section 76.1200 of title 47, Code of Federal Regulations) for the display or selection of multichannel video programming are audibly accessible in real-time upon request by individuals who are blind or visually impaired, except that the Commission may not specify the technical standards, protocols, procedures, and other technical requirements for meeting this requirement;
+
+(2) for navigation devices with built-in closed captioning capability, that access to that capability through a mechanism is reasonably comparable to a button, key, or icon designated for activating the closed captioning, or accessibility features; and
+
+(3) that, with respect to navigation device features and functions—(A) delivered in software, the requirements set forth in this subsection shall apply to the manufacturer of such software; and
+
+(B) delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware.
+
+
+
+(June 19, 1934, ch. 652, title III, § 303, 48 Stat. 1082; May 20, 1937, ch. 229, §§ 5, 6, 50 Stat. 190, 191; Pub. L. 85–817, § 1, Aug. 28, 1958, 72 Stat. 981; Pub. L. 87–445, Apr. 27, 1962, 76 Stat. 64; Pub. L. 87–529, § 1, July 10, 1962, 76 Stat. 150; Pub. L. 88–313, § 1, May 28, 1964, 78 Stat. 202; Pub. L. 88–487, § 2, Aug. 22, 1964, 78 Stat. 602; Pub. L. 89–268, Oct. 19, 1965, 79 Stat. 990; Pub. L. 92–81, § 1, Aug. 10, 1971, 85 Stat. 302; Pub. L. 93–505, § 1, Nov. 30, 1974, 88 Stat. 1576; Pub. L. 97–259, title I, §§ 109–111(a), 113(b), Sept. 13, 1982, 96 Stat. 1092, 1093; Pub. L. 101–396, § 8(a), Sept. 28, 1990, 104 Stat. 850; Pub. L. 101–431, § 3, Oct. 15, 1990, 104 Stat. 960; Pub. L. 102–538, title II, § 210(a), Oct. 27, 1992, 106 Stat. 3544; Pub. L. 104–104, title II, § 205(b), title IV, § 403(g), title V, § 551(b)(1), (c), Feb. 8, 1996, 110 Stat. 114, 131, 140, 141; Pub. L. 105–33, title III, § 3005, Aug. 5, 1997, 111 Stat. 268; Pub. L. 111–260, title II, §§ 203(a), (b), 204(a), 205(a), Oct. 8, 2010, 124 Stat. 2772–2774; Pub. L. 111–265, § 2(12)–(15), Oct. 8, 2010, 124 Stat. 2796.)
+
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
+Codification
+Enactment of subsec. (w) by Pub. L. 104–104, § 551(b)(1), did not become effective pursuant to Pub. L. 104–104, § 551(e)(1), because the Federal Communications Commission on Mar. 12, 1998, adopted an order finding acceptable the video programming rating system currently in voluntary use. See 1996 Amendment note and Effective Date of 1996 Amendment note below.
+In subsec. (l)(3), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+Amendments2010—Subsec. (u). Pub. L. 111–260, § 203(a), amended subsec. (u) generally. Prior to amendment, subsec. (u) read as follows: “Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.”
+Subsec. (z). Pub. L. 111–260, § 203(b), added subsec. (z).
+Subsec. (aa). Pub. L. 111–260, § 204(a), added subsec. (aa).
+Subsec. (aa)(3). Pub. L. 111–265, § 2(12), substituted “for activating” for “by activating”.
+Subsec. (bb). Pub. L. 111–265, § 2(15), struck out concluding provisions which read as follows: “With respect to apparatus features and functions delivered in software, the requirements set forth in this subsection shall apply to the manufacturer of such software. With respect to apparatus features and functions delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware.”
+Pub. L. 111–260, § 205(a), added subsec. (bb).
+Subsec. (bb)(3). Pub. L. 111–265, § 2(13)–(15), added par. (3).
+1997—Subsec. (y). Pub. L. 105–33 added subsec. (y).
+1996—Subsec. (f). Pub. L. 104–104, § 403(g), struck out “, after a public hearing,” after “unless”.
+Subsec. (v). Pub. L. 104–104, § 205(b), added subsec. (v).
+Subsec. (w). Pub. L. 104–104, § 551(b)(1), which did not become effective, directed the insertion of subsec. (w) reading as follows: “Prescribe—
+“(1) on the basis of recommendations from an advisory committee established by the Commission in accordance with section 551(b)(2) of the Telecommunications Act of 1996, guidelines and recommended procedures for the identification and rating of video programming that contains sexual, violent, or other indecent material about which parents should be informed before it is displayed to children: Provided, That nothing in this paragraph shall be construed to authorize any rating of video programming on the basis of its political or religious content; and
+“(2) with respect to any video programming that has been rated, and in consultation with the television industry, rules requiring distributors of such video programming to transmit such rating to permit parents to block the display of video programming that they have determined is inappropriate for their children.”
+See Codification note above and Effective Date of 1996 Amendment note below.
+Subsec. (x). Pub. L. 104–104, § 551(c), added subsec. (x).
+1992—Subsec. (q). Pub. L. 102–538 inserted “, and the tower owner in any case in which the owner is not the permittee or licensee,” after “permittee or licensee”.
+1990—Subsec. (l)(3). Pub. L. 101–396 substituted “multilateral or bilateral agreement, to which the United States and the alien’s government are parties,” for “bilateral agreement between the United States and the alien’s government”.
+Subsec. (u). Pub. L. 101–431 added subsec. (u).
+1982—Subsec. (l)(1). Pub. L. 97–259, § 109, substituted “persons who are found to be qualified by the commission and who otherwise are legally eligible for employment in the United States” for “such citizens or nationals of the United States, or citizens of the Trust Territory of the Pacific Islands presenting valid identity certificates issued by the High Commissioner of such Territory, as the Commission finds qualified”, and substituted provision that the requirement relating to eligibility for employment in the United States shall not apply in the case of licenses issued by the Commission to (A) persons holding United States pilot certificates; or (B) persons holding foreign aircraft pilot certificates which are valid in the United States, if the foreign government involved has entered into a reciprocal agreement under which such foreign government does not impose any similar requirement relating to eligibility for employment upon citizens of the United States for provision that in issuing licenses for the operation of radio stations on aircraft the Commission, if it found that the public interest would be served thereby, could waive the requirement of citizenship in the case of persons holding United States pilot certificates or in the case of persons holding foreign aircraft pilot certificates which were valid in the United States on the basis of reciprocal agreements entered into with foreign governments.
+Subsec. (m)(1)(A). Pub. L. 97–259, § 110, inserted “, or caused, aided, or abetted the violation of,” after “violated”.
+Subsec. (n). Pub. L. 97–259, § 113(b), inserted “, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title,” after “licensed by any Act”.
+Subsec. (t). Pub. L. 97–259, § 111(a), added subsec. (t).
+1974—Subsec. (l)(2). Pub. L. 93–505 substituted provisions relating to issuance, notwithstanding par. (1) of this subsection, to an individual to whom a radio station is licensed under this chapter of an operator’s license to operate that station, for provisions relating to issuance by the Commission of authorizations, under terms and conditions, for aliens licensed as amateur radio operators by their governments to operate in the United States, possessions, and Puerto Rico upon meeting specified preconditions.
+Subsec. (l)(3). Pub. L. 93–505 substituted provisions relating to issuance of authorizations for aliens licensed by their governments as amateur radio operators to operate their radio stations in the United States, possessions, and Puerto Rico, under terms and conditions prescribed by the Commission and upon meeting specified preconditions, for provisions relating to issuance of licenses by the Commission, notwithstanding par. (1) of this subsection, to aliens admitted to the United States as permanent residents.
+1971—Subsec. (l)(3). Pub. L. 92–81 added par. (3).
+1965—Subsec. (q). Pub. L. 89–268 required abandoned or unused radio towers to continue to meet the same painting and lighting requirements that would be applicable if such towers were being used in connection with transmission of radio energy pursuant to a license issued by the Commission and authorized the Commission to direct dismantlement of such towers when the Administrator of the Federal Aviation Agency determines that there is a reasonable possibility that they may constitute a menace to air navigation.
+1964—Subsec. (l). Pub. L. 88–487 inserted “or citizens of the Trust Territory of the Pacific Islands presenting valid identity certificates issued by the High Commissioner of such Territory”.
+Pub. L. 88–313 designated existing provisions of subsec. (l) as par. (1), and added par. (2).
+1962—Subsec. (l). Pub. L. 87–445 inserted “or nationals” after “citizens”.
+Subsec. (s). Pub. L. 87–529 added subsec. (s).
+1958—Subsec. (l). Pub. L. 85–817 authorized Commission to waive citizenship requirement in issuing licenses for operation of radio stations on aircraft.
+1937—Subsecs. (m), (n). Act May 20, 1937, §§ 5, 6(a), amended subsecs. (m) and (n) generally.
+Subsec. (r). Act May 20, 1937, § 6(b), added subsec. (r).
+
+Effective Date of 1996 AmendmentPub. L. 104–104, title V, § 551(e), Feb. 8, 1996, 110 Stat. 142, provided that:
+“(1) Applicability of rating provision.—The amendment made by subsection (b) of this section [amending this section] shall take effect 1 year after the date of enactment of this Act [Feb. 8, 1996], but only if the Commission determines [see Codification note above], in consultation with appropriate public interest groups and interested individuals from the private sector, that distributors of video programming have not, by such date—“(A) established voluntary rules for rating video programming that contains sexual, violent, or other indecent material about which parents should be informed before it is displayed to children, and such rules are acceptable to the Commission; and
+
+“(B) agreed voluntarily to broadcast signals that contain ratings of such programming.
+
+
+“(2) Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) [amending this section], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act [Feb. 8, 1996].”
+
+
+ [On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.]
+
+Effective Date of 1992 AmendmentPub. L. 102–538, title II, § 210(c), Oct. 27, 1992, 106 Stat. 3544, provided that: “The amendments made by subsection (a) [amending this section] shall take effect 30 days after the date of enactment of this Act [Oct. 27, 1992].”
+
+
+Effective Date of 1990 AmendmentPub. L. 101–431, § 5, Oct. 15, 1990, 104 Stat. 961, provided that: “Sections 3 and 4 of this Act [amending this section and section 330 of this title] shall take effect on July 1, 1993.”
+
+
+RegulationsPub. L. 111–260, title II, § 203(d), (e), Oct. 8, 2010, 124 Stat. 2773, provided that:
+“(d) Implementing Regulations.—The Federal Communications Commission shall prescribe such regulations as are necessary to implement the requirements of sections 303(u), 303(z), and 330(b) of the Communications Act of 1934 [47 U.S.C. 303(u), (z), 330(b)], as amended by this section, including any technical standards, protocols, and procedures needed for the transmission of—“(1) closed captioning within 6 months after the submission to the Commission of the Advisory Committee report required by section 201(e)(1) [47 U.S.C. 613 note]; and
+
+“(2) video description and emergency information within 18 months after the submission to the Commission of the Advisory Committee report required by section 201(e)(2) [47 U.S.C. 613 note].
+
+
+“(e) Alternate Means of Compliance.—An entity may meet the requirements of sections 303(u), 303(z), and 330(b) of the Communications Act of 1934 through alternate means than those prescribed by regulations pursuant to subsection (d) if the requirements of those sections are met, as determined by the Commission.”
+
+
+
+[For definitions of terms used in section 203(d), (e) of Pub. L. 111–260, set out above, see section 206 of Pub. L. 111–260, set out as a note under section 153 of this title.]
+Pub. L. 111–260, title II, § 204(b)–(d), Oct. 8, 2010, 124 Stat. 2774, provided that:
+“(b) Implementing Regulations.—Within 18 months after the submission to the Commission of the Advisory Committee report required by section 201(e)(2) [47 U.S.C. 613 note], the Commission shall prescribe such regulations as are necessary to implement the amendments made by subsection (a) [amending this section].
+
+“(c) Alternate Means of Compliance.—An entity may meet the requirements of section 303(aa) of the Communications Act of 1934 [47 U.S.C. 303(aa)] through alternate means than those prescribed by regulations pursuant to subsection (b) if the requirements of those sections are met, as determined by the Commission.
+
+“(d) Deferral of Compliance with ATSC Mobile DTV Standard A/153.—A digital apparatus designed and manufactured to receive or play back the Advanced Television Systems Committee’s Mobile DTV Standards A/153 shall not be required to meet the requirements of the regulations prescribed under subsection (b) for a period of not less than 24 months after the date on which the final regulations are published in the Federal Register.”
+
+
+
+[For definitions of terms used in section 204(b)–(d) of Pub. L. 111–260, set out above, see section 206 of Pub. L. 111–260, set out as a note under section 153 of this title.]
+Pub. L. 111–260, title II, § 205(b), Oct. 8, 2010, 124 Stat. 2775, provided that:
+“(1) In general.—Within 18 months after the submission to the Commission of the Advisory Committee report required by section 201(e)(2) [47 U.S.C. 613 note], the Commission shall prescribe such regulations as are necessary to implement the amendment made by subsection (a) [amending this section].
+
+“(2) Exemption.—Such regulations may provide an exemption from the regulations for cable systems serving 20,000 or fewer subscribers.
+
+“(3) Responsibility.—An entity shall only be responsible for compliance with the requirements added by this section with respect to navigation devices that it provides to a requesting blind or visually impaired individual.
+
+“(4) Separate equipment or software.—“(A) In general.—Such regulations shall permit but not require the entity providing the navigation device to the requesting blind or visually impaired individual to comply with section 303(bb)(1) of the Communications Act of 1934 [47 U.S.C. 303(bb)(1)] through that entity’s use of software, a peripheral device, specialized consumer premises equipment, a network-based service or other solution, and shall provide the maximum flexibility to select the manner of compliance.
+
+“(B) Requirements.—If an entity complies with section 303(bb)(1) of the Communications Act of 1934 under subparagraph (A), the entity providing the navigation device to the requesting blind or visually impaired individual shall provide any such software, peripheral device, equipment, service, or solution at no additional charge and within a reasonable time to such individual and shall ensure that such software, device, equipment, service, or solution provides the access required by such regulations.
+
+
+“(5) User controls for closed captioning.—Such regulations shall permit the entity providing the navigation device maximum flexibility in the selection of means for compliance with section 303(bb)(2) of the Communications Act of 1934 [47 U.S.C. 303(bb)(2)] (as added by subsection (a) of this section).
+
+“(6) Phase-in.—“(A) In general.—The Commission shall provide affected entities with—“(i) not less than 2 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section 303(bb)(2) of the Communications Act of 1934 (as added by subsection (a) of this section); and
+
+“(ii) not less than 3 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section 303(bb)(1) of the Communications Act of 1934 (as added by subsection (a) of this section).
+
+
+“(B) Application.—Such regulations shall apply only to devices manufactured or imported on or after the respective effective dates established in subparagraph (A).”
+
+
+
+
+[For definitions of terms used in section 205(b) of Pub. L. 111–260, set out above, see section 206 of Pub. L. 111–260, set out as a note under section 153 of this title.]
+Pub. L. 101–431, § 6, Oct. 15, 1990, 104 Stat. 962, provided that: “The Federal Communications Commission shall promulgate rules to implement this Act [amending this section and section 330 of this title and enacting provisions set out as notes under this section and section 609 of this title] within 180 days after the date of its enactment [Oct. 15, 1990].”
+
+Pub. L. 100–459, title VI, § 608, Oct. 1, 1988, 102 Stat. 2228, directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with section 1464 of Title 18, Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by Pub. L. 102–356, § 16(b), Aug. 26, 1992, 106 Stat. 954.
+
+Local Community RadioPub. L. 111–371, Jan. 4, 2011, 124 Stat. 4072, provided that:
+“SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Local Community Radio Act of 2010’.
+

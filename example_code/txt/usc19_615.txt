@@ -1,0 +1,160 @@
+“SEC. 202. RULES OF ORIGIN.“(a) In General.—“(1) For purposes of implementing the tariff treatment contemplated under the Agreement, goods originate in the territory of a Party if—“(A) they are wholly obtained or produced in the territory of either Party or both Parties; or
+
+“(B) they—“(i) have been transformed in the territory of either Party or both Parties so as to be subject to a change in tariff classification as described in the Annex rules or to such other requirements as the Annex rules may provide when no change in tariff classifications occurs, and
+
+“(ii) meet the other conditions set out in the Annex.
+
+
+
+“(2) A good shall not be considered to originate in the territory of a party [Party] under paragraph (1)(B) merely by virtue of having undergone—“(A) simple packaging or, except as expressly provided by the Annex rules, combining operations;
+
+“(B) mere dilution with water or another substance that does not materially alter the characteristics of the good; or
+
+“(C) any process or work in respect of which it is established, or in respect of which the facts as ascertained clearly justify the presumption, that the sole object was to circumvent the provisions of chapter 3 of the Agreement.
+
+
+“(3) Accessories, spare parts, or tools delivered with any piece of equipment, machinery, apparatus, or vehicle that form part of its standard equipment shall be treated as having the same origin as that equipment, machinery, apparatus, or vehicle if the quantities and values of such accessories, spare parts, or tools are customary for the equipment, machinery, apparatus, or vehicle.
+
+
+“(b) Transshipment.—Goods exported from the territory of one Party originate in the territory of that Party only if—“(1) the goods meet the applicable requirements of subsection (a) and are shipped to the territory of the other Party without having entered the commerce of any third country;
+
+“(2) the goods, if shipped through the territory of a third country, do not undergo any operation other than unloading, reloading, or any operation necessary to transport them to the territory of the other Party or to preserve them in good condition; and
+
+“(3) the documents related to the exportation and shipment of the goods from the territory of a Party show the territory of the other Party as their final destination.
+
+
+“(c) Interpretation.—In interpreting this section, the following apply:“(1) Whenever the processing or assembly of goods in the territory of either Party or both Parties results in one of the changes in tariff classification described in the Annex rules, such goods shall be considered to have been transformed in the territory of that Party and shall be treated as goods originating in the territory of that Party if—“(A) such processing or assembly occurs entirely within the territory of either Party or both Parties; and
+
+“(B) such goods have not subsequently undergone any processing or assembly outside the territories of the Parties that improves the goods in condition or advances them in value.
+
+
+“(2) Whenever the assembly of goods in the territory of a Party fails to result in a change of tariff classification because either—“(A) the goods were imported into the territory of the Party in an unassembled or a disassembled form and were classified as unassembled or disassembled goods pursuant to General Rule of Interpretation 2(a) of the Harmonized System; or
+
+“(B) the tariff subheading for the goods provides for both the goods themselves and their parts;
+
+
+such goods shall not be treated as goods originating in the territory of a Party.
+
+“(3) Notwithstanding paragraph (2), goods described in that paragraph shall be considered to have been transformed in the territory of a Party and be treated as goods originating in the territory of the Party if—“(A) the value of materials originating in the territory of either Party or both Parties used or consumed in the production of the goods plus the direct cost of assembling the goods in the territory of either Party or both Parties constitute not less than 50 percent of the value of the goods when exported to the territory of the other Party; and
+
+“(B) the goods have not subsequent to assembly undergone processing or further assembly in a third country and they meet the requirements of subsection (b).
+
+
+“(4) The provisions of paragraph (3) shall not apply to goods of chapters 61–63 of the Harmonized System.
+
+“(5) In making the determination required by paragraph (3)(A) and in making the same or a similar determination when required by the Annex rules, where materials originating in the territory of either Party or both Parties and materials obtained or produced in a third country are used or consumed together in the production of goods in the territory of a Party, the value of materials originating in the territory of either Party or both Parties may be treated as such only to the extent that it is directly attributable to the goods under consideration.
+
+“(6) In applying the Annex rules, a specific rule shall take precedence over a more general rule.
+
+
+“(d) Annex Rules.—“(1) The President is authorized to proclaim, as a part of the Harmonized System, the rules set forth under the heading ‘Rules’ in Annex 301.2 of the Agreement. For purposes of carrying out this paragraph—“(A) the phrase ‘headings 2207–2209’ in paragraph 7 of section IV of such Annex 301.2 shall be treated as a reference to headings 2203–2209; and
+
+“(B) the phrase ‘any other heading’ in paragraph 11 of section XV in such Annex 301.2 shall be treated as a reference to any other heading of chapter 74 of the Harmonized System.
+
+
+“(2) Subject to the consultation and lay-over requirements of section 103, the President is authorized to proclaim such modifications to the rules as may from time-to-time be agreed to by the United States and Canada.
+
+
+“(e) Automotive Products.—“(1) The President is authorized to proclaim such modifications to the definition of Canadian articles (relating to the administration of the Automotive Products Trade Act of 1965 [19 U.S.C. 2001 et seq.]) in the general notes of the Harmonized System as may be necessary to conform that definition with chapter 3 of the Agreement.
+
+“(2) For purposes of administering the value requirement (as defined in section 304(c)(3)) with respect to vehicles, the Secretary of the Treasury shall prescribe regulations governing the averaging of the value content of vehicles of the same class, or of sister vehicles, assembled in the same plant as an alternative to the calculation of the value content of each vehicle.
+
+
+“(f) Definitions.—For purposes of this section:“(1) The term ‘Annex’ means—“(A) the interpretative guidelines set forth in subsection (c); and
+
+“(B) the Annex rules.
+
+
+“(2) The term ‘Annex rules’ means the rules proclaimed under subsection (d).
+
+“(3) The term ‘direct cost of processing or direct cost of assembling’ means the costs directly incurred in, or that can reasonably be allocated to, the production of goods, including—“(A) the cost of all labor, including benefits and on-the-job training, labor provided in connection with supervision, quality control, shipping, receiving, storage, packaging, management at the location of the process or assembly, and other like labor, whether provided by employees or independent contractors;
+
+“(B) the cost of inspecting and testing the goods;
+
+“(C) the cost of energy, fuel, dies, molds, tooling, and the depreciation and maintenance of machinery and equipment, without regard to whether they originate within the territory of a Party;
+
+“(D) development, design, and engineering costs;
+
+“(E) rent, mortgage interest, depreciation on buildings, property insurance premiums, maintenance, taxes and the cost of utilities for real property used in the production of goods; and
+
+“(F) royalty, licensing, or other like payments for the right to the goods;
+
+
+but not including—
+“(i) costs relating to the general expense of doing business, such as the cost of providing executive, financial, sales, advertising, marketing, accounting and legal services, and insurance;
+
+“(ii) brokerage charges relating to the importation and exportation of goods;
+
+“(iii) the costs for telephone, mail, and other means of communication;
+
+“(iv) packing costs for exporting the goods;
+
+“(v) royalty payments related to a licensing agreement to distribute or sell the goods;
+
+“(vi) rent, mortgage interest, depreciation on buildings, property insurance premiums, maintenance, taxes, and the cost of utilities for real property used by personnel charged with administrative functions; or
+
+“(vii) profit on the goods.
+
+
+“(4) The term ‘goods wholly obtained or produced in the territory of either Party or both Parties’ means—“(A) mineral goods extracted in the territory of either Party or both Parties;
+
+“(B) goods harvested in the territory of either Party or both Parties;
+
+“(C) live animals born and raised in the territory of either Party or both Parties;
+
+“(D) goods (fish, shellfish, and other marine life) taken from the sea by vessels registered or recorded with a Party and flying its flag;
+
+“(E) goods produced on board factory ships from the goods referred to in subparagraph (D) provided such factory ships are registered or recorded with that Party and fly its flag;
+
+“(F) goods taken by a Party or a person of a Party from the seabed or beneath the seabed outside territorial waters, provided that Party has rights to exploit such seabed;
+
+“(G) goods taken from space, provided they are obtained by a Party or a person of a Party and not processed in a third country;
+
+“(H) waste and scrap derived from manufacturing operations and used goods, provided they were collected in the territory of either Party or both Parties and are fit only for the recovery of raw materials; and
+
+“(I) goods produced in the territory of either Party or both Parties exclusively from goods referred to in subparagraphs (A) to (H) inclusive or from their derivatives, at any stage of production.
+
+
+“(5) The term ‘materials’ means goods, other than those included as part of the direct cost of processing or assembling, used or consumed in the production of other goods.
+
+“(6) The term ‘Party’ means Canada or the United States.
+
+“(7) The term ‘territory’ means—“(A) with respect to Canada, the territory to which its customs laws apply, including any areas beyond the territorial seas of Canada within which, in accordance with international law and its domestic laws, Canada may exercise rights with respect to the seabed and subsoil and their natural resources; and
+
+“(B) with respect to the United States—“(i) the customs territory of the United States, which includes the fifty States, the District of Columbia and the Commonwealth of Puerto Rico,
+
+“(ii) the foreign trade zones located in the United States, and the Commonwealth of Puerto Rico, and
+
+“(iii) any area beyond the territorial seas of the United States within which, in accordance with international law and its domestic laws, the United States may exercise rights with respect to the seabed and subsoil and their natural resources.
+
+
+
+“(8) The term ‘third country’ means any country other than Canada or the United States or any territory not a part of the territory of either.
+
+“(9) The term ‘value of materials originating in the territory of either Party or both Parties’ means the aggregate of—“(A) the price paid by the producer of an exported good for materials originating in the territory of either Party or both Parties or for materials imported from a third country used or consumed in the production of such originating materials; and
+
+“(B) when not included in that price, the following costs related thereto—“(i) freight, insurance, packing, and all other costs incurred in transporting any of the materials referred to in subparagraph (A) to the location of the producer;
+
+“(ii) duties, taxes, and brokerage fees on such materials paid in the territory of either Party or both Parties;
+
+“(iii) the cost of waste or spoilage resulting from the use or consumption of such materials, less the value of renewable scrap or byproduct; and
+
+“(iv) the value of goods and services relating to such materials determined in accordance with subparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade.
+
+
+
+“(10) The term ‘value of the goods when exported to the territory of the other Party’ means the aggregate of—“(A) the price paid by the producer for all materials, whether or not the materials originate in either Party or both Parties, and, when not included in the price paid for the materials, the costs related to—“(i) freight, insurance, packing, and all other costs incurred in transporting all materials to the location of the producer;
+
+“(ii) duties, taxes, and brokerage fees on all materials paid in the territory of either Party or both Parties;
+
+“(iii) the cost of waste or spoilage resulting from the use or consumption of such materials, less the value of renewable scrap or byproduct; and
+
+“(iv) the value of goods and services relating to all materials determined in accordance with subparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade; and
+
+
+“(B) the direct cost of processing or the direct cost of assembling the goods.
+
+
+
+“(g) Special Provision Regarding Application of Rules of Origin to Certain Apparel.—The Secretary of Commerce is authorized to issue regulations governing the exportation to Canada of apparel products that are cut, or knit to shape, and sewn, or otherwise assembled, in either Party from fabric produced or obtained in a third country for the purpose of establishing which exports of such products shall be permitted to claim preferential tariff treatment under the rules of origin of the Agreement, to the extent that the Agreement provides for quantitative limits on the availability of preferential tariff treatment for such products.
+

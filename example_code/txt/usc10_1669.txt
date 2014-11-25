@@ -1,0 +1,45 @@
+§ 2445b. Cost, schedule, and performance information(a) Submittal of Cost, Schedule, and Performance Information.—The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits to Congress the budget for a fiscal year under section 1105 of title 31, budget justification documents regarding cost, schedule, and performance for each major automated information system program and each other major information technology investment program for which funds are requested by the President in the budget.
+
+(b) Elements Regarding Major Automated Information System Programs.—The documents submitted under subsection (a) with respect to a major automated information system program shall include detailed and summarized information with respect to the automated information system to be acquired under the program, and shall specifically include each of the following:(1) The development schedule, including major milestones.
+
+(2) The implementation schedule, including estimates of milestone dates, full deployment decision, and full deployment.
+
+(3) Estimates of total acquisition costs and full life-cycle costs.
+
+(4) A summary of key performance parameters.
+
+(5) For each major automated information system program for which such information has not been provided in a previous annual report—(A) a description of the business case analysis (if any) that has been prepared for the program and key functional requirements for the program;
+
+(B) a description of the analysis of alternatives conducted with regard to the program;
+
+(C) an assessment of the extent to which the program, or portions of the program, have technical requirements of sufficient clarity that the program, or portions of the program, may be feasibly procured under firm, fixed-price contracts;
+
+(D) the most recent independent cost estimate or cost analysis for the program provided by the Director of Cost Assessment and Program Evaluation in accordance with section 2334(a)(6) of this title;
+
+(E) a certification by a Department of Defense acquisition official with responsibility for the program that all technical and business requirements have been reviewed and validated to ensure alignment with the business case; and
+
+(F) an explanation of the basis for the certification described in subparagraph (E).
+
+
+(6) For each major automated information system program for which the information required under paragraph (5) has been provided in a previous annual report, a summary of any significant changes to the information previously provided.
+
+
+(c) Baseline.—(1) For purposes of this chapter, the initial submittal to Congress of the documents required by subsection (a) with respect to a major automated information system program shall constitute the original estimate or information originally submitted on such program for purposes of the reports and determinations on program changes in section 2445c of this title.
+
+(2) An adjustment or revision of the original estimate or information originally submitted on a program may be treated as the original estimate or information originally submitted on the program if the adjustment or revision is the result of a critical change in the program covered by section 2445c(d) of this title.
+
+(3) In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted under subsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
+
+
+(d) Elements Regarding Other Major Information Technology Investment Programs.—With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
+
+(Added Pub. L. 109–364, div. A, title VIII, § 816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, [div. A], title VIII, § 812(b), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, § 841(a), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 111–383, div. A, title VIII, § 805(b), Jan. 7, 2011, 124 Stat. 4259; Pub. L. 113–66, div. A, title X, § 1092(d)(1), Dec. 26, 2013, 127 Stat. 877.)
+
+Amendments2013—Subsec. (b)(3). Pub. L. 113–66 substituted “total acquisition costs” for “development costs”.
+2011—Subsec. (b)(5), (6). Pub. L. 111–383 added pars. (5) and (6).
+2009—Subsec. (b)(2). Pub. L. 111–84 substituted “full deployment decision, and full deployment” for “initial operational capability, and full operational capability”.
+2008—Subsec. (a). Pub. L. 110–417, § 812(b)(1), inserted “and each other major information technology investment program” after “each major automated information system program”.
+Subsec. (b). Pub. L. 110–417, § 812(b)(2), inserted “Regarding Major Automated Information System Programs” after “Elements” in heading.
+Subsec. (d). Pub. L. 110–417, § 812(b)(3), added subsec. (d).
+
+

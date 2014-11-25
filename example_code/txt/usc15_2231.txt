@@ -1,0 +1,134 @@
+“SEC. 102. DEFINITIONS.“In this title, the following definitions shall apply:“(1) Act of terrorism.—“(A) Certification.—The term ‘act of terrorism’ means any act that is certified by the Secretary, in concurrence with the Secretary of State, and the Attorney General of the United States—“(i) to be an act of terrorism;
+
+“(ii) to be a violent act or an act that is dangerous to—     “(I) human life;
+
+     “(II) property; or
+
+     “(III) infrastructure;
+
+
+“(iii) to have resulted in damage within the United States, or outside of the United States in the case of—     “(I) an air carrier or vessel described in paragraph (5)(B); or
+
+     “(II) the premises of a United States mission; and
+
+
+“(iv) to have been committed by an individual or individuals, as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
+
+
+“(B) Limitation.—No act shall be certified by the Secretary as an act of terrorism if—“(i) the act is committed as part of the course of a war declared by the Congress, except that this clause shall not apply with respect to any coverage for workers’ compensation; or
+
+“(ii) property and casualty insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000.
+
+
+“(C) Determinations final.—Any certification of, or determination not to certify, an act as an act of terrorism under this paragraph shall be final, and shall not be subject to judicial review.
+
+“(D) Nondelegation.—The Secretary may not delegate or designate to any other officer, employee, or person, any determination under this paragraph of whether, during the effective period of the Program, an act of terrorism has occurred.
+
+
+“(2) Affiliate.—The term ‘affiliate’ means, with respect to an insurer, any entity that controls, is controlled by, or is under common control with the insurer.
+
+“(3) Control.—An entity has ‘control’ over another entity, if—“(A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other entity;
+
+“(B) the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
+
+“(C) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
+
+
+“(4) Direct earned premium.—The term ‘direct earned premium’ means a direct earned premium for property and casualty insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraphs (A) and (B) of paragraph (5).
+
+“(5) Insured loss.—The term ‘insured loss’ means any loss resulting from an act of terrorism (including an act of war, in the case of workers’ compensation) that is covered by primary or excess property and casualty insurance issued by an insurer if such loss—“(A) occurs within the United States; or
+
+“(B) occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
+
+
+“(6) Insurer.—The term ‘insurer’ means any entity, including any affiliate thereof—“(A) that is—“(i) licensed or admitted to engage in the business of providing primary or excess insurance in any State;
+
+“(ii) not licensed or admitted as described in clause (i), if it is an eligible surplus line carrier listed on the Quarterly Listing of Alien Insurers of the NAIC, or any successor thereto;
+
+“(iii) approved for the purpose of offering property and casualty insurance by a Federal agency in connection with maritime, energy, or aviation activity;
+
+“(iv) a State residual market insurance entity or State workers’ compensation fund; or
+
+“(v) any other entity described in section 103(f), to the extent provided in the rules of the Secretary issued under section 103(f);
+
+
+“(B) that receives direct earned premiums for any type of commercial property and casualty insurance coverage, other than in the case of entities described in sections 103(d) and 103(f); and
+
+“(C) that meets any other criteria that the Secretary may reasonably prescribe.
+
+
+“(7) Insurer deductible.—The term ‘insurer deductible’ means—“(A) for the Transition Period, the value of an insurer’s direct earned premiums over the calendar year immediately preceding the date of enactment of this Act [Nov. 26, 2002], multiplied by 1 percent;
+
+“(B) for Program Year 1, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 1, multiplied by 7 percent;
+
+“(C) for Program Year 2, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 2, multiplied by 10 percent;
+
+“(D) for Program Year 3, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 3, multiplied by 15 percent;
+
+“(E) for Program Year 4, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 4, multiplied by 17.5 percent;
+
+“(F) for Program Year 5 and each Program Year thereafter, the value of an insurer’s direct earned premiums over the calendar year immediately preceding that Program Year, multiplied by 20 percent; and
+
+“(G) notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year, if an insurer has not had a full year of operations during the calendar year immediately preceding such Period or Program Year, such portion of the direct earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
+
+
+“(8) NAIC.—The term ‘NAIC’ means the National Association of Insurance Commissioners.
+
+“(9) Person.—The term ‘person’ means any individual, business or nonprofit entity (including those organized in the form of a partnership, limited liability company, corporation, or association), trust or estate, or a State or political subdivision of a State or other governmental unit.
+
+“(10) Program.—The term ‘Program’ means the Terrorism Insurance Program established by this title.
+
+“(11) Program years.—“(A) Transition period.—The term ‘Transition Period’ means the period beginning on the date of enactment of this Act [Nov. 26, 2002] and ending on December 31, 2002.
+
+“(B) Program year 1.—The term ‘Program Year 1’ means the period beginning on January 1, 2003 and ending on December 31, 2003.
+
+“(C) Program year 2.—The term ‘Program Year 2’ means the period beginning on January 1, 2004 and ending on December 31, 2004.
+
+“(D) Program year 3.—The term ‘Program Year 3’ means the period beginning on January 1, 2005 and ending on December 31, 2005.
+
+“(E) Program year 4.—The term ‘Program Year 4’ means the period beginning on January 1, 2006 and ending on December 31, 2006.
+
+“(F) Program year 5.—The term ‘Program Year 5’ means the period beginning on January 1, 2007 and ending on December 31, 2007.
+
+“(G) Additional program years.—Except when used as provided in subparagraphs (B) through (F), the term ‘Program Year’ means, as the context requires, any of Program Year 1, Program Year 2, Program Year 3, Program Year 4, Program Year 5, or any of calendar years 2008 through 2014.
+
+
+“(12) Property and casualty insurance.—The term ‘property and casualty insurance’—“(A) means commercial lines of property and casualty insurance, including excess insurance, workers’ compensation insurance, and directors and officers liability insurance; and
+
+“(B) does not include—“(i) Federal crop insurance issued or reinsured under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), or any other type of crop or livestock insurance that is privately issued or reinsured;
+
+“(ii) private mortgage insurance (as that term is defined in section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901)) or title insurance;
+
+“(iii) financial guaranty insurance issued by monoline financial guaranty insurance corporations;
+
+“(iv) insurance for medical malpractice;
+
+“(v) health or life insurance, including group life insurance;
+
+“(vi) flood insurance provided under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.);
+
+“(vii) reinsurance or retrocessional reinsurance;
+
+“(viii) commercial automobile insurance;
+
+“(ix) burglary and theft insurance;
+
+“(x) surety insurance;
+
+“(xi) professional liability insurance; or
+
+“(xii) farm owners multiple peril insurance.
+
+
+
+“(13) Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.
+
+“(14) State.—The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, each of the United States Virgin Islands, and any territory or possession of the United States.
+
+“(15) United states.—The term ‘United States’ means the several States, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 (18 U.S.C. 2280, 2281).
+
+“(16) Rule of construction for dates.—With respect to any reference to a date in this title, such day shall be construed—“(A) to begin at 12:01 a.m. on that date; and
+
+“(B) to end at midnight on that date.
+
+

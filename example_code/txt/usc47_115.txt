@@ -1,0 +1,2 @@
+“SEC. 4. PROTECTION OF RADIO READING SERVICES.“The Federal Communications Commission shall comply with its existing minimum distance separation requirements for full-service FM stations, FM translator stations, and FM booster stations that broadcast radio reading services via an analog subcarrier frequency to avoid potential interference by low-power FM stations.
+

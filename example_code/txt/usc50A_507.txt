@@ -1,0 +1,75 @@
+§ 2172. Annual report on impact of offsets(a) Report required(1) In generalThe President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, a detailed annual report on the impact of offsets on the defense preparedness, industrial competitiveness, employment, and trade of the United States.
+
+
+(2) Duties of the Secretary of CommerceThe Secretary of Commerce (hereafter in this subsection referred to as the “Secretary”) shall—(A) prepare the report required by paragraph (1);
+
+(B) consult with the Secretary of Defense, the Secretary of the Treasury, the Secretary of State, and the United States Trade Representative in connection with the preparation of such report; and
+
+(C) function as the President’s Executive Agent for carrying out this section.
+
+
+
+(b) Interagency studies and related data(1) Purpose of reportEach report required under subsection (a) shall identify the cumulative effects of offset agreements on—(A) the full range of domestic defense productive capability (with special attention paid to the firms serving as lower-tier subcontractors or suppliers); and
+
+(B) the domestic defense technology base as a consequence of the technology transfers associated with such offset agreements.
+
+
+(2) Use of dataData developed or compiled by any agency while conducting any interagency study or other independent study or analysis shall be made available to the Secretary to facilitate the execution of the Secretary’s responsibilities with respect to trade offset and countertrade policy development.
+
+
+
+(c) Notice of offset agreements(1) In generalIf a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset agreement exceeding $5,000,000 in value, such firm shall furnish to the official designated in the regulations promulgated pursuant to paragraph (2) information concerning such sale.
+
+
+(2) RegulationsThe information to be furnished under paragraph (1) shall be prescribed in regulations promulgated by the Secretary. Such regulations shall provide protection from public disclosure for such information, unless public disclosure is subsequently specifically authorized by the firm furnishing the information.
+
+
+
+(d) Contents of report(1) In generalEach report under subsection (a) shall include—(A) a net assessment of the elements of the industrial base and technology base covered by the report;
+
+(B) recommendations for appropriate remedial action under the authority of this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix], or other law or regulations;
+
+(C) a summary of the findings and recommendations of any interagency studies conducted during the reporting period under subsection (b);
+
+(D) a summary of offset arrangements concluded during the reporting period for which information has been furnished pursuant to subsection (c); and
+
+(E) a summary and analysis of any bilateral and multilateral negotiations relating to the use of offsets completed during the reporting period.
+
+
+(2) Alternative findings or recommendationsEach report required under this section shall include any alternative findings or recommendations offered by any departmental Secretary, agency head, or the United States Trade Representative to the Secretary.
+
+
+
+(e) Utilization of annual report in negotiationsThe findings and recommendations of the reports required by subsection (a), and any interagency reports and analyses shall be considered by representatives of the United States during bilateral and multilateral negotiations to minimize the adverse effects of offsets.
+
+
+(Sept. 8, 1950, ch. 932, title VII, § 723, as added Pub. L. 111–67, § 12(a), Sept. 30, 2009, 123 Stat. 2020.)
+
+Termination DateTermination of section, see section 2166(a) of this Appendix.
+
+
+Delegation of Functions
+For directive to Secretary of Commerce to prepare and submit annual report required by this section, see section 702 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16658, set out as a note under section 2153 of this Appendix.
+
+Report on Impact of Offsets on Domestic Contractors and Lower Tier SubcontractorsPub. L. 108–195, § 7(a), Dec. 19, 2003, 117 Stat. 2894, as amended by Pub. L. 111–67, § 12(b)(3), Sept. 30, 2009, 123 Stat. 2022, provided that:
+“(1) In general.—As part of the annual report required under section 723(a) of the Defense Production Act of 1950 [50 U.S.C. App. 2172(a)], the Secretary of Commerce (in this section referred to as the ‘Secretary’) shall—“(A) detail the number of foreign contracts involving domestic contractors that use offsets, industrial participation agreements, or similar arrangements during the preceding 5-year period;
+
+“(B) calculate the aggregate, median, and mean values of the contracts and the offsets, industrial participation agreements, and similar arrangements during the preceding 5-year period; and
+
+“(C) describe the impact of international or foreign sales of United States defense products and related offsets, industrial participation agreements, and similar arrangements on domestic prime contractors and, to the extent practicable, the first 3 tiers of domestic contractors and subcontractors during the preceding 5-year period in terms of domestic employment, including any job losses, on an annual basis.
+
+
+“(2) Use of internal documents.—To the extent that the Department of Commerce is already in possession of relevant data, the Department shall use internal documents or existing departmental records to carry out paragraph (1).
+
+“(3) Information from non-federal entities.—“(A) Existing information.—In carrying out paragraph (1), the Secretary shall only require a non-Federal entity to provide information that is available through the existing data collection and reporting systems of that non-Federal entity.
+
+“(B) Format.—The Secretary may require a non-Federal entity to provide information to the Secretary in the same form that is already provided to a foreign government in fulfilling an offset arrangement, industrial participation agreement, or similar arrangement.”
+
+
+
+
+[Pub. L. 111–67, § 12(b)(3), which directed amendment of section 7(a) of the Defense Production Act Amendments of 2003 (50 U.S.C. App. 2099 note), by striking “section 309(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2099(a))” and inserting “section 723(a) of the Defense Production Act of 1950”, was executed to section 7(a) of Pub. L. 108–195, the Defense Production Act Reauthorization of 2003, set out above, to reflect the probable intent of Congress.]
+
+Defense Offsets DisclosurePub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, subtitle D], Nov. 29, 1999, 113 Stat. 1536, 1501A–500, provided that:
+“SEC. 1241. SHORT TITLE.“This subtitle may be cited as the ‘Defense Offsets Disclosure Act of 1999’.
+

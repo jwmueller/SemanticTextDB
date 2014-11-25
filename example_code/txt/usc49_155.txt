@@ -1,0 +1,67 @@
+§ 5330. State safety oversight(a) Application.—This section shall only apply to—(1) States that have rail fixed guideway public transportation systems that are not subject to regulation by the Federal Railroad Administration; and
+
+(2) States that are designing rail fixed guideway public transportation systems that will not be subject to regulation by the Federal Railroad Administration.
+
+
+(b) General Authority.—The Secretary of Transportation may withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title for a fiscal year beginning after September 30, 1994, if the State in the prior fiscal year has not met the requirements of subsection (c) of this section and the Secretary decides the State is not making an adequate effort to comply with subsection (c).
+
+(c) State Requirements.—A State meets the requirements of this section if the State—(1) establishes and is carrying out a safety program plan for each fixed guideway public transportation system in the State that establishes at least safety requirements, lines of authority, levels of responsibility and accountability, and methods of documentation for the system; and
+
+(2) designates a State authority as having responsibility—(A) to require, review, approve, and monitor the carrying out of each plan;
+
+(B) to investigate hazardous conditions and accidents on the systems; and
+
+(C) to require corrective action to correct or eliminate those conditions.
+
+
+
+(d) Multistate Involvement.—When more than one State is subject to this section in connection with a single public transportation authority, the affected States shall ensure uniform safety standards and enforcement or shall designate an entity (except the public transportation authority) to ensure uniform safety standards and enforcement and to meet the requirements of subsection (c) of this section.
+
+(e) Availability of Withheld Amounts.—(1) An amount withheld under subsection (b) of this section remains available for apportionment for use in the State until the end of the 2d fiscal year after the fiscal year for which the amount may be appropriated.
+
+(2) If a State meets the requirements of subsection (c) of this section before the last day of the period for which an amount withheld under subsection (b) of this section remains available under paragraph (1) of this subsection, the Secretary, on the first day on which the State meets the requirements, shall apportion to the State the amount withheld that remains available for apportionment for use in the State. An amount apportioned under this paragraph remains available until the end of the 3d fiscal year after the fiscal year in which the amount is apportioned. An amount not obligated at the end of the 3-year period shall be apportioned for use in other States under section 5336 of this title.
+
+(3) If a State does not meet the requirements of subsection (c) of this section at the end of the period for which an amount withheld under subsection (b) of this section remains available under paragraph (1) of this subsection, the amount shall be apportioned for use in other States under section 5336 of this title.
+
+
+(Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 831; Pub. L. 109–59, title III, §§ 3002(b)(4), 3029(a), Aug. 10, 2005, 119 Stat. 1545, 1625.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5330(a)49 App.:1624(d).July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 28; added Dec. 18, 1991, Pub. L. 102–240, § 3029, 105 Stat. 2116.
+5330(b)49 App.:1624(a).
+5330(c)49 App.:1624(b)(1), (2).
+5330(d)49 App.:1624(b)(3).
+5330(e)49 App.:1624(c).
+5330(f)49 App.:1624(e).
+
+
+In subsection (e)(1), the words “under subsection (a) of this section from apportionment for use in any State in a fiscal year” are omitted as surplus.
+In subsection (e)(2) and (3), the words “from apportionment” and “for apportionment for use in a State” are omitted as surplus.
+
+Repeal of SectionPub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under section 5329(e) of this title, this section is repealed.
+
+Amendments2005—Pub. L. 109–59, § 3029(a)(1), substituted “State safety oversight” for “Withholding amounts for noncompliance with safety requirements” in section catchline.
+Subsec. (a). Pub. L. 109–59, § 3029(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section applies only to States that have rail fixed guideway mass transportation systems not subject to regulation by the Federal Railroad Administration.”
+Subsec. (c)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+Subsec. (d). Pub. L. 109–59, § 3029(a)(2), substituted “shall ensure uniform safety standards and enforcement or shall designate” for “may designate”.
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+Subsec. (f). Pub. L. 109–59, § 3029(a)(3), struck out heading and text of subsec. (f). Text read as follows: “Not later than December 18, 1992, the Secretary shall prescribe regulations stating the requirements for complying with subsection (c) of this section.”
+
+Effective Date of RepealPub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that the repeal of this section is effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under section 5329(e) of this title.
+
+

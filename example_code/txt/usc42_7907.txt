@@ -1,0 +1,14 @@
+§ 17193. General geothermal systems research and development(a) Subsurface components and systemsThe Secretary shall support a program of research, development, demonstration, and commercial application of components and systems capable of withstanding extreme geothermal environments and necessary to cost-effectively develop, produce, and monitor geothermal reservoirs and produce geothermal energy. These components and systems shall include advanced casing systems (expandable tubular casing, low-clearance casing designs, and others), high-temperature cements, high-temperature submersible pumps, and high-temperature packers, as well as technologies for under-reaming, multilateral completions, high-temperature and high-pressure logging, logging while drilling, deep fracture stimulation, and reservoir system diagnostics.
+
+
+(b) Reservoir performance modelingThe Secretary shall support a program of research, development, demonstration, and commercial application of models of geothermal reservoir performance, with an emphasis on accurately modeling performance over time. Models shall be developed to assist both in the development of geothermal reservoirs and to more accurately account for stress-related effects in stimulated hydrothermal and enhanced geothermal systems production environments.
+
+
+(c) Environmental impactsThe Secretary shall—(1) support a program of research, development, demonstration, and commercial application of technologies and practices designed to mitigate or preclude potential adverse environmental impacts of geothermal energy development, production or use, and seek to ensure that geothermal energy development is consistent with the highest practicable standards of environmental stewardship;
+
+(2) in conjunction with the Assistant Administrator for Research and Development at the Environmental Protection Agency, support a research program to identify potential environmental impacts of geothermal energy development, production, and use, and ensure that the program described in paragraph (1) addresses such impacts, including effects on groundwater and local hydrology; and
+
+(3) support a program of research to compare the potential environmental impacts identified as part of the development, production, and use of geothermal energy with the potential emission reductions of greenhouse gases gained by geothermal energy development, production, and use.
+
+
+(Pub. L. 110–140, title VI, § 614, Dec. 19, 2007, 121 Stat. 1680.)

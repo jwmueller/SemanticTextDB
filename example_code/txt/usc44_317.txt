@@ -1,0 +1,19 @@
+“SEC. 206. REGULATORY AGENCIES.“(a) Purposes.—The purposes of this section are to—“(1) improve performance in the development and issuance of agency regulations by using information technology to increase access, accountability, and transparency; and
+
+“(2) enhance public participation in Government by electronic means, consistent with requirements under subchapter II of chapter 5 of title 5, United States Code, (commonly referred to as the ‘Administrative Procedures Act’).
+
+
+“(b) Information Provided by Agencies Online.—To the extent practicable as determined by the agency in consultation with the Director, each agency (as defined under section 551 of title 5, United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of section 552(a) of title 5, United States Code.
+
+“(c) Submissions by Electronic Means.—To the extent practicable, agencies shall accept submissions under section 553(c) of title 5, United States Code, by electronic means.
+
+“(d) Electronic Docketing.—“(1) In general.—To the extent practicable, as determined by the agency in consultation with the Director, agencies shall ensure that a publicly accessible Federal Government website contains electronic dockets for rulemakings under section 553 of title 5, United States Code.
+
+“(2) Information available.—Agency electronic dockets shall make publicly available online to the extent practicable, as determined by the agency in consultation with the Director—“(A) all submissions under section 553(c) of title 5, United States Code; and
+
+“(B) other materials that by agency rule or practice are included in the rulemaking docket under section 553(c) of title 5, United States Code, whether or not submitted electronically.
+
+
+
+“(e) Time Limitation.—Agencies shall implement the requirements of this section consistent with a timetable established by the Director and reported to Congress in the first annual report under section 3606 of title 44 (as added by this Act).
+

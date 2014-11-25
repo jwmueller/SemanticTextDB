@@ -1,0 +1,54 @@
+§ 1012. Basis of property—cost(a) In generalThe basis of property shall be the cost of such property, except as otherwise provided in this subchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).
+
+
+(b) Special rule for apportioned real estate taxesThe cost of real property shall not include any amount in respect of real property taxes which are treated under section 164(d) as imposed on the taxpayer.
+
+
+(c) Determinations by account(1) In generalIn the case of the sale, exchange, or other disposition of a specified security on or after the applicable date, the conventions prescribed by regulations under this section shall be applied on an account by account basis.
+
+
+(2) Application to certain funds(A) In generalExcept as provided in subparagraph (B), any stock for which an average basis method is permissible under section 1012 which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
+
+
+(B) Election fund for treatment as single accountIf a fund described in subparagraph (A) elects to have this subparagraph apply with respect to one or more of its stockholders—(i) subparagraph (A) shall not apply with respect to any stock in such fund held by such stockholders, and
+
+(ii) all stock in such fund which is held by such stockholders shall be treated as covered securities described in section 6045(g)(3) without regard to the date of the acquisition of such stock.
+
+
+A rule similar to the rule of the preceding sentence shall apply with respect to a broker holding such stock as a nominee.
+
+
+(3) DefinitionsFor purposes of this section, the terms “specified security” and “applicable date” shall have the meaning given such terms in section 6045(g).
+
+
+
+(d) Average basis for stock acquired pursuant to a dividend reinvestment plan(1) In generalIn the case of any stock acquired after December 31, 2010, in connection with a dividend reinvestment plan, the basis of such stock while held as part of such plan shall be determined using one of the methods which may be used for determining the basis of stock in an open-end fund.
+
+
+(2) Treatment after transferIn the case of the transfer to another account of stock to which paragraph (1) applies, such stock shall have a cost basis in such other account equal to its basis in the dividend reinvestment plan immediately before such transfer (properly adjusted for any fees or other charges taken into account in connection with such transfer).
+
+
+(3) Separate accounts; election for treatment as single accountRules similar to the rules of subsection (c)(2) shall apply for purposes of this subsection.
+
+
+(4) Dividend reinvestment planFor purposes of this subsection—(A) In generalThe term “dividend reinvestment plan” means any arrangement under which dividends on any stock are reinvested in stock identical to the stock with respect to which the dividends are paid.
+
+
+(B) Initial stock acquisition treated as acquired in connection with planStock shall be treated as acquired in connection with a dividend reinvestment plan if such stock is acquired pursuant to such plan or if the dividends paid on such stock are subject to such plan.
+
+
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 110–343, div. B, title IV, § 403(b), Oct. 3, 2008, 122 Stat. 3857.)
+
+Amendments2008—Pub. L. 110–343 designated first sentence as subsec. (a) and second sentence as subsec. (b), inserted headings, and added subsecs. (c) and (d).
+
+Effective Date of 2008 AmendmentPub. L. 110–343, div. B, title IV, § 403(e), Oct. 3, 2008, 122 Stat. 3860, provided that:
+“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting sections 6045A and 6045B of this title and amending this section and sections 6045 and 6724 of this title] shall take effect on January 1, 2011.
+
+“(2) Extension of period for statements sent to customers.—The amendments made by subsection (a)(3) [amending section 6045 of this title] shall apply to statements required to be furnished after December 31, 2008.”
+
+
+
+
+

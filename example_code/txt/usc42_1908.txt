@@ -1,0 +1,433 @@
+§ 1395w–104. Beneficiary protections for qualified prescription drug coverage(a) Dissemination of information(1) General information(A) Application of MA informationA PDP sponsor shall disclose, in a clear, accurate, and standardized form to each enrollee with a prescription drug plan offered by the sponsor under this part at the time of enrollment and at least annually thereafter, the information described in section 1395w–22(c)(1) of this title relating to such plan, insofar as the Secretary determines appropriate with respect to benefits provided under this part, and including the information described in subparagraph (B).
+
+
+(B) Drug specific informationThe information described in this subparagraph is information concerning the following:(i) Access to specific covered part D drugs, including access through pharmacy networks.
+
+(ii) How any formulary (including any tiered formulary structure) used by the sponsor functions, including a description of how a part D eligible individual may obtain information on the formulary consistent with paragraph (3).
+
+(iii) Beneficiary cost-sharing requirements and how a part D eligible individual may obtain information on such requirements, including tiered or other copayment level applicable to each drug (or class of drugs), consistent with paragraph (3).
+
+(iv) The medication therapy management program required under subsection (c) of this section.
+
+
+
+(2) Disclosure upon request of general coverage, utilization, and grievance informationUpon request of a part D eligible individual who is eligible to enroll in a prescription drug plan, the PDP sponsor offering such plan shall provide information similar (as determined by the Secretary) to the information described in subparagraphs (A), (B), and (C) of section 1395w–22(c)(2) of this title to such individual.
+
+
+(3) Provision of specific information(A) Response to beneficiary questionsEach PDP sponsor offering a prescription drug plan shall have a mechanism for providing specific information on a timely basis to enrollees upon request. Such mechanism shall include access to information through the use of a toll-free telephone number and, upon request, the provision of such information in writing.
+
+
+(B) Availability of information on changes in formulary through the InternetA PDP sponsor offering a prescription drug plan shall make available on a timely basis through an Internet website information on specific changes in the formulary under the plan (including changes to tiered or preferred status of covered part D drugs).
+
+
+
+(4) Claims informationA PDP sponsor offering a prescription drug plan must furnish to each enrollee in a form easily understandable to such enrollees—(A) an explanation of benefits (in accordance with section 1395b–7(a) of this title or in a comparable manner); and
+
+(B) when prescription drug benefits are provided under this part, a notice of the benefits in relation to—(i) the initial coverage limit for the current year; and
+
+(ii) the annual out-of-pocket threshold for the current year.
+
+
+Notices under subparagraph (B) need not be provided more often than as specified by the Secretary and notices under subparagraph (B)(ii) shall take into account the application of section 1395w–102(b)(4)(C) of this title to the extent practicable, as specified by the Secretary.
+
+
+
+(b) Access to covered part D drugs(1) Assuring pharmacy access(A) Participation of any willing pharmacyA prescription drug plan shall permit the participation of any pharmacy that meets the terms and conditions under the plan.
+
+
+(B) Discounts allowed for network pharmaciesFor covered part D drugs dispensed through in-network pharmacies, a prescription drug plan may, notwithstanding subparagraph (A), reduce coinsurance or copayments for part D eligible individuals enrolled in the plan below the level otherwise required. In no case shall such a reduction result in an increase in payments made by the Secretary under section 1395w–115 of this title to a plan.
+
+
+(C) Convenient access for network pharmacies(i) In generalThe PDP sponsor of the prescription drug plan shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than by mail order) drugs directly to patients to ensure convenient access (consistent with rules established by the Secretary).
+
+
+(ii) Application of TRICARE standardsThe Secretary shall establish rules for convenient access to in-network pharmacies under this subparagraph that are no less favorable to enrollees than the rules for convenient access to pharmacies included in the statement of work of solicitation (#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
+
+
+(iii) Adequate emergency accessSuch rules shall include adequate emergency access for enrollees.
+
+
+(iv) Convenient access in long-term care facilitiesSuch rules may include standards with respect to access for enrollees who are residing in long-term care facilities and for pharmacies operated by the Indian Health Service, Indian tribes and tribal organizations, and urban Indian organizations (as defined in section 1603 of title 25).
+
+
+
+(D) Level playing fieldSuch a sponsor shall permit enrollees to receive benefits (which may include a 90-day supply of drugs or biologicals) through a pharmacy (other than a mail order pharmacy), with any differential in charge paid by such enrollees.
+
+
+(E) Not required to accept insurance riskThe terms and conditions under subparagraph (A) may not require participating pharmacies to accept insurance risk as a condition of participation.
+
+
+
+(2) Use of standardized technology(A) In generalThe PDP sponsor of a prescription drug plan shall issue (and reissue, as appropriate) such a card (or other technology) that may be used by an enrollee to assure access to negotiated prices under section 1395w–102(d) of this title.
+
+
+(B) Standards(i) In generalThe Secretary shall provide for the development, adoption, or recognition of standards relating to a standardized format for the card or other technology required under subparagraph (A). Such standards shall be compatible with part C of subchapter XI of this chapter and may be based on standards developed by an appropriate standard setting organization.
+
+
+(ii) ConsultationIn developing the standards under clause (i), the Secretary shall consult with the National Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
+
+
+(iii) ImplementationThe Secretary shall develop, adopt, or recognize the standards under clause (i) by such date as the Secretary determines shall be sufficient to ensure that PDP sponsors utilize such standards beginning January 1, 2006.
+
+
+
+
+(3) Requirements on development and application of formulariesIf a PDP sponsor of a prescription drug plan uses a formulary (including the use of tiered cost-sharing), the following requirements must be met:(A) Development and revision by a pharmacy and therapeutic (P&amp;T) committee(i) In generalThe formulary must be developed and reviewed by a pharmacy and therapeutic committee. A majority of the members of such committee shall consist of individuals who are practicing physicians or practicing pharmacists (or both).
+
+
+(ii) Inclusion of independent expertsSuch committee shall include at least one practicing physician and at least one practicing pharmacist, each of whom—(I) is independent and free of conflict with respect to the sponsor and plan; and
+
+(II) has expertise in the care of elderly or disabled persons.
+
+
+
+(B) Formulary developmentIn developing and reviewing the formulary, the committee shall—(i) base clinical decisions on the strength of scientific evidence and standards of practice, including assessing peer-reviewed medical literature, such as randomized clinical trials, pharmacoeconomic studies, outcomes research data, and on such other information as the committee determines to be appropriate; and
+
+(ii) take into account whether including in the formulary (or in a tier in such formulary) particular covered part D drugs has therapeutic advantages in terms of safety and efficacy.
+
+
+(C) Inclusion of drugs in all therapeutic categories and classes(i) In generalSubject to subparagraph (G), the formulary must include drugs within each therapeutic category and class of covered part D drugs, although not necessarily all drugs within such categories and classes.
+
+
+(ii) Model guidelinesThe Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classification from time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
+
+
+(iii) Limitation on changes in therapeutic classificationThe PDP sponsor of a prescription drug plan may not change the therapeutic categories and classes in a formulary other than at the beginning of each plan year except as the Secretary may permit to take into account new therapeutic uses and newly approved covered part D drugs.
+
+
+
+(D) Provider and patient educationThe PDP sponsor shall establish policies and procedures to educate and inform health care providers and enrollees concerning the formulary.
+
+
+(E) Notice before removing drug from formulary or changing preferred or tier status of drugAny removal of a covered part D drug from a formulary and any change in the preferred or tiered cost-sharing status of such a drug shall take effect only after appropriate notice is made available (such as under subsection (a)(3) of this section) to the Secretary, affected enrollees, physicians, pharmacies, and pharmacists.
+
+
+(F) Periodic evaluation of protocolsIn connection with the formulary, the sponsor of a prescription drug plan shall provide for the periodic evaluation and analysis of treatment protocols and procedures.
+
+
+(G) Required inclusion of drugs in certain categories and classes(i) Formulary requirements(I) In generalSubject to subclause (II), a PDP sponsor offering a prescription drug plan shall be required to include all covered part D drugs in the categories and classes identified by the Secretary under clause (ii)(I).
+
+
+(II) ExceptionsThe Secretary may establish exceptions that permit a PDP sponsor offering a prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under subclause (I) (or to otherwise limit access to such a drug, including through prior authorization or utilization management).
+
+
+
+(ii) Identification of drugs in certain categories and classes(I) In generalSubject to clause (iv), the Secretary shall identify, as appropriate, categories and classes of drugs for which the Secretary determines are of clinical concern.
+
+
+(II) CriteriaThe Secretary shall use criteria established by the Secretary in making any determination under subclause (I).
+
+
+
+(iii) ImplementationThe Secretary shall establish the criteria under clause (ii)(II) and any exceptions under clause (i)(II) through the promulgation of a regulation which includes a public notice and comment period.
+
+
+(iv) Requirement for certain categories and classes until criteria establishedUntil such time as the Secretary establishes the criteria under clause (ii)(II) the following categories and classes of drugs shall be identified under clause (ii)(I):(I) Anticonvulsants.
+
+(II) Antidepressants.
+
+(III) Antineoplastics.
+
+(IV) Antipsychotics.
+
+(V) Antiretrovirals.
+
+(VI) Immunosuppressants for the treatment of transplant rejection.
+
+
+
+(H) Use of single, uniform exceptions and appeals processNotwithstanding any other provision of this part, each PDP sponsor of a prescription drug plan shall—(i) use a single, uniform exceptions and appeals process (including, to the extent the Secretary determines feasible, a single, uniform model form for use under such process) with respect to the determination of prescription drug coverage for an enrollee under the plan; and
+
+(ii) provide instant access to such process by enrollees through a toll-free telephone number and an Internet website.
+
+
+
+
+(c) Cost and utilization management; quality assurance; medication therapy management program(1) In generalThe PDP sponsor shall have in place, directly or through appropriate arrangements, with respect to covered part D drugs, the following:(A) A cost-effective drug utilization management program, including incentives to reduce costs when medically appropriate, such as through the use of multiple source drugs (as defined in section 1396r–8(k)(7)(A)(i) of this title).
+
+(B) Quality assurance measures and systems to reduce medication errors and adverse drug interactions and improve medication use.
+
+(C) A medication therapy management program described in paragraph (2).
+
+(D) A program to control fraud, abuse, and waste.
+
+
+Nothing in this section shall be construed as impairing a PDP sponsor from utilizing cost management tools (including differential payments) under all methods of operation.
+
+(2) Medication therapy management program(A) Description(i) In generalA medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and that is designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
+
+
+(ii) Targeted beneficiaries describedTargeted beneficiaries described in this clause are part D eligible individuals who—(I) have multiple chronic diseases (such as diabetes, asthma, hypertension, hyperlipidemia, and congestive heart failure);
+
+(II) are taking multiple covered part D drugs; and
+
+(III) are identified as likely to incur annual costs for covered part D drugs that exceed a level specified by the Secretary.
+
+
+
+(B) ElementsSuch program may include elements that promote—(i) enhanced enrollee understanding to promote the appropriate use of medications by enrollees and to reduce the risk of potential adverse events associated with medications, through beneficiary education, counseling, and other appropriate means;
+
+(ii) increased enrollee adherence with prescription medication regimens through medication refill reminders, special packaging, and other compliance programs and other appropriate means; and
+
+(iii) detection of adverse drug events and patterns of overuse and underuse of prescription drugs.
+
+
+(C) Required interventionsFor plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offer medication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:(i) An annual comprehensive medication review furnished person-to-person or using telehealth technologies (as defined by the Secretary) by a licensed pharmacist or other qualified provider. The comprehensive medication review—(I) shall include a review of the individual’s medications and may result in the creation of a recommended medication action plan or other actions in consultation with the individual and with input from the prescriber to the extent necessary and practicable; and
+
+(II) shall include providing the individual with a written or printed summary of the results of the review.
+
+
+
+ The Secretary, in consultation with relevant stakeholders, shall develop a standardized format for the action plan under subclause (I) and the summary under subclause (II).
+(ii) Follow-up interventions as warranted based on the findings of the annual medication review or the targeted medication enrollment and which may be provided person-to-person or using telehealth technologies (as defined by the Secretary).
+
+
+(D) AssessmentThe prescription drug plan sponsor shall have in place a process to assess, at least on a quarterly basis, the medication use of individuals who are at risk but not enrolled in the medication therapy management program, including individuals who have experienced a transition in care, if the prescription drug plan sponsor has access to that information.
+
+
+(E) 11 So in original. Two subpars. (E) have been enacted. Automatic enrollment with ability to opt-outThe prescription drug plan sponsor shall have in place a process to—(i) subject to clause (ii), automatically enroll targeted beneficiaries described in subparagraph (A)(ii), including beneficiaries identified under subparagraph (D), in the medication therapy management program required under this subsection; and
+
+(ii) permit such beneficiaries to opt-out of enrollment in such program.
+
+
+(E) 1 Development of program in cooperation with licensed pharmacistsSuch program shall be developed in cooperation with licensed and practicing pharmacists and physicians.
+
+
+(F) Coordination with care management plansThe Secretary shall establish guidelines for the coordination of any medication therapy management program under this paragraph with respect to a targeted beneficiary with any care management plan established with respect to such beneficiary under a chronic care improvement program under section 1395b–8 of this title.
+
+
+(G) Considerations in pharmacy feesThe PDP sponsor of a prescription drug plan shall take into account, in establishing fees for pharmacists and others providing services under such plan, the resources used, and time required to, implement the medication therapy management program under this paragraph. Each such sponsor shall disclose to the Secretary upon request the amount of any such management or dispensing fees. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed under this subparagraph.
+
+
+
+(3) Reducing wasteful dispensing of outpatient prescription drugs in long-term care facilitiesThe Secretary shall require PDP sponsors of prescription drug plans to utilize specific, uniform dispensing techniques, as determined by the Secretary, in consultation with relevant stakeholders (including representatives of nursing facilities, residents of nursing facilities, pharmacists, the pharmacy industry (including retail and long-term care pharmacy), prescription drug plans, MA–PD plans, and any other stakeholders the Secretary determines appropriate), such as weekly, daily, or automated dose dispensing, when dispensing covered part D drugs to enrollees who reside in a long-term care facility in order to reduce waste associated with 30-day fills.
+
+
+
+(d) Consumer satisfaction surveysIn order to provide for comparative information under section 1395w–101(c)(3)(A)(v) of this title, the Secretary shall conduct consumer satisfaction surveys with respect to PDP sponsors and prescription drug plans in a manner similar to the manner such surveys are conducted for MA organizations and MA plans under part C of this subchapter.
+
+
+(e) Electronic prescription program(1) Application of standardsAs of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance with such standards under an electronic prescription drug program that meets the requirements of paragraph (2).
+
+
+(2) Program requirementsConsistent with uniform standards established under paragraph (3)—(A) Provision of information to prescribing health care professional and dispensing pharmacies and pharmacistsAn electronic prescription drug program shall provide for the electronic transmittal to the prescribing health care professional and to the dispensing pharmacy and pharmacist of the prescription and information on eligibility and benefits (including the drugs included in the applicable formulary, any tiered formulary structure, and any requirements for prior authorization) and of the following information with respect to the prescribing and dispensing of a covered part D drug:(i) Information on the drug being prescribed or dispensed and other drugs listed on the medication history, including information on drug-drug interactions, warnings or cautions, and, when indicated, dosage adjustments.
+
+(ii) Information on the availability of lower cost, therapeutically appropriate alternatives (if any) for the drug prescribed.
+
+
+(B) Application to medical history informationEffective on and after such date as the Secretary specifies and after the establishment of appropriate standards to carry out this subparagraph, the program shall provide for the electronic transmittal in a manner similar to the manner under subparagraph (A) of information that relates to the medical history concerning the individual and related to a covered part D drug being prescribed or dispensed, upon request of the professional or pharmacist involved.
+
+
+(C) LimitationsInformation shall only be disclosed under subparagraph (A) or (B) if the disclosure of such information is permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
+
+
+(D) TimingTo the extent feasible, the information exchanged under this paragraph shall be on an interactive, real-time basis.
+
+
+
+(3) Standards(A) In generalThe Secretary shall provide consistent with this subsection for the promulgation of uniform standards relating to the requirements for electronic prescription drug programs under paragraph (2).
+
+
+(B) ObjectivesSuch standards shall be consistent with the objectives of improving—(i) patient safety;
+
+(ii) the quality of care provided to patients; and
+
+(iii) efficiencies, including cost savings, in the delivery of care.
+
+
+(C) Design criteriaSuch standards shall—(i) be designed so that, to the extent practicable, the standards do not impose an undue administrative burden on prescribing health care professionals and dispensing pharmacies and pharmacists;
+
+(ii) be compatible with standards established under part C of subchapter XI of this chapter, standards established under subsection (b)(2)(B)(i) of this section, and with general health information technology standards; and
+
+(iii) be designed so that they permit electronic exchange of drug labeling and drug listing information maintained by the Food and Drug Administration and the National Library of Medicine.
+
+
+(D) Permitting use of appropriate messagingSuch standards shall allow for the messaging of information only if it relates to the appropriate prescribing of drugs, including quality assurance measures and systems referred to in subsection (c)(1)(B) of this section.
+
+
+(E) Permitting patient designation of dispensing pharmacy(i) In generalConsistent with clause (ii), such standards shall permit a part D eligible individual to designate a particular pharmacy to dispense a prescribed drug.
+
+
+(ii) No change in benefitsClause (i) shall not be construed as affecting—(I) the access required to be provided to pharmacies by a prescription drug plan; or
+
+(II) the application of any differences in benefits or payments under such a plan based on the pharmacy dispensing a covered part D drug.
+
+
+
+
+(4) Development, promulgation, and modification of standards(A) Initial standardsNot later than September 1, 2005, the Secretary shall develop, adopt, recognize, or modify initial uniform standards relating to the requirements for electronic prescription drug programs described in paragraph (2) taking into consideration the recommendations (if any) from the National Committee on Vital and Health Statistics (as established under section 242k(k) of this title) under subparagraph (B).
+
+
+(B) Role of NCVHSThe National Committee on Vital and Health Statistics shall develop recommendations for uniform standards relating to such requirements in consultation with the following:(i) Standard setting organizations (as defined in section 1320d(8) of this title) 22 So in original. Probably should be followed by a period.
+
+(ii) Practicing physicians.
+
+(iii) Hospitals.
+
+(iv) Pharmacies.
+
+(v) Practicing pharmacists.
+
+(vi) Pharmacy benefit managers.
+
+(vii) State boards of pharmacy.
+
+(viii) State boards of medicine.
+
+(ix) Experts on electronic prescribing.
+
+(x) Other appropriate Federal agencies.
+
+
+(C) Pilot project to test initial standards(i) In generalDuring the 1-year period that begins on January 1, 2006, the Secretary shall conduct a pilot project to test the initial standards developed under subparagraph (A) prior to the promulgation of the final uniform standards under subparagraph (D) in order to provide for the efficient implementation of the requirements described in paragraph (2).
+
+
+(ii) ExceptionPilot testing of standards is not required under clause (i) where there already is adequate industry experience with such standards, as determined by the Secretary after consultation with effected standard setting organizations and industry users.
+
+
+(iii) Voluntary participation of physicians and pharmaciesIn order to conduct the pilot project under clause (i), the Secretary shall enter into agreements with physicians, physician groups, pharmacies, hospitals, PDP sponsors, MA organizations, and other appropriate entities under which health care professionals electronically transmit prescriptions to dispensing pharmacies and pharmacists in accordance with such standards.
+
+
+(iv) Evaluation and report(I) EvaluationThe Secretary shall conduct an evaluation of the pilot project conducted under clause (i).
+
+
+(II) Report to CongressNot later than April 1, 2007, the Secretary shall submit to Congress a report on the evaluation conducted under subclause (I).
+
+
+
+
+(D) Final standardsBased upon the evaluation of the pilot project under subparagraph (C)(iv)(I) and not later than April 1, 2008, the Secretary shall promulgate uniform standards relating to the requirements described in paragraph (2).
+
+
+
+(5) Relation to State lawsThe standards promulgated under this subsection shall supersede any State law or regulation that—(A) is contrary to the standards or restricts the ability to carry out this part; and
+
+(B) pertains to the electronic transmission of medication history and of information on eligibility, benefits, and prescriptions with respect to covered part D drugs under this part.
+
+
+(6) Establishment of safe harborThe Secretary, in consultation with the Attorney General, shall promulgate regulations that provide for a safe harbor from sanctions under paragraphs (1) and (2) of section 1320a–7b(b) of this title and an exception to the prohibition under subsection (a)(1) of section 1395nn of this title with respect to the provision of nonmonetary remuneration (in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information in accordance with the standards promulgated under this subsection—(A) in the case of a hospital, by the hospital to members of its medical staff;
+
+(B) in the case of a group practice (as defined in section 1395nn(h)(4) of this title), by the practice to prescribing health care professionals who are members of such practice; and
+
+(C) in the case of a PDP sponsor or MA organization, by the sponsor or organization to pharmacists and pharmacies participating in the network of such sponsor or organization, and to prescribing health care professionals.
+
+
+
+(f) Grievance mechanismEach PDP sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor provides covered benefits) and enrollees with prescription drug plans of the sponsor under this part in accordance with section 1395w–22(f) of this title.
+
+
+(g) Coverage determinations and reconsiderations(1) Application of coverage determination and reconsideration provisionsA PDP sponsor shall meet the requirements of paragraphs (1) through (3) of section 1395w–22(g) of this title with respect to covered benefits under the prescription drug plan it offers under this part in the same manner as such requirements apply to an MA organization with respect to benefits it offers under an MA plan under part C of this subchapter.
+
+
+(2) Request for a determination for the treatment of tiered formulary drugIn the case of a prescription drug plan offered by a PDP sponsor that provides for tiered cost-sharing for drugs included within a formulary and provides lower cost-sharing for preferred drugs included within the formulary, a part D eligible individual who is enrolled in the plan may request an exception to the tiered cost-sharing structure. Under such an exception, a nonpreferred drug could be covered under the terms applicable for preferred drugs if the prescribing physician determines that the preferred drug for treatment of the same condition either would not be as effective for the individual or would have adverse effects for the individual or both. A PDP sponsor shall have an exceptions process under this paragraph consistent with guidelines established by the Secretary for making a determination with respect to such a request. Denial of such an exception shall be treated as a coverage denial for purposes of applying subsection (h) of this section.
+
+
+
+(h) Appeals(1) In generalSubject to paragraph (2), a PDP sponsor shall meet the requirements of paragraphs (4) and (5) of section 1395w–22(g) of this title with respect to benefits (including a determination related to the application of tiered cost-sharing described in subsection (g)(2) of this section) in a manner similar (as determined by the Secretary) to the manner such requirements apply to an MA organization with respect to benefits under the original medicare fee-for-service program option it offers under an MA plan under part C of this subchapter. In applying this paragraph only the part D eligible individual shall be entitled to bring such an appeal.
+
+
+(2) Limitation in cases on nonformulary determinationsA part D eligible individual who is enrolled in a prescription drug plan offered by a PDP sponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformulary drug, would have adverse effects for the individual, or both.
+
+
+(3) Treatment of nonformulary determinationsIf a PDP sponsor determines that a plan provides coverage for a covered part D drug that is not on the formulary of the plan, the drug shall be treated as being included on the formulary for purposes of section 1395w–102(b)(4)(C)(i) of this title.
+
+
+
+(i) Privacy, confidentiality, and accuracy of enrollee recordsThe provisions of section 1395w–22(h) of this title shall apply to a PDP sponsor and prescription drug plan in the same manner as it applies to an MA organization and an MA plan.
+
+
+(j) Treatment of accreditationSubparagraph (A) of section 1395w–22(e)(4) of this title (relating to treatment of accreditation) shall apply to a PDP sponsor under this part with respect to the following requirements, in the same manner as it applies to an MA organization with respect to the requirements in subparagraph (B) (other than clause (vii) thereof) of such section:(1) Subsection (b) of this section (relating to access to covered part D drugs).
+
+(2) Subsection (c) of this section (including quality assurance and medication therapy management).
+
+(3) Subsection (i) of this section (relating to confidentiality and accuracy of enrollee records).
+
+
+(k) Public disclosure of pharmaceutical prices for equivalent drugs(1) In generalA PDP sponsor offering a prescription drug plan shall provide that each pharmacy that dispenses a covered part D drug shall inform an enrollee of any differential between the price of the drug to the enrollee and the price of the lowest priced generic covered part D drug under the plan that is therapeutically equivalent and bioequivalent and available at such pharmacy.
+
+
+(2) Timing of notice(A) In generalSubject to subparagraph (B), the information under paragraph (1) shall be provided at the time of purchase of the drug involved, or, in the case of dispensing by mail order, at the time of delivery of such drug.
+
+
+(B) WaiverThe Secretary may waive subparagraph (A) in such circumstances as the Secretary may specify.
+
+
+
+
+(l) Requirements with respect to sales and marketing activitiesThe following provisions shall apply to a PDP sponsor (and the agents, brokers, and other third parties representing such sponsor) in the same manner as such provisions apply to a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization):(1) The prohibition under section 1395w–21(h)(4)(C) of this title on conducting activities described in section 1395w–21(j)(1) of this title.
+
+(2) The requirement under section 1395w–21(h)(4)(D) of this title to conduct activities described in section 1395w–21(j)(2) of this title in accordance with the limitations established under such subsection.
+
+(3) The inclusion of the plan type in the plan name under section 1395w–21(h)(6) of this title.
+
+(4) The requirements regarding the appointment of agents and brokers and compliance with State information requests under subparagraphs (A) and (B), respectively, of section 1395w–21(h)(7) of this title.
+
+
+(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–4, as added Pub. L. 108–173, title I, § 101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§ 103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§ 3307(a), 3310(a), 3312(a), title X, § 10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964.)
+
+
+References in TextSection 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(2)(C), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+
+Amendments2010—Subsec. (b)(3)(G). Pub. L. 111–148, § 3307(a), amended subpar. (G) generally. Prior to amendment, subpar. (G) related to required inclusion of drugs in certain categories and classes.
+Subsec. (b)(3)(H). Pub. L. 111–148, § 3312(a), added subpar. (H).
+Subsec. (c)(2)(C) to (G). Pub. L. 111–148, § 10328(a), added subpars. (C) to (E) and redesignated former subpars. (C) to(E) as (E) to (G), respectively.
+Subsec. (c)(3). Pub. L. 111–148, § 3310(a), added par. (3).
+2008—Subsec. (b)(3)(C)(i). Pub. L. 110–275, § 176(1), substituted “Subject to subparagraph (G), the formulary” for “The formulary”.
+Subsec. (b)(3)(G). Pub. L. 110–275, § 176(2), added subpar. (G).
+Subsec. (l). Pub. L. 110–275, § 103(a)(2), added subsec. (l).
+Subsec. (l)(2). Pub. L. 110–275, § 103(b)(2), added par. (2).
+Subsec. (l)(3). Pub. L. 110–275, § 103(c)(2), added par. (3).
+Subsec. (l)(4). Pub. L. 110–275, § 103(d)(2), added par. (4).
+
+Effective Date of 2010 AmendmentPub. L. 111–148, title III, § 3307(b), Mar. 23, 2010, 124 Stat. 472, provided that: “The amendments made by this section [amending this section] shall apply to plan year 2011 and subsequent plan years.”
+
+Pub. L. 111–148, title III, § 3310(b), Mar. 23, 2010, 124 Stat. 475, provided that: “The amendment made by subsection (a) [amending this section] shall apply to plan years beginning on or after January 1, 2012.”
+
+Pub. L. 111–148, title III, § 3312(b), Mar. 23, 2010, 124 Stat. 476, provided that: “The amendment made by subsection (a) [amending this section] shall apply to exceptions and appeals on or after January 1, 2012.”
+
+
+Effective Date of 2008 AmendmentAmendment by section 103(a)(2) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 103(a)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
+Amendment by section 103(b)(2) of Pub. L. 110–275 effective on a date specified by the Secretary (but in no case later than Nov. 15, 2008), see section 103(b)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
+Amendment by section 103(d)(2) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 103(d)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
+
+Rule of ConstructionPub. L. 111–148, title X, § 10328(b), Mar. 23, 2010, 124 Stat. 965, provided that: “Nothing in this section [amending this section] shall limit the authority of the Secretary of Health and Human Services to modify or broaden requirements for a medication therapy management program under part D of title XVIII of the Social Security Act [42 U.S.C. 1395w–101 et seq.] or to study new models for medication therapy management through the Center for Medicare and Medicaid Innovation under section 1115A of such Act [42 U.S.C. 1315a], as added by section 3021 [of Pub. L. 111–148].”
+
+
+Grants to Physicians To Implement Electronic Prescription Drug ProgramsPub. L. 108–173, title I, § 108, Dec. 8, 2003, 117 Stat. 2172, provided that:
+“(a) In General.—The Secretary [of Health and Human Services] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act [42 U.S.C. 1395w–104(e)], as inserted by section 101(a).
+
+“(b) Awarding of Grants.—“(1) Application.—No grant may be made under this section except pursuant to a grant application that is submitted and approved in a time, manner, and form specified by the Secretary.
+
+“(2) Considerations and preferences.—In awarding grants under this section, the Secretary shall—“(A) give special consideration to physicians who serve a disproportionate number of medicare patients; and
+
+“(B) give preference to physicians who serve a rural or underserved area.
+
+
+“(3) Limitation on grants.—Only 1 grant may be awarded under this section with respect to any physician or group practice of physicians.
+
+
+“(c) Terms and Conditions.—“(1) In general.—Grants under this section shall be made under such terms and conditions as the Secretary specifies consistent with this section.
+
+“(2) Use of grant funds.—Funds provided under grants under this section may be used for any of the following:“(A) For purchasing, leasing, and installing computer software and hardware, including handheld computer technologies.
+
+“(B) Making upgrades and other improvements to existing computer software and hardware to enable e-prescribing.
+
+“(C) Providing education and training to eligible physician staff on the use of technology to implement the electronic transmission of prescription and patient information.
+
+
+“(3) Provision of information.—As a condition for the awarding of a grant under this section, an applicant shall provide to the Secretary such information as the Secretary may require in order to—“(A) evaluate the project for which the grant is made; and
+
+“(B) ensure that funding provided under the grant is expended only for the purposes for which it is made.
+
+
+“(4) Audit.—The Secretary shall conduct appropriate audits of grants under this section.
+
+“(5) Matching requirement.—The applicant for a grant under this section shall agree, with respect to the costs to be incurred by the applicant in implementing an electronic prescription drug program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs. Non-Federal contributions under the previous sentence may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
+
+
+“(d) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 and 2009.”
+
+
+
+
+

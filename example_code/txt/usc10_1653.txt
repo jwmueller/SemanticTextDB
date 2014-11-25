@@ -1,0 +1,35 @@
+“SEC. 234. THEATER MISSILE DEFENSE ARCHITECTURE.“(a) Establishment of Core Program.—To implement the policy established in paragraph (1) of section 233, the Secretary of Defense shall restructure the core theater missile defense program to consist of the following systems:“(1) The Patriot PAC–3 system.
+
+“(2) The Navy Area Defense system.
+
+“(3) The Theater High-Altitude Area Defense (THAAD) system.
+
+“(4) The Navy Theater Wide system.
+
+
+“(b) Use of Streamlined Acquisition Procedures.—The Secretary of Defense shall prescribe and use streamlined acquisition policies and procedures to reduce the cost and increase the efficiency of developing and deploying the theater missile defense systems specified in subsection (a).
+
+“(c) Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of the systems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—“(A) the Cooperative Engagement Capability (CEC) system of the Navy;
+
+“(B) airborne sensors; and
+
+“(C) space-based sensors (including, in particular, the Space and Missile Tracking System).
+
+
+“(d) Follow-on Systems.—(1) The Secretary of Defense shall prepare an affordable development plan for theater missile defense systems to be developed as follow-on systems to the core systems specified in subsection (a). The Secretary shall make the selection of a system for inclusion in the plan based on the capability of the system to satisfy military requirements not met by the systems in the core program and on the capability of the system to use prior investments in technologies, infrastructure, and battle-management capabilities that are incorporated in, or associated with, the systems in the core program.
+
+“(2) The Secretary may not proceed with the development of a follow-on theater missile defense system beyond the Demonstration/Validation stage of development unless the Secretary designates that system as a part of the core program under this section and submits to the congressional defense committees [Committees on Armed Services and on Appropriations of the Senate and House of Representatives] notice of that designation. The Secretary shall include with any such notification a report describing—“(A) the requirements for the system and the specific threats that such system is designed to counter;
+
+“(B) how the system will relate to, support, and build upon existing core systems;
+
+“(C) the planned acquisition strategy for the system; and
+
+“(D) a preliminary estimate of total program cost for that system and the effect of development and acquisition of such system on Department of Defense budget projections.
+
+
+
+“(e) Program Accountability Report.—(1) As part of the annual report of the Ballistic Missile Defense Organization [now Missile Defense Agency] required by section 224 of Public Law 101–189 (10 U.S.C. 2431 note), the Secretary of Defense shall describe the technical milestones, the schedule, and the cost of each phase of development and acquisition (together with total estimated program costs) for each core and follow-on theater missile defense program.
+
+“(2) As part of such report, the Secretary shall describe, with respect to each program covered in the report, any variance in the technical milestones, program schedule milestones, and costs for the program compared with the information relating to that program in the report submitted in the previous year and in the report submitted in the first year in which that program was covered.
+
+

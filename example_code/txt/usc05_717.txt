@@ -1,0 +1,111 @@
+§ 6301. Definitions
+For the purpose of this subchapter—(1) “United States”, when used in a geographical sense means the several States and the District of Columbia; and
+
+(2) “employee” means—(A) an employee as defined by section 2105 of this title; and
+
+(B) an individual first employed by the government of the District of Columbia before October 1, 1987;
+
+
+but does not include—
+(i) a teacher or librarian of the public schools of the District of Columbia;
+
+(ii) a part-time employee who does not have an established regular tour of duty during the administrative workweek;
+
+(iii) a temporary employee engaged in construction work at an hourly rate;
+
+(iv) an employee of the Panama Canal Commission when employed on the Isthmus of Panama;
+
+(v) a physician, dentist, or nurse in the Veterans Health Administration of the Department of Veterans Affairs;
+
+(vi) an employee of either House of Congress or of the two Houses;
+
+(vii) an employee of a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
+
+(viii) an alien employee who occupies a position outside the United States, except as provided by section 6310 of this title;
+
+(ix) a “teacher” or an individual holding a “teaching position” as defined by section 901 of title 20;
+
+(x) an officer in the executive branch or in the government of the District of Columbia who is appointed by the President and whose rate of basic pay exceeds the highest rate payable under section 5332 of this title;
+
+(xi) an officer in the executive branch or in the government of the District of Columbia who is designated by the President, except a postmaster, United States attorney, or United States marshal;
+
+(xii) a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980); or
+
+(xiii) an officer in the legislative or judicial branch who is appointed by the President.
+
+
+
+Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, § 6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, § 1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, § 3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§ 2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, § 207(c)(1), formerly § 207(c), June 6, 1986, 100 Stat. 595, renumbered § 207(c)(1), Pub. L. 99–556, title II, § 201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, § 13(b)(2), June 13, 1991, 105 Stat. 274.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+(1)5 U.S.C. 2061(d).Sept. 6, 1960, Pub. L. 86–707, § 402(c), 74 Stat. 800.
+(2)5 U.S.C. 2061(a), (b), (c)(1) (less last sentence).Oct. 30, 1951, ch. 631, § 202, 65 Stat. 679.July 2, 1953, ch. 178, § 1 “(c)(1) (less last sentence)”, 67 Stat. 136.
+  Sept. 6, 1960, Pub. L. 86–707, § 402(a), 74 Stat. 800.
+  Aug. 21, 1964, Pub. L. 88–471, § 6(a), 78 Stat. 583.
+ 5 U.S.C. 2067.Aug. 21, 1964, Pub. L. 88–471, § 1, 78 Stat. 582.
+ 5 U.S.C. 2358(a) (less applicability to the Federal Employees Pay Act of 1945, as amended).July 17, 1959, Pub. L. 86–91, § 10(a) (less applicability to the Federal Employees Pay Act of 1945, as amended), 73 Stat. 217.
+
+
+In paragraph (1), the words “when used in a geographical sense” are added for clarity.
+In paragraph (2), the words “an employee as defined by section 2105 of this title” are coextensive with and substituted for “civilian officers and employees of the United States . . . including officers and employees of corporations wholly owned or controlled by the United States”. Specific reference to officers and members of the Metropolitan Police force of the District of Columbia, the Fire Department of the District of Columbia, the United States Park Police force, and the White House Police force, as set forth in former section 2067, is omitted as unnecessary in view of the provisions of paragraph (2)(A), (B). The exception for “commissioned officers of the Public Health Service” and “commissioned officers of the Coast and Geodetic Survey” in former section 2061(b)(1)(E), (F) is omitted as unnecessary since these officers are excluded by the definition of the word “employee” in section 2105.
+In paragraph (2)(ix), the words “as defined by section 901 of title 20” are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+
+References in TextSection 102(a)(3) of the Foreign Service Act of 1980, referred to in par. (2)(xii), was redesignated section 102(3) of that Act by Pub. L. 98–164, which struck out the designation “(a)” and struck out subsec. (b) of section 102. Section 102 is classified to section 3902 of Title 22, Foreign Relations and Intercourse.
+Section 312 of the Foreign Service Act of 1980, referred to in text, is classified to section 3952 of Title 22.
+
+Amendments1991—Par. (2)(v). Pub. L. 102–54 substituted “Veterans Health Administration of the Department of Veterans Affairs” for “Department of Medicine and Surgery, Veterans’ Administration”.
+1986—Par. (2)(B). Pub. L. 99–335 amended subpar. (B) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+1980—Pub. L. 96–465, § 2312(a), inserted provision at end of par. (2) extending definition of “employee” notwithstanding cls. (x) to (xii) of par. (2).
+Par. (2)(xii). Pub. L. 96–465, § 2314(f)(1), substituted “a chief of mission (as defined in section 102(a)(3) of the Foreign Service Act of 1980)” for “an officer who receives pay under section 866 of title 22”.
+1979—Par. (2)(iv). Pub. L. 96–70 substituted “Panama Canal Commission” for “Canal Zone Government or the Panama Canal Company”.
+1978—Par. (2)(xiii). Pub. L. 95–519 added cl. (xiii).
+1970—Par. (2)(ii). Pub. L. 91–375 struck out “, except an hourly employee in the postal field service,” after “part-time employee”.
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+Effective Date of 1979 AmendmentAmendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–519 effective beginning on first day of first applicable pay period beginning on or after Oct. 25, 1978, see section 4(a) of Pub. L. 95–519, set out as a note under section 5551 of this title.
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+Short Title of 1999 AmendmentPub. L. 106–56, § 1(a), Sept. 24, 1999, 113 Stat. 407, provided that: “This Act [amending section 6327 of this title and renumbering another section 6327 of this title as section 6328] may be cited as the ‘Organ Donor Leave Act’.”
+
+
+Short Title of 1994 AmendmentPub. L. 103–388, § 1, Oct. 22, 1994, 108 Stat. 4079, provided that: “This Act [amending section 6307 of this title] may be cited as the ‘Federal Employees Family Friendly Leave Act’.”
+
+
+Short Title of 1993 AmendmentPub. L. 103–103, § 1, Oct. 8, 1993, 107 Stat. 1022, provided that: “This Act [amending sections 6331, 6337, 6361, 6362, and 6373 of this title, enacting provisions set out as notes under section 6331 of this title, and repealing provisions set out as a note under section 6331 of this title] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
+
+
+Short Title of 1988 AmendmentPub. L. 100–566, § 1, Oct. 31, 1988, 102 Stat. 2834, provided that: “This Act [enacting subchapters III and IV of this chapter, amending sections 5724 and 8112 of this title, and enacting provisions set out as notes under section 6331 of this title] may be cited as the ‘Federal Employees Leave Sharing Act of 1988’.”
+
+
+Employees of the District of ColumbiaPub. L. 99–335, title II, § 207(c)(2), as added by Pub. L. 99–556, title II, § 201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) [amending this section] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
+
+
+
+Executive Order No. 10540
+Ex. Ord. No. 10540, June 29, 1954, 19 F.R. 3983, which related to the designation of certain officers as exempt from the Annual and Sick Leave Act of 1951, was revoked by section 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
+
+

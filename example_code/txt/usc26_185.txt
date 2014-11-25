@@ -1,0 +1,61 @@
+“SEC. 1312. TRANSITIONAL RULES FOR CONSTRUCTION OR BINDING AGREEMENTS AND CERTAIN GOVERNMENT BONDS ISSUED AFTER AUGUST 15, 1986.“(a) Exception for Construction or Binding Agreements.—“(1) In general.—The amendments made by section 1301 [for classification see section 1311(a) of this note] shall not apply to bonds (other than a refunding bond) with respect to a facility—“(A)(i) the original use of which commences with the taxpayer, and the construction, reconstruction, or rehabilitation of which began before September 26, 1985, and was completed on or after such date,
+
+“(ii) the original use of which begins with the taxpayer and with respect to which a binding contract to incur significant expenditures for construction, reconstruction, or rehabilitation was entered into before September 26, 1985, and some of such expenditures are incurred on or after such date, or
+
+“(iii) acquired on or after September 26, 1985, pursuant to a binding contract entered into before such date, and
+
+
+“(B) described in an inducement resolution or other comparable preliminary approval adopted by an issuing authority (or by a voter referendum) before September 26, 1985.
+
+
+“(2) Significant expenditures.—For purposes of paragraph (1)(A), the term ‘significant expenditures’ means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
+
+
+“(b) Certain Amendments To Apply to Bonds Under Subsection (a) Transitional Rule.—“(1) In general.—In the case of a bond issued after August 15, 1986, and to which subsection (a) of this section applies, the requirements of the following provisions shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code:“(A) The requirement that 95 percent or more of the net proceeds of an issue are to be used for a purpose described in section 103(b)(4) or (5) of such Code in order for section 103(b)(4) or (5) of such Code to apply, including the application of section 142(b)(2) of the 1986 Code (relating to limitation on office space).
+
+“(B) The requirement that 95 percent or more of the net proceeds of an issue are to be used for a purpose described in section 103(b)(6)(A) of the 1954 Code in order for section 103(b)(6)(A) of such Code to apply.
+
+“(C) The requirements of section 143 of the 1986 Code (relating to qualified mortgage bonds and qualified veterans’ mortgage bonds) in order for section 103A(b)(2) of the 1954 Code to apply.
+
+“(D) The requirements of section 144(a)(11) of the 1986 Code (relating to limitation on acquisition of depreciable farm property) in order for section 103(b)(6)(A) of the 1954 Code to apply.
+
+“(E) The requirements of section 147(b) of the 1986 Code (relating to maturity may not exceed 120 percent of economic life).
+
+“(F) The requirements of section 147(f) of the 1986 Code (relating to public approval required for private activity bonds).
+
+“(G) The requirements of section 147(g) of the 1986 Code (relating to restriction on issuance costs financed by issue).
+
+“(H) The requirements of section 148 of the 1986 Code (relating to arbitrage).
+
+“(I) The requirements of section 149(e) of the 1986 Code (relating to information reporting).
+
+“(J) The provisions of section 150(b) of the 1986 Code (relating to changes in use).
+
+
+“(2) Certain requirements apply only to bonds issued after december 31, 1986.—In the case of subparagraphs (F) and (I) of paragraphs (1), paragraph (1) shall be applied by substituting ‘December 31, 1986’ for ‘August 15, 1986’.
+
+“(3) Application of volume cap.—Except as provided in section 1315, any bond to which this subsection applies shall be treated as a private activity bond for purposes of section 146 of the 1986 Code if such bond would have been taken into account under section 103(n) or 103A(g) of the 1954 Code (determined without regard to any carryforward election) were such bond issued before August 16, 1986.
+
+“(4) Application of provisions.—For purposes of applying the requirements referred to in any subparagraph of paragraph (1) or of subsection (a)(3) or (b)(3) of section 1313 to any bond, such bond shall be treated as described in the subparagraph of section 141(d)(1) of the 1986 Code to which the use of the proceeds of such bond most closely relates.
+
+
+“(c) Special Rules for Certain Government Bonds Issued After August 15, 1986.—“(1) In general.—In the case of any bond described in paragraph (2)—“(A) section 1311(a) and (c) and subsection (b) of this section shall be applied by substituting ‘August 31, 1986’ for ‘August 15, 1986’ each place it appears,
+
+“(B) subsection (b)(1) shall be applied without regard to subparagraphs (F), (G), and (J), and
+
+“(C) such bond shall not be treated as a private activity bond for purposes of applying the requirements referred to in subparagraphs (H) and (I) of subsection (b)(1).
+
+
+“(2) Bond described.—A bond is described in this paragraph if such bond is not—“(A) an industrial development bond, as defined in section 103(b)(2) of the 1954 Code but determined—“(i) by inserting ‘directly or indirectly’ after ‘is’ in the material preceding clause (i) of subparagraph (B) thereof, and
+
+“(ii) without regard to subparagraph (B) of section 103(b)(3) of such Code,
+
+
+“(B) a mortgage subsidy bond (as defined in section 103A(b)(1) of such Code, without regard to any exception from such definition), or
+
+“(C) a private loan bond (as defined in section 103(o)(2)(A) of such Code, without regard to any exception from such definition other than section 103(o)(2)(C) of such Code).
+
+
+
+“(d) Election Out.—This section shall not apply to any issue with respect to which the issuer elects not to have this section apply.
+

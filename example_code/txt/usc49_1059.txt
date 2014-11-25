@@ -1,0 +1,236 @@
+§ 44701. General requirements(a) Promoting Safety.—The Administrator of the Federal Aviation Administration shall promote safe flight of civil aircraft in air commerce by prescribing—(1) minimum standards required in the interest of safety for appliances and for the design, material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers;
+
+(2) regulations and minimum standards in the interest of safety for—(A) inspecting, servicing, and overhauling aircraft, aircraft engines, propellers, and appliances;
+
+(B) equipment and facilities for, and the timing and manner of, the inspecting, servicing, and overhauling; and
+
+(C) a qualified private person, instead of an officer or employee of the Administration, to examine and report on the inspecting, servicing, and overhauling;
+
+
+(3) regulations required in the interest of safety for the reserve supply of aircraft, aircraft engines, propellers, appliances, and aircraft fuel and oil, including the reserve supply of fuel and oil carried in flight;
+
+(4) regulations in the interest of safety for the maximum hours or periods of service of airmen and other employees of air carriers; and
+
+(5) regulations and minimum standards for other practices, methods, and procedure the Administrator finds necessary for safety in air commerce and national security.
+
+
+(b) Prescribing Minimum Safety Standards.—The Administrator may prescribe minimum safety standards for—(1) an air carrier to whom a certificate is issued under section 44705 of this title; and
+
+(2) operating an airport serving any passenger operation of air carrier aircraft designed for at least 31 passenger seats.
+
+
+(c) Reducing and Eliminating Accidents.—The Administrator shall carry out this chapter in a way that best tends to reduce or eliminate the possibility or recurrence of accidents in air transportation. However, the Administrator is not required to give preference either to air transportation or to other air commerce in carrying out this chapter.
+
+(d) Considerations and Classification of Regulations and Standards.—When prescribing a regulation or standard under subsection (a) or (b) of this section or any of sections 44702–44716 of this title, the Administrator shall—(1) consider—(A) the duty of an air carrier to provide service with the highest possible degree of safety in the public interest; and
+
+(B) differences between air transportation and other air commerce; and
+
+
+(2) classify a regulation or standard appropriate to the differences between air transportation and other air commerce.
+
+
+(e) Bilateral Exchanges of Safety Oversight Responsibilities.—(1) In general.—Notwithstanding the provisions of this chapter, the Administrator, pursuant to Article 83 bis of the Convention on International Civil Aviation and by a bilateral agreement with the aeronautical authorities of another country, may exchange with that country all or part of their respective functions and duties with respect to registered aircraft under the following articles of the Convention: Article 12 (Rules of the Air); Article 31 (Certificates of Airworthiness); or Article 32a (Licenses of Personnel).
+
+(2) Relinquishment and acceptance of responsibility.—The Administrator relinquishes responsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
+
+(3) Conditions.—The Administrator may predicate, in the agreement, the transfer of functions and duties under this subsection on any conditions the Administrator deems necessary and prudent, except that the Administrator may not transfer responsibilities for United States registered aircraft described in paragraph (4)(A) to a country that the Administrator determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
+
+(4) Registered aircraft defined.—In this subsection, the term “registered aircraft” means—(A) aircraft registered in the United States and operated pursuant to an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in another country; and
+
+(B) aircraft registered in a foreign country and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in the United States.
+
+
+
+(f) Exemptions.—The Administrator may grant an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702–44716 of this title if the Administrator finds the exemption is in the public interest.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1185; Pub. L. 103–429, § 6(55), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title VII, § 714, Apr. 5, 2000, 114 Stat. 161.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+Pub. L. 103–272
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+44701(a)49 App.:1421(a).Aug. 23, 1958, Pub. L. 85–726, §§ 601(a), (b) (1st sentence related to standards, rules, and regulations, last sentence), (c), 604(a) (related to standards), 72 Stat. 775, 778.
+ 49 App.:1655(c)(1).Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, § 7(b), 96 Stat. 2444.
+44701(b)49 App.:1424(a) (related to standards).
+ 49 App.:1432(a) (related to standards).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 612(a) (related to standards); added May 21, 1970, Pub. L. 91–258, § 51(b)(1), 84 Stat. 234; restated Sept. 3, 1982, Pub. L. 97–248, § 525(a), 96 Stat. 697.
+ 49 App.:1655(c)(1).
+44701(c)49 App.:1421(b) (last sentence).
+ 49 App.:1655(c)(1).
+44701(d)49 App.:1421(b) (1st sentence related to standards, rules, and regulations).
+ 49 App.:1655(c)(1).
+44701(e)49 App.:1421(c).
+ 49 App.:1655(c)(1).
+
+
+In this section, the word “Administrator” in sections 601(a)–(c) and 604 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 775, 778) is retained on authority of 49:106(g).
+In subsection (a), before clause (1), the words “is empowered and it . . . be his duty to” and “and revising from time to time” are omitted as surplus. In clause (1), the words “as may be” are omitted as surplus. In clauses (2)–(5), the words “Reasonable” and “reasonable” are omitted as surplus and the word “rules” is omitted as being synonymous with “regulations”. In clause (5), the words “to provide adequately” are omitted as surplus.
+In subsection (b)(1), the words “the operation of” are omitted as surplus. The words “under section 44705 of this title” are added for clarity.
+In subsection (b)(2), the words “scheduled or unscheduled” are omitted as surplus.
+In subsection (c), the words “carry out” are substituted for “exercise and perform his powers and duties under”, and the words “in carrying out” are substituted for “in the administration and enforcement of”, for consistency and to eliminate unnecessary words.
+In subsection (d), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. In clause (1), before subclause (A), the word “full” is omitted as surplus. In clause (1)(A), the word “provide” is substituted for “perform” for consistency in the revised title.
+In subsection (e), the words “from time to time” are omitted as surplus. The word “rule” is omitted as being synonymous with “regulation”.
+
+Pub. L. 103–429This amends 49:44701(d) and (e) to correct erroneous cross-references.
+
+Amendments2000—Subsecs. (e), (f). Pub. L. 106–181 added subsec. (e) and redesignated former subsec. (e) as (f).
+1994—Subsecs. (d), (e). Pub. L. 103–429 substituted “any of sections 44702–44716” for “section 44702–44716”.
+
+Effective Date of 2000 AmendmentAmendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+Effective Date of 1994 AmendmentAmendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+Notices to AirmenPub. L. 112–153, § 3, Aug. 3, 2012, 126 Stat. 1162, provided that:
+“(a) In General.—“(1) Definition.—In this section, the term ‘NOTAM’ means Notices to Airmen.
+
+“(2) Improvements.—Not later than 180 days after the date of the enactment of this Act [Aug. 3, 2012], the Administrator of the Federal Aviation Administration shall begin a Notice to Airmen Improvement Program (in this section referred to as the ‘NOTAM Improvement Program’)—“(A) to improve the system of providing airmen with pertinent and timely information regarding the national airspace system;
+
+“(B) to archive, in a public central location, all NOTAMs, including the original content and form of the notices, the original date of publication, and any amendments to such notices with the date of each amendment; and
+
+“(C) to apply filters so that pilots can prioritize critical flight safety information from other airspace system information.
+
+
+
+“(b) Goals of Program.—The goals of the NOTAM Improvement Program are—“(1) to decrease the overwhelming volume of NOTAMs an airman receives when retrieving airman information prior to a flight in the national airspace system;
+
+“(2) make the NOTAMs more specific and relevant to the airman’s route and in a format that is more useable to the airman;
+
+“(3) to provide a full set of NOTAM results in addition to specific information requested by airmen;
+
+“(4) to provide a document that is easily searchable; and
+
+“(5) to provide a filtering mechanism similar to that provided by the Department of Defense Notices to Airmen.
+
+
+“(c) Advice From Private Sector Groups.—The Administrator shall establish a NOTAM Improvement Panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, to advise the Administrator in carrying out the goals of the NOTAM Improvement Program under this section.
+
+“(d) Phase-in and Completion.—The improvements required by this section shall be phased in as quickly as practicable and shall be completed not later than the date that is 1 year after the date of the enactment of this Act [Aug. 3, 2012].”
+
+
+
+
+Consistency of Regulatory InterpretationPub. L. 112–95, title III, § 313, Feb. 14, 2012, 126 Stat. 67, provided that:
+“(a) Establishment of Advisory Panel.—Not later than 90 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall establish an advisory panel comprised of both Government and industry representatives to—“(1) review the October 2010 report by the Government Accountability Office on certification and approval processes (GAO–11–14); and
+
+“(2) develop recommendations to address the findings in the report and other concerns raised by interested parties, including representatives of the aviation industry.
+
+
+“(b) Matters To Be Considered.—The advisory panel shall—“(1) determine the root causes of inconsistent interpretation of regulations by the Administration’s Flight Standards Service and Aircraft Certification Service;
+
+“(2) develop recommendations to improve the consistency of interpreting regulations by the Administration’s Flight Standards Service and Aircraft Certification Service; and
+
+“(3) develop recommendations to improve communications between the Administration’s Flight Standards Service and Aircraft Certification Service and applicants and certificate and approval holders for the identification and resolution of potentially adverse issues in an expeditious and fair manner.
+
+
+“(c) Report to Congress.—Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the findings of the advisory panel, together with an explanation of how the Administrator will implement the recommendations of the advisory panel and measure the effectiveness of the recommendations.”
+
+
+
+
+Flight Standards Evaluation ProgramPub. L. 112–95, title III, § 315, Feb. 14, 2012, 126 Stat. 68, provided that:
+“(a) In General.—Not later than 180 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall modify the Flight Standards Evaluation Program—“(1) to include periodic and random reviews as part of the Administration’s oversight of air carriers; and
+
+“(2) to prohibit an individual from participating in a review or audit of an office with responsibility for an air carrier under the program if the individual, at any time in the 5-year period preceding the date of the review or audit, had responsibility for inspecting, or overseeing the inspection of, the operations of that carrier.
+
+
+“(b) Annual Report to Congress.—Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], and annually thereafter, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Flight Standards Evaluation Program, including the Administrator’s findings and recommendations with respect to the program.
+
+“(c) Flight Standards Evaluation Program Defined.—In this section, the term ‘Flight Standards Evaluation Program’ means the program established by the Federal Aviation Administration in FS 1100.1B CHG3, including any subsequent revisions thereto.”
+
+
+
+
+Review of Air Transportation Oversight System DatabasePub. L. 112–95, title III, § 343, Feb. 14, 2012, 126 Stat. 80, provided that:
+“(a) Reviews.—The Administrator of the Federal Aviation Administration shall establish a process by which the air transportation oversight system database of the Administration is reviewed by regional teams of employees of the Administration, including at least one employee on each team representing aviation safety inspectors, on a monthly basis to ensure that—“(1) any trends in regulatory compliance are identified; and
+
+“(2) appropriate corrective actions are taken in accordance with Administration regulations, advisory directives, policies, and procedures.
+
+
+“(b) Monthly Team Reports.—“(1) In general.—A regional team of employees conducting a monthly review of the air transportation oversight system database under subsection (a) shall submit to the Administrator, the Associate Administrator for Aviation Safety, and the Director of Flight Standards Service a report each month on the results of the review.
+
+“(2) Contents.—A report submitted under paragraph (1) shall identify—“(A) any trends in regulatory compliance discovered by the team of employees in conducting the monthly review; and
+
+“(B) any corrective actions taken or proposed to be taken in response to the trends.
+
+
+
+“(c) Biannual Reports to Congress.—The Administrator, on a biannual basis, shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the reviews of the air transportation oversight system database conducted under this section, including copies of reports received under subsection (b).”
+
+
+
+
+Duty Periods and Flight Time Limitations Applicable to Flight CrewmembersPub. L. 112–95, title III, § 345, Feb. 14, 2012, 126 Stat. 81, provided that:
+“(a) Rulemaking on Applicability of Part 121 Duty Periods and Flight Time Limitations to Part 91 Operations.—Not later than 180 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall initiate a rulemaking proceeding, if such a proceeding has not already been initiated, to require a flight crewmember who is employed by an air carrier conducting operations under part 121 of title 14, Code of Federal Regulations, and who accepts an additional assignment for flying under part 91 of such title from the air carrier or from any other air carrier conducting operations under part 121 or 135 of such title, to apply the period of the additional assignment (regardless of whether the assignment is performed by the flight crewmember before or after an assignment to fly under part 121 of such title) toward any limitation applicable to the flight crewmember relating to duty periods or flight times under part 121 of such title.
+
+“(b) Rulemaking on Applicability of Part 135 Duty Periods and Flight Time Limitations to Part 91 Operations.—Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall initiate a rulemaking proceeding to require a flight crewmember who is employed by an air carrier conducting operations under part 135 of title 14, Code of Federal Regulations, and who accepts an additional assignment for flying under part 91 of such title from the air carrier or any other air carrier conducting operations under part 121 or 135 of such title, to apply the period of the additional assignment (regardless of whether the assignment is performed by the flight crewmember before or after an assignment to fly under part 135 of such title) toward any limitation applicable to the flight crewmember relating to duty periods or flight times under part 135 of such title.
+
+“(c) Separate Rulemaking Proceedings Required.—The rulemaking proceeding required under subsection (b) shall be separate from the rulemaking proceeding required under subsection (a).”
+
+
+
+
+Safety Critical StaffingPub. L. 112–95, title VI, § 606, Feb. 14, 2012, 126 Stat. 113, provided that:
+“(a) In General.—Not later than October 1, 2012, the Administrator of the Federal Aviation Administration shall implement, in as cost-effective a manner as possible, the staffing model for aviation safety inspectors developed pursuant to the National Academy of Sciences study entitled ‘Staffing Standards for Aviation Safety Inspectors’. In doing so, the Administrator shall consult with interested persons, including the exclusive bargaining representative for aviation safety inspectors certified under section 7111 of title 5, United States Code.
+
+“(b) Report.—Not later than January 1 of each year beginning after September 30, 2012, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, the staffing model described in subsection (a).”
+
+
+
+
+Air Transportation of Lithium Cells and BatteriesPub. L. 112–95, title VIII, § 828, Feb. 14, 2012, 126 Stat. 133, provided that:
+“(a) In General.—The Secretary of Transportation, including a designee of the Secretary, may not issue or enforce any regulation or other requirement regarding the transportation by aircraft of lithium metal cells or batteries or lithium ion cells or batteries, whether transported separately or packed with or contained in equipment, if the requirement is more stringent than the requirements of the ICAO Technical Instructions.
+
+“(b) Exceptions.—“(1) Passenger carrying aircraft.—Notwithstanding subsection (a), the Secretary may enforce the prohibition on transporting primary (non-rechargeable) lithium batteries and cells aboard passenger carrying aircraft set forth in special provision A100 under section 172.102(c)(2) of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act [Feb. 14, 2012]).
+
+“(2) Credible reports.—Notwithstanding subsection (a), if the Secretary obtains a credible report with respect to a safety incident from a national or international governmental regulatory or investigating body that demonstrates that the presence of lithium metal cells or batteries or lithium ion cells or batteries on an aircraft, whether transported separately or packed with or contained in equipment, in accordance with the requirements of the ICAO Technical Instructions, has substantially contributed to the initiation or propagation of an onboard fire, the Secretary—“(A) may issue and enforce an emergency regulation, more stringent than the requirements of the ICAO Technical Instructions, that governs the transportation by aircraft of such cells or batteries, if that regulation—“(i) addresses solely deficiencies referenced in the report; and
+
+“(ii) is effective for not more than 1 year; and
+
+
+“(B) may adopt and enforce a permanent regulation, more stringent than the requirements of the ICAO Technical Instructions, that governs the transportation by aircraft of such cells or batteries, if—“(i) the Secretary bases the regulation upon substantial credible evidence that the otherwise permissible presence of such cells or batteries would substantially contribute to the initiation or propagation of an onboard fire;
+
+“(ii) the regulation addresses solely the deficiencies in existing regulations; and
+
+“(iii) the regulation imposes the least disruptive and least expensive variation from existing requirements while adequately addressing identified deficiencies.
+
+
+
+
+“(c) ICAO Technical Instructions Defined.—In this section, the term ‘ICAO Technical Instructions’ means the International Civil Aviation Organization Technical Instructions for the Safe Transport of Dangerous Goods by Air (as amended, including amendments adopted after the date of enactment of this Act [Feb. 14, 2012]).”
+
+
+
+
+Airline Safety and Pilot Training ImprovementPub. L. 111–216, title II, Aug. 1, 2010, 124 Stat. 2350, as amended by Pub. L. 111–249, § 6, Sept. 30, 2010, 124 Stat. 2628, provided that:
+“SEC. 201. DEFINITIONS.“(a) [sic] Definitions.—In this title, the following definitions apply:“(1) Advanced qualification program.—The term ‘advanced qualification program’ means the program established by the Federal Aviation Administration in Advisory Circular 120–54A, dated June 23, 2006, including any subsequent revisions thereto.
+
+“(2) Air carrier.—The term ‘air carrier’ has the meaning given that term in section 40102 of title 49, United States Code.
+
+“(3) Aviation safety action program.—The term ‘aviation safety action program’ means the program established by the Federal Aviation Administration in Advisory Circular 120–66B, dated November 15, 2002, including any subsequent revisions thereto.
+
+“(4) Flight crewmember.—The term ‘flight crewmember’ has the meaning given the term ‘flightcrew member’ in part 1 of title 14, Code of Federal Regulations.
+
+“(5) Flight operational quality assurance program.—The term ‘flight operational quality assurance program’ means the program established by the Federal Aviation Administration in Advisory Circular 120–82, dated April 12, 2004, including any subsequent revisions thereto.
+
+“(6) Line operations safety audit.—The term ‘line operations safety audit’ means the procedure referenced by the Federal Aviation Administration in Advisory Circular 120–90, dated April 27, 2006, including any subsequent revisions thereto.
+
+“(7) Part 121 air carrier.—The term ‘part 121 air carrier’ means an air carrier that holds a certificate issued under part 121 of title 14, Code of Federal Regulations.
+
+“(8) Part 135 air carrier.—The term ‘part 135 air carrier’ means an air carrier that holds a certificate issued under part 135 of title 14, Code of Federal Regulations.
+
+

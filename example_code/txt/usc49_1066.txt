@@ -1,0 +1,30 @@
+“SEC. 208. IMPLEMENTATION OF NTSB FLIGHT CREWMEMBER TRAINING RECOMMENDATIONS.“(a) Rulemaking Proceedings.—“(1) Stall and upset recognition and recovery training.—The Administrator of the Federal Aviation Administration shall conduct a rulemaking proceeding to require part 121 air carriers to provide flight crewmembers with ground training and flight training or flight simulator training—“(A) to recognize and avoid a stall of an aircraft or, if not avoided, to recover from the stall; and
+
+“(B) to recognize and avoid an upset of an aircraft or, if not avoided, to execute such techniques as available data indicate are appropriate to recover from the upset in a given make, model, and series of aircraft.
+
+
+“(2) Remedial training programs.—The Administrator shall conduct a rulemaking proceeding to require part 121 air carriers to establish remedial training programs for flight crewmembers who have demonstrated performance deficiencies or experienced failures in the training environment.
+
+“(3) Deadlines.—The Administrator shall—“(A) not later than one year after the date of enactment of this Act [Aug. 1, 2010], issue a notice of proposed rulemaking under each of paragraphs (1) and (2); and
+
+“(B) not later than 36 months after the date of enactment of this Act, issue a final rule for the rulemaking under each of paragraphs (1) and (2).
+
+
+
+“(b) Stick Pusher Training and Weather Event Training.—“(1) Multidisciplinary panel.—Not later than 120 days after the date of enactment of this Act, the Administrator shall convene a multidisciplinary panel of specialists in aircraft operations, flight crewmember training, human factors, and aviation safety to study and submit to the Administrator a report on methods to increase the familiarity of flight crewmembers with, and improve the response of flight crewmembers to, stick pusher systems, icing conditions, and microburst and windshear weather events.
+
+“(2) Report to congress and ntsb.—Not later than one year after the date on which the Administrator convenes the panel, the Administrator shall—“(A) submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the National Transportation Safety Board a report based on the findings of the panel; and
+
+“(B) with respect to stick pusher systems, initiate appropriate actions to implement the recommendations of the panel.
+
+
+
+“(c) Definitions.—In this section, the following definitions apply:“(1) Flight training and flight simulator.—The terms ‘flight training’ and ‘flight simulator’ have the meanings given those terms in part 61.1 of title 14, Code of Federal Regulations (or any successor regulation).
+
+“(2) Stall.—The term ‘stall’ means an aerodynamic loss of lift caused by exceeding the critical angle of attack.
+
+“(3) Stick pusher.—The term ‘stick pusher’ means a device that, at or near a stall, applies a nose down pitch force to an aircraft’s control columns to attempt to decrease the aircraft’s angle of attack.
+
+“(4) Upset.—The term ‘upset’ means an unusual aircraft attitude.
+
+

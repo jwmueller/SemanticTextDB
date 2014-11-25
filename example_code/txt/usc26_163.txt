@@ -1,0 +1,66 @@
+§ 126. Certain cost-sharing payments(a) General ruleGross income does not include the excludable portion of payments received under—(1) The rural clean water program authorized by section 208(j) of the Federal Water Pollution Control Act (33 U.S.C. 1288(j)).
+
+(2) The rural abandoned mine program authorized by section 406 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1236).
+
+(3) The water bank program authorized by the Water Bank Act (16 U.S.C. 1301 et seq.).
+
+(4) The emergency conservation measures program authorized by title IV of the Agricultural Credit Act of 1978.
+
+(5) The agricultural conservation program authorized by the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590a).
+
+(6) The great plains conservation program authorized by section 16 11 See References in Text note below. of the Soil Conservation and Domestic Policy Act (16 U.S.C. 590p(b)).
+
+(7) The resource conservation and development program authorized by the Bankhead-Jones Farm Tenant Act and by the Soil Conservation and Domestic Allotment Act (7 U.S.C. 1010; 16 U.S.C. 590a et seq.).
+
+(8) The forestry incentives program authorized by section 4 1 of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103).
+
+(9) Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar to the type of programs described in paragraphs (1) through (8).
+
+(10) Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia under which payments are made to individuals primarily for the purpose of conserving soil, protecting or restoring the environment, improving forests, or providing a habitat for wildlife.
+
+
+(b) Excludable portionFor purposes of this section—(1) In generalThe term “excludable portion” means that portion (or all) of a payment made to any person under any program described in subsection (a) which—(A) is determined by the Secretary of Agriculture to be made primarily for the purpose of conserving soil and water resources, protecting or restoring the environment, improving forests, or providing a habitat for wildlife, and
+
+(B) is determined by the Secretary of the Treasury or his delegate as not increasing substantially the annual income derived from the property.
+
+
+(2) Payments not chargeable to capital accountThe term “excludable portion” does not include that portion of any payment which is properly associated with an amount which is allowable as a deduction for the taxable year in which such amount is paid or incurred.
+
+
+
+(c) Election for section not to apply(1) In generalThe taxpayer may elect not to have this section (and section 1255) apply to any excludable portion (or portion thereof).
+
+
+(2) Manner and time for making electionAny election under paragraph (1) shall be made in the manner prescribed by the Secretary by regulations and shall be made not later than the due date prescribed by law (including extensions) for filing the return of tax under this chapter for the taxable year in which the payment was received or accrued.
+
+
+
+(d) Denial of double benefitsNo deduction or credit shall be allowed with respect to any expenditure which is properly associated with any amount excluded from gross income under subsection (a).
+
+
+(e) Basis of property not increased by reason of excludable paymentsNotwithstanding any provision of section 1016 to the contrary, no adjustment to basis shall be made with respect to property acquired or improved through the use of any payment, to the extent that such adjustment would reflect any amount which is excluded from gross income under subsection (a).
+
+
+(Added Pub. L. 95–600, title V, § 543(a), Nov. 6, 1978, 92 Stat. 2888; amended Pub. L. 96–222, title I, § 105(a)(7)(A), (C), (E), Apr. 1, 1980, 94 Stat. 220, 221.)
+
+
+References in TextThe Water Bank Act, referred to in subsec. (a)(3), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 16 and Tables.
+The Agricultural Credit Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–334, Aug. 4, 1978, 92 Stat. 420, as amended. Title IV of the Agricultural Credit Act of 1978 is classified generally to chapter 42 (§ 2201 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+The Soil Conservation and Domestic Allotment Act, referred to in subsec. (a)(5), (7), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+Section 16 of the Soil Conservation and Domestic Policy Act, referred to in subsec. (a)(6), probably means section 16 of the Soil Conservation and Domestic Allotment Act, which was classified to section 590p of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, § 336(b)(1), Apr. 4, 1996, 110 Stat. 1006.
+The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(7), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
+Section 4 of the Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a)(8), related to a forestry incentives program, was classified to section 2103 of Title 16, Conservation, and was repealed by Pub. L. 107–171, title VIII, § 8001(a), May 13, 2002, 116 Stat. 468. A new section 4 of the Act, as enacted by Pub. L. 107–171, was also classified to section 2103 of Title 16, related to a forest land enhancement program, and was repealed by Pub. L. 113–79, title VIII, § 8001(a), Feb. 7, 2014, 128 Stat. 913.
+
+Prior ProvisionsA prior section 126 was renumbered section 140 of this title.
+
+Amendments1980—Subsec. (a). Pub. L. 96–222, § 105(a)(7)(C), (E), inserted in par. (9) “or his delegate” after “Secretary of the Treasury” and substituted in par. (10) “Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia” for “Any State program”.
+Subsec. (b). Pub. L. 96–222, § 105(a)(7)(A), inserted provisions relating to payments not chargeable to capital account.
+Subsec. (c). Pub. L. 96–222, § 105(a)(7)(A), substituted provisions allowing the taxpayer to elect not to have this section apply to any excludable portion for provisions relating to the application of subsec. (a) of this section with other sections.
+Subsecs. (d), (e). Pub. L. 96–222, § 105(a)(7)(A), added subsecs. (d) and (e).
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+
+Effective DatePub. L. 95–600, title V, § 543(d), Nov. 6, 1978, 92 Stat. 2890, provided that: “The amendments made by this section [enacting this section and section 1255 of this title] shall apply with respect to grants made under the programs after September 30, 1979.”
+
+
+

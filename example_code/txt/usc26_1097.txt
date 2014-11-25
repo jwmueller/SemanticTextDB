@@ -1,0 +1,45 @@
+“Sec. 203. [Extended Benefit Period]“(a) [Beginning and Ending] For purposes of this title, in the case of any State, an extended benefit period—“(1) shall begin with the third week after the first week for which there is a State ‘on’ indicator; and
+
+“(2) shall end with the third week after the first week for which there is a State ‘off’ indicator.
+
+
+“(b) [Special Rules] (1) In the case of any State—“(A) no extended benefit period shall last for a period of less than thirteen consecutive weeks, and
+
+“(B) no extended benefit period may begin before the fourteenth week after the close of a prior extended benefit period with respect to such State.
+
+“(2) When a determination has been made that an extended benefit period is beginning or ending with respect to a State, the Secretary shall cause notice of such determination to be published in the Federal Register.
+
+
+“(c) [Eligibility Period] For purposes of this title, an individual’s eligibility period under the State law shall consist of the weeks in his benefit year which begin in an extended benefit period and, if his benefit year ends within such extended benefit period, any weeks thereafter which begin in such extended benefit period.
+
+“(d) [State ‘On’ and ‘Off’ Indicators] For purposes of this section—“(1) There is a State ‘on’ indicator for a week if the rate of insured unemployment under the State law for the period consisting of such week and the immediately preceding twelve weeks—“(A) equaled or exceeded 120 per centum of the average of such rates for the corresponding thirteen-week period ending in each of the preceding two calendar years, and
+
+“(B) equaled or exceeded 5 per centum.
+
+
+“(2) There is a State ‘off’ indicator for a week if, for the period consisting of such week and the immediately preceding twelve weeks, either subparagraph (A) or subparagraph (B) of paragraph (1) is not satisfied.
+
+
+Effective with respect to compensation for weeks of unemployment beginning after March 30, 1977 (or, if later, the date established pursuant to State law), the State may by law provide that the determination of whether there has been a State ‘on’ or ‘off’ indicator beginning or ending any extended benefit period shall be made under this subsection as if (i) paragraph (1) did not contain subparagraph (A) thereof, and (ii) the figure ‘5’ contained in subparagraph (B) thereof were ‘6’; except that, notwithstanding any such provision of State law, any week for which there would otherwise be a State ‘on’ indicator shall continue to be such a week and shall not be determined to be a week for which there is a State ‘off’ indicator. Effective with respect to compensation for weeks of unemployment beginning after the date of enactment of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 [Dec. 17, 2010] (or, if later, the date established pursuant to State law), and ending on or before December 31, 2013, the State may by law provide that the determination of whether there has been a state [State] ‘on’ or ‘off’ indicator beginning or ending any extended benefit period shall be made under this subsection as if the word ‘two’ were ‘three’ in subparagraph (1)(A). For purposes of this subsection, the rate of insured unemployment for any thirteen-week period shall be determined by reference to the average monthly covered employment under the State law for the first four of the most recent six calendar quarters ending before the close of such period.
+
+“(e) [Rate of Insured Unemployment; Covered Employment] (1) For purposes of subsection (d), the term ‘rate of insured unemployment’ means the percentage arrived at by dividing—“(A) the average weekly number of individuals filing claims for regular compensation for weeks of unemployment with respect to the specified period, as determined on the basis of the reports made by the State agency to the Secretary, by
+
+“(B) the average monthly covered employment for the specified period.
+
+“(2) Determinations under subsection (d) shall be made by the State agency in accordance with regulations prescribed by the Secretary.
+
+
+“(f) [Alternative Trigger] (1) Effective with respect to compensation for weeks of unemployment beginning after March 6, 1993, the State may by law provide that for purposes of beginning or ending any extended benefit period under this section—“(A) there is a State ‘on’ indicator for a week if—“(i) the average rate of total unemployment in such State (seasonally adjusted) for the period consisting of the most recent 3 months for which data for all States are published before the close of such week equals or exceeds 6.5 percent, and
+
+“(ii) the average rate of total unemployment in such State (seasonally adjusted) for the 3-month period referred to in clause (i) equals or exceeds 110 percent of such average rate for either (or both) of the corresponding 3-month periods ending in the 2 preceding calendar years; and
+
+
+“(B) there is a State ‘off’ indicator for a week if either the requirements of clause (i) or clause (ii) of subparagraph (A) are not satisfied.
+
+
+Notwithstanding the provision of any State law described in this paragraph, any week for which there would otherwise be a State ‘on’ indicator shall continue to be such a week and shall not be determined to be a week for which there is a State ‘off’ indicator.
+“(2) Effective with respect to compensation for weeks of unemployment beginning after the date of enactment of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 [Dec. 17, 2010] (or, if later, the date established pursuant to State law), and ending on or before December 31, 2013, the State may by law provide that the determination of whether there has been a state [State] ‘on’ or ‘off’ indicator beginning or ending any extended benefit period shall be made under this subsection as if the word ‘either’ were ‘any’, the word ‘both’ were ‘all’, and the figure ‘2’ were ‘3’ in clause (1)(A)(ii).
+
+“(3) For purposes of this subsection, determinations of the rate of total unemployment in any State for any period (and of any seasonal adjustment) shall be made by the Secretary.
+
+

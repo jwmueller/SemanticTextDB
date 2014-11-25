@@ -1,0 +1,31 @@
+§ 717. Regulation of natural gas companies(a) Necessity of regulation in public interestAs disclosed in reports of the Federal Trade Commission made pursuant to S. Res. 83 (Seventieth Congress, first session) and other reports made pursuant to the authority of Congress, it is declared that the business of transporting and selling natural gas for ultimate distribution to the public is affected with a public interest, and that Federal regulation in matters relating to the transportation of natural gas and the sale thereof in interstate and foreign commerce is necessary in the public interest.
+
+
+(b) Transactions to which provisions of chapter applicableThe provisions of this chapter shall apply to the transportation of natural gas in interstate commerce, to the sale in interstate commerce of natural gas for resale for ultimate public consumption for domestic, commercial, industrial, or any other use, and to natural-gas companies engaged in such transportation or sale, and to the importation or exportation of natural gas in foreign commerce and to persons engaged in such importation or exportation, but shall not apply to any other transportation or sale of natural gas or to the local distribution of natural gas or to the facilities used for such distribution or to the production or gathering of natural gas.
+
+
+(c) Intrastate transactions exempt from provisions of chapter; certification from State commission as conclusive evidenceThe provisions of this chapter shall not apply to any person engaged in or legally authorized to engage in the transportation in interstate commerce or the sale in interstate commerce for resale, of natural gas received by such person from another person within or at the boundary of a State if all the natural gas so received is ultimately consumed within such State, or to any facilities used by such person for such transportation or sale, provided that the rates and service of such person and facilities be subject to regulation by a State commission. The matters exempted from the provisions of this chapter by this subsection are declared to be matters primarily of local concern and subject to regulation by the several States. A certification from such State commission to the Federal Power Commission that such State commission has regulatory jurisdiction over rates and service of such person and facilities and is exercising such jurisdiction shall constitute conclusive evidence of such regulatory power or jurisdiction.
+
+
+(d) Vehicular natural gas jurisdictionThe provisions of this chapter shall not apply to any person solely by reason of, or with respect to, any sale or transportation of vehicular natural gas if such person is—(1) not otherwise a natural-gas company; or
+
+(2) subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdiction over the sale, sale for resale, or transportation of vehicular natural gas.
+
+
+(June 21, 1938, ch. 556, § 1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Pub. L. 102–486, title IV, § 404(a)(1), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, § 311(a), Aug. 8, 2005, 119 Stat. 685.)
+
+Amendments2005—Subsec. (b). Pub. L. 109–58 inserted “and to the importation or exportation of natural gas in foreign commerce and to persons engaged in such importation or exportation,” after “such transportation or sale,”.
+1992—Subsec. (d). Pub. L. 102–486 added subsec. (d).
+1954—Subsec. (c). Act Mar. 27, 1954, added subsec. (c).
+
+
+Termination of Federal Power Commission; Transfer of Functions
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+
+State Laws and RegulationsPub. L. 102–486, title IV, § 404(b), Oct. 24, 1992, 106 Stat. 2879, provided that: 
+“The transportation or sale of natural gas by any person who is not otherwise a public utility, within the meaning of State law—“(1) in closed containers; or
+
+“(2) otherwise to any person for use by such person as a fuel in a self-propelled vehicle,
+
+
+shall not be considered to be a transportation or sale of natural gas within the meaning of any State law, regulation, or order in effect before January 1, 1989. This subsection shall not apply to any provision of any State law, regulation, or order to the extent that such provision has as its primary purpose the protection of public safety.”

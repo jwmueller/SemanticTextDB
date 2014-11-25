@@ -1,0 +1,17 @@
+§ 1737. Tracking system for stolen passports(a) Entering stolen passport identification numbers in the interoperable data system(1) In generalBeginning with implementation under section 1722 of this title of the law enforcement and intelligence data system, not later than 72 hours after receiving notification of the loss or theft of a United States or foreign passport, the Attorney General and the Secretary of State, as appropriate, shall enter into such system the corresponding identification number for the lost or stolen passport.
+
+
+(2) Entry of information on previously lost or stolen passportsTo the extent practicable, the Attorney General, in consultation with the Secretary of State, shall enter into such system the corresponding identification numbers for the United States and foreign passports lost or stolen prior to the implementation of such system.
+
+
+
+(b) Transition periodUntil such time as the law enforcement and intelligence data system described in section 1722 of this title is fully implemented, the Attorney General shall enter the data described in subsection (a) of this section into an existing data system being used to determine the admissibility or deportability of aliens.
+
+
+(Pub. L. 107–173, title III, § 308, May 14, 2002, 116 Stat. 556.)
+
+
+Abolition of Immigration and Naturalization Service and Transfer of Functions
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+

@@ -1,0 +1,29 @@
+“SEC. 5310. DEFINITIONS.“In this subtitle [subtitle C (§§ 5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title], the following definitions apply:“(1) Incident.—The term ‘incident’ means a crash, a natural disaster, workzone activity, special event, or other emergency road user occurrence that adversely affects or impedes the normal flow of traffic.
+
+“(2) Intelligent transportation infrastructure.—The term ‘intelligent transportation infrastructure’ means fully integrated public sector intelligent transportation system components, as defined by the Secretary [of Transportation].
+
+“(3) Intelligent transportation system.—The term ‘intelligent transportation system’ means electronics, photonics, communications, or information processing used singly or in combination to improve the efficiency or safety of a surface transportation system.
+
+“(4) National architecture.—The term ‘national architecture’ means the common framework for interoperability that defines—“(A) the functions associated with intelligent transportation system user services;
+
+“(B) the physical entities or subsystems within which the functions reside;
+
+“(C) the data interfaces and information flows between physical subsystems; and
+
+“(D) the communications requirements associated with the information flows.
+
+
+“(5) Project.—The term ‘project’ means an undertaking to research, develop, or operationally test intelligent transportation systems or any other undertaking eligible for assistance under this subtitle.
+
+“(6) Standard.—The term ‘standard’ means a document that—“(A) contains technical specifications or other precise criteria for intelligent transportation systems that are to be used consistently as rules, guidelines, or definitions of characteristics so as to ensure that materials, products, processes, and services are fit for their purposes; and
+
+“(B) may support the national architecture and promote—“(i) the widespread use and adoption of intelligent transportation system technology as a component of the surface transportation systems of the United States; and
+
+“(ii) interoperability among intelligent transportation system technologies implemented throughout the States.
+
+
+
+“(7) State.—The term ‘State’ has the meaning given the term under section 101 of title 23, United States Code.
+
+“(8) Transportation systems management and operations.—The term ‘transportation systems management and operations’ has the meaning given the term under section 101(a) of title 23, United States Code [section 101(a) of this title does not define the term].”
+

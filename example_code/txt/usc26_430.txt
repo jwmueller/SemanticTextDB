@@ -1,0 +1,37 @@
+§ 471. General rule for inventories(a) General ruleWhenever in the opinion of the Secretary the use of inventories is necessary in order clearly to determine the income of any taxpayer, inventories shall be taken by such taxpayer on such basis as the Secretary may prescribe as conforming as nearly as may be to the best accounting practice in the trade or business and as most clearly reflecting the income.
+
+
+(b) Estimates of inventory shrinkage permittedA method of determining inventories shall not be treated as failing to clearly reflect income solely because it utilizes estimates of inventory shrinkage that are confirmed by a physical count only after the last day of the taxable year if—(1) the taxpayer normally does a physical count of inventories at each location on a regular and consistent basis, and
+
+(2) the taxpayer makes proper adjustments to such inventories and to its estimating methods to the extent such estimates are greater than or less than the actual shrinkage.
+
+
+(c) Cross referenceFor rules relating to capitalization of direct and indirect costs of property, see section 263A.
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 159; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VIII, § 803(b)(4), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 105–34, title IX, § 961(a), Aug. 5, 1997, 111 Stat. 891.)
+
+Amendments1997—Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c).
+1986—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+Effective Date of 1997 AmendmentPub. L. 105–34, title IX, § 961(b)(1), Aug. 5, 1997, 111 Stat. 891, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Aug. 5, 1997].”
+
+
+Effective Date of 1986 AmendmentIf any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
+
+Coordination With Section 481Pub. L. 105–34, title IX, § 961(b)(2), Aug. 5, 1997, 111 Stat. 891, provided that: 
+“In the case of any taxpayer permitted by this section [amending this section and enacting provisions set out as a note above] to change its method of accounting to a permissible method for any taxable year—
+“(A) such changes shall be treated as initiated by the taxpayer,
+
+“(B) such changes shall be treated as made with the consent of the Secretary of the Treasury, and
+
+“(C) the period for taking into account the adjustments under section 481 [26 U.S.C. 481] by reason of such change shall be 4 years.”
+
+
+
+
+Study of Accounting Methods for Inventory; Report Not Later Than December 31, 1982Pub. L. 97–34, title II, § 238, Aug. 13, 1981, 95 Stat. 254, directed Secretary of the Treasury to conduct a study of methods of tax accounting for inventory with a view towards development of simplified methods and to report to Congress, not later than Dec. 31, 1982, prior to repeal by Pub. L. 100–647, title VI, § 6252(a)(2), Nov. 10, 1988, 102 Stat. 3752.
+
+

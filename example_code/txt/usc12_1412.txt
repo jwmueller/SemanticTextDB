@@ -1,0 +1,14 @@
+§ 2908. Small bank regulatory relief(a) In generalExcept as provided in subsections (b) and (c) of this section, any regulated financial institution with aggregate assets of not more than $250,000,000 shall be subject to routine examination under this chapter—(1) not more than once every 60 months for an institution that has achieved a rating of “outstanding record of meeting community credit needs” at its most recent examination under section 2903 of this title;
+
+(2) not more than once every 48 months for an institution that has received a rating of “satisfactory record of meeting community credit needs” at its most recent examination under section 2903 of this title; and
+
+(3) as deemed necessary by the appropriate Federal financial supervisory agency, for an institution that has received a rating of less than “satisfactory record of meeting community credit needs” at its most recent examination under section 2903 of this title.
+
+
+(b) No exception from CRA examinations in connection with applications for deposit facilitiesA regulated financial institution described in subsection (a) of this section shall remain subject to examination under this chapter in connection with an application for a deposit facility.
+
+
+(c) DiscretionA regulated financial institution described in subsection (a) of this section may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
+
+
+(Pub. L. 95–128, title VIII, § 809, as added Pub. L. 106–102, title VII, § 712, Nov. 12, 1999, 113 Stat. 1469.)

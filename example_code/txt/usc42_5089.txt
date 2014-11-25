@@ -1,0 +1,35 @@
+§ 6934. Monitoring, analysis, and testing(a) Authority of AdministratorIf the Administrator determines, upon receipt of any information, that—(1) the presence of any hazardous waste at a facility or site at which hazardous waste is, or has been, stored, treated, or disposed of, or
+
+(2) the release of any such waste from such facility or site
+
+
+may present a substantial hazard to human health or the environment, he may issue an order requiring the owner or operator of such facility or site to conduct such monitoring, testing, analysis, and reporting with respect to such facility or site as the Administrator deems reasonable to ascertain the nature and extent of such hazard.
+
+(b) Previous owners and operatorsIn the case of any facility or site not in operation at the time a determination is made under subsection (a) of this section with respect to the facility or site, if the Administrator finds that the owner of such facility or site could not reasonably be expected to have actual knowledge of the presence of hazardous waste at such facility or site and of its potential for release, he may issue an order requiring the most recent previous owner or operator of such facility or site who could reasonably be expected to have such actual knowledge to carry out the actions referred to in subsection (a) of this section.
+
+
+(c) ProposalAn order under subsection (a) or (b) of this section shall require the person to whom such order is issued to submit to the Administrator within 30 days from the issuance of such order a proposal for carrying out the required monitoring, testing, analysis, and reporting. The Administrator may, after providing such person with an opportunity to confer with the Administrator respecting such proposal, require such person to carry out such monitoring, testing, analysis, and reporting in accordance with such proposal, and such modifications in such proposal as the Administrator deems reasonable to ascertain the nature and extent of the hazard.
+
+
+(d) Monitoring, etc., carried out by Administrator(1) If the Administrator determines that no owner or operator referred to in subsection (a) or (b) of this section is able to conduct monitoring, testing, analysis, or reporting satisfactory to the Administrator, if the Administrator deems any such action carried out by an owner or operator to be unsatisfactory, or if the Administrator cannot initially determine that there is an owner or operator referred to in subsection (a) or (b) of this section who is able to conduct such monitoring, testing, analysis, or reporting, he may—(A) conduct monitoring, testing, or analysis (or any combination thereof) which he deems reasonable to ascertain the nature and extent of the hazard associated with the site concerned, or
+
+(B) authorize a State or local authority or other person to carry out any such action,
+
+
+and require, by order, the owner or operator referred to in subsection (a) or (b) of this section to reimburse the Administrator or other authority or person for the costs of such activity.
+
+(2) No order may be issued under this subsection requiring reimbursement of the costs of any action carried out by the Administrator which confirms the results of an order issued under subsection (a) or (b) of this section.
+
+(3) For purposes of carrying out this subsection, the Administrator or any authority or other person authorized under paragraph (1), may exercise the authorities set forth in section 6927 of this title.
+
+
+(e) EnforcementThe Administrator may commence a civil action against any person who fails or refuses to comply with any order issued under this section. Such action shall be brought in the United States district court in which the defendant is located, resides, or is doing business. Such court shall have jurisdiction to require compliance with such order and to assess a civil penalty of not to exceed $5,000 for each day during which such failure or refusal occurs.
+
+
+(Pub. L. 89–272, title II, § 3013, as added Pub. L. 96–482, § 17(a), Oct. 21, 1980, 94 Stat. 2344.)
+
+
+Transfer of Functions
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+
+

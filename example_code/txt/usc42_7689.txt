@@ -1,0 +1,12 @@
+§ 16316. Advanced scientific computing research and development program(1) In generalThe Secretary shall conduct an advanced scientific computing research and development program that includes activities related to applied mathematics and activities authorized by the Department of Energy High-End Computing Revitalization Act of 2004 (15 U.S.C. 5541 et seq.).
+
+
+(2) GoalThe Secretary shall carry out the program with the goal of supporting departmental missions, and providing the high-performance computational, networking, advanced visualization technologies, and workforce resources, that are required for world leadership in science.
+
+
+(Pub. L. 109–58, title IX, § 976(a), Aug. 8, 2005, 119 Stat. 903.)
+
+
+References in TextThe Department of Energy High-End Computing Revitalization Act of 2004, referred to in par. (1), is Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to subchapter III (§ 5541 et seq.) of chapter 81 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of Title 15 and Tables.
+
+

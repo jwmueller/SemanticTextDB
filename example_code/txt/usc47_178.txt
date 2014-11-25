@@ -1,0 +1,16 @@
+“SEC. 2002. LOCAL TELEVISION SERVICE IN UNSERVED AND UNDERSERVED MARKETS.“(a) In General.—Not later than 1 year after the date of the enactment of this Act [Nov. 29, 1999], the Federal Communications Commission (‘the Commission’) shall take all actions necessary to make a determination regarding licenses or other authorizations for facilities that will utilize, for delivering local broadcast television station signals to satellite television subscribers in unserved and underserved local television markets, spectrum otherwise allocated to commercial use.
+
+“(b) Rules.—“(1) Form of business.—To the extent not inconsistent with the Communications Act of 1934 [47 U.S.C. 151 et seq.] and the Commission’s rules, the Commission shall permit applicants under subsection (a) to engage in partnerships, joint ventures, and similar operating arrangements for the purpose of carrying out subsection (a).
+
+“(2) Harmful interference.—The Commission shall ensure that no facility licensed or authorized under subsection (a) causes harmful interference to the primary users of that spectrum or to public safety spectrum use.
+
+“(3) Limitation on commission.—Except as provided in paragraphs (1) and (2), the Commission may not restrict any entity granted a license or other authorization under subsection (a) from using any reasonable compression, reformatting, or other technology.
+
+
+“(c) Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Commerce [now Committee on Energy and Commerce], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—“(1) an analysis of the extent to which local signals are being provided by direct-to-home satellite television providers and by other multichannel video program distributors;
+
+“(2) an enumeration of the technical, economic, and other impediments each type of multichannel video programming distributor has encountered; and
+
+“(3) recommendations for specific measures to facilitate the provision of local signals to subscribers in unserved and underserved markets by direct-to-home satellite television providers and by other distributors of multichannel video programming service.”
+
+

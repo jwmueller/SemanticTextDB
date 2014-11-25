@@ -1,0 +1,133 @@
+“SEC. 4103. SMALL BUSINESS LENDING FUND.“(a) Fund and Program.—“(1) Fund established.—There is established in the Treasury of the United States a fund to be known as the ‘Small Business Lending Fund’, which shall be administered by the Secretary.
+
+“(2) Programs authorized.—The Secretary is authorized to establish the Small Business Lending Fund Program for using the Fund consistent with this subtitle.
+
+
+“(b) Use of Fund.—“(1) In general.—Subject to paragraph (2), the Fund shall be available to the Secretary, without further appropriation or fiscal year limitation, for the costs of purchases (including commitments to purchase), and modifications of such purchases, of preferred stock and other financial instruments from eligible institutions on such terms and conditions as are determined by the Secretary in accordance with this subtitle. For purposes of this paragraph and with respect to an eligible institution, the term ‘other financial instruments’ shall include only debt instruments for which such eligible institution is fully liable or equity equivalent capital of the eligible institution. Such debt instruments may be subordinated to the claims of other creditors of the eligible institution.
+
+“(2) Maximum purchase limit.—The aggregate amount of purchases (and commitments to purchase) made pursuant to paragraph (1) may not exceed $30,000,000,000.
+
+“(3) Proceeds used to pay down public debt.—All funds received by the Secretary in connection with purchases made pursuant to paragraph (1), including interest payments, dividend payments, and proceeds from the sale of any financial instrument, shall be paid into the general fund of the Treasury for reduction of the public debt.
+
+“(4) Limitation on purchases from cdlfs.—“(A) In general.—Not more than 1 percent of the maximum purchase limit of the Program, pursuant to paragraph (2), may be used to make purchases from community development loan funds.
+
+“(B) Eligibility standards.—The Secretary, in consultation with the Community Development Financial Institutions Fund, shall develop eligibility criteria to determine the financial ability of a CDLF to participate in the Program and repay the investment. Such criteria shall include the following:“(i) Ratio of net assets to total assets is at least 20 percent.
+
+“(ii) Ratio of loan loss reserves to loans and leases 90 days or more delinquent (including loans sold with full recourse) is at least 30 percent.
+
+“(iii) Positive net income measured on a 3-year rolling average.
+
+“(iv) Operating liquidity ratio of at least 1.0 for the 4 most recent quarters and for one or both of the two preceding years.
+
+“(v) Ratio of loans and leases 90 days or more delinquent (including loans sold with full recourse) to total equity plus loan loss reserves is less than 40 percent.
+
+
+“(C) Requirement to submit audited financial statements.—CDLFs participating in the Program shall submit audited financial statements to the Secretary, have a clean audit opinion, and have at least 3 years of operating experience.
+
+
+
+“(c) Credits to the Fund.—There shall be credited to the Fund amounts made available pursuant to section 4108, to the extent provided by appropriations Acts.
+
+“(d) Terms.—“(1) Application.—“(A) Institutions with assets of $1,000,000,000 or less.—Eligible institutions having total assets equal to or less than $1,000,000,000, as reported in a call report as of the end of the fourth quarter of calendar year 2009, may apply to receive a capital investment from the Fund in an amount not exceeding 5 percent of risk-weighted assets, as reported in the call report immediately preceding the date of application, less the amount of any CDCI investment and any CPP investment.
+
+“(B) Institutions with assets of more than $1,000,000,000 and less than or equal to $10,000,000,000.—Eligible institutions having total assets of more than $1,000,000,000 but less than $10,000,000,000, as of the end of the fourth quarter of calendar year 2009, may apply to receive a capital investment from the Fund in an amount not exceeding 3 percent of risk-weighted assets, as reported in the call report immediately preceding the date of application, less the amount of any CDCI investment and any CPP investment.
+
+“(C) Treatment of holding companies.—In the case of an eligible institution that is a bank holding company or a savings and loan holding company having one or more insured depository institution subsidiaries, total assets shall be measured based on the combined total assets reported in the call report of the insured depository institution subsidiaries as of the end of the fourth quarter of calendar year 2009 and risk-weighted assets shall be measured based on the combined risk-weighted assets of the insured depository institution subsidiaries as reported in the call report immediately preceding the date of application.
+
+“(D) Treatment of applicants that are institutions controlled by holding companies.—If an eligible institution that applies to receive a capital investment under the Program is under the control of a bank holding company or a savings and loan holding company, then the Secretary may use the Fund to purchase preferred stock or other financial instruments from the top-tier bank holding company or savings and loan holding company of such eligible institution, as applicable. For purposes of this subparagraph, the term ‘control’ with respect to a bank holding company shall have the same meaning as in section 2(a)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(2)(a)(2)). For purposes of this subparagraph, the term ‘control’ with respect to a savings and loan holding company shall have the same meaning as in 10(a)(2) of the Home Owners’ Loan Act (12 U.S.C. 1467a(a)(2)).
+
+“(E) Requirement to provide a small business lending plan.—At the time that an applicant submits an application to the Secretary for a capital investment under the Program, the applicant shall deliver to the appropriate Federal banking agency, and, for applicants that are State-chartered banks, to the appropriate State banking regulator, a small business lending plan describing how the applicant’s business strategy and operating goals will allow it to address the needs of small businesses in the areas it serves, as well as a plan to provide linguistically and culturally appropriate outreach, where appropriate. In the case of eligible institutions that are community development loan funds, this plan shall be submitted to the Secretary. This plan shall be confidential supervisory information.
+
+“(F) Treatment of applicants that are community development loan funds.—Eligible institutions that are community development loan funds may apply to receive a capital investment from the Fund in an amount not exceeding 5 percent of total assets, as reported in the audited financial statements for the fiscal year of the eligible institution that ends in calendar year 2009.
+
+
+“(2) Consultation with regulators.—For each eligible institution that applies to receive a capital investment under the Program, the Secretary shall—“(A) consult with the appropriate Federal banking agency or, in the case of an eligible institution that is a nondepository community development financial institution, the Community Development Financial Institution Fund, for the eligible institution, to determine whether the eligible institution may receive such capital investment;
+
+“(B) in the case of an eligible institution that is a State-chartered bank, consider any views received from the State banking regulator of the State of the eligible institution regarding the financial condition of the eligible institution; and
+
+“(C) in the case of a community development financial institution loan fund, consult with the Community Development Financial Institution Fund.
+
+
+“(3) Consideration of matched private investments.—“(A) In general.—For an eligible institution that applies to receive a capital investment under the Program, if the entity to be consulted under paragraph (2) would not otherwise recommend the eligible institution to receive the capital investment, the Secretary, in consultation with the entity to be so consulted, may consider whether the entity to be consulted would recommend the eligible institution to receive a capital investment based on the financial condition of the institution if the conditions in subparagraph (B) are satisfied.
+
+“(B) Conditions.—The conditions referred to in subparagraph (A) are as follows:“(i) Capital sources.—The eligible institution shall receive capital both under the Program and from private, nongovernment investors.
+
+“(ii) Amount of capital.—The amount of capital to be received under the Program shall not exceed 3 percent of risk-weighted assets, as reported in the call report immediately preceding the date of application, less the amount of any CDCI investment and any CPP investment.
+
+“(iii) Terms.—The amount of capital to be received from private, nongovernment investors shall be—     “(I) equal to or greater than 100 percent of the capital to be received under the Program; and
+
+     “(II) subordinate to the capital investment made by the Secretary under the Program.
+
+
+
+
+“(4) Ineligibility of institutions on fdic problem bank list.—“(A) In general.—An eligible institution may not receive any capital investment under the Program, if—“(i) such institution is on the FDIC problem bank list; or
+
+“(ii) such institution has been removed from the FDIC problem bank list for less than 90 days.
+
+
+“(B) Construction.—Nothing in subparagraph (A) shall be construed as limiting the discretion of the Secretary to deny the application of an eligible institution that is not on the FDIC problem bank list.
+
+“(C) FDIC problem bank list defined.—For purposes of this paragraph, the term ‘FDIC problem bank list’ means the list of depository institutions having a current rating of 4 or 5 under the Uniform Financial Institutions Rating System, or such other list designated by the Federal Deposit Insurance Corporation.
+
+
+“(5) Incentives to lend.—“(A) Requirements on preferred stock and other financial instruments.—Any preferred stock or other financial instrument issued to Treasury by an eligible institution receiving a capital investment under the Program shall provide that—“(i) the rate at which dividends or interest are payable shall be 5 percent per annum initially;
+
+“(ii) within the first 2 years after the date of the capital investment under the Program, the rate may be adjusted based on the amount of an eligible institution’s small business lending. Changes in the amount of small business lending shall be measured against the average amount of small business lending reported by the eligible institution in its call reports for the 4 full quarters immediately preceding the date of enactment of this Act [Sept. 27, 2010], minus adjustments from each quarterly balance in respect of—     “(I) net loan charge offs with respect to small business lending; and
+
+     “(II) gains realized by the eligible institution resulting from mergers, acquisitions or purchases of loans after origination and syndication; which adjustments shall be determined in accordance with guidance promulgated by the Secretary; and
+
+
+“(iii) during any calendar quarter during the initial 2-year period referred to in clause (ii), an institution’s rate shall be adjusted to reflect the following schedule, based on that institution’s change in the amount of small business lending relative to the baseline—     “(I) if the amount of small business lending has increased by less than 2.5 percent, the dividend or interest rate shall be 5 percent;
+
+     “(II) if the amount of small business lending has increased by 2.5 percent or greater, but by less than 5.0 percent, the dividend or interest rate shall be 4 percent;
+
+     “(III) if the amount of small business lending has increased by 5.0 percent or greater, but by less than 7.5 percent, the dividend or interest rate shall be 3 percent;
+
+     “(IV) if the amount of small business lending has increased by 7.5 percent or greater, and but by less than 10.0 percent, the dividend or interest rate shall be 2 percent; or
+
+     “(V) if the amount of small business lending has increased by 10 percent or greater, the dividend or interest rate shall be 1 percent.
+
+
+
+“(B) Basis of initial rate.—The initial dividend or interest rate shall be based on call report data published in the quarter immediately preceding the date of the capital investment under the Program.
+
+“(C) Timing of rate adjustments.—Any rate adjustment shall occur in the calendar quarter following the publication of call report data, such that the rate based on call report data from any one calendar quarter, which is published in the first following calendar quarter, shall be adjusted in that first following calendar quarter and payable in the second following quarter.
+
+“(D) Rate following initial 2-year period.—Generally, the rate based on call report data from the eighth calendar quarter after the date of the capital investment under the Program shall be payable until the expiration of the 4½-year period that begins on the date of the investment. In the case where the amount of small business lending has remained the same or decreased relative to the institution’s baseline in the eighth quarter after the date of the capital investment under the Program, the rate shall be 7 percent until the expiration of the 4½-year period that begins on the date of the investment.
+
+“(E) Rate following initial 4½-year period.—The dividend or interest rate paid on any preferred stock or other financial instrument issued by an eligible institution that receives a capital investment under the Program shall increase to 9 percent at the end of the 4½-year period that begins on the date of the capital investment under the Program.
+
+“(F) Limitation on rate reductions with respect to certain amount.—The reduction in the dividend or interest rate payable to Treasury by any eligible institution shall be limited such that the rate reduction shall not apply to a dollar amount of the investment made by Treasury that is greater than the dollar amount increase in the amount of small business lending realized under this program. The Secretary may issue guidelines that will apply to new capital investments limiting the amount of capital available to eligible institutions consistent with this limitation.
+
+“(G) Rate adjustments for s corporation.—Before making a capital investment in an eligible institution that is an S corporation or a corporation organized on a mutual basis, the Secretary may adjust the dividend or interest rate on the financial instrument to be issued to the Secretary, from the dividend or interest rate that would apply under subparagraphs (A) through (F), to take into account any differential tax treatment of securities issued by such eligible institution. For purpose of this subparagraph, the term ‘S corporation’ has the same meaning as in section 1361(a) of the Internal Revenue Code of 1986 [26 U.S.C. 1361(a)].
+
+“(H) Repayment deadline.—The capital investment received by an eligible institution under the Program shall be evidenced by preferred stock or other financial instrument that—“(i) includes, as a term and condition, that the capital investment will—     “(I) be repaid not later than the end of the 10-year period beginning on the date of the capital investment under the Program; or
+
+     “(II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, which shall include a requirement that the stock or instrument shall carry the highest dividend or interest rate payable; and
+
+
+“(ii) provides that the term and condition described under clause (i) shall not apply if the application of that term and condition would adversely affect the capital treatment of the stock or financial instrument under current or successor applicable capital provisions compared to a capital instrument with identical terms other than the term and condition described under clause (i).     “(I) Requirements on financial instruments issued by a community development financial institution loan fund.—Any equity equivalent capital issued to the Treasury by a community development loan fund receiving a capital investment under the Program shall provide that the rate at which interest is payable shall be 2 percent per annum for 8 years. After 8 years, the rate at which interest is payable shall be 9 percent.
+
+
+
+
+“(6) Additional incentives to repay.—The Secretary may, by regulation or guidance issued under section 4104(9), establish repayment incentives in addition to the incentive in paragraph (5)(E) that will apply to new capital investments in a manner that the Secretary determines to be consistent with the purposes of this subtitle.
+
+“(7) Capital purchase program refinance.—“(A) In general.—The Secretary shall, in a manner that the Secretary determines to be consistent with the purposes of this subtitle, issue regulations and other guidance to permit eligible institutions to refinance securities issued to Treasury under the CDCI and the CPP for securities to be issued under the Program.
+
+“(B) Prohibition on participation by non-paying cpp participants.—Subparagraph (A) shall not apply to any eligible institution that has missed more than one dividend payment due under the CPP. For purposes of this subparagraph, a CPP dividend payment that is submitted within 60 days of the due date of such payment shall not be considered a missed dividend payment.
+
+
+“(8) Outreach to minorities, women, and veterans.—The Secretary shall require eligible institutions receiving capital investments under the Program to provide linguistically and culturally appropriate outreach and advertising in the applicant pool describing the availability and application process of receiving loans from the eligible institution that are made possible by the Program through the use of print, radio, television or electronic media outlets which target organizations, trade associations, and individuals that—“(A) represent or work within or are members of minority communities;
+
+“(B) represent or work with or are women; and
+
+“(C) represent or work with or are veterans.
+
+
+“(9) Additional terms.—The Secretary may, by regulation or guidance issued under section 4104(9), make modifications that will apply to new capital investments in order to manage risks associated with the administration of the Fund in a manner consistent with the purposes of this subtitle.
+
+“(10) Minimum underwriting standards.—The appropriate Federal banking agency for an eligible institution that receives funds under the Program shall within 60 days issue guidance regarding prudent underwriting standards that must be used for loans made by the eligible institution using such funds.
+
+

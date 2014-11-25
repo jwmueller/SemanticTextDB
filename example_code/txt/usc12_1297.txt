@@ -1,0 +1,51 @@
+§ 2278b–9. One-time stock purchase(a) Amount of stock purchase(1) In generalExcept as provided in paragraphs (2) and (3), for the purpose of obtaining funds for the Trust Fund, each System institution shall purchase from the Financial Assistance Corporation stock issued in accordance with section 2278b–3 of this title in an amount equal to the amount by which the unallocated retained earnings of the institution (after taking into account any funds received by the institution under section 2278a–9(c) of this title) exceeds—(A) in the case of a System bank, 5 percent of assets; or
+
+(B) in the case of a production credit association or a Federal land bank association, 13 percent of assets.
+
+
+(2) ReallocationThe district board of a district, subject to the unanimous consent of the bank and associations in the district that would be affected by the reallocation, may reallocate the amount of stock required to be purchased by banks and associations in the district under paragraph (1) to equitably reflect the ability of the banks and associations to pay, except that—(A) the total amount of stock purchased by banks and associations in the district under this paragraph shall equal the total amount of stock required to be purchased by the banks and associations under paragraph (1); and
+
+(B) the board may not impair the stock of an association in carrying out this paragraph; and
+
+(C) a district board’s authority to reallocate stock purchases under this paragraph shall be limited to reallocation among like associations of the amount of stock required to be purchased by such associations; reallocation of the amount of stock required to be purchased by production credit associations among such associations and the district Federal intermediate credit bank; and reallocation of the amount of stock required to be purchased by Federal land bank associations among such associations and the district Federal land bank. Other reallocations than those enumerated above shall not be permitted.
+
+
+(3) Periodic purchases(A) Notwithstanding any other provision of this section, the Financial Assistance Corporation shall establish a program under which System institutions shall purchase, as debt obligations are issued under section 2278b–6(a) of this title, stock of the Corporation in amounts described in this paragraph.
+
+(B) The program shall provide, with respect to each issuance of debt obligations under section 2278b–6(a) of this title, that each System institution originally required to purchase stock under paragraph (1), or the successor thereto, shall purchase Corporation stock in an amount determined by multiplying the amount of stock such institution was originally required to purchase under that paragraph by a percentage equal to the percentage which the amount of the issuance bears to $4,000,000,000.
+
+(C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or (2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporation shall deduct from any refund due any System institution, and retain, the amount payable by such institution.
+
+
+
+(b) ComputationsFor purposes of subsection (a) of this section, the unallocated retained earnings and assets of a System institution shall be computed in accordance with generally accepted accounting principles on the basis of the financial statement of the institution on December 31, 1986.
+
+
+(c) Notice(1) Within 15 days after the retirement of the obligations of the Capital Corporation under section 2278a–9 of this title—(A) the Financial Assistance Corporation shall notify each System institution of the amount of stock such institution is required to purchase under subsection (a) of this section; or
+
+(B) in the case of a district in which the district board has reallocated the stock purchase requirement in accordance with subsection (a)(2) of this section, the district board shall notify each System institution in the district of the amount of stock such institution is required to purchase under subsection (a) of this section.
+
+
+(2) Not later than 15 days before each issuance of debt obligations under section 2278b–6(a) of this title occurring after September 30, 1988, the Financial Assistance Corporation shall notify each System institution required to purchase Corporation stock under subsection (a)(3) of this section of the amount of the stock it is required to purchase.
+
+
+(d) Institution requirements after noticeWithin 15 days after a System institution is notified of the amounts due under subsection (c) of this section, the institution shall purchase from the Financial Assistance Corporation the amount of stock required to be purchased by the institution under this section. No further stock purchases, obligations, or assessments shall be required beyond that provided in section 2278b–6 of this title and this section.
+
+
+(e) Jurisdiction over actionsNotwithstanding any other provision of law, the United States district court for the District of Columbia shall have exclusive jurisdiction over any action brought under or arising out of this section. No suit or proceeding shall be maintained for the recovery of any amount of stock alleged to have been erroneously or illegally purchased, and no suit or proceeding shall be maintained to enjoin or otherwise prevent or impede the giving of notice or the purchase of stock required under this section, unless the amount of stock required to be purchased under this section has been purchased and paid for in full.
+
+
+(Pub. L. 92–181, title VI, § 6.29, as added Pub. L. 100–233, title II, § 201, Jan. 6, 1988, 101 Stat. 1603; amended Pub. L. 100–460, title VI, § 646, Oct. 1, 1988, 102 Stat. 2266.)
+
+Amendments1988—Subsec. (a)(1). Pub. L. 100–460, § 646(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+Subsec. (a)(3). Pub. L. 100–460, § 646(2), added par. (3).
+Subsec. (c). Pub. L. 100–460, § 646(3), (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+Effective Date of 1988 AmendmentsPub. L. 101–220, § 7(a), Dec. 12, 1989, 103 Stat. 1881, and Pub. L. 101–239, title I, § 1006(a), Dec. 19, 1989, 103 Stat. 2109, provided that: “Notwithstanding any other provision of law, the amendments to section 6.29 of the Farm Credit Act of 1971 (12 U.S.C. 2278b–9) made by section 646 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 (Public Law 100–460; 102 Stat. 2266) shall be effective on October 1, 1992.”
+
+Pub. L. 100–460, title VI, § 646, Oct. 1, 1988, 102 Stat. 2266, provided that the amendment made by that section is effective Oct. 1, 1989.
+
+Payments to Farm Credit System Institutions for Purchases of Financial Assistance Corporation StockPub. L. 101–239, title I, § 1006(b), Dec. 19, 1989, 103 Stat. 2109, directed Financial Assistance Corporation to pay, out of Financial Assistance Corporation Trust Fund established under section 2278b–5(b) of this title, to each of institutions of Farm Credit System that purchased stock in Financial Assistance Corporation under section 2278b–9 of this title, four annual payments, required the annual payments to be made available as soon as practicable after October 1 of each of calendar years 1989 through 1992, established method of calculating payments, and provided that payments be made available to such institutions in an amount equal to total amount of annual payments to be made available times the ratio of the amount of stock each institution purchased divided by $177,000,000.
+Similar provisions were contained in Pub. L. 101–220, § 7(b), Dec. 12, 1989, 103 Stat. 1881.
+
+

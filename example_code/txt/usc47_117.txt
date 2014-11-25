@@ -1,0 +1,2 @@
+“SEC. 6. PROTECTION OF TRANSLATOR INPUT SIGNALS.“The Federal Communications Commission shall modify its rules to address the potential for predicted interference to FM translator input signals on third-adjacent channels set forth in section 2.7 of the technical report entitled ‘Experimental Measurements of the Third-Adjacent Channel Impacts of Low-Power FM Stations, Volume One—Final Report (May 2003)’.
+

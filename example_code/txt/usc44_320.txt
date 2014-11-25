@@ -1,0 +1,93 @@
+“SEC. 209. FEDERAL INFORMATION TECHNOLOGY WORKFORCE DEVELOPMENT.“(a) Purpose.—The purpose of this section is to improve the skills of the Federal workforce in using information technology to deliver Government information and services.
+
+“(b) Workforce Development.—“(1) In general.—In consultation with the Director of the Office of Management and Budget, the Chief Information Officers Council, and the Administrator of General Services, the Director of the Office of Personnel Management shall—“(A) analyze, on an ongoing basis, the personnel needs of the Federal Government related to information technology and information resource management;
+
+“(B) identify where current information technology and information resource management training do not satisfy the personnel needs described in subparagraph (A);
+
+“(C) oversee the development of curricula, training methods, and training priorities that correspond to the projected personnel needs of the Federal Government related to information technology and information resource management; and
+
+“(D) assess the training of Federal employees in information technology disciplines in order to ensure that the information resource management needs of the Federal Government are addressed.
+
+
+“(2) Information technology training programs.—The head of each Executive agency, after consultation with the Director of the Office of Personnel Management, the Chief Information Officers Council, and the Administrator of General Services, shall establish and operate information technology training programs consistent with the requirements of this subsection. Such programs shall—“(A) have curricula covering a broad range of information technology disciplines corresponding to the specific information technology and information resource management needs of the agency involved;
+
+“(B) be developed and applied according to rigorous standards; and
+
+“(C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever such features can be applied without reducing the effectiveness of the training or negatively impacting academic standards.
+
+
+“(3) Governmentwide policies and evaluation.—The Director of the Office of Personnel Management, in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards for training and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
+
+“(4) Chief information officer authorities and responsibilities.—Subject to the authority, direction, and control of the head of an Executive agency, the chief information officer of such agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementation of this subsection. The chief information officer shall ensure that the policies of the agency head established in accordance with this subsection are implemented throughout the agency.
+
+“(5) Information technology training reporting.—The Director of the Office of Management and Budget shall ensure that the heads of Executive agencies collect and maintain standardized information on the information technology and information resources management workforce related to the implementation of this subsection.
+
+“(6) Authority to detail employees to non-Federal employers.—In carrying out the preceding provisions of this subsection, the Director of the Office of Personnel Management may provide for a program under which a Federal employee may be detailed to a non-Federal employer. The Director of the Office of Personnel Management shall prescribe regulations for such program, including the conditions for service and duties as the Director considers necessary.
+
+“(7) Coordination provision.—An assignment described in section 3703 of title 5, United States Code, may not be made unless a program under paragraph (6) is established, and the assignment is made in accordance with the requirements of such program.
+
+“(8) Employee participation.—Subject to information resource management needs and the limitations imposed by resource needs in other occupational areas, and consistent with their overall workforce development strategies, agencies shall encourage employees to participate in occupational information technology training.
+
+“(9) Authorization of Appropriations.—There are authorized to be appropriated to the Office of Personnel Management for the implementation of this subsection, $15,000,000 in fiscal year 2003, and such sums as are necessary for each fiscal year thereafter.
+
+“(10) Executive agency defined.—For purposes of this subsection, the term ‘Executive agency’ has the meaning given the term ‘agency’ under section 3701 of title 5, United States Code (as added by subsection (c)).
+
+
+“(c) Information Technology Exchange Program.—“(1) In general.—[Enacted chapter 37 of Title 5, Government Organization and Employees.]
+
+“(2) Report.—Not later than 4 years after the date of the enactment of this Act [Dec. 17, 2002], the Government Accountability Office shall prepare and submit to the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report on the operation of chapter 37 of title 5, United States Code (as added by this subsection). Such report shall include—“(A) an evaluation of the effectiveness of the program established by such chapter; and
+
+“(B) a recommendation as to whether such program should be continued (with or without modification) or allowed to lapse.
+
+
+“(3) Clerical Amendment.—[Amended analysis for part III of Title 5.]
+
+
+“(d) Ethics Provisions.—“(1) One-year restriction on certain communications.—[Amended section 207 of Title 18, Crimes and Criminal Procedure.]
+
+“(2) Disclosure of confidential information.—[Amended section 1905 of Title 18.]
+
+“(3) Contract advice.—[Amended section 207 of Title 18.]
+
+“(4) Restriction on disclosure of procurement information.—[Amended section 423 of Title 41, Public Contracts.]
+
+
+“(e) Report on Existing Exchange Programs.—“(1) Exchange program defined.—For purposes of this subsection, the term ‘exchange program’ means an executive exchange program, the program under subchapter VI of chapter 33 of title 5, United States Code, and any other program which allows for—“(A) the assignment of employees of the Federal Government to non-Federal employers;
+
+“(B) the assignment of employees of non-Federal employers to the Federal Government; or
+
+“(C) both.
+
+
+“(2) Reporting requirement.—Not later than 1 year after the date of the enactment of this Act [Dec. 17, 2002], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a report identifying all existing exchange programs.
+
+“(3) Specific information.—The report shall, for each such program, include—“(A) a brief description of the program, including its size, eligibility requirements, and terms or conditions for participation;
+
+“(B) specific citation to the law or other authority under which the program is established;
+
+“(C) the names of persons to contact for more information, and how they may be reached; and
+
+“(D) any other information which the Office considers appropriate.
+
+
+
+“(f) Report on the Establishment of a Governmentwide Information Technology Training Program.—“(1) In general.—Not later January 1, 2003, the Office of Personnel Management, in consultation with the Chief Information Officers Council and the Administrator of General Services, shall review and submit to the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate a written report on the following:“(A) The adequacy of any existing information technology training programs available to Federal employees on a Governmentwide basis.
+
+“(B)(i) If one or more such programs already exist, recommendations as to how they might be improved.
+
+“(ii) If no such program yet exists, recommendations as to how such a program might be designed and established.
+
+
+“(C) With respect to any recommendations under subparagraph (B), how the program under chapter 37 of title 5, United States Code, might be used to help carry them out.
+
+
+“(2) Cost estimate.—The report shall, for any recommended program (or improvements) under paragraph (1)(B), include the estimated costs associated with the implementation and operation of such program as so established (or estimated difference in costs of any such program as so improved).
+
+
+“(g) Technical and Conforming Amendments.—“(1) Amendments to title 5, united states code.—[Amended sections 3111, 4108, and 7353 of Title 5.]
+
+“(2) Amendment to title 18, united states code.—[Amended section 209 of Title 18.]
+
+“(3) Other amendments.—[Amended section 125(c)(1) of Pub. L. 100–238, set out as a note under section 8432 of Title 5.]
+
+

@@ -1,0 +1,39 @@
+§ 50112. Promotion of United States Global Positioning System standards
+In order to support and sustain the Global Positioning System in a manner that will most effectively contribute to the national security, public safety, scientific, and economic interests of the United States, Congress encourages the President to—(1) ensure the operation of the Global Positioning System on a continuous worldwide basis free of direct user fees;
+
+(2) enter into international agreements that promote cooperation with foreign governments and international organizations to—(A) establish the Global Positioning System and its augmentations as an acceptable international standard; and
+
+(B) eliminate any foreign barriers to applications of the Global Positioning System worldwide; and
+
+
+(3) provide clear direction and adequate resources to the Assistant Secretary of Commerce for Communications and Information so that on an international basis the Assistant Secretary can—(A) achieve and sustain efficient management of the electromagnetic spectrum used by the Global Positioning System; and
+
+(B) protect that spectrum from disruption and interference.
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3397.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5011242 U.S.C. 14712(b).Pub. L. 105–303, title I, § 104(b), Oct. 28, 1998, 112 Stat. 2852.
+
+
+
+FindingPub. L. 105–303, title I, § 104(a), Oct. 28, 1998, 112 Stat. 2852, provided that: “The Congress finds that the Global Positioning System, including satellites, signal equipment, ground stations, data links, and associated command and control facilities, has become an essential element in civil, scientific, and military space development because of the emergence of a United States commercial industry which provides Global Positioning System equipment and related services.”
+
+
+

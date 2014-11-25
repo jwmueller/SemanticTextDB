@@ -1,0 +1,83 @@
+§ 810. Operations loss deduction(a) Deduction allowedThere shall be allowed as a deduction for the taxable year an amount equal to the aggregate of—(1) the operations loss carryovers to such year, plus
+
+(2) the operations loss carrybacks to such year.
+
+
+For purposes of this part, the term “operations loss deduction” means the deduction allowed by this subsection.
+
+(b) Operations loss carrybacks and carryovers(1) Years to which loss may be carriedThe loss from operations for any taxable year (hereinafter in this section referred to as the “loss year”) shall be—(A) an operations loss carryback to each of the 3 taxable years preceding the loss year,
+
+(B) an operations loss carryover to each of the 15 taxable years following the loss year, and
+
+(C) if the life insurance company is a new company for the loss year, an operations loss carryover to each of the 3 taxable years following the 15 taxable years described in subparagraph (B).
+
+
+(2) Amount of carrybacks and carryoversThe entire amount of the loss from operations for any loss year shall be carried to the earliest of the taxable years to which (by reason of paragraph (1)) such loss may be carried. The portion of such loss which shall be carried to each of the other taxable years shall be the excess (if any) of the amount of such loss over the sum of the offsets (as defined in subsection (d)) for each of the prior taxable years to which such loss may be carried.
+
+
+(3) Election for operations loss carrybacksIn the case of a loss from operations for any taxable year, the taxpayer may elect to relinquish the entire carryback period for such loss. Such election shall be made by the due date (including extensions of time) for filing the return for the taxable year of the loss from operations for which the election is to be in effect, and, once made for any taxable year, such election shall be irrevocable for that taxable year.
+
+
+(4) Carryback for 2008 or 2009 losses(A) In generalIn the case of an applicable loss from operations with respect to which the taxpayer has elected the application of this paragraph, paragraph (1)(A) shall be applied by substituting any whole number elected by the taxpayer which is more than 3 and less than 6 for “3”.
+
+
+(B) Applicable loss from operationsFor purposes of this paragraph, the term “applicable loss from operations” means the taxpayer’s loss from operations for a taxable year ending after December 31, 2007, and beginning before January 1, 2010.
+
+
+(C) Election(i) In generalAny election under this paragraph may be made only with respect to 1 taxable year.
+
+
+(ii) ProcedureAny election under this paragraph shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extension of time) for filing the return for the taxpayer’s last taxable year beginning in 2009. Any such election, once made, shall be irrevocable.
+
+
+
+(D) Limitation on amount of loss carryback to 5th preceding taxable year(i) In generalThe amount of any loss from operations which may be carried back to the 5th taxable year preceding the taxable year of such loss under subparagraph (A) shall not exceed 50 percent of the taxpayer’s taxable income (computed without regard to the loss from operations for the loss year or any taxable year thereafter) for such preceding taxable year.
+
+
+(ii) Carrybacks and carryovers to other taxable yearsAppropriate adjustments in the application of the second sentence of paragraph (2) shall be made to take into account the limitation of clause (i).
+
+
+
+
+
+(c) Computation of loss from operationsFor purposes of this section—(1) In generalThe term “loss from operations” means the excess of the life insurance deductions for any taxable year over the life insurance gross income for such taxable year.
+
+
+(2) ModificationsFor purposes of paragraph (1)—(A) the operations loss deduction shall not be allowed, and
+
+(B) the deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
+
+
+
+(d) Offset defined(1) In generalFor purposes of subsection (b)(2), the term “offset” means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) 11 See References in Text note below. or such year to zero.
+
+
+(2) Operations loss deductionFor purposes of paragraph (1), the operations loss deduction for any taxable year shall be computed without regard to the loss from operations for the loss year or for any taxable year thereafter.
+
+
+
+(e) New company definedFor purposes of this part, a life insurance company is a new company for any taxable year only if such taxable year begins not more than 5 years after the first day on which it (or any predecessor, if section 381(c)(22) applies) was authorized to do business as an insurance company.
+
+
+(f) Application of subtitles A and F in respect of operation lossesExcept as provided in section 805(b)(5),1 sub­titles A and F shall apply in respect of operation loss carrybacks, operation loss carryovers, and the operations loss deduction under this part, in the same manner and to the same extent as such subtitles apply in respect of net operating loss carrybacks, net operating loss carryovers, and the net operating loss deduction.
+
+
+(g) Transitional ruleFor purposes of this section and section 812 (as in effect before the enactment of the Life Insurance Tax Act of 1984), this section shall be treated as a continuation of such section 812.
+
+
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 738; amended Pub. L. 111–92, § 13(c), Nov. 6, 2009, 123 Stat. 2994.)
+
+
+References in TextParagraphs (2) and (3) of section 804, referred to in subsec. (d)(1), were repealed and a new paragraph (2) enacted by Pub. L. 99–514, title X, § 1011(b)(2), Oct. 22, 1986, 100 Stat. 2389.
+Section 805(b)(5) of this title, referred to in subsec. (f), was redesignated section 805(b)(4) of this title by Pub. L. 99–514, title VIII, § 805(c)(6), Oct. 22, 1986, 100 Stat. 2362.
+The Life Insurance Tax Act of 1984, referred to in subsec. (g), probably means title II of div. A of Pub. L. 98–369, which amended this part generally and was approved July 18, 1984.
+
+Prior ProvisionsA prior section 810, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, § 121(b)(5)(B), title IX, § 907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+
+Amendments2009—Subsec. (b)(4). Pub. L. 111–92 added par. (4).
+
+Effective Date of 2009 AmendmentAmendment by Pub. L. 111–92 applicable to losses arising in taxable years ending after Dec. 31, 2007, with transition provisions and exception for TARP recipients, see section 13(e), (f) of Pub. L. 111–92, set out as a note under section 56 of this title.
+
+Effective DateSection applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
+
+

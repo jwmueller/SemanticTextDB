@@ -1,0 +1,149 @@
+“SEC. 2. FULL DISCLOSURE OF ENTITIES RECEIVING FEDERAL FUNDING.“(a) Definitions.—In this Act:“(1) Director.—The term ‘Director’ means the Director of the Office of Management and Budget.
+
+“(2) Entity.—The term ‘entity’—“(A) includes, whether for profit or nonprofit—“(i) a corporation;
+
+“(ii) an association;
+
+“(iii) a partnership;
+
+“(iv) a limited liability company;
+
+“(v) a limited liability partnership;
+
+“(vi) a sole proprietorship;
+
+“(vii) any other legal business entity;
+
+“(viii) any other grantee or contractor that is not excluded by subparagraph (B) or (C); and
+
+“(ix) any State or locality;
+
+
+“(B) on and after January 1, 2009, includes any subcontractor or subgrantee; and
+
+“(C) does not include—“(i) an individual recipient of Federal assistance; or
+
+“(ii) a Federal employee.
+
+
+
+“(3) Federal agency.—The term ‘Federal agency’ has the meaning given the term ‘Executive agency’ under section 105 of title 5, United States Code.
+
+“(4) Federal award.—The term ‘Federal award’—“(A) means Federal financial assistance and expenditures that—“(i) include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;
+
+“(ii) include contracts, subcontracts, purchase orders, task orders, and delivery orders;
+
+
+“(B) does not include individual transactions below $25,000; and
+
+“(C) before October 1, 2008, does not include credit card transactions.
+
+
+“(5) Object class.—The term ‘object class’ means the category assigned for purposes of the annual budget of the President submitted under section 1105(a) of title 31, United States Code, to the type of property or services purchased by the Federal Government.
+
+“(6) Program activity.—The term ‘program activity’ has the meaning given that term under section 1115(h) of title 31, United States Code.
+
+“(7) Searchable website.—The term ‘searchable website’ means a website that allows the public to—“(A) search and aggregate Federal funding by any element required by subsection (b)(1);
+
+“(B) ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(i), by fiscal year;
+
+“(C) ascertain through a single search the total amount of Federal funding awarded to an entity by a Federal award described in paragraph (2)(A)(ii), by fiscal year; and
+
+“(D) download data included in subparagraph (A) included in the outcome from searches.
+
+
+“(8) Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.
+
+
+“(b) In General.—“(1) Website.—Not later than January 1, 2008, the Office of Management and Budget shall, in accordance with this section, section 204 of the E-Government Act of 2002 (Public Law 107–347; 44 U.S.C. 3501 note), and the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 403 [401] et seq.) [now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41], ensure the existence and operation of a single searchable website, accessible by the public at no cost to access, that includes for each Federal award—“(A) the name of the entity receiving the award;
+
+“(B) the amount of the award;
+
+“(C) information on the award including transaction type, funding agency, the North American Industry Classification System code or Catalog of Federal Domestic Assistance number (where applicable), program source, and an award title descriptive of the purpose of each funding action;
+
+“(D) the location of the entity receiving the award and the primary location of performance under the award, including the city, State, congressional district, and country;
+
+“(E) a unique identifier of the entity receiving the award and of the parent entity of the recipient, should the entity be owned by another entity;
+
+“(F) the names and total compensation of the five most highly compensated officers of the entity if—“(i) the entity in the preceding fiscal year received—     “(I) 80 percent or more of its annual gross revenues in Federal awards; and
+
+     “(II) $25,000,000 or more in annual gross revenues from Federal awards; and
+
+
+“(ii) the public does not have access to information about the compensation of the senior executives of the entity through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the Internal Revenue Code of 1986. [; and]
+
+
+“(G) any other relevant information specified by the Office of Management and Budget.
+
+
+“(2) Scope of data.—The website shall include data for fiscal year 2007, and each fiscal year thereafter.
+
+“(3) Designation of agencies.—The Director is authorized to designate one or more Federal agencies to participate in the development, establishment, operation, and support of the single website. In the initial designation, or in subsequent instructions and guidance, the Director may specify the scope of the responsibilities of each such agency.
+
+“(4) Agency responsibilities.—Federal agencies shall comply with the instructions and guidance issued by the Director under paragraph (3), and shall provide appropriate assistance to the Director upon request, so as to assist the Director in ensuring the existence and operation of the single website.
+
+
+“(c) Website.—The website established under this section—“(1) may use as the source of its data the Federal Procurement Data System, Federal Assistance Award Data System, and Grants.gov, if all of these data sources are searchable through the website and can be accessed in a search on the website required by this Act, provided that the user may—“(A) specify such search shall be confined to Federal contracts and subcontracts;
+
+“(B) specify such search shall be confined to include grants, subgrants, loans, awards, cooperative agreements, and other forms of financial assistance;
+
+
+“(2) shall not be considered in compliance if it hyperlinks to the Federal Procurement Data System website, Federal Assistance Award Data System website, Grants.gov website, or other existing websites, so that the information elements required by subsection (b)(1) cannot be searched electronically by field in a single search;
+
+“(3) shall provide an opportunity for the public to provide input about the utility of the site and recommendations for improvements;
+
+“(4) shall be updated not later than 30 days after the award of any Federal award requiring a posting;
+
+“(5) shall provide for separate searches for Federal awards described in subsection (a) to distinguish between the Federal awards described in subsection (a)(2)(A)(i) and those described in subsection (a)(2)(A)(ii);
+
+“(6) shall have the ability to aggregate data for the categories described in paragraphs (1) through (5) without double-counting data; and
+
+“(7) shall ensure that all information published under this section is available—“(A) in machine-readable and open formats;
+
+“(B) to be downloaded in bulk; and
+
+“(C) to the extent practicable, for automated processing.
+
+
+
+“(d) Subaward Data.—“(1) Pilot program.—“(A) In general.—Not later than July 1, 2007, the Director shall commence a pilot program to—“(i) test the collection and accession of data about subgrants and subcontracts; and
+
+“(ii) determine how to implement a subaward reporting program across the Federal Government, including—     “(I) a reporting system under which the entity issuing a subgrant or subcontract is responsible for fulfilling the subaward reporting requirement; and
+
+     “(II) a mechanism for collecting and incorporating agency and public feedback on the design and utility of the website.
+
+
+
+“(B) Termination.—The pilot program under subparagraph (A) shall terminate not later than January 1, 2009.
+
+
+“(2) Reporting of subawards.—“(A) In general.—Based on the pilot program conducted under paragraph (1), and, except as provided in subparagraph (B), not later than January 1, 2009, the Director—“(i) shall ensure that data regarding subawards are disclosed in the same manner as data regarding other Federal awards, as required by this Act; and
+
+“(ii) shall ensure that the method for collecting and distributing data about subawards under clause (i)—     “(I) minimizes burdens imposed on Federal award recipients and subaward recipients;
+
+     “(II) allows Federal award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and
+
+     “(III) establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to State and local governments.
+
+
+
+“(B) Extension of deadline.—For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+
+
+
+“(e) Exception.—Any entity that demonstrates to the Director that the gross income, from all sources, for such entity did not exceed $300,000 in the previous tax year of such entity shall be exempt from the requirement to report subawards under subsection (d), until the Director determines that the imposition of such reporting requirements will not cause an undue burden on such entities.
+
+“(f) Construction.—Nothing in this Act shall prohibit the Office of Management and Budget from including through the website established under this section access to data that is publicly available in any other Federal database.
+
+“(g) Report.—“(1) In general.—The Director shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives an annual report regarding the implementation of the website established under this section.
+
+“(2) Contents.—Each report submitted under paragraph (1) shall include—“(A) data regarding the usage and public feedback on the utility of the site (including recommendations for improving data quality and collection);
+
+“(B) an assessment of the reporting burden placed on Federal award and subaward recipients; and
+
+“(C) an explanation of any extension of the subaward reporting deadline under subsection (d)(2)(B), if applicable.
+
+
+“(3) Publication.—The Director shall make each report submitted under paragraph (1) publicly available on the website established under this section.
+
+

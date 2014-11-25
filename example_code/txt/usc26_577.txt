@@ -1,0 +1,79 @@
+§ 806. Small life insurance company deduction(a) Small life insurance company deduction(1) In generalFor purposes of section 804, the small life insurance company deduction for any taxable year is 60 percent of so much of the tentative LICTI for such taxable year as does not exceed $3,000,000.
+
+
+(2) Phaseout between $3,000,000 and $15,000,000The amount of the small life insurance company deduction determined under paragraph (1) for any taxable year shall be reduced (but not below zero) by 15 percent of so much of the tentative LICTI for such taxable year as exceeds $3,000,000.
+
+
+(3) Small life insurance company deduction not allowable to company with assets of $500,000,000 or more(A) In generalThe small life insurance company deduction shall not be allowed for any taxable year to any life insurance company which, at the close of such taxable year, has assets equal to or greater than $500,000,000.
+
+
+(B) AssetsFor purposes of this paragraph, the term “assets” means all assets of the company.
+
+
+(C) Valuation of assetsFor purposes of this paragraph, the amount attributable to—(i) real property and stock shall be the fair market value thereof, and
+
+(ii) any other asset shall be the adjusted basis of such asset for purposes of determining gain on sale or other disposition.
+
+
+(D) Special rule for interests in partnerships and trustsFor purposes of this paragraph—(i) an interest in a partnership or trust shall not be treated as an asset of the company, but
+
+(ii) the company shall be treated as actually owning its proportionate share of the assets held by the partnership or trust (as the case may be).
+
+
+
+
+(b) Tentative LICTIFor purposes of this part—(1) In generalThe term “tentative LICTI” means life insurance company taxable income determined without regard to the small life insurance company deduction.
+
+
+(2) Exclusion of items attributable to noninsurance businessesThe amount of the tentative LICTI for any taxable year shall be determined without regard to all items attributable to noninsurance businesses.
+
+
+(3) Noninsurance business(A) In generalThe term “noninsurance business” means any activity which is not an insurance business.
+
+
+(B) Certain activities treated as insurance businessesFor purposes of subparagraph (A), any activity which is not an insurance business shall be treated as an insurance business if—(i) it is of a type traditionally carried on by life insurance companies for investment purposes, but only if the carrying on of such activity (other than in the case of real estate) does not constitute the active conduct of a trade or business, or
+
+(ii) it involves the performance of administrative services in connection with plans providing life insurance, pension, or accident and health benefits.
+
+
+(C) Limitation on amount of loss from noninsurance business which may offset income from insurance businessIn computing the life insurance company taxable income of any life insurance company, any loss from a noninsurance business shall be limited under the principles of section 1503(c).
+
+
+
+
+(c) Special rule for controlled groups(1) Small life insurance company deduction determined on controlled group basisFor purposes of subsection (a)—(A) all life insurance companies which are members of the same controlled group shall be treated as 1 life insurance company, and
+
+(B) any small life insurance company deduction determined with respect to such group shall be allocated among the life insurance companies which are members of such group in proportion to their respective tentative LICTI’s.
+
+
+(2) Nonlife insurance members included for asset testFor purposes of subsection (a)(3), all members of the same controlled group (whether or not life insurance companies) shall be treated as 1 company.
+
+
+(3) Controlled groupFor purposes of this subsection, the term “controlled group” means any controlled group of corporations (as defined in section 1563(a)); except that subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply.
+
+
+(4) Adjustments to prevent excess detriment or benefitUnder regulations prescribed by the Secretary, proper adjustments shall be made in the application of this subsection to prevent any excess detriment or benefit (whether from year-to-year or otherwise) arising from the application of this subsection.
+
+
+
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 724; amended Pub. L. 99–514, title X, § 1011(a), (b)(5)–(8), (11)(A), Oct. 22, 1986, 100 Stat. 2388, 2389.)
+
+Prior ProvisionsA prior section 806, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 120; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to certain changes in reserves and assets, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+Another prior section 806, act Aug. 16, 1954, ch. 736, 68A Stat. 258, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, § 2, 70 Stat. 36.
+
+Amendments1986—Pub. L. 99–514, § 1011(b)(11)(A), substituted “Small life insurance company deduction” for “Special deductions” in section catchline.
+Subsec. (a). Pub. L. 99–514, § 1011(a), redesignated subsec. (b) as (a) and struck out former subsec. (a), special life insurance company deduction, which read as follows: “For purposes of section 804, the special life insurance company deduction for any taxable year is 20 percent of the excess of the tentative LICTI for such taxable year over the small life insurance company deduction (if any).”
+Subsec. (b). Pub. L. 99–514, § 1011(a), (b)(5), redesignated subsec. (c) as (b), and in par. (1), substituted “without regard to the small life insurance company deduction” for “without regard to— (A) the special life insurance company deduction, and (B) the small life insurance company deduction”. Former subsec. (b) redesignated (a).
+Subsecs. (c), (d). Pub. L. 99–514, § 1011(a), (b)(6)–(8), redesignated subsec. (d) as (c), in par. (1), in heading, substituted “Small” for “Special life insurance company deduction and small”, in introductory provisions, substituted “subsection (a)” for “subsections (a) and (b)”, and in subpar. (B), struck out “any special life insurance company deduction and”, in par. (2), substituted “subsection (a)(3)” for “subsection (b)(3)”, redesignated par. (5) as (4), and struck out former par. (4) which provided for election with respect to loss from operations of member of group. Former subsec. (c) redesignated (b).
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
+
+Effective DateSection applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
+
+Determination of Tentative LICTI Where Corporation Made Certain Acquisitions in 1980, 1981, 1982, and 1983Pub. L. 98–369, div. A, title II, § 217(c), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: 
+“If—“(1) a corporation domiciled or having its principal place of business in Alabama, Arkansas, Oklahoma, or Texas acquired the assets of 1 or more insurance companies after 1979 and before April 1, 1983, and
+
+“(2) the bases of such assets in the hands of the corporation were determined under section 334(b)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] or such corporation made an election under section 338 of such Code with respect to such assets,
+
+
+then the tentative LICTI of the corporation holding such assets for taxable years beginning after December 31, 1983, shall, for purposes of determining the amount of the special deductions under section 806 of such Code, be increased by the deduction allowable under chapter 1 of such Code for the amortization of the cost of insurance contracts acquired in such asset acquisition (and any portion of any operations loss deduction attributable to such amortization).”

@@ -1,0 +1,27 @@
+§ 1413. Partition(a) Authority of corporationThe corporation may order the partition of a multiemployer plan in accordance with this section.
+
+
+(b) Authority of plan sponsor upon application to corporation for partition order; procedures applicable to corporationA plan sponsor may apply to the corporation for an order partitioning a plan. The corporation may not order the partition of a plan except upon notice to the plan sponsor and the participants and beneficiaries whose vested benefits will be affected by the partition of the plan, and upon finding that—(1) a substantial reduction in the amount of aggregate contributions under the plan has resulted or will result from a case or proceeding under title 11 with respect to an employer;
+
+(2) the plan is likely to become insolvent;
+
+(3) contributions will have to be increased significantly in reorganization to meet the minimum contribution requirement and prevent insolvency; and
+
+(4) partition would significantly reduce the likelihood that the plan will become insolvent.
+
+
+(c) Authority of corporation notwithstanding pendency of partition proceedingThe corporation may order the partition of a plan notwithstanding the pendency of a proceeding described in subsection (b)(1) of this section.
+
+
+(d) Scope of partition orderThe corporation’s partition order shall provide for a transfer of no more than the nonforfeitable benefits directly attributable to service with the employer referred to in subsection (b)(1) of this section and an equitable share of assets.
+
+
+(e) Nature of plan created by partitionThe plan created by the partition is—(1) a successor plan to which section 1322a of this title applies, and
+
+(2) a terminated multiemployer plan to which section 1341a(d) of this title applies, with respect to which only the employer described in subsection (b)(1) of this section has withdrawal liability, and to which section 1368 of this title applies.
+
+
+(f) Authority of corporation to obtain decree partitioning plan and appointing trustee for terminated portion of partitioned planThe corporation may proceed under section 1342(c) through (h) of this title for a decree partitioning a plan and appointing a trustee for the terminated portion of a partitioned plan. The court may order the partition of a plan upon making the findings described in subsection (b)(1) through (4) of this section, and subject to the conditions set forth in subsections (c) through (e) of this section.
+
+
+(Pub. L. 93–406, title IV, § 4233, as added Pub. L. 96–364, title I, § 104(2), Sept. 26, 1980, 94 Stat. 1246.)

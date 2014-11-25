@@ -1,0 +1,83 @@
+§ 1331. Definitions
+When used in this subchapter—(a) The term “outer Continental Shelf” means all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in section 1301 of this title, and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control;
+
+(b) The term “Secretary” means the Secretary of the Interior, except that with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the term “Secretary” means the Secretary of Energy, or the Federal Energy Regulatory Commission, as the case may be;
+
+(c) The term “lease” means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
+
+(d) The term “person” includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation;
+
+(e) The term “coastal zone” means the coastal waters (including the lands therein and thereunder) and the adjacent shorelands (including the waters therein and thereunder), strongly influenced by each other and in proximity to the shorelines of the several coastal States, and includes islands, transition and intertidal areas, salt marshes, wetlands, and beaches, which zone extends seaward to the outer limit of the United States territorial sea and extends inland from the shorelines to the extent necessary to control shorelands, the uses of which have a direct and significant impact on the coastal waters, and the inward boundaries of which may be identified by the several coastal States, pursuant to the authority of section 1454(b)(1) 11 See References in Text note below. of title 16;
+
+(f) The term “affected State” means, with respect to any program, plan, lease sale, or other activity, proposed, conducted, or approved pursuant to the provisions of this subchapter, any State—(1) the laws of which are declared, pursuant to section 1333(a)(2) of this title, to be the law of the United States for the portion of the outer Continental Shelf on which such activity is, or is proposed to be, conducted;
+
+(2) which is, or is proposed to be, directly connected by transportation facilities to any artificial island or structure referred to in section 1333(a)(1) of this title;
+
+(3) which is receiving, or in accordnace 22 So in original. Probably should be “accordance”. with the proposed activity will receive, oil for processing, refining, or transshipment which was extracted from the outer Continental Shelf and transported directly to such State by means of vessels or by a combination of means including vessels;
+
+(4) which is designated by the Secretary as a State in which there is a substantial probability of significant impact on or damage to the coastal, marine, or human environment, or a State in which there will be significant changes in the social, governmental, or economic infrastructure, resulting from the exploration, development, and production of oil and gas anywhere on the outer Continental Shelf; or
+
+(5) in which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents, to the marine or coastal environment in the event of any oilspill, blowout, or release of oil or gas from vessels, pipelines, or other transshipment facilities;
+
+
+(g) The term “marine environment” means the physical, atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the marine ecosystem, including the waters of the high seas, the contiguous zone, transitional and intertidal areas, salt marshes, and wetlands within the coastal zone and on the outer Continental Shelf;
+
+(h) The term “coastal environment” means the physical atmospheric, and biological components, conditions, and factors which interactively determine the productivity, state, condition, and quality of the terrestrial ecosystem from the shoreline inward to the boundaries of the coastal zone;
+
+(i) The term “human environment” means the physical, social, and economic components, conditions, and factors which interactively determine the state, condition, and quality of living conditions, employment, and health of those affected, directly or indirectly, by activities occurring on the outer Continental Shelf;
+
+(j) The term “Governor” means the Governor of a State, or the person or entity designated by, or pursuant to, State law to exercise the powers granted to such Governor pursuant to this subchapter;
+
+(k) The term “exploration” means the process of searching for minerals, including (1) geophysical surveys where magnetic, gravity, seismic, or other systems are used to detect or imply the presence of such minerals, and (2) any drilling, whether on or off known geological structures, including the drilling of a well in which a discovery of oil or natural gas in paying quantities is made and the drilling of any additional delineation well after such discovery which is needed to delineate any reservoir and to enable the lessee to determine whether to proceed with development and production;
+
+(l) The term “development” means those activities which take place following discovery of minerals in paying quantities, including geophysical activity, drilling, platform construction, and operation of all onshore support facilities, and which are for the purpose of ultimately producing the minerals discovered;
+
+(m) The term “production” means those activities which take place after the successful completion of any means for the removal of minerals, including such removal, field operations, transfer of minerals to shore, operation monitoring, maintenance, and work-over drilling;
+
+(n) The term “antitrust law” means—(1) the Sherman Act (15 U.S.C. 1 et seq.);
+
+(2) the Clayton Act (15 U.S.C. 12 et seq.);
+
+(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.);
+
+(4) the Wilson Tariff Act (15 U.S.C. 8 et seq.); or
+
+(5) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a);
+
+
+(o) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
+
+(p) The term “major Federal action” means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42; and
+
+(q) The term “minerals” includes oil, gas, sulphur, geopressured-geothermal and associated resources, and all other minerals which are authorized by an Act of Congress to be produced from “public lands” as defined in section 1702 of this title.
+
+(Aug. 7, 1953, ch. 345, § 2, 67 Stat. 462; Pub. L. 95–372, title II, § 201, Sept. 18, 1978, 92 Stat. 632.)
+
+
+References in TextThe Department of Energy Organization Act, referred to in subsec. (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
+Section 1454(b) of title 16, referred to in subsec. (e), was amended generally by Pub. L. 101–508, title VI, § 6205, Nov. 5, 1990, 104 Stat. 1388–302, and, as so amended, does not contain a par. (1).
+The Sherman Act, referred to in subsec. (n)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+The Clayton Act, referred to in subsec. (n)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (n)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§ 73 to 77, 28 Stat. 570, as amended. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
+Act of June 19, 1936, referred to in subsec. (n)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Act, the Robinson-Patman Antidiscrimination Act, and the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
+
+Amendments1978—Subsec. (b). Pub. L. 95–372, § 201(a), inserted provision that, with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act, “Secretary” means the Secretary of Energy or the Federal Energy Regulatory Commission, as the case may be.
+Subsec. (c). Pub. L. 95–372, § 201(a), substituted “lease” for “mineral lease” as term defined and in definition of that term substituted “any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;” for “any form of authorization for the exploration for, or development or removal of deposits of, oil, gas, or other minerals; and”.
+Subsec. (d). Pub. L. 95–372, § 201(b)(1), substituted semicolon for period at end.
+Subsecs. (e) to (q). Pub. L. 95–372, § 201(b)(2), added subsecs. (e) to (q).
+
+Short Title of 1978 AmendmentFor short title of Pub. L. 95–372 as the “Outer Continental Shelf Lands Act Amendments of 1978”, see section 1 of Pub. L. 95–372, set out as a Short Title note under section 1801 of this title.
+
+Short TitleFor short title of act Aug. 7, 1953, which enacted this subchapter, as the “Outer Continental Shelf Lands Act”, see section 1 of act Aug. 7, 1953, set out as a note under section 1301 of this chapter.
+
+SeparabilityAct Aug. 7, 1953, ch. 345, § 17, 67 Stat. 471, provided that: “If any provision of this Act [enacting this subchapter], or any section, subsection, sentence, clause, phrase or individual word, or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of any such provision, section, subsection, sentence, clause, phrase or individual word to other persons and circumstances shall not be affected thereby.”
+
+
+
+Transfer of Functions
+Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+Gulf of Mexico Energy SecurityPub. L. 109–432, div. C, title I, Dec. 20, 2006, 120 Stat. 3000, provided that:
+“SEC. 101. SHORT TITLE.“This title may be cited as the ‘Gulf of Mexico Energy Security Act of 2006’.
+

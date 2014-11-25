@@ -1,0 +1,38 @@
+§ 637. Stopping vessels; indemnity for firing at or into vessel(a)(1) Whenever any vessel liable to seizure or examination does not stop on being ordered to do so or on being pursued by an authorized vessel or authorized aircraft which has displayed the ensign, pennant, or other identifying insignia prescribed for an authorized vessel or authorized aircraft, the person in command or in charge of the authorized vessel or authorized aircraft may, subject to paragraph (2), fire at or into the vessel which does not stop.
+
+(2) Before firing at or into a vessel as authorized in paragraph (1), the person in command or in charge of the authorized vessel or authorized aircraft shall fire a gun as a warning signal, except that the prior firing of a gun as a warning signal is not required if that person determines that the firing of a warning signal would unreasonably endanger persons or property in the vicinity of the vessel to be stopped.
+
+
+(b) The person in command of an authorized vessel or authorized aircraft and all persons acting under that person’s direction shall be indemnified from any penalties or actions for damages for firing at or into a vessel pursuant to subsection (a). If any person is killed or wounded by the firing, and the person in command of the authorized vessel or authorized aircraft or any person acting pursuant to their orders is prosecuted or arrested therefor, they shall be forthwith admitted to bail.
+
+(c) A vessel or aircraft is an authorized vessel or authorized aircraft for purposes of this section if—(1) it is a Coast Guard vessel or aircraft;
+
+(2) it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to section 379 of title 10; or
+
+(3) any 11 So in original. Probably should be preceded by “it is”. other vessel or aircraft on government noncommercial service when—(A) the vessel or aircraft is under the tactical control of the Coast Guard; and
+
+(B) at least one member of the Coast Guard is assigned and conducting a Coast Guard mission on the vessel or aircraft.
+
+
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 546; Pub. L. 100–690, title VII, § 7401(a), Nov. 18, 1988, 102 Stat. 4483; Pub. L. 106–65, div. A, title X, § 1022, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–293, title II, § 205(a)–(c), (e)(1), Aug. 9, 2004, 118 Stat. 1032, 1033; Pub. L. 111–281, title II, § 213(a), Oct. 15, 2010, 124 Stat. 2915.)
+
+Historical and Revision NotesBased on title 14, U.S.C., 1946 ed., § 68 (R.S. 2765).
+Aircraft are included within the protective terms of this section which permits aircraft to stop vessels but makes no provision for stopping aircraft.
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+Amendments2010—Subsec. (c)(3). Pub. L. 111–281 added par. (3).
+2004—Pub. L. 108–293, § 205(e)(1), substituted “indemnity” for “immunity” in section catchline.
+Subsec. (a). Pub. L. 108–293, § 205(a), designated existing provisions as par. (1), substituted “subject to paragraph (2),” for “after a gun has been fired by the authorized vessel or authorized aircraft as a warning signal,”, and added par. (2).
+Subsec. (c). Pub. L. 108–293, § 205(b), inserted “or” after the semicolon at end of par. (1), inserted “or military aircraft” after “surface naval vessel” and substituted a period for “; or” in par. (2), and struck out par. (3) which read as follows: “subject to subsection (d), it is a naval aircraft that has one or more members of the Coast Guard on board and is operating from a surface naval vessel described in paragraph (2).”
+Subsec. (d). Pub. L. 108–293, § 205(c), struck out subsec. (d) which related to inclusion of naval aircraft as authorized aircraft for purposes of this section.
+1999—Subsec. (c)(3). Pub. L. 106–65, § 1022(a), added par. (3).
+Subsec. (d). Pub. L. 106–65, § 1022(b), added subsec. (d).
+1988—Pub. L. 100–690 substituted “immunity for firing at or into vessel” for “immunity of Coast Guard officer” in section catchline, and amended text generally. Prior to amendment, text read as follows:
+“(a) Whenever any vessel liable to seizure or examination does not bring-to, on being ordered to do so or on being chased by any Coast Guard vessel or aircraft which has displayed the ensign, pennant, or other identifying insignia prescribed for vessels or aircraft of the Coast Guard, the person in command or in charge of such Coast Guard vessel or such Coast Guard aircraft may, after a gun has been fired by the Coast Guard vessel or aircraft as a warning signal, fire at or into such vessel which does not bring-to.
+“(b) The person in command of such Coast Guard vessel or such Coast Guard aircraft and all persons acting by or under his direction shall be indemnified from any penalties or actions for damages for so doing. If any person is killed or wounded by such firing, and the person in command of the Coast Guard vessel or aircraft or any person acting pursuant to his orders is prosecuted or arrested therefor, he shall be forthwith admitted to bail.”
+
+Report on Vessels or Aircraft Fired At or Into Without WarningPub. L. 108–293, title II, § 205(d), Aug. 9, 2004, 118 Stat. 1033, which required the Commandant of the Coast Guard to transmit an annual report to Congress describing the location, vessels or aircraft, circumstances, and consequences of each incident in which an authorized vessel or an authorized aircraft fired at or into a vessel without prior use of the warning signal as authorized by this section, was repealed by Pub. L. 111–207, § 4(a)(5), July 27, 2010, 124 Stat. 2251.
+[Pub. L. 111–207, § 4(a)(5), which directed the repeal of section 205(d) of the Coast Guard and Maritime Transportation Act of 2006, was executed by repealing section 205(d) of Pub. L. 108–293, the Coast Guard and Maritime Transportation Act of 2004, formerly set out above, to reflect the probable intent of Congress.]
+
+

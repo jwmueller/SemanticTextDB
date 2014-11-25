@@ -1,0 +1,62 @@
+§ 921. Domestic radiation detection and imaging(a) Scanning containersSubject to section 1318 of title 19, not later than December 31, 2007, all containers entering the United States through the 22 ports through which the greatest volume of containers enter the United States by vessel shall be scanned for radiation. To the extent practicable, the Secretary shall deploy next generation radiation detection technology.
+
+
+(b) StrategyThe Secretary shall develop a strategy for the deployment of radiation detection capabilities that includes—(1) a risk-based prioritization of ports of entry at which radiation detection equipment will be deployed;
+
+(2) a proposed timeline of when radiation detection equipment will be deployed at each port of entry identified under paragraph (1);
+
+(3) the type of equipment to be used at each port of entry identified under paragraph (1), including the joint deployment and utilization of radiation detection equipment and nonintrusive imaging equipment;
+
+(4) standard operating procedures for examining containers with such equipment, including sensor alarming, networking, and communications and response protocols;
+
+(5) operator training plans;
+
+(6) an evaluation of the environmental health and safety impacts of nonintrusive imaging technology and a radiation risk reduction plan, in consultation with the Nuclear Regulatory Commission, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health, that seeks to minimize radiation exposure of workers and the public to levels as low as reasonably achievable;
+
+(7) the policy of the Department for using nonintrusive imaging equipment in tandem with radiation detection equipment; and
+
+(8) a classified annex that—(A) details plans for covert testing; and
+
+(B) outlines the risk-based prioritization of ports of entry identified under paragraph (1).
+
+
+
+(c) ReportNot later than 90 days after October 13, 2006, the Secretary shall submit the strategy developed under subsection (b) to the appropriate congressional committees.
+
+
+(d) UpdateNot later than 180 days after the date of the submission of the report under subsection (c), the Secretary shall provide a more complete evaluation under subsection (b)(6).
+
+
+(e) Other weapons of mass destruction threatsNot later than 180 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report on the feasibility of, and a strategy for, the development of equipment to detect and prevent shielded nuclear and radiological threat material and chemical, biological, and other weapons of mass destruction from entering the United States.
+
+
+(f) StandardsThe Secretary, acting through the Director for Domestic Nuclear Detection and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—(1) should take into account relevant standards and procedures utilized by other Federal departments or agencies as well as those developed by international bodies; and
+
+(2) shall not be designed so as to endorse specific companies or create sovereignty conflicts with participating countries.
+
+
+(g) ImplementationNot later than 3 years after October 13, 2006, the Secretary shall fully implement the strategy developed under subsection (b).
+
+
+(h) Expansion to other United States ports of entry(1) In generalAs soon as practicable after—(A) implementation of the program for the examination of containers for radiation at ports of entry described in subsection (a); and
+
+(B) submission of the strategy developed under subsection (b) (and updating, if any, of that strategy under subsection (c)),
+
+
+but not later than December 31, 2008, the Secretary shall expand the strategy developed under subsection (b), in a manner consistent with the requirements of subsection (b), to provide for the deployment of radiation detection capabilities at all other United States ports of entry not covered by the strategy developed under subsection (b).
+
+(2) Risk assessmentIn expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.
+
+
+
+(i) Intermodal Rail Radiation Detection Test Center(1) EstablishmentIn accordance with subsection (b), and in order to comply with this section, the Secretary shall establish an Intermodal Rail Radiation Detection Test Center (referred to in this subsection as the “Test Center”).
+
+
+(2) ProjectsThe Secretary shall conduct multiple, concurrent projects at the Test Center to rapidly identify and test concepts specific to the challenges posed by on-dock rail.
+
+
+(3) LocationThe Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.
+
+
+
+(Pub. L. 109–347, title I, § 121, Oct. 13, 2006, 120 Stat. 1898.)

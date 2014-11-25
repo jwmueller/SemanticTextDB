@@ -1,0 +1,13 @@
+“SEC. 215. CERTIFICATION STANDARDS AND RESOURCES.“(a) Process for Certification.—Not later than 180 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall develop a plan to accelerate and streamline the process for certification of NextGen technologies, including—“(1) establishment of updated project plans and timelines;
+
+“(2) identification of the specific activities needed to certify NextGen technologies, including the establishment of NextGen technical requirements for the manufacture of equipage, installation of equipage, airline operational procedures, pilot training standards, air traffic control procedures, and air traffic controller training;
+
+“(3) identification of staffing requirements for the Air Certification Service and the Flight Standards Service, taking into consideration the leveraging of assistance from third parties and designees;
+
+“(4) establishment of a program under which the Administration will use third parties in the certification process; and
+
+“(5) establishment of performance metrics to measure the Administration’s progress.
+
+
+“(b) Certification Integrity.—The Administrator shall ensure that equipment, systems, or services used in the national airspace system meet appropriate certification requirements regardless of whether the equipment, system, or service is publically or privately owned.
+

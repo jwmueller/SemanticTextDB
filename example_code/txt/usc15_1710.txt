@@ -1,0 +1,39 @@
+§ 2619. Citizens’ civil actions(a) In generalExcept as provided in subsection (b) of this section, any person may commence a civil action—(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of this chapter or any rule promulgated under section 2603, 2604, or 2605 of this title, or subchapter II or IV of this chapter, or order issued under section 2604 of this title or subchapter II or IV of this chapter to restrain such violation, or
+
+(2) against the Administrator to compel the Administrator to perform any act or duty under this chapter which is not discretionary.
+
+
+Any civil action under paragraph (1) shall be brought in the United States district court for the district in which the alleged violation occurred or in which the defendant resides or in which the defendant’s principal place of business is located. Any action brought under paragraph (2) shall be brought in the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the plaintiff is domiciled. The district courts of the United States shall have jurisdiction over suits brought under this section, without regard to the amount in controversy or the citizenship of the parties. In any civil action under this subsection process may be served on a defendant in any judicial district in which the defendant resides or may be found and subpoenas for witnesses may be served in any judicial district.
+
+(b) LimitationNo civil action may be commenced—(1) under subsection (a)(1) of this section to restrain a violation of this chapter or rule or order under this chapter—(A) before the expiration of 60 days after the plaintiff has given notice of such violation (i) to the Administrator, and (ii) to the person who is alleged to have committed such violation, or
+
+(B) if the Administrator has commenced and is diligently prosecuting a proceeding for the issuance of an order under section 2615(a)(2) of this title to require compliance with this chapter or with such rule or order or if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States to require compliance with this chapter or with such rule or order, but if such proceeding or civil action is commenced after the giving of notice, any person giving such notice may intervene as a matter of right in such proceeding or action; or
+
+
+(2) under subsection (a)(2) of this section before the expiration of 60 days after the plaintiff has given notice to the Administrator of the alleged failure of the Administrator to perform an act or duty which is the basis for such action or, in the case of an action under such subsection for the failure of the Administrator to file an action under section 2606 of this title, before the expiration of ten days after such notification.
+
+
+Notice under this subsection shall be given in such manner as the Administrator shall prescribe by rule.
+
+(c) General(1) In any action under this section, the Administrator, if not a party, may intervene as a matter of right.
+
+(2) The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of suit and reasonable fees for attorneys and expert witnesses if the court determines that such an award is appropriate. Any court, in issuing its decision in an action brought to review such an order, may award costs of suit and reasonable fees for attorneys if the court determines that such an award is appropriate.
+
+(3) Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of this chapter or any rule or order under this chapter or to seek any other relief.
+
+
+(d) ConsolidationWhen two or more civil actions brought under subsection (a) of this section involving the same defendant and the same issues or violations are pending in two or more judicial districts, such pending actions, upon application of such defendants to such actions which is made to a court in which any such action is brought, may, if such court in its discretion so decides, be consolidated for trial by order (issued after giving all parties reasonable notice and opportunity to be heard) of such court and tried in—(1) any district which is selected by such defendant and in which one of such actions is pending,
+
+(2) a district which is agreed upon by stipulation between all the parties to such actions and in which one of such actions is pending, or
+
+(3) a district which is selected by the court and in which one of such actions is pending.
+
+
+The court issuing such an order shall give prompt notification of the order to the other courts in which the civil actions consolidated under the order are pending.
+
+(Pub. L. 94–469, title I, § 20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, § 3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, § 1021(b)(9), Oct. 28, 1992, 106 Stat. 3923.)
+
+Amendments1992—Subsec. (a)(1). Pub. L. 102–550 substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter” in two places.
+1986—Subsec. (a)(1). Pub. L. 99–519 inserted references to subchapter II of this chapter.
+
+

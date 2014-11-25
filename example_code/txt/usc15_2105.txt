@@ -1,0 +1,17 @@
+§ 5523. Department of Energy activities(a) General responsibilitiesAs part of the Program described in subchapter I of this chapter, the Secretary of Energy shall—(1) conduct and support basic and applied research in high-performance computing and networking to support fundamental research in science and engineering disciplines related to energy applications; and
+
+(2) provide computing and networking infrastructure support, including—(A) the provision of high-performance computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
+
+(B) support for advanced software and applications development for science and engineering disciplines related to energy applications.
+
+
+
+(b) Authorization of appropriationsThere are authorized to be appropriated to the Secretary of Energy such sums as are necessary to carry out this section.
+
+
+(Pub. L. 102–194, title II, § 203, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 104–66, title I, § 1052(j), Dec. 21, 1995, 109 Stat. 719; Pub. L. 109–58, title IX, § 976(b), Aug. 8, 2005, 119 Stat. 903.)
+
+Amendments2005—Pub. L. 109–58 reenacted section catchline without change and amended text generally, substituting provisions relating to general responsibilities and authorization of appropriations for provisions relating to general responsibilities, establishment of High-Performance Computing Research and Development Collaborative Consortia, transfer of technology to private sector and others, reports on activities, and authorization of appropriations.
+1995—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter.”
+
+

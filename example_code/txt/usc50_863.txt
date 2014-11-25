@@ -1,0 +1,44 @@
+§ 2736. Notification of nuclear criticality and non-nuclear incidents(a) NotificationThe Secretary of Energy or the Administrator, as the case may be, shall submit to the appropriate congressional committees a notification of a nuclear criticality incident resulting from a covered program that results in an injury or fatality or results in the shutdown, or partial shutdown, of a covered facility by not later than 15 days after the date of such incident.
+
+
+(b) Elements of notificationEach notification submitted under subsection (a) shall include the following:(1) A description of the incident, including the cause of the incident.
+
+(2) In the case of a criticality incident, whether the incident caused a facility, or part of a facility, to be shut down.
+
+(3) The effect, if any, on the mission of the Administration or the Office of Environmental Management of the Department of Energy.
+
+(4) Any corrective action taken in response to the incident.
+
+
+(c) Database(1) The Secretary shall maintain a record of incidents described in paragraph (2).
+
+(2) An incident described in this paragraph is any of the following incidents resulting from a covered program:(A) A nuclear criticality incident that results in an injury or fatality or results in the shutdown, or partial shutdown, of a covered facility.
+
+(B) A non-nuclear incident that results in serious bodily injury or fatality at a covered facility.
+
+
+
+(d) CooperationIn carrying out this section, the Secretary and the Administrator shall ensure that each management and operating contractor of a covered facility cooperates in a timely manner.
+
+
+(e) DefinitionsIn this section:(1) The term “appropriate congressional committees” means—(A) the congressional defense committees; and
+
+(B) the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+
+(2) The term “covered facility” means—(A) a facility of the nuclear security enterprise; and
+
+(B) a facility conducting activities for the defense environmental cleanup program of the Office of Environmental Management of the Department of Energy.
+
+
+(3) The term “covered program” means—(A) programs of the Administration; and
+
+(B) defense environmental cleanup programs of the Office of Environmental Management of the Department of Energy.
+
+
+
+(Pub. L. 107–314, div. D, title XLVI, § 4646, as added Pub. L. 112–239, div. C, title XXXI, § 3142(a)(1), Jan. 2, 2013, 126 Stat. 2194; amended Pub. L. 113–66, div. C, title XXXI, § 3146(g)(13), Dec. 26, 2013, 127 Stat. 1080.)
+
+Amendments2013—Subsec. (a). Pub. L. 113–66 substituted “Energy or” for “Energy and”.
+
+

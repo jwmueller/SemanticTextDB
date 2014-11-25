@@ -1,0 +1,41 @@
+§ 844. Special loss carryover rules(a) General ruleIf an insurance company—(1) is subject to the tax imposed by part I or II of this subchapter for the taxable year, and
+
+(2) was subject to the tax imposed by a different part of this subchapter for a prior taxable year,
+
+
+then any operations loss carryover under section 810 (or the corresponding provisions of prior law) or net operating loss carryover under section 172 (as the case may be) arising in such prior taxable year shall be included in its operations loss deduction under section 810(a) or net operating loss deduction under section 832(c)(10), as the case may be.
+
+(b) LimitationThe amount included under section 810(a) or 832(c)(10) (as the case may be) by reason of the application of subsection (a) shall not exceed the amount that would have constituted the loss carryover under such section if for all relevant taxable years the company had been subject to the tax imposed by the part referred to in subsection (a)(1) rather than the part referred to in subsection (a)(2). For purposes of applying the preceding sentence, section 810(b)(1)(C) (relating to additional years to which losses may be carried by new life insurance companies) shall not apply.
+
+
+(c) RegulationsThe Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+
+
+(Added Pub. L. 91–172, title IX, § 907(c)(1), Dec. 30, 1969, 83 Stat. 716; amended Pub. L. 94–455, title XIX, §§ 1901(b)(25), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1834; Pub. L. 98–369, div. A, title II, § 211(b)(11), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, § 1024(c)(12), title XVIII, § 1899A(20), Oct. 22, 1986, 100 Stat. 2408, 2959; Pub. L. 101–239, title VII, § 7841(d)(16), Dec. 19, 1989, 103 Stat. 2429.)
+
+Amendments1989—Subsec. (a)(2). Pub. L. 101–239 substituted “a prior taxable year” for “the taxable year”.
+1986—Subsec. (a). Pub. L. 99–514, § 1024(c)(12), added subsec. (a) and struck out former subsec. (a) which read as follows: “If an insurance company—
+“(1) is subject to the tax imposed by part I, II, or III of this subchapter for the taxable year, and
+“(2) was subject to the tax imposed by a different part of this subchapter for a prior taxable year beginning after December 31, 1962,
+then any operations loss carryover under section 810 (or the corresponding provisions of prior law), unused loss carryover under section 825, or net operating loss carryover under section 172, as the case may be, arising in such prior taxable year shall be included in its operations loss deduction under section 810(a), unused loss deduction under section 825(a), or net operating loss deduction under section 832(c)(10), as the case may be.”
+Pub. L. 99–514, § 1899A(20), substituted “prior law), unused loss” for “prior law),, unused loss” in concluding provisions.
+Subsec. (b). Pub. L. 99–514, § 1024(c)(12), added subsec. (b) and struck out former subsec. (b) which read as follows: “The amount included under section 810(a), 825(a), or 832(c)(10), as the case may be, by reason of the application of subsection (a) shall not exceed the amount that would have constituted the loss carryover under such section if for all relevant taxable years such company had been subject to the tax imposed by the part referred to in subsection (a)(1) rather than the part referred to in subsection (a)(2). For purposes of applying the preceding sentence—
+“(1) in the case of a mutual insurance company which becomes a stock insurance company, an amount equal to 25 percent of the deduction under section 832(c)(11) (relating to dividends to policyholders) shall not be allowed, and
+“(2) section 810(b)(1)(C) (relating to additional years to which losses may be carried by new life insurance companies) shall not apply.”
+1984—Subsec. (a). Pub. L. 98–369, § 211(b)(11)(A), substituted “section 810 (or the corresponding provisions of prior law),” for “section 812” and “section 810(a)” for “section 812(a)” in provisions following par. (2).
+Subsec. (b). Pub. L. 98–369, § 211(b)(11)(B), substituted “section 810(a)” for “section 812(a)” in introductory provisions, and “section 810(b)(1)(C)” for “section 812(b)(1)(C)” in par. (2).
+1976—Subsec. (b)(2). Pub. L. 94–455, § 1901(b)(25), substituted “section 812(b)(1)(C)” for “section 812(b)(1)(A)(iii)”.
+Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+Effective Date of 1986 AmendmentAmendment by section 1024(c)(12) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
+
+Effective Date of 1976 AmendmentAmendment by section 1901(b)(25) of Pub. L. 94–455, effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+
+Effective DatePub. L. 91–172, title IX, § 907(d), Dec. 30, 1969, 83 Stat. 717, provided that: “The amendments made by subsection (a) [amending sections 805 and 810 of this title] shall apply to taxable years beginning after December 31, 1957. The amendments made by subsection (b) [amending section 815 of this title] shall apply to taxable years beginning after December 31, 1968. The amendments made by subsection (c) [enacting this section and amending sections 809, 823, and 825 of this title] shall apply with respect to losses incurred in taxable years beginning after December 31, 1962, but shall not affect any tax liability for any taxable year beginning before January 1, 1967.”
+
+
+Plan Amendments Not Required Until January 1, 1989For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+

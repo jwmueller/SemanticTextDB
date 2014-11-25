@@ -1,0 +1,56 @@
+§ 3545. Annual independent evaluation(a) In General.—(1) Each year each agency shall have performed an independent evaluation of the information security program and practices of that agency to determine the effectiveness of such program and practices.
+
+(2) Each evaluation under this section shall include—(A) testing of the effectiveness of information security policies, procedures, and practices of a representative subset of the agency’s information systems;
+
+(B) an assessment (made on the basis of the results of the testing) of compliance with—(i) the requirements of this subchapter; and
+
+(ii) related information security policies, procedures, standards, and guidelines; and
+
+
+(C) separate presentations, as appropriate, regarding information security relating to national security systems.
+
+
+
+(b) Independent Auditor.—Subject to subsection (c)—(1) for each agency with an Inspector General appointed under the Inspector General Act of 1978 or any other law, the annual evaluation required by this section shall be performed by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
+
+(2) for each agency to which paragraph (1) does not apply, the head of the agency shall engage an independent external auditor to perform the evaluation.
+
+
+(c) National Security Systems.—For each agency operating or exercising control of a national security system, that portion of the evaluation required by this section directly relating to a national security system shall be performed—(1) only by an entity designated by the agency head; and
+
+(2) in such a manner as to ensure appropriate protection for information associated with any information security vulnerability in such system commensurate with the risk and in accordance with all applicable laws.
+
+
+(d) Existing Evaluations.—The evaluation required by this section may be based in whole or in part on an audit, evaluation, or report relating to programs or practices of the applicable agency.
+
+(e) Agency Reporting.—(1) Each year, not later than such date established by the Director, the head of each agency shall submit to the Director the results of the evaluation required under this section.
+
+(2) To the extent an evaluation required under this section directly relates to a national security system, the evaluation results submitted to the Director shall contain only a summary and assessment of that portion of the evaluation directly relating to a national security system.
+
+
+(f) Protection of Information.—Agencies and evaluators shall take appropriate steps to ensure the protection of information which, if disclosed, may adversely affect information security. Such protections shall be commensurate with the risk and comply with all applicable laws and regulations.
+
+(g) OMB Reports to Congress.—(1) The Director shall summarize the results of the evaluations conducted under this section in the report to Congress required under section 3543(a)(8).
+
+(2) The Director’s report to Congress under this subsection shall summarize information regarding information security relating to national security systems in such a manner as to ensure appropriate protection for information associated with any information security vulnerability in such system commensurate with the risk and in accordance with all applicable laws.
+
+(3) Evaluations and any other descriptions of information systems under the authority and control of the Director of Central Intelligence or of National Foreign Intelligence Programs systems under the authority and control of the Secretary of Defense shall be made available to Congress only through the appropriate oversight committees of Congress, in accordance with applicable laws.
+
+
+(h) Comptroller General.—The Comptroller General shall periodically evaluate and report to Congress on—(1) the adequacy and effectiveness of agency information security policies and practices; and
+
+(2) implementation of the requirements of this subchapter.
+
+
+(Added Pub. L. 107–347, title III, § 301(b)(1), Dec. 17, 2002, 116 Stat. 2952; amended Pub. L. 108–177, title III, § 377(e), Dec. 13, 2003, 117 Stat. 2631.)
+
+
+References in TextThe Inspector General Act of 1978, referred to in subsec. (b)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Amendments2003—Subsec. (b)(1). Pub. L. 108–177 inserted “or any other law” after “1978”.
+
+
+Change of Name
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+
+

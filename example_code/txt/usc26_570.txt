@@ -1,0 +1,38 @@
+§ 775. Electing large partnership defined(a) General ruleFor purposes of this part—(1) In generalThe term “electing large partnership” means, with respect to any partnership taxable year, any partnership if—(A) the number of persons who were partners in such partnership in the preceding partnership taxable year equaled or exceeded 100, and
+
+(B) such partnership elects the application of this part.
+
+
+To the extent provided in regulations, a partnership shall cease to be treated as an electing large partnership for any partnership taxable year if in such taxable year fewer than 100 persons were partners in such partnership.
+
+(2) ElectionThe election under this subsection shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+
+
+
+(b) Special rules for certain service partnerships(1) Certain partners not countedFor purposes of this section, the term “partner” does not include any individual performing substantial services in connection with the activities of the partnership and holding an interest in such partnership, or an individual who formerly performed substantial services in connection with such activities and who held an interest in such partnership at the time the individual performed such services.
+
+
+(2) ExclusionFor purposes of this part, an election under subsection (a) shall not be effective with respect to any partnership if substantially all the partners of such partnership—(A) are individuals performing substantial services in connection with the activities of such partnership or are personal service corporations (as defined in section 269A(b)) the owner-employees (as defined in section 269A(b)) of which perform such substantial services,
+
+(B) are retired partners who had performed such substantial services, or
+
+(C) are spouses of partners who are performing (or had previously performed) such substantial services.
+
+
+(3) Special rule for lower tier partnershipsFor purposes of this subsection, the activities of a partnership shall include the activities of any other partnership in which the partnership owns directly an interest in the capital and profits of at least 80 percent.
+
+
+
+(c) Exclusion of commodity poolsFor purposes of this part, an election under subsection (a) shall not be effective with respect to any partnership the principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to such commodities.
+
+
+(d) Secretary may rely on treatment on returnIf, on the partnership return of any partnership, such partnership is treated as an electing large partnership, such treatment shall be binding on such partnership and all partners of such partnership but not on the Secretary.
+
+
+(Added Pub. L. 105–34, title XII, § 1221(a), Aug. 5, 1997, 111 Stat. 1006; amended Pub. L. 106–170, title V, § 532(c)(2)(G), Dec. 17, 1999, 113 Stat. 1930.)
+
+Amendments1999—Subsec. (c). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+
+Effective Date of 1999 AmendmentAmendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
+

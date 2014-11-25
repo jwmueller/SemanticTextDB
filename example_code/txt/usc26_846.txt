@@ -1,0 +1,107 @@
+§ 1363. Effect of election on corporation(a) General ruleExcept as otherwise provided in this subchapter, an S corporation shall not be subject to the taxes imposed by this chapter.
+
+
+(b) Computation of corporation’s taxable incomeThe taxable income of an S corporation shall be computed in the same manner as in the case of an individual, except that—(1) the items described in section 1366(a)(1)(A) shall be separately stated,
+
+(2) the deductions referred to in section 703(a)(2) shall not be allowed to the corporation,
+
+(3) section 248 shall apply, and
+
+(4) section 291 shall apply if the S corporation (or any predecessor) was a C corporation for any of the 3 immediately preceding taxable years.
+
+
+(c) Elections of the S corporation(1) In generalExcept as provided in paragraph (2), any election affecting the computation of items derived from an S corporation shall be made by the corporation.
+
+
+(2) ExceptionsIn the case of an S corporation, elections under the following provisions shall be made by each shareholder separately—(A) section 617 (relating to deduction and recapture of certain mining exploration expenditures), and
+
+(B) section 901 (relating to taxes of foreign countries and possessions of the United States).
+
+
+
+(d) Recapture of LIFO benefits(1) In generalIf—(A) an S corporation was a C corporation for the last taxable year before the first taxable year for which the election under section 1362(a) was effective, and
+
+(B) the corporation inventoried goods under the LIFO method for such last taxable year,
+
+
+the LIFO recapture amount shall be included in the gross income of the corporation for such last taxable year (and appropriate adjustments to the basis of inventory shall be made to take into account the amount included in gross income under this paragraph).
+
+(2) Additional tax payable in installments(A) In generalAny increase in the tax imposed by this chapter by reason of this subsection shall be payable in 4 equal installments.
+
+
+(B) Date for payment of installmentsThe first installment under subparagraph (A) shall be paid on or before the due date (determined without regard to extensions) for the return of the tax imposed by this chapter for the last taxable year for which the corporation was a C corporation and the 3 succeeding installments shall be paid on or before the due date (as so determined) for the corporation’s return for the 3 succeeding taxable years.
+
+
+(C) No interest for period of extensionNotwithstanding section 6601(b), for purposes of section 6601, the date prescribed for the payment of each installment under this paragraph shall be determined under this paragraph.
+
+
+
+(3) LIFO recapture amountFor purposes of this subsection, the term “LIFO recapture amount” means the amount (if any) by which—(A) the inventory amount of the inventory asset under the first-in, first-out method authorized by section 471, exceeds
+
+(B) the inventory amount of such assets under the LIFO method.
+
+
+For purposes of the preceding sentence, inventory amounts shall be determined as of the close of the last taxable year referred to in paragraph (1).
+
+(4) Other definitionsFor purposes of this subsection—(A) LIFO methodThe term “LIFO method” means the method authorized by section 472.
+
+
+(B) Inventory assetsThe term “inventory assets” means stock in trade of the corporation, or other property of a kind which would properly be included in the inventory of the corporation if on hand at the close of the taxable year.
+
+
+(C) Method of determining inventory amountThe inventory amount of assets under a method authorized by section 471 shall be determined—(i) if the corporation uses the retail method of valuing inventories under section 472, by using such method, or
+
+(ii) if clause (i) does not apply, by using cost or market, whichever is lower.
+
+
+(D) Not treated as member of affiliated groupExcept as provided in regulations, the corporation referred to in paragraph (1) shall not be treated as a member of an affiliated group with respect to the amount included in gross income under paragraph (1).
+
+
+
+(5) Special ruleSections 1367(a)(2)(D) and 1371(c)(1) shall not apply with respect to any increase in the tax imposed by reason of this subsection.
+
+
+
+(Added Pub. L. 97–354, § 2, Oct. 19, 1982, 96 Stat. 1676; amended Pub. L. 98–369, div. A, title VII, § 721(a), (b)(1), (p), July 18, 1984, 98 Stat. 966, 970; Pub. L. 99–514, title V, § 511(d)(2)(C), title VI, § 632(b), title VII, § 701(e)(4)(J), Oct. 22, 1986, 100 Stat. 2249, 2277, 2343; Pub. L. 100–203, title X, § 10227(a), Dec. 22, 1987, 101 Stat. 1330–416; Pub. L. 100–647, title I, § 1006(f)(7), title II, § 2004(n), Nov. 10, 1988, 102 Stat. 3407, 3608; Pub. L. 109–135, title IV, § 411(a), Dec. 21, 2005, 119 Stat. 2636.)
+
+Amendments2005—Subsec. (d)(5). Pub. L. 109–135 added par. (5).
+1988—Subsec. (d). Pub. L. 100–647, § 1006(f)(7), struck out subsec. (d) which related to distributions of appreciated property.
+Subsec. (d)(4)(D). Pub. L. 100–647, § 2004(n), added subpar. (D).
+Subsec. (e). Pub. L. 100–647, § 1006(f)(7), struck out subsec. (e) which provided that subsec. (d) not apply to reorganizations, etc.
+1987—Subsec. (d). Pub. L. 100–203 added subsec. (d) relating to recapture of LIFO benefits.
+1986—Subsec. (a). Pub. L. 99–514, § 701(e)(4)(J), struck out “and in section 58(d)” after “this subchapter”.
+Subsec. (c)(2). Pub. L. 99–514, § 511(d)(2)(C), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “section 163(d) (relating to limitation on interest on investment indebtedness),”.
+Subsec. (e). Pub. L. 99–514, § 632(b), amended subsec. (e) generally, substituting “reorganizations, etc.” for “complete liquidations and reorganizations”, in heading and in text struck out reference to property in complete liquidation of the corporation.
+1984—Subsec. (b)(4). Pub. L. 98–369, § 721(p), added par. (4).
+Subsec. (c)(2). Pub. L. 98–369, § 721(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out subpar. (A) which provided “subsection (b)(5) or (d)(4) of section 108 (relating to income from discharge of indebtedness),”.
+Subsec. (d). Pub. L. 98–369, § 721(a)(2), substituted “Except as provided in subsection (e), if” for “If”.
+Subsec. (e). Pub. L. 98–369, § 721(a)(1), added subsec. (e).
+
+Effective Date of 2005 AmendmentPub. L. 109–135, title IV, § 411(b), Dec. 21, 2005, 119 Stat. 2636, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 10227 of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203].”
+
+
+Effective Date of 1988 AmendmentAmendment by section 1006(f)(7) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 2004(n) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+
+Effective Date of 1987 AmendmentPub. L. 100–203, title X, § 10227(b), Dec. 22, 1987, 101 Stat. 1330–417, provided that:
+“(1) In general.—Except as provided in paragraph (2) the amendment made by subsection (a) [amending this section] shall apply in the case of elections made after December 17, 1987.
+
+“(2) Exception.—The amendment made by subsection (a) shall not apply in the case of any election made by a corporation after December 17, 1987, and before January 1, 1989, if, on or before December 17, 1987—“(A) there was a resolution adopted by the board of directors of such corporation to make an election under subchapter S of chapter 1 of the Internal Revenue Code of 1986, or
+
+“(B) there was a ruling request with respect to the business filed with the Internal Revenue Service expressing an intent to make such an election.”
+
+
+
+
+
+Effective Date of 1986 AmendmentAmendment by section 511(d)(2)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 511(e) of Pub. L. 99–514, set out as a note under section 163 of this title.
+Amendment by section 632(b) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 701(e)(4)(J) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+
+Effective DateSection applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
+
+Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United StatesFor applicability of amendment by section 701(e)(4)(J) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+

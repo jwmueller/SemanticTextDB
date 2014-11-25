@@ -1,0 +1,45 @@
+“SEC. 4. DIGITAL MAPPING PROJECT FOR THE REMAINING JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM UNITS AND OTHERWISE PROTECTED AREAS.“(a) In General.—The Secretary shall carry out a project to create digital versions of all of the John H. Chafee Coastal Barrier Resources System maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)), including maps of otherwise protected areas, that were not included in the pilot project.
+
+“(b) Data.—“(1) Use of existing data.—To the maximum extent practicable, in carrying out the project under this section, the Secretary shall use any digital spatial data in the possession of Federal, State, and local agencies, including digital orthophotos, color infrared photography, wetlands data, and property parcel data.
+
+“(2) Provision of data by other agencies.—The head of a Federal agency that possesses any data referred to in paragraph (1) shall, on request of the Secretary, promptly provide the data to the Secretary at no cost.
+
+“(3) Provision of data by non-federal agencies.—State and local agencies and any other non-Federal entities that possess data referred to in paragraph (1) are encouraged, on request of the Secretary, to promptly provide the data to the Secretary at no cost.
+
+“(4) Additional data.—If the Secretary determines that any data necessary to carry out the project under this section does not exist, the Director of the United States Fish and Wildlife Service shall enter into an agreement with the Director of the United States Geological Survey under which the United States Geological Survey, in cooperation with the heads of other Federal agencies, as appropriate, shall obtain and provide to the Director of the United States Fish and Wildlife Service the data required to carry out this section.
+
+“(5) Data standards.—All data used or created to carry out this section shall comply with—“(A) the National Spatial Data Infrastructure established by Executive Order No. 12906 (59 Fed. Reg. 17671) [43 U.S.C. 1457 note]; and
+
+“(B) any other standards established by the Federal Geographic Data Committee established by the Office of Management and Budget circular numbered A–16.
+
+
+
+“(c) Report.—“(1) In general.—Not later than 5 years after the submission of the report under section 3(a), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives a report regarding the digital maps created under this section.
+
+“(2) Consultation.—The Secretary shall prepare the report required under paragraph (1)—“(A) in consultation with the Governors of the States in which the System units and otherwise protected areas are located; and
+
+“(B) after—“(i) providing an opportunity for the submission of public comments; and
+
+“(ii) considering any public comments submitted under clause (i).
+
+
+
+“(3) Contents.—The report required under paragraph (1) shall contain—“(A) a description of the extent to which the boundary lines on the digital maps differ from the boundary lines on the original maps;
+
+“(B) a summary of the comments received from Governors, other government officials, and the public regarding the digital maps created under this section;
+
+“(C) recommendations for the adoption of the digital maps created under this section by Congress;
+
+“(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System and otherwise protected areas, as in existence on the date of enactment of this Act [May 25, 2006];
+
+“(E) a summary and update on the implementation and use of the digital maps created under the pilot project; and
+
+“(F) a description of the feasibility of, and the amount of funding necessary for—“(i) making all of the System unit and otherwise protected area maps available to the public in digital format; and
+
+“(ii) facilitating the integration of digital System unit and otherwise protected area boundaries into Federal, State, and local planning tools.
+
+
+
+
+“(d) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2006 through 2010.
+

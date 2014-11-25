@@ -1,0 +1,7 @@
+§ 1432. Prohibition on direct offering of commercial telecommunications service directly to consumers(a) In generalThe First Responder Network Authority shall not offer, provide, or market commercial telecommunications or information services directly to consumers.
+
+
+(b) Rule of constructionNothing in this section shall be construed to prohibit the First Responder Network Authority and a secondary user from entering into a covered leasing agreement pursuant to section 1428(a)(2)(B) of this title. Nothing in this section shall be construed to limit the First Responder Network Authority from collecting lease fees related to network equipment and infrastructure pursuant to section 1428(a)(3) of this title.
+
+
+(Pub. L. 112–96, title VI, § 6212, Feb. 22, 2012, 126 Stat. 218.)

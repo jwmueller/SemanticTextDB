@@ -1,0 +1,47 @@
+§ 2613. Disclosure of data(a) In generalExcept as provided by subsection (b) of this section, any information reported to, or otherwise obtained by, the Administrator (or any representative of the Administrator) under this chapter, which is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section, shall, notwithstanding the provisions of any other section of this chapter, not be disclosed by the Administrator or by any officer or employee of the United States, except that such information—(1) shall be disclosed to any officer or employee of the United States—(A) in connection with the official duties of such officer or employee under any law for the protection of health or the environment, or
+
+(B) for specific law enforcement purposes;
+
+
+(2) shall be disclosed to contractors with the United States and employees of such contractors if in the opinion of the Administrator such disclosure is necessary for the satisfactory performance by the contractor of a contract with the United States entered into on or after October 11, 1976, for the performance of work in connection with this chapter and under such conditions as the Administrator may specify;
+
+(3) shall be disclosed if the Administrator determines it necessary to protect health or the environment against an unreasonable risk of injury to health or the environment; or
+
+(4) may be disclosed when relevant in any proceeding under this chapter, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
+
+
+In any proceeding under section 552(a) of title 5 to obtain information the disclosure of which has been denied because of the provisions of this subsection, the Administrator may not rely on section 552(b)(3) of such title to sustain the Administrator’s action.
+
+(b) Data from health and safety studies(1) Subsection (a) does not prohibit the disclosure of—(A) any health and safety study which is submitted under this chapter with respect to—(i) any chemical substance or mixture which, on the date on which such study is to be disclosed has been offered for commercial distribution, or
+
+(ii) any chemical substance or mixture for which testing is required under section 2603 of this title or for which notification is required under section 2604 of this title, and
+
+
+(B) any data reported to, or otherwise obtained by, the Administrator from a health and safety study which relates to a chemical substance or mixture described in clause (i) or (ii) of subparagraph (A).
+
+
+This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture, the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
+
+(2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 for information which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
+
+
+(c) Designation and release of confidential data(1) In submitting data under this chapter, a manufacturer, processor, or distributor in commerce may (A) designate the data which such person believes is entitled to confidential treatment under subsection (a) of this section, and (B) submit such designated data separately from other data submitted under this chapter. A designation under this paragraph shall be made in writing and in such manner as the Administrator may prescribe.
+
+(2)(A) Except as provided by subparagraph (B), if the Administrator proposes to release for inspection data which has been designated under paragraph (1)(A), the Administrator shall notify, in writing and by certified mail, the manufacturer, processor, or distributor in commerce who submitted such data of the intent to release such data. If the release of such data is to be made pursuant to a request made under section 552(a) of title 5, such notice shall be given immediately upon approval of such request by the Administrator. The Administrator may not release such data until the expiration of 30 days after the manufacturer, processor, or distributor in commerce submitting such data has received the notice required by this subparagraph.
+
+(B)(i) Subparagraph (A) shall not apply to the release of information under paragraph (1), (2), (3), or (4) of subsection (a) of this section, except that the Administrator may not release data under paragraph (3) of subsection (a) of this section unless the Administrator has notified each manufacturer, processor, and distributor in commerce who submitted such data of such release. Such notice shall be made in writing by certified mail at least 15 days before the release of such data, except that if the Administrator determines that the release of such data is necessary to protect against an imminent, unreasonable risk of injury to health or the environment, such notice may be made by such means as the Administrator determines will provide notice at least 24 hours before such release is made.
+
+(ii) Subparagraph (A) shall not apply to the release of information described in subsection (b)(1) of this section other than information described in the second sentence of such subsection.
+
+
+
+
+(d) Criminal penalty for wrongful disclosure(1) Any officer or employee of the United States or former officer or employee of the United States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a) of this section, and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
+
+(2) For the purposes of paragraph (1), any contractor with the United States who is furnished information as authorized by subsection (a)(2) of this section, and any employee of any such contractor, shall be considered to be an employee of the United States.
+
+
+(e) Access by CongressNotwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
+
+
+(Pub. L. 94–469, title I, § 14, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)

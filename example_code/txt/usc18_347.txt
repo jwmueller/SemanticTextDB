@@ -1,0 +1,352 @@
+§ 921. Definitions(a) As used in this chapter—(1) The term “person” and the term “whoever” include any individual, corporation, company, association, firm, partnership, society, or joint stock company.
+
+(2) The term “interstate or foreign commerce” includes commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia, but such term does not include commerce between places within the same State but through any place outside of that State. The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
+
+(3) The term “firearm” means (A) any weapon (including a starter gun) which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; (B) the frame or receiver of any such weapon; (C) any firearm muffler or firearm silencer; or (D) any destructive device. Such term does not include an antique firearm.
+
+(4) The term “destructive device” means—(A) any explosive, incendiary, or poison gas—(i) bomb,
+
+(ii) grenade,
+
+(iii) rocket having a propellant charge of more than four ounces,
+
+(iv) missile having an explosive or incendiary charge of more than one-quarter ounce,
+
+(v) mine, or
+
+(vi) device similar to any of the devices described in the preceding clauses;
+
+
+(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+
+(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
+
+
+The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10; or any other device which the Attorney General finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
+
+(5) The term “shotgun” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
+
+(6) The term “short-barreled shotgun” means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
+
+(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
+
+(8) The term “short-barreled rifle” means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
+
+(9) The term “importer” means any person engaged in the business of importing or bringing firearms or ammunition into the United States for purposes of sale or distribution; and the term “licensed importer” means any such person licensed under the provisions of this chapter.
+
+(10) The term “manufacturer” means any person engaged in the business of manufacturing firearms or ammunition for purposes of sale or distribution; and the term “licensed manufacturer” means any such person licensed under the provisions of this chapter.
+
+(11) The term “dealer” means (A) any person engaged in the business of selling firearms at wholesale or retail, (B) any person engaged in the business of repairing firearms or of making or fitting special barrels, stocks, or trigger mechanisms to firearms, or (C) any person who is a pawnbroker. The term “licensed dealer” means any dealer who is licensed under the provisions of this chapter.
+
+(12) The term “pawnbroker” means any person whose business or occupation includes the taking or receiving, by way of pledge or pawn, of any firearm as security for the payment or repayment of money.
+
+(13) The term “collector” means any person who acquires, holds, or disposes of firearms as curios or relics, as the Attorney General shall by regulation define, and the term “licensed collector” means any such person licensed under the provisions of this chapter.
+
+(14) The term “indictment” includes an indictment or information in any court under which a crime punishable by imprisonment for a term exceeding one year may be prosecuted.
+
+(15) The term “fugitive from justice” means any person who has fled from any State to avoid prosecution for a crime or to avoid giving testimony in any criminal proceeding.
+
+(16) The term “antique firearm” means—(A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; or
+
+(B) any replica of any firearm described in subparagraph (A) if such replica—(i) is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition, or
+
+(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade; or
+
+
+(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term “antique firearm” shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
+
+
+(17)(A) The term “ammunition” means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
+
+(B) The term “armor piercing ammunition” means—(i) a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium; or
+
+(ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile.
+
+
+(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
+
+
+(18) The term “Attorney General” means the Attorney General of the United States 11 So in original. Probably should be followed by a period.
+
+(19) The term “published ordinance” means a published law of any political subdivision of a State which the Attorney General determines to be relevant to the enforcement of this chapter and which is contained on a list compiled by the Attorney General, which list shall be published in the Federal Register, revised annually, and furnished to each licensee under this chapter.
+
+(20) The term “crime punishable by imprisonment for a term exceeding one year” does not include—(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices, or
+
+(B) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
+
+
+What constitutes a conviction of such a crime shall be determined in accordance with the law of the jurisdiction in which the proceedings were held. Any conviction which has been expunged, or set aside or for which a person has been pardoned or has had civil rights restored shall not be considered a conviction for purposes of this chapter, unless such pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
+
+(21) The term “engaged in the business” means—(A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
+
+(B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
+
+(C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
+
+(D) as applied to a dealer in firearms, as defined in section 921(a)(11)(B), a person who devotes time, attention, and labor to engaging in such activity as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who makes occasional repairs of firearms, or who occasionally fits special barrels, stocks, or trigger mechanisms to firearms;
+
+(E) as applied to an importer of firearms, a person who devotes time, attention, and labor to importing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms imported; and
+
+(F) as applied to an importer of ammunition, a person who devotes time, attention, and labor to importing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition imported.
+
+
+(22) The term “with the principal objective of livelihood and profit” means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: Provided, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term “terrorism” means activity, directed against United States persons, which—(A) is committed by an individual who is not a national or permanent resident alien of the United States;
+
+(B) involves violent acts or acts dangerous to human life which would be a criminal violation if committed within the jurisdiction of the United States; and
+
+(C) is intended—(i) to intimidate or coerce a civilian population;
+
+(ii) to influence the policy of a government by intimidation or coercion; or
+
+(iii) to affect the conduct of a government by assassination or kidnapping.
+
+
+
+(23) The term “machinegun” has the meaning given such term in section 5845(b) of the National Firearms Act (26 U.S.C. 5845(b)).
+
+(24) The terms “firearm silencer” and “firearm muffler” mean any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+
+(25) The term “school zone” means—(A) in, or on the grounds of, a public, parochial or private school; or
+
+(B) within a distance of 1,000 feet from the grounds of a public, parochial or private school.
+
+
+(26) The term “school” means a school which provides elementary or secondary education, as determined under State law.
+
+(27) The term “motor vehicle” has the meaning given such term in section 13102 of title 49, United States Code.
+
+(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
+
+(29) The term “handgun” means—(A) a firearm which has a short stock and is designed to be held and fired by the use of a single hand; and
+
+(B) any combination of parts from which a firearm described in subparagraph (A) can be assembled.
+
+
+[(30), (31) Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000.]
+
+(32) The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
+
+(33)(A) Except as provided in subparagraph (C),22 So in original. No subparagraph (C) has been enacted. the term “misdemeanor crime of domestic violence” means an offense that—(i) is a misdemeanor under Federal, State, or Tribal 33 So in original. Probably should not be capitalized. law; and
+
+(ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent, or guardian of the victim.
+
+
+(B)(i) A person shall not be considered to have been convicted of such an offense for purposes of this chapter, unless—(I) the person was represented by counsel in the case, or knowingly and intelligently waived the right to counsel in the case; and
+
+(II) in the case of a prosecution for an offense described in this paragraph for which a person was entitled to a jury trial in the jurisdiction in which the case was tried, either(aa) the case was tried by a jury, or
+
+(bb) the person knowingly and intelligently waived the right to have the case tried by a jury, by guilty plea or otherwise.
+
+
+
+(ii) A person shall not be considered to have been convicted of such an offense for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the applicable jurisdiction provides for the loss of civil rights under such an offense) unless the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
+
+
+
+(34) The term “secure gun storage or safety device” means—(A) a device that, when installed on a firearm, is designed to prevent the firearm from being operated without first deactivating the device;
+
+(B) a device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
+
+(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
+
+
+(35) The term “body armor” means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
+
+
+(b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
+
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, § 102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, § 101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, § 1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, § 1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, § 1702(b)(2), title XXII, § 2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, § 102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§ 110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, § 303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 658(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, § 101(b) [title I, § 119(a)], (h) [title I, § 115], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, § 11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, § 1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, § 908(a), Jan. 5, 2006, 119 Stat. 3083.)
+
+
+References in TextFor definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+
+Amendments2006—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of “section 921(33)(A)(i) of title 18”, was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: “is a misdemeanor under Federal or State law; and”.
+2002—Subsec. (a)(4). Pub. L. 107–296, § 1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
+Subsec. (a)(4)(B). Pub. L. 107–296, § 1112(f)(1), substituted “Attorney General” for “Secretary”.
+Subsec. (a)(13), (17)(C). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+Subsec. (a)(18). Pub. L. 107–296, § 1112(f)(3), added par. (18) and struck out former par. (18) which read as follows: “The term ‘Secretary’ or ‘Secretary of the Treasury’ means the Secretary of the Treasury or his delegate.”
+Subsec. (a)(19). Pub. L. 107–296, § 1112(f)(6), substituted “Attorney General” for “Secretary” in two places.
+Subsec. (a)(35). Pub. L. 107–273 added par. (35).
+1998—Subsec. (a)(5). Pub. L. 105–277, § 101(h) [title I, § 115(1)], substituted “an explosive” for “the explosive in a fixed shotgun shell”.
+Subsec. (a)(7). Pub. L. 105–277, § 101(h) [title I, § 115(2)], substituted “an explosive” for “the explosive in a fixed metallic cartridge”.
+Subsec. (a)(16). Pub. L. 105–277, § 101(h) [title I, § 115(3)], added par. (16) and struck out former par. (16) which read as follows: “The term ‘antique firearm’ means—
+“(A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and
+“(B) any replica of any firearm described in subparagraph (A) if such replica—
+“(i) is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition, or
+“(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.”
+Subsec. (a)(34). Pub. L. 105–277, § 101(b) [title I, § 119(a)], added par. (34).
+1996—Subsec. (a)(33). Pub. L. 104–208 added par. (33).
+1995—Subsec. (a)(27). Pub. L. 104–88 substituted “section 13102” for “section 10102”.
+1994—Subsec. (a)(17)(B). Pub. L. 103–322, § 110519, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘armor piercing ammunition’ means a projectile or projectile core which may be used in a handgun and which is constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium. Such term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.”
+Subsec. (a)(17)(C). Pub. L. 103–322, § 110519, added subpar. (C).
+Subsec. (a)(22)(C)(iii). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
+Subsec. (a)(30). Pub. L. 103–322, § 110102(b), which added par. (30) defining “semiautomatic assault weapon”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, § 110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322, § 110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(32). Pub. L. 103–322, § 110401(a), added par. (32).
+1993—Subsec. (a)(29). Pub. L. 103–159 added par. (29).
+1990—Subsec. (a)(25) to (27). Pub. L. 101–647, § 1702(b)(2), added pars. (25) to (27).
+Subsec. (a)(28). Pub. L. 101–647, § 2204(a), added par. (28).
+1986—Subsec. (a)(10). Pub. L. 99–308, § 101(1), substituted “business of manufacturing” for “manufacture of”.
+Subsec. (a)(11)(A). Pub. L. 99–308, § 101(2), struck out “or ammunition” after “firearms”.
+Subsec. (a)(12). Pub. L. 99–308, § 101(3), struck out “or ammunition” after “firearm”.
+Subsec. (a)(13). Pub. L. 99–308, § 101(4), struck out “or ammunition” after “firearms”.
+Subsec. (a)(17). Pub. L. 99–408 designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(20). Pub. L. 99–308, § 101(5), amended par. (20) generally. Prior to amendment, par. (20) read as follows: “The term ‘crime punishable by imprisonment for a term exceeding one year’ shall not include (A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Secretary may by regulation designate, or (B) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.”
+Subsec. (a)(21). Pub. L. 99–308, § 101(6), added par. (21).
+Subsec. (a)(22). Pub. L. 99–360 inserted provision that proof of profit not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism and defined terrorism.
+Pub. L. 99–308, § 101(6), added par. (22).
+Subsec. (a)(23), (24). Pub. L. 99–308, § 101(6), added pars. (23) and (24).
+1975—Subsec. (a)(4). Pub. L. 93–639 substituted “to use solely for sporting, recreational or cultural purposes” for “to use solely for sporting purposes”.
+1968—Subsec. (a). Pub. L. 90–618 inserted definitions of “collector”, “licensed collector”, and “crime punishable by imprisonment for a term exceeding one year”, amended definitions of “person”, “whoever”, “interstate or foreign commerce”, “State”, “firearm”, “destructive device”, “dealer”, “indictment”, “fugitive from justice”, “antique firearm”, “ammunition”, and “published ordinance”, and reenacted without change definitions of “shotgun”, “short-barreled shotgun”, “rifle”, “short-barreled rifle”, “importer”, “licensed importer”, “manufacturer”, “licensed manufacturer”, “licensed dealer”, “pawnbroker”, and “Secretary” or “Secretary of the Treasury”.
+Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining “firearm”, “destructive device”, and “crime punishable by imprisonment for a term exceeding one year”.
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+Effective Date of 1998 AmendmentPub. L. 105–277, div. A, § 101(b) [title I, § 119(e)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that: “The amendments made by this section [amending this section and section 923 of this title] shall take effect 180 days after the date of enactment of this Act [Oct. 21, 1998].”
+
+
+Effective Date of 1995 AmendmentAmendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
+Effective and Termination Dates of 1994 AmendmentPub. L. 103–322, title XI, § 110105, Sept. 13, 1994, 108 Stat. 2000, provided that subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) and the amendments made by that subtitle were effective Sept. 13, 1994, and were repealed effective as of the date that is 10 years after that date.
+
+Effective Date of 1990 AmendmentPub. L. 101–647, title XVII, § 1702(b)(4), Nov. 29, 1990, 104 Stat. 4845, provided that: “The amendments made by this section [amending this section and sections 922 and 924 of this title] shall apply to conduct engaged in after the end of the 60-day period beginning on the date of the enactment of this Act [Nov. 29, 1990].”
+
+
+Effective Date of 1986 Amendments; Publication and Availability of Compilation of State Laws and Published OrdinancesPub. L. 99–408, § 9, Aug. 28, 1986, 100 Stat. 921, provided that: “The amendments made by this Act [amending this section and sections 922, 923, and 929 of this title and enacting provisions set out as notes under this section] shall take effect on the date of enactment of this Act [Aug. 28, 1986], except that sections 3, 4, and 5 [amending section 923 of this title] shall take effect on the first day of the first calendar month which begins more than ninety days after the date of the enactment of this Act.”
+
+Pub. L. 99–360, § 2, July 8, 1986, 100 Stat. 767, provided that: “This Act and the amendments made by this Act [enacting section 926A of this title, amending this section and section 923 of this title, and repealing former section 926A of this title], intended to amend the Firearms Owners’ Protection Act [Pub. L. 99–308, see Short Title of 1986 Amendment note below], shall become effective on the date on which the section they are intended to amend in such Firearms Owners’ Protection Act becomes effective [see section 110 of Pub. L. 99–308 set out below] and shall apply to the amendments to title 18, United States Code, made by such Act.”
+
+Pub. L. 99–308, § 110, May 19, 1986, 100 Stat. 460, provided that:
+“(a) In General.—The amendments made by this Act [enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section] shall become effective one hundred and eighty days after the date of the enactment of this Act [May 19, 1986]. Upon their becoming effective, the Secretary shall publish and provide to all licensees a compilation of the State laws and published ordinances of which licensees are presumed to have knowledge pursuant to chapter 44 of title 18, United States Code, as amended by this Act. All amendments to such State laws and published ordinances as contained in the aforementioned compilation shall be published in the Federal Register, revised annually, and furnished to each person licensed under chapter 44 of title 18, United States Code, as amended by this Act.
+
+“(b) Pending Actions, Petitions, and Appellate Proceedings.—The amendments made by sections 103(6)(B), 105, and 107 of this Act [enacting section 926A of this title and amending sections 923 and 925 of this title] shall be applicable to any action, petition, or appellate proceeding pending on the date of the enactment of this Act [May 19, 1986].
+
+“(c) Machinegun Prohibition.—Section 102(9) [amending section 922 of this title] shall take effect on the date of the enactment of this Act [May 19, 1986].”
+
+
+
+
+Effective Date of 1968 AmendmentPub. L. 90–618, title I, § 105, Oct. 22, 1968, 82 Stat. 1226, provided that:
+“(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, as amended by section 102 of this title [amending this chapter], shall take effect on December 16, 1968.
+
+“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title [Oct. 22, 1968]: Sections 921, 922(l), 925(a)(1), and 925(d).”
+
+
+
+
+Effective DatePub. L. 90–351, title IV, § 907, June 19, 1968, 82 Stat. 235, provided that: “The amendments made by this title [enacting this chapter and provisions set out as notes under this section and repealing sections 901 to 910 of Title 15, Commerce and Trade] shall become effective one hundred and eighty days after the date of its enactment [June 19, 1968]; except that repeal of the Federal Firearms Act [sections 901 to 910 of Title 15] shall not in itself terminate any valid license issued pursuant to that Act and any such license shall be deemed valid until it shall expire according to its terms unless it be sooner revoked or terminated pursuant to applicable provisions of law.”
+
+
+Short Title of 2005 AmendmentPub. L. 109–92, § 5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section [amending sections 922 and 924 of this title and enacting provisions set out as notes under section 922 of this title] may be cited as the ‘Child Safety Lock Act of 2005’.”
+
+
+Short Title of 2004 AmendmentPub. L. 108–277, § 1, July 22, 2004, 118 Stat. 865, provided that: “This Act [enacting sections 926B and 926C of this title] may be cited as the ‘Law Enforcement Officers Safety Act of 2004’.”
+
+
+Short Title of 1994 AmendmentPub. L. 103–322, title XI, § 110101, Sept. 13, 1994, 108 Stat. 1996, provided that subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) could be cited as the “Public Safety and Recreational Firearms Use Protection Act”, prior to repeal by Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
+
+Short Title of 1993 AmendmentPub. L. 103–159, title I, § 101, Nov. 30, 1993, 107 Stat. 1536, provided that: “This title [enacting section 925A of this title, amending this section, sections 922 and 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title] may be cited as the ‘Brady Handgun Violence Prevention Act’.”
+
+Pub. L. 103–159, title III, § 301, Nov. 30, 1993, 107 Stat. 1545, provided that: “This title [amending sections 922 to 924 of this title] may be cited as the ‘Federal Firearms License Reform Act of 1993’.”
+
+
+Short Title of 1990 AmendmentPub. L. 101–647, title XVII, § 1702(a), Nov. 29, 1990, 104 Stat. 4844, provided that: “This section [amending this section and sections 922 and 924 of this title and enacting provisions set out as notes under this section and section 922 of this title] may be cited as the ‘Gun-Free School Zones Act of 1990’.”
+
+
+Short Title of 1988 AmendmentPub. L. 100–649, § 1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Act [amending sections 922, 924, and 925 of this title and enacting provisions set out as notes under section 922 of this title and section 1356 of former Title 49, Transportation] may be cited as the ‘Undetectable Firearms Act of 1988’.”
+
+
+Short Title of 1986 AmendmentsPub. L. 99–570, title I, subtitle I, § 1401, Oct. 27, 1986, 100 Stat. 3207–39, provided that: “This subtitle [amending section 924 of this title] may be cited as the ‘Career Criminals Amendment Act of 1986’.”
+
+Pub. L. 99–308, § 1(a), May 19, 1986, 100 Stat. 449, provided that: “This Act [enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section] may be cited as the ‘Firearms Owners’ Protection Act’.”
+
+
+Short TitlePub. L. 90–618, § 1, Oct. 22, 1968, 82 Stat. 1213, provided: “That this Act [enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26] may be cited as the ‘Gun Control Act of 1968’.”
+
+
+Restrictions on Amendment of Regulations as to Curios or RelicsPub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: “That, in the current fiscal year and any fiscal year thereafter, no funds appropriated under this or any other Act shall be used to pay administrative expenses or the compensation of any officer or employee of the United States to implement an amendment or amendments to section 478.118 of title 27, Code of Federal Regulations, or to change the definition of ‘Curios or relics’ in section 478.11 of title 27, Code of Federal Regulations, or remove any item from ATF Publication 5300.11 as it existed on January 1, 1994”.
+
+
+Construction of Pub. L. 103–159 With Section 552a of Title 5Pub. L. 103–159, title I, § 105, Nov. 30, 1993, 107 Stat. 1543, provided that: “This Act [enacting section 925A of this title, amending this section, sections 922 to 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title] and the amendments made by this Act shall not be construed to alter or impair any right or remedy under section 552a of title 5, United States Code.”
+
+
+Statutory Construction; EvidenceFor provisions relating to statutory construction of, and admissibility of evidence regarding compliance or noncompliance with, the amendment by section 101(b) [title I, § 119(a)] of Pub. L. 105–277, see section 101(b) [title I, § 119(d)] of Pub. L. 105–277, set out as a note under section 923 of this title.
+
+Study By Attorney GeneralPub. L. 103–322, title XI, § 110104, Sept. 13, 1994, 108 Stat. 2000, which provided that the Attorney General was to study the effect of subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 and to report the results of the study to Congress not later than 30 months after Sept. 13, 1994, was repealed by Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000, effective 10 years after Sept. 13, 1994.
+
+Congressional Findings and DeclarationPub. L. 99–308, § 1(b), May 19, 1986, 100 Stat. 449, provided that: 
+“The Congress finds that—
+“(1) the rights of citizens—“(A) to keep and bear arms under the second amendment to the United States Constitution;
+
+“(B) to security against illegal and unreasonable searches and seizures under the fourth amendment;
+
+“(C) against uncompensated taking of property, double jeopardy, and assurance of due process of law under the fifth amendment; and
+
+“(D) against unconstitutional exercise of authority under the ninth and tenth amendments;
+
+
+require additional legislation to correct existing firearms statutes and enforcement policies; and
+
+“(2) additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101 of the Gun Control Act of 1968 [section 101 of Pub. L. 90–618, set out below], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
+
+
+
+Pub. L. 90–618, title I, § 101, Oct. 22, 1968, 82 Stat. 1213, provided that: “The Congress hereby declares that the purposes of this title [amending this chapter] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+
+Pub. L. 90–351, title IV, § 901, June 19, 1968, 82 Stat. 225, provided that:
+“(a) The Congress hereby finds and declares—“(1) that there is a widespread traffic in firearms moving in or otherwise affecting interstate or foreign commerce, and that the existing Federal controls over such traffic do not adequately enable the States to control this traffic within their own borders through the exercise of their police power;
+
+“(2) that the ease with which any person can acquire firearms other than a rifle or shotgun (including criminals, juveniles without the knowledge or consent of their parents or guardians, narcotics addicts, mental defectives, armed groups who would supplant the functions of duly constituted public authorities, and others whose possession of such weapon is similarly contrary to the public interest) is a significant factor in the prevalence of lawlessness and violent crime in the United States;
+
+“(3) that only through adequate Federal control over interstate and foreign commerce in these weapons, and over all persons engaging in the businesses of importing, manufacturing, or dealing in them, can this grave problem be properly dealt with, and effective State and local regulation of this traffic be made possible;
+
+“(4) that the acquisition on a mail-order basis of firearms other than a rifle or shotgun by nonlicensed individuals, from a place other than their State of residence, has materially tended to thwart the effectiveness of State laws and regulations, and local ordinances;
+
+“(5) that the sale or other disposition of concealable weapons by importers, manufacturers, and dealers holding Federal licenses, to nonresidents of the State in which the licensees’ places of business are located, has tended to make ineffective the laws, regulations, and ordinances in the several States and local jurisdictions regarding such firearms;
+
+“(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionally immature, or thrill-bent juveniles and minors prone to criminal behavior;
+
+“(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation’s law enforcement problems;
+
+“(8) that the lack of adequate Federal control over interstate and foreign commerce in highly destructive weapons (such as bazookas, mortars, antitank guns, and so forth, and destructive devices such as explosive or incendiary grenades, bombs, missiles, and so forth) has allowed such weapons and devices to fall into the hands of lawless persons, including armed groups who would supplant lawful authority, thus creating a problem of national concern;
+
+“(9) that the existing licensing system under the Federal Firearms Act [former sections 901 to 910 of Title 15, Commerce and Trade] does not provide adequate license fees or proper standards for the granting or denial of licenses, and that this has led to licenses being issued to persons not reasonably entitled thereto, thus distorting the purposes of the licensing system.
+
+
+“(b) The Congress further hereby declares that the purpose of this title [enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title [enacting this chapter and repealing sections 901 to 910 of Title 15] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title [enacting this chapter and repealing sections 901 to 910 of Title 15] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title [enacting this chapter and repealing sections 901 to 910 of Title 15].”
+
+
+
+
+Administration and EnforcementPub. L. 90–618, title I, § 103, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 107–296, title XI, § 1112(s), Nov. 25, 2002, 116 Stat. 2279, provided that: “The administration and enforcement of the amendment made by this title [amending this chapter] shall be vested in the Attorney General.”
+
+Pub. L. 90–351, title IV, § 903, June 19, 1968, 82 Stat. 234, provided that: “The administration and enforcement of the amendment made by this title [enacting this chapter and provisions set out as notes under this section] shall be vested in the Secretary of the Treasury [now Attorney General].”
+
+
+Modification of Other LawsPub. L. 90–618, title I, § 104, Oct. 22, 1968, 82 Stat. 1226, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: 
+“Nothing in this title or the amendment made thereby [amending this chapter] shall be construed as modifying or affecting any provision of—
+“(a) the National Firearms Act (chapter 53 of the Internal Revenue Code of 1986) [section 5801 et seq. of Title 26, Internal Revenue Code];
+
+“(b) section 414 of the Mutual Security Act of 1954 (22 U.S.C. 1934), as amended, relating to munitions control; or
+
+“(c) section 1715 of title 18, United States Code, relating to nonmailable firearms.”
+
+
+
+Pub. L. 90–351, title IV, § 904, June 19, 1968, 82 Stat. 234, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: 
+“Nothing in this title or amendment made thereby [enacting this chapter and provisions set out as notes under this section] shall be construed as modifying or affecting any provision of—
+“(a) the National Firearms Act (chapter 53 of the Internal Revenue Code of 1986) [section 5801 et seq. of Title 26, Internal Revenue Code]; or
+
+“(b) section 414 of the Mutual Security Act of 1954 (22 U.S.C. 1934), as amended, relating to munitions control; or
+
+“(c) section 1715 of title 18, United States Code, relating to nonmailable firearms.”
+
+
+
+
+
+Definition of “Handgun”
+Pub. L. 99–408, § 10, Aug. 28, 1986, 100 Stat. 922, provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
+
+
+

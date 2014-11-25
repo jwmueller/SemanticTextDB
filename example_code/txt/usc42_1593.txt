@@ -1,0 +1,44 @@
+§ 669a. Nonliability for financial institutions providing financial records to State child support enforcement agencies in child support cases(a) In generalNotwithstanding any other provision of Federal or State law, a financial institution shall not be liable under any Federal or State law to any person for disclosing any financial record of an individual to a State child support enforcement agency attempting to establish, modify, or enforce a child support obligation of such individual, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title.
+
+
+(b) Prohibition of disclosure of financial record obtained by State child support enforcement agencyA State child support enforcement agency which obtains a financial record of an individual from a financial institution pursuant to subsection (a) of this section may disclose such financial record only for the purpose of, and to the extent necessary in, establishing, modifying, or enforcing a child support obligation of such individual.
+
+
+(c) Civil damages for unauthorized disclosure(1) Disclosure by State officer or employeeIf any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
+
+
+(2) No liability for good faith but erroneous interpretationNo liability shall arise under this subsection with respect to any disclosure which results from a good faith, but erroneous, interpretation of subsection (b) of this section.
+
+
+(3) DamagesIn any action brought under paragraph (1), upon a finding of liability on the part of the defendant, the defendant shall be liable to the plaintiff in an amount equal to the sum of—(A) the greater of—(i) $1,000 for each act of unauthorized disclosure of a financial record with respect to which such defendant is found liable; or
+
+(ii) the sum of—(I) the actual damages sustained by the plaintiff as a result of such unauthorized disclosure; plus
+
+(II) in the case of a willful disclosure or a disclosure which is the result of gross negligence, punitive damages; plus
+
+
+
+(B) the costs (including attorney’s fees) of the action.
+
+
+
+(d) DefinitionsFor purposes of this section—(1) Financial institutionThe term “financial institution” means—(A) a depository institution, as defined in section 1813(c) of title 12;
+
+(B) an institution-affiliated party, as defined in section 1813(u) of title 12;
+
+(C) any Federal credit union or State credit union, as defined in section 1752 of title 12, including an institution-affiliated party of such a credit union, as defined in section 1786(r) of title 12; and
+
+(D) any benefit association, insurance company, safe deposit company, money-market mutual fund, or similar entity authorized to do business in the State.
+
+
+(2) Financial recordThe term “financial record” has the meaning given such term in section 3401 of title 12.
+
+
+
+(Aug. 14, 1935, ch. 531, title IV, § 469A, as added Pub. L. 104–193, title III, § 353, Aug. 22, 1996, 110 Stat. 2240; amended Pub. L. 105–200, title IV, § 406(c), July 16, 1998, 112 Stat. 672.)
+
+Amendments1998—Subsec. (a). Pub. L. 105–200 inserted “, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title” before period at end.
+
+Effective DateFor effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
+
+

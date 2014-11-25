@@ -1,0 +1,18 @@
+“SEC. 331. DEFINITIONS.“In this subtitle, the following definitions apply:“(1) Arctic.—The term ‘Arctic’ means the United States zone of the Chukchi Sea, Beaufort Sea, and Bering Sea north of the Aleutian chain.
+
+“(2) Certificate of waiver; certificate of authorization.—The terms ‘certificate of waiver’ and ‘certificate of authorization’ mean a Federal Aviation Administration grant of approval for a specific flight operation.
+
+“(3) Permanent areas.—The term ‘permanent areas’ means areas on land or water that provide for launch, recovery, and operation of small unmanned aircraft.
+
+“(4) Public unmanned aircraft system.—The term ‘public unmanned aircraft system’ means an unmanned aircraft system that meets the qualifications and conditions required for operation of a public aircraft (as defined in section 40102 of title 49, United States Code).
+
+“(5) Sense and avoid capability.—The term ‘sense and avoid capability’ means the capability of an unmanned aircraft to remain a safe distance from and to avoid collisions with other airborne aircraft.
+
+“(6) Small unmanned aircraft.—The term ‘small unmanned aircraft’ means an unmanned aircraft weighing less than 55 pounds.
+
+“(7) Test range.—The term ‘test range’ means a defined geographic area where research and development are conducted.
+
+“(8) Unmanned aircraft.—The term ‘unmanned aircraft’ means an aircraft that is operated without the possibility of direct human intervention from within or on the aircraft.
+
+“(9) Unmanned aircraft system.—The term ‘unmanned aircraft system’ means an unmanned aircraft and associated elements (including communication links and the components that control the unmanned aircraft) that are required for the pilot in command to operate safely and efficiently in the national airspace system.
+

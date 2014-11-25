@@ -1,0 +1,61 @@
+§ 2377. Preference for acquisition of commercial items(a) Preference.—The head of an agency shall ensure that, to the maximum extent practicable—(1) requirements of the agency with respect to a procurement of supplies or services are stated in terms of—(A) functions to be performed;
+
+(B) performance required; or
+
+(C) essential physical characteristics;
+
+
+(2) such requirements are defined so that commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items, may be procured to fulfill such requirements; and
+
+(3) offerors of commercial items and nondevelopmental items other than commercial items are provided an opportunity to compete in any procurement to fill such requirements.
+
+
+(b) Implementation.—The head of an agency shall ensure that procurement officials in that agency, to the maximum extent practicable—(1) acquire commercial items or nondevelopmental items other than commercial items to meet the needs of the agency;
+
+(2) require prime contractors and subcontractors at all levels under the agency contracts to incorporate commercial items or nondevelopmental items other than commercial items as components of items supplied to the agency;
+
+(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items;
+
+(4) state specifications in terms that enable and encourage bidders and offerors to supply commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items in response to the agency solicitations;
+
+(5) revise the agency’s procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial items; and
+
+(6) require training of appropriate personnel in the acquisition of commercial items.
+
+
+(c) Preliminary Market Research.—(1) The head of an agency shall conduct market research appropriate to the circumstances—(A) before developing new specifications for a procurement by that agency;
+
+(B) before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold; and
+
+(C) before awarding a task order or delivery order in excess of the simplified acquisition threshold.
+
+
+(2) The head of an agency shall use the results of market research to determine whether there are commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items available that—(A) meet the agency’s requirements;
+
+(B) could be modified to meet the agency’s requirements; or
+
+(C) could meet the agency’s requirements if those requirements were modified to a reasonable extent.
+
+
+(3) In conducting market research, the head of an agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
+
+(4) The head of an agency shall take appropriate steps to ensure that any prime contractor of a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of items other than commercial items engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.
+
+
+(Added Pub. L. 103–355, title VIII, § 8104(a), Oct. 13, 1994, 108 Stat. 3390; Pub. L. 110–181, div. A, title VIII, § 826(a), Jan. 28, 2008, 122 Stat. 227.)
+
+Amendments2008—Subsec. (c)(1)(C). Pub. L. 110–181, § 826(a)(1), added subpar. (C).
+Subsec. (c)(4). Pub. L. 110–181, § 826(a)(2), added par. (4).
+
+Commercial Software Reuse PreferencePub. L. 110–417, [div. A], title VIII, § 803, Oct. 14, 2008, 122 Stat. 4519, provided that:
+“(a) In General.—The Secretary of Defense shall ensure that contracting officials identify and evaluate, at all stages of the acquisition process (including concept refinement, concept decision, and technology development), opportunities for the use of commercial computer software and other non-developmental software.
+
+“(b) Report.—Not later than 270 days after the date of enactment of this Act [Oct. 14, 2008], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on actions taken to implement subsection (a), including a description of any relevant regulations and policy guidance.”
+
+
+
+
+Requirement To Develop Training and ToolsPub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, provided that: “The Secretary of Defense shall develop training to assist contracting officers, and market research tools to assist such officers and prime contractors, in performing appropriate market research as required by subsection (c) of section 2377 of title 10, United States Code, as amended by this section.”
+
+
+

@@ -1,0 +1,65 @@
+§ 10005. State applications(a) In generalThe Governor of a State desiring to receive an allocation under section 10001(d) of this title shall submit an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
+
+
+(b) ApplicationIn such application, the Governor shall—(1) include the assurances described in subsection (d);
+
+(2) provide baseline data that demonstrates the State’s current status in each of the areas described in such assurances; and
+
+(3) describe how the State intends to use its allocation, including whether the State will use such allocation to meet maintenance of effort requirements under the ESEA and IDEA and, in such cases, what amount will be used to meet such requirements.
+
+
+(c) Incentive grant applicationThe Governor of a State seeking a grant under section 10006 of this title shall—(1) submit an application for consideration;
+
+(2) describe the status of the State’s progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) of the ESEA (20 U.S.C. 6311(b)(2)(C)(v)(II)) who have not met the State’s proficiency targets continue making progress toward meeting the State’s student academic achievement standards;
+
+(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State’s student academic achievement standards;
+
+(4) describe how the State would use its grant funding to improve student academic achievement in the State, including how it will allocate the funds to give priority to high-need local educational agencies; and
+
+(5) include a plan for evaluating the State’s progress in closing achievement gaps.
+
+
+(d) AssurancesAn application under subsection (b) shall include the following assurances:(1) Maintenance of effort(A) Elementary and secondary educationThe State will, in each of fiscal years 2009, 2010, and 2011, maintain State support for elementary and secondary education at least at the level of such support in fiscal year 2006.
+
+
+(B) Higher educationThe State will, in each of fiscal years 2009, 2010, and 2011, maintain State support for public institutions of higher education (not including support for capital projects or for research and development or tuition and fees paid by students) at least at the level of such support in fiscal year 2006.
+
+
+
+(2) Achieving equity in teacher distributionThe State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) of the ESEA (20 U.S.C. 6311(b)(8)(C)) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
+
+
+(3) Improving collection and use of dataThe State will establish a longitudinal data system that includes the elements described in section 9871(e)(2)(D) of this title.
+
+
+(4) Standards and assessmentsThe State—(A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C. 6311(b)(3)) through activities such as those described in section 6112(a) of such Act (20 U.S.C. 7301a(a));
+
+(B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) of the ESEA (20 U.S.C. 6311(b)) and section 612(a)(16) of the IDEA (20 U.S.C. 1412(a)(16)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
+
+(C) will take steps to improve State academic content standards and student academic achievement standards consistent with section 9871(e)(1)(A)(ii) of this title.
+
+
+(5) Supporting struggling schoolsThe State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) [20 U.S.C. 6316(b)(7)(C)(iv)] and section 1116(b)(8)(B) [20 U.S.C. 6316(b)(8)(B)] of the ESEA with respect to schools identified under such sections.
+
+
+(6) Improving early childhood care and educationThe State will take actions to—(A) increase the number and percentage of low-income and disadvantaged children in each age group of infants, toddlers, and pre-schoolers who are enrolled in high-quality early learning programs;
+
+(B) design and implement an integrated system of high-quality early learning programs and services; and
+
+(C) ensure that any use of assessments conforms with the recommendations of the National Research Council’s reports on early childhood.
+
+
+
+(Pub. L. 111–5, div. A, title XIV, § 14005, Feb. 17, 2009, 123 Stat. 282; Pub. L. 111–8, div. F, title V, § 523(d)–(f), Mar. 11, 2009, 123 Stat. 806; Pub. L. 112–10, div. B, title VIII, § 1832(b)(1), Apr. 15, 2011, 125 Stat. 164.)
+
+
+References in TextESEA, referred to in subsec. (b)(3), is the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+IDEA, referred to in subsec. (b)(3), is the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+Section 9871 of this title, referred to in subsec. (d)(3), (4)(C), was in the original “section 6401”, and was translated as meaning section 6201 of Pub. L. 110–69 to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as section 6201 by Pub. L. 111–358, title X, § 1002(b)(3), Jan. 4, 2011, 124 Stat. 4048.
+
+Amendments2011—Subsec. (d)(6). Pub. L. 112–10 added par. (6).
+2009—Subsec. (a). Pub. L. 111–8, § 523(d), substituted “10001(d)” for “10001”.
+Subsec. (d)(4)(C). Pub. L. 111–8, § 523(e), substituted “9871(e)(1)(A)(ii)” for “9871(e)(1)(9)(A)(ii)”.
+Subsec. (d)(5). Pub. L. 111–8, § 523(f), substituted “1116(b)(7)(C)(iv)” for “1116(a)(7)(C)(iv)” and “1116(b)(8)(B)” for “1116(a)(8)(B)”.
+
+

@@ -1,0 +1,55 @@
+§ 9036. Payments in lieu of loan deficiency payments for grazed acreage(a) Eligible producers(1) In generalEffective for each of the 2014 through 2018 crop years, in the case of a producer that would be eligible for a loan deficiency payment under section 9035 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
+
+
+(2) Grazing of triticale acreageEffective for each of the 2014 through 2018 crop years, with respect to a producer on a farm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
+
+
+
+(b) Payment amount(1) In generalThe amount of a payment made under this section to a producer on a farm described in subsection (a)(1) shall be equal to the amount determined by multiplying—(A) the loan deficiency payment rate determined under section 9035(c) of this title in effect, as of the date of the agreement, for the county in which the farm is located; by
+
+(B) the payment quantity determined by multiplying—(i) the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of wheat, barley, or oats; and
+
+(ii)(I) the payment yield in effect for the calculation of price loss coverage under section 9015 of this title with respect to that loan commodity on the farm;
+
+(II) in the case of a farm for which agriculture risk coverage is elected under section 9016(a) of this title, the payment yield that would otherwise be in effect with respect to that loan commodity on the farm in the absence of such election; or
+
+(III) in the case of a farm for which no payment yield is otherwise established for that loan commodity on the farm, an appropriate yield established by the Secretary in a manner consistent with section 9013(c) of this title.
+
+
+
+
+(2) Grazing of triticale acreageThe amount of a payment made under this section to a producer on a farm described in subsection (a)(2) shall be equal to the amount determined by multiplying—(A) the loan deficiency payment rate determined under section 9035(c) of this title in effect for wheat, as of the date of the agreement, for the county in which the farm is located; by
+
+(B) the payment quantity determined by multiplying—(i) the quantity of the grazed acreage on the farm with respect to which the producer elects to forgo harvesting of triticale; and
+
+(ii)(I) the payment yield in effect for the calculation of price loss coverage under subchapter I with respect to wheat on the farm;
+
+(II) in the case of a farm for which agriculture risk coverage is elected under section 9016(a) of this title, the payment yield that would otherwise be in effect for wheat on the farm in the absence of such election; or
+
+(III) in the case of a farm for which no payment yield is otherwise established for wheat on the farm, an appropriate yield established by the Secretary in a manner consistent with section 9013(c) of this title.
+
+
+
+
+
+(c) Time, manner, and availability of payment(1) Time and mannerA payment under this section shall be made at the same time and in the same manner as loan deficiency payments are made under section 9035 of this title.
+
+
+(2) Availability(A) In generalThe Secretary shall establish an availability period for the payments authorized by this section.
+
+
+(B) Certain commoditiesIn the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
+
+
+
+
+(d) Prohibition on crop insurance indemnity or noninsured crop assistanceA 2014 through 2018 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
+
+
+(Pub. L. 113–79, title I, § 1206, Feb. 7, 2014, 128 Stat. 680.)
+
+
+References in TextSubchapter I, referred to in subsec. (b)(2)(B)(ii)(I), was in the original “subtitle A”, meaning subtitle A of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
+The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+
+

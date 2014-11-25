@@ -1,0 +1,128 @@
+§ 2304b. Task order contracts: advisory and assistance services(a) Authority To Award.—(1) Subject to the requirements of this section, section 2304c of this title, and other applicable law, the head of an agency may enter into a task order contract (as defined in section 2304d of this title) for procurement of advisory and assistance services.
+
+(2) The head of an agency may enter into a task order contract for procurement of advisory and assistance services only under the authority of this section.
+
+
+(b) Limitation on Contract Period.—The period of a task order contract entered into under this section, including all periods of extensions of the contract under options, modifications, or otherwise, may not exceed five years unless a longer period is specifically authorized in a law that is applicable to such contract.
+
+(c) Content of Notice.—The notice required by section 1708 of title 41 and section 8(e) of the Small Business Act (15 U.S.C. 637(e)) shall reasonably and fairly describe the general scope, magnitude, and duration of the proposed task order contract in a manner that would reasonably enable a potential offeror to decide whether to request the solicitation and consider submitting an offer.
+
+(d) Required Content of Solicitation and Contract.—(1) The solicitation for the proposed task order contract shall include the information (regarding services) described in section 2304a(b) of this title.
+
+(2) A task order contract entered into under this section shall contain the same information that is required by paragraph (1) to be included in the solicitation of offers for that contract.
+
+
+(e) Multiple Awards.—(1) The head of an agency may, on the basis of one solicitation, award separate task order contracts under this section for the same or similar services to two or more sources if the solicitation states that the head of the agency has the option to do so.
+
+(2) If, in the case of a task order contract for advisory and assistance services to be entered into under this section, the contract period is to exceed three years and the contract amount is estimated to exceed $10,000,000 (including all options), the solicitation shall—(A) provide for a multiple award authorized under paragraph (1); and
+
+(B) include a statement that the head of the agency may also elect to award only one task order contract if the head of the agency determines in writing that only one of the offerers is capable of providing the services required at the level of quality required.
+
+
+(3) Paragraph (2) does not apply in the case of a solicitation for which the head of the agency concerned determines in writing that, because the services required under the task order contract are unique or highly specialized, it is not practicable to award more than one contract.
+
+
+(f) Contract Modifications.—(1) A task order may not increase the scope, period, or maximum value of the task order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
+
+(2) Unless use of procedures other than competitive procedures is authorized by an exception in subsection (c) of section 2304 of this title and approved in accordance with subsection (f) of such section, competitive procedures shall be used for making such a modification.
+
+(3) Notice regarding the modification shall be provided in accordance with section 1708 of title 41 and section 8(e) of the Small Business Act (15 U.S.C. 637(e)).
+
+
+(g) Contract Extensions.—(1) Notwithstanding the limitation on the contract period set forth in subsection (b) or in a solicitation or contract pursuant to subsection (e), a task order contract entered into by the head of an agency under this section may be extended on a sole-source basis for a period not exceeding six months if the head of such agency determines that—(A) the award of a follow-on contract has been delayed by circumstances that were not reasonably foreseeable at the time the initial contract was entered into; and
+
+(B) the extension is necessary in order to ensure continuity of the receipt of services pending the award of, and commencement of performance under, the follow-on contract.
+
+
+(2) A task order contract may be extended under the authority of paragraph (1) only once and only in accordance with the limitations and requirements of this subsection.
+
+
+(h) Inapplicability to Certain Contracts.—This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of an agency entering into such contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
+
+(i) Advisory and Assistance Services Defined.—In this section, the term “advisory and assistance services” has the meaning given such term in section 1105(g) of title 31.
+
+(Added Pub. L. 103–355, title I, § 1004(a)(1), Oct. 13, 1994, 108 Stat. 3251; amended Pub. L. 111–350, § 5(b)(13), Jan. 4, 2011, 124 Stat. 3843.)
+
+Amendments2011—Subsecs. (c), (f)(3). Pub. L. 111–350 substituted “section 1708 of title 41” for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)”.
+
+Effective DateFor effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
+
+Provisions Not Affected by Pub. L. 103–355This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+
+Waivers To Extend Task Order Contracts for Advisory and Assistance ServicesPub. L. 109–364, div. A, title VIII, § 834, Oct. 17, 2006, 120 Stat. 2332, provided that:
+“(a) Defense Contracts.—“(1) Waiver authority.—The head of an agency may issue a waiver to extend a task order contract entered into under section 2304b of title 10, United States Code, for a period not exceeding 10 years, through five one-year options, if the head of the agency determines in writing—“(A) that the contract provides engineering or technical services of such a unique and substantial technical nature that award of a new contract would be harmful to the continuity of the program for which the services are performed;
+
+“(B) that award of a new contract would create a large disruption in services provided to the Department of Defense; and
+
+“(C) that the Department of Defense would, through award of a new contract, endure program risk during critical program stages due to loss of program corporate knowledge of ongoing program activities.
+
+
+“(2) Delegation.—The authority of the head of an agency under paragraph (1) may be delegated only to the senior procurement executive of the agency.
+
+“(3) Report.—Not later than April 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on advisory and assistance services. The report shall include the following information:“(A) The methods used by the Department of Defense to identify a contract as an advisory and assistance services contract, as defined in section 2304b of title 10, United States Code.
+
+“(B) The number of such contracts awarded by the Department during the five-year period preceding the date of the enactment of this Act [Oct. 17, 2006].
+
+“(C) The average annual expenditures by the Department for such contracts.
+
+“(D) The average length of such contracts.
+
+“(E) The number of such contracts recompeted and awarded to the previous award winner.
+
+
+“(4) Prohibition on use of authority by department of defense if report not submitted.—The head of an agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
+
+
+“(b) Civilian Agency Contracts.—“(1) Waiver authority.—The head of an executive agency may issue a waiver to extend a task order contract entered into under section 303I of the Federal Property and Administrative Services Act of 1949 ([former] 41 U.S.C. 253i) [see 41 U.S.C. 4105] for a period not exceeding 10 years, through five one-year options, if the head of the agency determines in writing—“(A) that the contract provides engineering or technical services of such a unique and substantial technical nature that award of a new contract would be harmful to the continuity of the program for which the services are performed;
+
+“(B) that award of a new contract would create a large disruption in services provided to the executive agency; and
+
+“(C) that the executive agency would, through award of a new contract, endure program risk during critical program stages due to loss of program corporate knowledge of ongoing program activities.
+
+
+“(2) Delegation.—The authority of the head of an executive agency under paragraph (1) may be delegated only to the Chief Acquisition Officer of the agency (or the senior procurement executive in the case of an agency for which a Chief Acquisition Officer has not been appointed or designated under section 16(a) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 414(a)) [now 41 U.S.C. 1702(a), (b)(1), (2)]).
+
+“(3) Report.—Not later than April 1, 2007, the Administrator for Federal Procurement Policy shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives a report on advisory and assistance services. The report shall include the following information:“(A) The methods used by executive agencies to identify a contract as an advisory and assistance services contract, as defined in section 303I(i) of the Federal Property and Administrative Services Act of 1949 ([former] 41 U.S.C. 253i(i)) [now 41 U.S.C. 4105(a)].
+
+“(B) The number of such contracts awarded by each executive agency during the five-year period preceding the date of the enactment of this Act [Oct. 17, 2006].
+
+“(C) The average annual expenditures by each executive agency for such contracts.
+
+“(D) The average length of such contracts.
+
+“(E) The number of such contracts recompeted and awarded to the previous award winner.
+
+
+“(4) Prohibition on use of authority by executive agencies if report not submitted.—The head of an executive agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
+
+
+“(c) Termination of Authority.—A waiver may not be issued under this section after December 31, 2011.
+
+“(d) Comptroller General Review.—“(1) Report requirement.—Not later than one year after the date of the enactment of this Act [Oct. 17, 2006], the Comptroller General shall submit to the committees described in paragraph (3) a report on the use of advisory and assistance services contracts by the Federal Government.
+
+“(2) Defense and civilian agency contracts covered.—The report shall cover both of the following:“(A) Advisory and assistance services contracts as defined in section 2304b of title 10, United States Code.
+
+“(B) Advisory and assistance services contracts as defined in section 303I(i) of the Federal Property and Administrative Services Act of 1949 ([former] 41 U.S.C. 253i(i)) [now 41 U.S.C. 4105(a)].
+
+
+“(3) Matters covered.—The report shall address the following issues:“(A) The extent to which executive agencies and elements of the Department of Defense require advisory and assistance services for periods of greater than five years.
+
+“(B) The extent to which such advisory and assistance services are provided by the same contractors under recurring contracts.
+
+“(C) The rationale for contracting for advisory and assistance services that will be needed on a continuing basis, rather than performing the services inside the Federal Government.
+
+“(D) The contract types and oversight mechanisms used by the Federal Government in contracts for advisory and assistance services and the extent to which such contract types and oversight mechanisms are adequate to protect the interests of the Government and taxpayers.
+
+“(E) The actions taken by the Federal Government to prevent organizational conflicts of interest and improper personal services contracts in its contracts for advisory and assistance services.
+
+
+“(4) Committees.—The committees described in this paragraph are the following:“(A) The Committees on Armed Services and on Homeland Security and Governmental Affairs of the Senate.
+
+“(B) The Committees on Armed Services and on Government Reform [now Oversight and Government Reform] of the House of Representatives.”
+
+
+
+
+
+
+

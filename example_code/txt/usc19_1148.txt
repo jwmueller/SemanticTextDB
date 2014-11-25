@@ -1,0 +1,462 @@
+“SEC. 202. RULES OF ORIGIN.“(a) Application and Interpretation.—In this section:“(1) Tariff classification.—The basis for any tariff classification is the HTS.
+
+“(2) Reference to hts.—Whenever in this section there is a reference to a chapter, heading, or subheading, such reference shall be a reference to a chapter, heading, or subheading of the HTS.
+
+“(3) Cost or value.—Any cost or value referred to in this section shall be recorded and maintained in accordance with the generally accepted accounting principles applicable in the territory of the country in which the good is produced (whether Korea or the United States).
+
+
+“(b) Originating Goods.—For purposes of this Act and for purposes of implementing the preferential tariff treatment provided for under the Agreement, except as otherwise provided in this section, a good is an originating good if—“(1) the good is a good wholly obtained or produced entirely in the territory of Korea, the United States, or both;
+
+“(2) the good—“(A) is produced entirely in the territory of Korea, the United States, or both, and—“(i) each of the nonoriginating materials used in the production of the good undergoes an applicable change in tariff classification specified in Annex 4-A or Annex 6-A of the Agreement; or
+
+“(ii) the good otherwise satisfies any applicable regional value-content or other requirements specified in Annex 4-A or Annex 6-A of the Agreement; and
+
+
+“(B) satisfies all other applicable requirements of this section; or
+
+
+“(3) the good is produced entirely in the territory of Korea, the United States, or both, exclusively from materials described in paragraph (1) or (2).
+
+
+“(c) Regional Value-content.—“(1) In general.—For purposes of subsection (b)(2), the regional value-content of a good referred to in Annex 6-A of the Agreement, except for goods to which paragraph (4) applies, shall be calculated by the importer, exporter, or producer of the good, on the basis of the build-down method described in paragraph (2) or the build-up method described in paragraph (3).
+
+“(2) Build-down method.—“(A) In general.—The regional value-content of a good may be calculated on the basis of the following build-down method:
+
+
+
+
+
+
+
+
+
+
+
+   rvc =av–vnm×100   
+
+av
+
+
+ 
+
+
+
+
+“(B) Definitions.—In subparagraph (A):“(i) RVC.—The term ‘RVC’ means the regional value-content of the good, expressed as a percentage.
+
+“(ii) AV.—The term ‘AV’ means the adjusted value of the good.
+
+“(iii) VNM.—The term ‘VNM’ means the value of nonoriginating materials, other than indirect materials, that are acquired and used by the producer in the production of the good, but does not include the value of a material that is self-produced.
+
+
+
+“(3) Build-up method.—“(A) In general.—The regional value-content of a good may be calculated on the basis of the following build-up method:
+
+
+
+
+
+
+
+
+
+
+
+   rvc=vom×100   
+
+av
+
+
+ 
+
+
+
+
+“(B) Definitions.—In subparagraph (A):“(i) RVC.—The term ‘RVC’ means the regional value-content of the good, expressed as a percentage.
+
+“(ii) AV.—The term ‘AV’ means the adjusted value of the good.
+
+“(iii) VOM.—The term ‘VOM’ means the value of originating materials, other than indirect materials, that are acquired or self-produced, and used by the producer in the production of the good.
+
+
+
+“(4) Special rule for certain automotive goods.—“(A) In general.—For purposes of subsection (b)(2), the regional value-content of an automotive good referred to in Annex 6-A of the Agreement may be calculated by the importer, exporter, or producer of the good on the basis of the build-down method described in paragraph (2), the build-up method described in paragraph (3), or the following net cost method:
+
+
+
+
+
+
+
+
+
+
+
+   rvc=nc–vnm×100   
+
+nc
+
+
+ 
+
+
+
+
+“(B) Definitions.—In subparagraph (A):“(i) Automotive good.—The term ‘automotive good’ means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20, heading 8409, or any of headings 8701 through 8708.
+
+“(ii) RVC.—The term ‘RVC’ means the regional value-content of the automotive good, expressed as a percentage.
+
+“(iii) NC.—The term ‘NC’ means the net cost of the automotive good.
+
+“(iv) VNM.—The term ‘VNM’ means the value of nonoriginating materials, other than indirect materials, that are acquired and used by the producer in the production of the automotive good, but does not include the value of a material that is self-produced.
+
+
+“(C) Motor vehicles.—“(i) Basis of calculation.—For purposes of determining the regional value-content under subparagraph (A) for an automotive good that is a motor vehicle provided for in any of headings 8701 through 8705, an importer, exporter, or producer may average the amounts calculated under the net cost formula contained in subparagraph (A), over the producer’s fiscal year—     “(I) with respect to all motor vehicles in any one of the categories described in clause (ii); or
+
+     “(II) with respect to all motor vehicles in any such category that are exported to the territory of Korea or the United States.
+
+
+“(ii) Categories.—A category is described in this clause if it—     “(I) is the same model line of motor vehicles, is in the same class of motor vehicles, and is produced in the same plant in the territory of Korea or the United States, as the good described in clause (i) for which regional value-content is being calculated;
+
+     “(II) is the same class of motor vehicles, and is produced in the same plant in the territory of Korea or the United States, as the good described in clause (i) for which regional value-content is being calculated; or
+
+     “(III) is the same model line of motor vehicles produced in the territory of Korea or the United States as the good described in clause (i) for which regional value-content is being calculated.
+
+
+
+“(D) Other automotive goods.—For purposes of determining the regional value-content under subparagraph (A) for automotive materials provided for in any of subheadings 8407.31 through 8407.34, in subheading 8408.20, or in heading 8409, 8706, 8707, or 8708, that are produced in the same plant, an importer, exporter, or producer may—“(i) average the amounts calculated under the net cost formula contained in subparagraph (A) over—     “(I) the fiscal year of the motor vehicle producer to whom the automotive goods are sold,
+
+     “(II) any quarter or month, or
+
+     “(III) the fiscal year of the producer of such goods,
+
+
+
+ if the goods were produced during the fiscal year, quarter, or month that is the basis for the calculation;
+“(ii) determine the average referred to in clause (i) separately for such goods sold to 1 or more motor vehicle producers; or
+
+“(iii) make a separate determination under clause (i) or (ii) for such goods that are exported to the territory of Korea or the United States.
+
+
+“(E) Calculating net cost.—The importer, exporter, or producer of an automotive good shall, consistent with the provisions regarding allocation of costs provided for in generally accepted accounting principles, determine the net cost of the automotive good under subparagraph (B) by—“(i) calculating the total cost incurred with respect to all goods produced by the producer of the automotive good, subtracting any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
+
+“(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
+
+“(iii) reasonably allocating each cost that forms part of the total cost incurred with respect to the automotive good so that the aggregate of these costs does not include any sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, or nonallowable interest costs.
+
+
+
+
+“(d) Value of Materials.—“(1) In general.—For the purpose of calculating the regional value-content of a good under subsection (c), and for purposes of applying the de minimis rules under subsection (f), the value of a material is—“(A) in the case of a material that is imported by the producer of the good, the adjusted value of the material;
+
+“(B) in the case of a material acquired in the territory in which the good is produced, the value, determined in accordance with Articles 1 through 8, Article 15, and the corresponding interpretive notes, of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 101(d)(8) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(8)), as set forth in regulations promulgated by the Secretary of the Treasury providing for the application of such Articles in the absence of an importation by the producer; or
+
+“(C) in the case of a material that is self-produced, the sum of—“(i) all expenses incurred in the production of the material, including general expenses; and
+
+“(ii) an amount for profit equivalent to the profit added in the normal course of trade.
+
+
+
+“(2) Further adjustments to the value of materials.—“(A) Originating material.—The following expenses, if not included in the value of an originating material calculated under paragraph (1), may be added to the value of the originating material:“(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of Korea, the United States, or both, to the location of the producer.
+
+“(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Korea, the United States, or both, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+
+“(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
+
+
+“(B) Nonoriginating material.—The following expenses, if included in the value of a nonoriginating material calculated under paragraph (1), may be deducted from the value of the nonoriginating material:“(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of Korea, the United States, or both, to the location of the producer.
+
+“(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of Korea, the United States, or both, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+
+“(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
+
+“(iv) The cost of originating materials used in the production of the nonoriginating material in the territory of Korea, the United States, or both.
+
+
+
+
+“(e) Accumulation.—“(1) Originating materials used in production of goods of the other country.—Originating materials from the territory of Korea or the United States that are used in the production of a good in the territory of the other country shall be considered to originate in the territory of such other country.
+
+“(2) Multiple producers.—A good that is produced in the territory of Korea, the United States, or both, by 1 or more producers, is an originating good if the good satisfies the requirements of subsection (b) and all other applicable requirements of this section.
+
+
+“(f) De Minimis Amounts of Nonoriginating Materials.—“(1) In general.—Except as provided in paragraphs (2) and (3), a good that does not undergo a change in tariff classification pursuant to Annex 6-A of the Agreement is an originating good if—“(A) the value of all nonoriginating materials used in the production of the good that do not undergo the applicable change in tariff classification (set forth in Annex 6-A of the Agreement) does not exceed 10 percent of the adjusted value of the good;
+
+“(B) the good meets all other applicable requirements of this section; and
+
+“(C) the value of such nonoriginating materials is included in the value of nonoriginating materials for any applicable regional value-content requirement for the good.
+
+
+“(2) Exceptions.—Paragraph (1) does not apply to the following:“(A) A nonoriginating material provided for in chapter 3 that is used in the production of a good provided for in chapter 3.
+
+“(B) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90 or 2106.90, that is used in the production of a good provided for in chapter 4.
+
+“(C) A nonoriginating material provided for in chapter 4, or a nonoriginating dairy preparation containing over 10 percent by weight of milk solids provided for in subheading 1901.90, that is used in the production of any of the following goods:“(i) Infant preparations containing over 10 percent by weight of milk solids provided for in subheading 1901.10.
+
+“(ii) Mixes and doughs, containing over 25 percent by weight of butterfat, not put up for retail sale, provided for in subheading 1901.20.
+
+“(iii) Dairy preparations containing over 10 percent by weight of milk solids provided for in subheading 1901.90 or 2106.90.
+
+“(iv) Goods provided for in heading 2105.
+
+“(v) Beverages containing milk provided for in subheading 2202.90.
+
+“(vi) Animal feeds containing over 10 percent by weight of milk solids provided for in subheading 2309.90.
+
+
+“(D) A nonoriginating material provided for in chapter 7 that is used in the production of a good provided for in subheading 0703.10, 0703.20, 0709.59, 0709.60, 0711.90, 0712.20, 0714.20, or any of subheadings 0710.21 through 0710.80 or 0712.39 through 0713.10.
+
+“(E) A nonoriginating material provided for in heading 1006, or a nonoriginating rice product provided for in chapter 11 that is used in the production of a good provided for in heading 1006, 1102, 1103, 1104, or subheading 1901.20 or 1901.90.
+
+“(F) A nonoriginating material provided for in heading 0805, or any of subheadings 2009.11 through 2009.39, that is used in the production of a good provided for in any of subheadings 2009.11 through 2009.39, or in fruit or vegetable juice of any single fruit or vegetable, fortified with minerals or vitamins, concentrated or unconcentrated, provided for in subheading 2106.90 or 2202.90.
+
+“(G) Nonoriginating peaches, pears, or apricots provided for in chapter 8 or 20 that are used in the production of a good provided for in heading 2008.
+
+“(H) A nonoriginating material provided for in chapter 15 that is used in the production of a good provided for in any of headings 1501 through 1508, or heading 1512, 1514, or 1515.
+
+“(I) A nonoriginating material provided for in heading 1701 that is used in the production of a good provided for in any of headings 1701 through 1703.
+
+“(J) A nonoriginating material provided for in chapter 17 that is used in the production of a good provided for in subheading 1806.10.
+
+“(K) Except as provided in subparagraphs (A) through (J) and Annex 6-A of the Agreement, a nonoriginating material used in the production of a good provided for in any of chapters 1 through 24, unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+
+
+“(3) Textile or apparel goods.—“(A) In general.—Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification, set forth in Annex 4-A of the Agreement, shall be considered to be an originating good if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
+
+“(B) Certain textile or apparel goods.—A textile or apparel good containing elastomeric yarns in the component of the good that determines the tariff classification of the good shall be considered to be an originating good only if such yarns are wholly formed and finished in the territory of Korea, the United States, or both.
+
+“(C) Yarn, fabric, or fiber.—For purposes of this paragraph, in the case of a good that is a yarn, fabric, or fiber, the term ‘component of the good that determines the tariff classification of the good’ means all of the fibers in the good.
+
+
+
+“(g) Fungible Goods and Materials.—“(1) In general.—“(A) Claim for preferential tariff treatment.—A person claiming that a fungible good or fungible material is an originating good may base the claim either on the physical segregation of the fungible good or fungible material or by using an inventory management method with respect to the fungible good or fungible material.
+
+“(B) Inventory management method.—In this subsection, the term ‘inventory management method’ means—“(i) averaging;
+
+“(ii) ‘last-in, first-out’;
+
+“(iii) ‘first-in, first-out’; or
+
+“(iv) any other method—     “(I) recognized in the generally accepted accounting principles of the country in which the production is performed (whether Korea or the United States); or
+
+     “(II) otherwise accepted by that country.
+
+
+
+
+“(2) Election of inventory method.—A person selecting an inventory management method under paragraph (1) for a particular fungible good or fungible material shall continue to use that method for that fungible good or fungible material throughout the fiscal year of such person.
+
+
+“(h) Accessories, Spare Parts, or Tools.—“(1) In general.—Subject to paragraphs (2) and (3), accessories, spare parts, or tools delivered with a good that form part of the good’s standard accessories, spare parts, or tools shall—“(A) be treated as originating goods if the good is an originating good; and
+
+“(B) be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set forth in Annex 6-A of the Agreement.
+
+
+“(2) Conditions.—Paragraph (1) shall apply only if—“(A) the accessories, spare parts, or tools are classified with and not invoiced separately from the good; and
+
+“(B) the quantities and value of the accessories, spare parts, or tools are customary for the good.
+
+
+“(3) Regional value content.—If the good is subject to a regional value-content requirement, the value of the accessories, spare parts, or tools shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+
+
+“(i) Packaging Materials and Containers for Retail Sale.—Packaging materials and containers in which a good is packaged for retail sale, if classified with the good, shall be disregarded in determining whether all the nonoriginating materials used in the production of the good undergo the applicable change in tariff classification set forth in Annex 4-A or Annex 6-A of the Agreement, and, if the good is subject to a regional value-content requirement, the value of such packaging materials and containers shall be taken into account as originating or nonoriginating materials, as the case may be, in calculating the regional value-content of the good.
+
+“(j) Packing Materials and Containers for Shipment.—Packing materials and containers for shipment shall be disregarded in determining whether a good is an originating good.
+
+“(k) Indirect Materials.—An indirect material shall be disregarded in determining whether a good is an originating good.
+
+“(l) Transit and Transhipment.—A good that has undergone production necessary to qualify as an originating good under subsection (b) shall not be considered to be an originating good if, subsequent to that production, the good—“(1) undergoes further production or any other operation outside the territory of Korea or the United States, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of Korea or the United States; or
+
+“(2) does not remain under the control of customs authorities in the territory of a country other than Korea or the United States.
+
+
+“(m) Goods Classifiable as Goods Put up in Sets.—Notwithstanding the rules set forth in Annex 4-A and Annex 6-A of the Agreement, goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3 of the HTS shall not be considered to be originating goods unless—“(1) each of the goods in the set is an originating good; or
+
+“(2) the total value of the nonoriginating goods in the set does not exceed—“(A) in the case of textile or apparel goods, 10 percent of the adjusted value of the set; or
+
+“(B) in the case of goods, other than textile or apparel goods, 15 percent of the adjusted value of the set.
+
+
+
+“(n) Definitions.—In this section:“(1) Adjusted value.—The term ‘adjusted value’ means the value determined in accordance with Articles 1 through 8, Article 15, and the corresponding interpretive notes, of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 referred to in section 101(d)(8) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(8)), adjusted, if necessary, to exclude any costs, charges, or expenses incurred for transportation, insurance, and related services incident to the international shipment of the merchandise from the country of exportation to the place of importation.
+
+“(2) Class of motor vehicles.—The term ‘class of motor vehicles’ means any one of the following categories of motor vehicles:“(A) Motor vehicles provided for in subheading 8701.20, 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, or motor vehicles for the transport of 16 or more persons provided for in subheading 8702.10 or 8702.90.
+
+“(B) Motor vehicles provided for in subheading 8701.10 or any of subheadings 8701.30 through 8701.90.
+
+“(C) Motor vehicles for the transport of 15 or fewer persons provided for in subheading 8702.10 or 8702.90, or motor vehicles provided for in subheading 8704.21 or 8704.31.
+
+“(D) Motor vehicles provided for in any of subheadings 8703.21 through 8703.90.
+
+
+“(3) Fungible good or fungible material.—The term ‘fungible good’ or ‘fungible material’ means a good or material, as the case may be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
+
+“(4) Generally accepted accounting principles.—The term ‘generally accepted accounting principles’—“(A) means the recognized consensus or substantial authoritative support given in the territory of Korea or the United States, as the case may be, with respect to the recording of revenues, expenses, costs, assets, and liabilities, the disclosure of information, and the preparation of financial statements; and
+
+“(B) may encompass broad guidelines for general application as well as detailed standards, practices, and procedures.
+
+
+“(5) Good wholly obtained or produced entirely in the territory of korea, the united states, or both.—The term ‘good wholly obtained or produced entirely in the territory of Korea, the United States, or both’ means any of the following:“(A) Plants and plant products grown, and harvested or gathered, in the territory of Korea, the United States, or both.
+
+“(B) Live animals born and raised in the territory of Korea, the United States, or both.
+
+“(C) Goods obtained in the territory of Korea, the United States, or both from live animals.
+
+“(D) Goods obtained from hunting, trapping, fishing, or aquaculture conducted in the territory of Korea, the United States, or both.
+
+“(E) Minerals and other natural resources not included in subparagraphs (A) through (D) that are extracted or taken from the territory of Korea, the United States, or both.
+
+“(F) Fish, shellfish, and other marine life taken from the sea, seabed, or subsoil outside the territory of Korea or the United States by—“(i) a vessel that is registered or recorded with Korea and flying the flag of Korea; or
+
+“(ii) a vessel that is documented under the laws of the United States.
+
+
+“(G) Goods produced on board a factory ship from goods referred to in subparagraph (F), if such factory ship—“(i) is registered or recorded with Korea and flies the flag of Korea; or
+
+“(ii) is a vessel that is documented under the laws of the United States.
+
+
+“(H)(i) Goods taken by Korea or a person of Korea from the seabed or subsoil outside the territory of Korea, the United States, or both, if Korea has rights to exploit such seabed or subsoil; or
+
+“(ii) Goods taken by the United States or a person of the United States from the seabed or subsoil outside the territory of the United States, Korea, or both, if the United States has rights to exploit such seabed or subsoil.
+
+
+“(I) Goods taken from outer space, if the goods are obtained by Korea or the United States or a person of Korea or the United States and not processed in the territory of a country other than Korea or the United States.
+
+“(J) Waste and scrap derived from—“(i) manufacturing or processing operations in the territory of Korea, the United States, or both; or
+
+“(ii) used goods collected in the territory of Korea, the United States, or both, if such goods are fit only for the recovery of raw materials.
+
+
+“(K) Recovered goods derived in the territory of Korea, the United States, or both, from used goods, and used in the territory of Korea, the United States, or both, in the production of remanufactured goods.
+
+“(L) Goods, at any stage of production, produced in the territory of Korea, the United States, or both, exclusively from—“(i) goods referred to in any of subparagraphs (A) through (J); or
+
+“(ii) the derivatives of goods referred to in clause (i).
+
+
+
+“(6) Identical goods.—The term ‘identical goods’ means goods that are the same in all respects relevant to the rule of origin that qualifies the goods as originating goods.
+
+“(7) Indirect material.—The term ‘indirect material’ means a good used in the production, testing, or inspection of another good but not physically incorporated into that other good, or a good used in the maintenance of buildings or the operation of equipment associated with the production of another good, including—“(A) fuel and energy;
+
+“(B) tools, dies, and molds;
+
+“(C) spare parts and materials used in the maintenance of equipment or buildings;
+
+“(D) lubricants, greases, compounding materials, and other materials used in production or used to operate equipment or buildings;
+
+“(E) gloves, glasses, footwear, clothing, safety equipment, and supplies;
+
+“(F) equipment, devices, and supplies used for testing or inspecting the good;
+
+“(G) catalysts and solvents; and
+
+“(H) any other good that is not incorporated into the other good but the use of which in the production of the other good can reasonably be demonstrated to be a part of that production.
+
+
+“(8) Material.—The term ‘material’ means a good that is used in the production of another good, including a part or an ingredient.
+
+“(9) Material that is self-produced.—The term ‘material that is self-produced’ means an originating material that is produced by a producer of a good and used in the production of that good.
+
+“(10) Model line of motor vehicles.—The term ‘model line of motor vehicles’ means a group of motor vehicles having the same platform or model name.
+
+“(11) Net cost.—The term ‘net cost’ means total cost minus sales promotion, marketing, and after-sales service costs, royalties, shipping and packing costs, and non-allowable interest costs that are included in the total cost.
+
+“(12) Nonallowable interest costs.—The term ‘nonallowable interest costs’ means interest costs incurred by a producer that exceed 700 basis points above the applicable official interest rate for comparable maturities of the country in which the producer is located.
+
+“(13) Nonoriginating good or nonoriginating material.—The term ‘nonoriginating good’ or ‘nonoriginating material’ means a good or material, as the case may be, that does not qualify as originating under this section.
+
+“(14) Packing materials and containers for shipment.—The term ‘packing materials and containers for shipment’ means goods used to protect another good during its transportation and does not include the packaging materials and containers in which the other good is packaged for retail sale.
+
+“(15) Preferential tariff treatment.—The term ‘preferential tariff treatment’ means the customs duty rate, and the treatment under article 2.10.4 of the Agreement, that are applicable to an originating good pursuant to the Agreement.
+
+“(16) Producer.—The term ‘producer’ means a person who engages in the production of a good in the territory of Korea or the United States.
+
+“(17) Production.—The term ‘production’ means growing, mining, harvesting, fishing, breeding, raising, trapping, hunting, manufacturing, processing, assembling, or disassembling a good.
+
+“(18) Reasonably allocate.—The term ‘reasonably allocate’ means to apportion in a manner that would be appropriate under generally accepted accounting principles.
+
+“(19) Recovered goods.—The term ‘recovered goods’ means materials in the form of individual parts that are the result of—“(A) the disassembly of used goods into individual parts; and
+
+“(B) the cleaning, inspecting, testing, or other processing that is necessary for improvement to sound working condition of such individual parts.
+
+
+“(20) Remanufactured good.—The term ‘remanufactured good’ means a good that is classified under chapter 84, 85, 87, or 90 or heading 9402, and that—“(A) is entirely or partially comprised of recovered goods; and
+
+“(B) has a similar life expectancy and enjoys a factory warranty similar to such a good that is new.
+
+
+“(21) Total cost.—“(A) In general.—The term ‘total cost’—“(i) means all product costs, period costs, and other costs for a good incurred in the territory of Korea, the United States, or both; and
+
+“(ii) does not include profits that are earned by the producer, regardless of whether they are retained by the producer or paid out to other persons as dividends, or taxes paid on those profits, including capital gains taxes.
+
+
+“(B) Other definitions.—In this paragraph:“(i) Product costs.—The term ‘product costs’ means costs that are associated with the production of a good and include the value of materials, direct labor costs, and direct overhead.
+
+“(ii) Period costs.—The term ‘period costs’ means costs, other than product costs, that are expensed in the period in which they are incurred, such as selling expenses and general and administrative expenses.
+
+“(iii) Other costs.—The term ‘other costs’ means all costs recorded on the books of the producer that are not product costs or period costs, such as interest.
+
+
+
+“(22) Used.—The term ‘used’ means utilized or consumed in the production of goods.
+
+
+“(o) Presidential Proclamation Authority.—“(1) In general.—The President is authorized to proclaim, as part of the HTS—“(A) the provisions set forth in Annex 4-A and Annex 6-A of the Agreement; and
+
+“(B) any additional subordinate category that is necessary to carry out this title consistent with the Agreement.
+
+
+“(2) Modifications.—“(A) In general.—Subject to the consultation and layover provisions of section 104, the President may proclaim modifications to the provisions proclaimed under the authority of paragraph (1)(A), other than provisions of chapters 50 through 63 (as included in Annex 4-A of the Agreement).
+
+“(B) Additional proclamations.—Notwithstanding subparagraph (A), and subject to the consultation and layover provisions of section 104, the President may proclaim—“(i) such modifications to the provisions proclaimed under the authority of paragraph (1)(A) as are necessary to implement an agreement with Korea pursuant to article 4.2.5 of the Agreement; and
+
+“(ii) before the end of the 1-year period beginning on the date on which the Agreement enters into force [Mar. 15, 2012], modifications to correct any typographical, clerical, or other nonsubstantive technical error regarding the provisions of chapters 50 through 63 (as included in Annex 4-A of the Agreement).
+
+
+
+“(3) Fibers, yarns, or fabrics not available in commercial quantities in the united states.—“(A) In general.—Notwithstanding paragraph (2)(A), the list of fibers, yarns, and fabrics set forth in the list of the United States in Appendix 4-B-1 of the Agreement may be modified as provided for in this paragraph.
+
+“(B) Definitions.—In this paragraph:“(i) Interested entity.—The term ‘interested entity’ means the Government of Korea, a potential or actual purchaser of a textile or apparel good, or a potential or actual supplier of a textile or apparel good.
+
+“(ii) Day; days.—All references to ‘day’ and ‘days’ exclude Saturdays, Sundays, and legal holidays observed by the Government of the United States.
+
+
+“(C) Requests to add fibers, yarns, or fabrics.—“(i) In general.—An interested entity may request the President to determine that a fiber, yarn, or fabric is not available in commercial quantities in a timely manner in the United States and to add that fiber, yarn, or fabric to the list of the United States in Appendix 4-B-1 of the Agreement.
+
+“(ii) Determination.—After receiving a request under clause (i), the President may determine whether—     “(I) the fiber, yarn, or fabric is available in commercial quantities in a timely manner in the United States; or
+
+     “(II) any interested entity objects to the request.
+
+
+“(iii) Proclamation authority.—The President may, within the time periods specified in clause (iv), proclaim that the fiber, yarn, or fabric that is the subject of the request is added to the list of the United States in Appendix 4-B-1 of the Agreement, if the President has determined under clause (ii) that—     “(I) the fiber, yarn, or fabric is not available in commercial quantities in a timely manner in the United States; or
+
+     “(II) no interested entity has objected to the request.
+
+
+“(iv) Time periods.—The time periods within which the President may issue a proclamation under clause (iii) are—     “(I) not later than 30 days after the date on which a request is submitted under clause (i); or
+
+     “(II) not later than 60 days after the request is submitted, if the President determines, within 30 days after the date on which the request is submitted, that the President does not have sufficient information to make a determination under clause (ii).
+
+
+“(v) Effective date.—Notwithstanding section 103(a)(2), a proclamation made under clause (iii) shall take effect on the date on which the text of the proclamation is published in the Federal Register.
+
+
+“(D) Deemed denial of request.—If, after an interested entity submits a request under subparagraph (C)(i), the President does not, within 30 days of the expiration of the applicable time period specified in subparagraph (C)(iv), make a determination under subparagraph (C)(ii) regarding the request, the request shall be considered to be denied.
+
+“(E) Requests to remove fibers, yarns, or fabrics.—“(i) In general.—An interested entity may request the President to remove from the list of the United States in Appendix 4-B-1 of the Agreement, any fiber, yarn, or fabric that has been added to that list pursuant to subparagraph (C)(iii).
+
+“(ii) Proclamation authority.—Not later than 30 days after the date on which a request under clause (i) is submitted, the President may proclaim that the fiber, yarn, or fabric that is the subject of the request is removed from the list of the United States in Appendix 4-B-1 of the Agreement if the President determines that the fiber, yarn, or fabric is available in commercial quantities in a timely manner in the United States.
+
+“(iii) Effective date.—A proclamation issued under clause (ii) may not take effect earlier than the date that is 6 months after the date on which the text of the proclamation is published in the Federal Register.
+
+
+“(F) Procedures.—The President shall establish procedures—“(i) governing the submission of a request under subparagraphs (C) and (E); and
+
+“(ii) providing an opportunity for interested entities to submit comments and supporting evidence before the President makes a determination under subparagraph (C)(ii) or (E)(ii).
+
+
+
+

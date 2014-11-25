@@ -1,0 +1,31 @@
+§ 17191. Definitions
+For purposes of this part:(1) EngineeredWhen referring to enhanced geothermal systems, the term “engineered” means subjected to intervention, including intervention to address one or more of the following issues:(A) Lack of effective permeability or porosity or open fracture connectivity within the reservoir.
+
+(B) Insufficient contained geofluid in the reservoir.
+
+(C) A low average geothermal gradient, which necessitates deeper drilling.
+
+
+(2) Enhanced geothermal systemsThe term “enhanced geothermal systems” means geothermal reservoir systems that are engineered, as opposed to occurring naturally.
+
+
+(3) GeofluidThe term “geofluid” means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
+
+
+(4) Geopressured resourcesThe term “geopressured resources” mean geothermal deposits found in sedimentary rocks under higher than normal pressure and saturated with gas or methane.
+
+
+(5) GeothermalThe term “geothermal” refers to heat energy stored in the Earth’s crust that can be accessed for direct use or electric power generation.
+
+
+(6) HydrothermalThe term “hydrothermal” refers to naturally occurring subsurface reservoirs of hot water or steam.
+
+
+(7) Systems approachThe term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.
+
+
+(Pub. L. 110–140, title VI, § 612, Dec. 19, 2007, 121 Stat. 1679.)
+
+Short TitleThis part known as the “Advanced Geothermal Energy Research and Development Act of 2007”, see Short Title note set out under section 17001 of this title.
+
+

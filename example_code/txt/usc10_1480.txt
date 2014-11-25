@@ -1,0 +1,149 @@
+§ 2313. Examination of records of contractor(a) Agency Authority.—(1) The head of an agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of—(A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under this chapter; and
+
+(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
+
+
+(2) The head of an agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to section 2306a of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to—(A) the proposal for the contract or subcontract;
+
+(B) the discussions conducted on the proposal;
+
+(C) pricing of the contract or subcontract; or
+
+(D) performance of the contract or subcontract.
+
+
+
+(b) DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency (or any successor agency) may require by subpoena the production of any records of a contractor that the Secretary of Defense is authorized to audit or examine under subsection (a).
+
+(2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
+
+(3) The authority provided by paragraph (1) may not be redelegated.
+
+
+(c) Comptroller General Authority.—(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract and to interview any current employee regarding such transactions.
+
+(2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the head of the agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required—(A) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its records available for examination; and
+
+(B) where the head of the agency determines, after taking into account the price and availability of the property and services from United States sources, that the public interest would be best served by not applying paragraph (1).
+
+
+(3) Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
+
+
+(d) Limitation on Audits Relating to Indirect Costs.—The head of an agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer’s determination.
+
+(e) Limitation.—The authority of the head of an agency under subsection (a), and the authority of the Comptroller General under subsection (c), with respect to a contract or subcontract shall expire three years after final payment under such contract or subcontract.
+
+(f) Inapplicability to Certain Contracts.—This section does not apply to the following contracts:(1) Contracts for utility services at rates not exceeding those established to apply uniformly to the public, plus any applicable reasonable connection charge.
+
+(2) A contract or subcontract that is for an amount not greater than the simplified acquisition threshold.
+
+
+(g) Forms of Original Record Storage.—Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form.
+
+(h) Use of Images of Original Records.—The head of an agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
+
+(2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
+
+(3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
+
+
+(i) Records Defined.—In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, § 1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, § 2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, § 935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, § 7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, § 1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, § 2201(a)(1), title IV, § 4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, § 808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, § 1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, [div. A], title VIII, § 871(b), Oct. 14, 2008, 122 Stat. 4555.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2313(a)41:153(b) (words after semicolon of last sentence).Feb. 19, 1948, ch. 65, § 4(b) (words after semicolon of last sentence), 62 Stat. 23.
+2313(b)41:153(c).Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to § 4(c); of the Act of Feb. 19, 1948, ch. 65), 65 Stat. 700.
+
+
+In subsection (a), the words “An agency named in section 2303 of this title” are substituted for the words “a procuring agency”. The words “made by that agency under this chapter” are inserted for clarity.
+In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include a clause to the effect”. The words “are entitled” are substituted for the words “shall * * * have * * * the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
+
+Amendments2008—Subsec. (c)(1). Pub. L. 110–417 inserted “and to interview any current employee regarding such transactions” before period at end.
+1999—Subsec. (b)(4). Pub. L. 106–65 struck out par. (4) which read as follows: “The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.”
+1996—Subsec. (b)(4). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Limitation on Preaward Audits Relating to Indirect Costs.—The head of an agency may not perform a preaward audit to evaluate proposed indirect costs under any contract, subcontract, or modification to be entered into in accordance with this chapter in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer’s determination.”
+1994—Pub. L. 103–355, § 2201(a)(1), amended section generally, striking out “of books” before “and records” in section catchline, and substituting subsecs. (a) to (i) for former subsecs. (a) to (d).
+Subsec. (f)(2). Pub. L. 103–355, § 4102(c), added par. (2).
+1990—Subsec. (c). Pub. L. 101–510 struck out after cl. (2) “If subsection (b) is not applied to a contract or subcontract based on a determination under clause (2), a written report shall be furnished to the Congress.”
+1987—Subsec. (d)(1). Pub. L. 100–26 substituted “section 2306a” for “section 2306(f)”.
+1985—Subsec. (d). Pub. L. 99–145 added subsec. (d).
+1984—Subsec. (b). Pub. L. 98–369 substituted “awarded after using procedures other than sealed bid procedures” for “negotiated under this chapter”.
+1966—Subsec. (b). Pub. L. 89–607, § 1(2)(A), substituted “Except as provided in subsection (c), each” for “Each”.
+Subsec. (c). Pub. L. 89–607, § 1(2)(B), added subsec. (c).
+
+Effective Date of 1994 AmendmentFor effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
+
+Department of Defense Access to, Use of, and Safeguards and Protections for Contractor Internal Audit ReportsPub. L. 112–239, div. A, title VIII, § 832, Jan. 2, 2013, 126 Stat. 1844, provided that:
+“(a) Revised Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Director of the Defense Contract Audit Agency shall revise guidance on access to defense contractor internal audit reports (including the Contract Audit Manual) to incorporate the requirements of this section.
+
+“(b) Documentation Requirements.—The revised guidance shall ensure that requests for access to defense contractor internal audit reports are appropriately documented. The required documentation shall include, at a minimum, the following:“(1) Written determination that access to such reports is necessary to complete required evaluations of contractor business systems.
+
+“(2) A copy of any request from the Defense Contract Audit Agency to a contractor for access to such reports.
+
+“(3) A record of response received from the contractor, including the contractor’s rationale or justification if access to requested reports was not granted.
+
+
+“(b) [sic] Safeguards and Protections.—The revised guidance shall include appropriate safeguards and protections to ensure that contractor internal audit reports cannot be used by the Defense Contract Audit Agency for any purpose other than evaluating and testing the efficacy of contractor internal controls and the reliability of associated contractor business systems.
+
+“(c) Risk-based Auditing.—A determination by the Defense Contract Audit Agency that a contractor has a sound system of internal controls shall provide the basis for increased reliance on contractor business systems or a reduced level of testing with regard to specific audits, as appropriate. Internal audit reports provided by a contractor pursuant to this section may be considered in determining whether or not a contractor has a sound system of internal controls, but shall not be the sole basis for such a determination.
+
+“(d) Comptroller General Review.—Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency.”
+
+
+
+
+Additional Access to Contractor and Subcontractor Records in the United States Central Command Theater of OperationsPub. L. 112–81, div. A, title VIII, § 842, Dec. 31, 2011, 125 Stat. 1513, provided that:
+“(a) Department of Defense Contracts, Grants, and Cooperative Agreements.—“(1) In general.—Not later than 30 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that—“(A) the clause described in paragraph (2) shall be included in each covered contract, grant, and cooperative agreement of the Department of Defense that is awarded on or after the date of the enactment of this Act; and
+
+“(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of the Department that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
+
+
+“(2) Clause.—The clause described in this paragraph is a clause authorizing the Secretary, upon a written determination pursuant to paragraph (3), to examine any records of the contractor, the recipient of a grant or cooperative agreement, or any subcontractor or subgrantee under such contract, grant, or cooperative agreement to the extent necessary to ensure that funds available under the contract, grant, or cooperative agreement—“(A) are not subject to extortion or corruption; and
+
+“(B) are not provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
+
+
+“(3) Written determination.—The authority to examine records pursuant to the contract clause described in paragraph (2) may be exercised only upon a written determination by the contracting officer or comparable official responsible for a grant or cooperative agreement, upon a finding by the Commander of the United States Central Command, that there is reason to believe that funds available under the contract, grant, or cooperative agreement concerned may have been subject to extortion or corruption or may have been provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
+
+“(4) Flowdown.—A clause described in paragraph (2) shall also be required in any subcontract or subgrant under a covered contract, grant, or cooperative agreement if the subcontract or subgrant has an estimated value in excess of $100,000.
+
+
+“(b) Reports.—Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,[.] Any report under this subsection may be submitted in classified form.
+
+“(c) Definitions.—In this section:“(1) The term ‘contingency operation’ has the meaning given that term in section 101(a)(13) of title 10, United States Code.
+
+“(2) The term ‘covered contract, grant, or cooperative agreement’ means a contract, grant, or cooperative agreement with an estimated value in excess of $100,000 that will be performed in the United States Central Command theater of operations in support of a contingency operation.
+
+
+“(d) Sunset.—“(1) In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of this Act [Dec. 31, 2011].
+
+“(2) Continuing effect of clauses included before sunset.—Any clause described by subsection (a)(2) that is included in a contract, grant, or cooperative agreement pursuant to this section before the date specified in paragraph (1) shall remain in effect in accordance with its terms.”
+
+
+
+
+
+Exemption of FunctionsFunctions with respect to purchases authorized to be made outside limits of United States or District of Columbia under Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
+
+Foreign ContractorsSecretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising authority provided in amendment of this section by Pub. L. 89–607 to exempt certain contracts with foreign contractors from requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. (11) of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. (11) of Part I of Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended, set out as a note under section 1431 of Title 50, War and National Defense.
+
+

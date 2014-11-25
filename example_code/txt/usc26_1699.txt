@@ -1,0 +1,96 @@
+§ 6228. Judicial review where administrative adjustment request is not allowed in full(a) Request on behalf of partnership(1) In generalIf any part of an administrative adjustment request filed by the tax matters partner under subsection (c) of section 6227 is not allowed by the Secretary, the tax matters partner may file a petition for an adjustment with respect to the partnership items to which such part of the request relates with—(A) the Tax Court,
+
+(B) the district court of the United States for the district in which the principal place of business of the partnership is located, or
+
+(C) the Court of Federal Claims.
+
+
+(2) Period for filing petition(A) In generalA petition may be filed under paragraph (1) with respect to partnership items for a partnership taxable year only—(i) after the expiration of 6 months from the date of filing of the request under section 6227, and
+
+(ii) before the date which is 2 years after the date of such request.
+
+
+(B) No petition after notice of beginning of administrative proceedingNo petition may be filed under paragraph (1) after the day the Secretary mails to the partnership a notice of the beginning of an administrative proceeding with respect to the partnership taxable year to which such request relates.
+
+
+(C) Failure by Secretary to issue timely notice of adjustmentIf the Secretary—(i) mails the notice referred to in subparagraph (B) before the expiration of the 2-year period referred to in clause (ii) of subparagraph (A), and
+
+(ii) fails to mail a notice of final partnership administrative adjustment with respect to the partnership taxable year to which the request relates before the expiration of the period described in section 6229(a) (including any extension by agreement),
+
+
+subparagraph (B) shall cease to apply with respect to such request, and the 2-year period referred to in clause (ii) of subparagraph (A) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
+
+(D) Extension of timeThe 2-year period described in subparagraph (A)(ii) shall be extended for such period as may be agreed upon in writing between the tax matters partner and the Secretary.
+
+
+
+(3) Coordination with administrative adjustment(A) Administrative adjustment before filing of petitionNo petition may be filed under this subsection after the Secretary mails to the tax matters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates.
+
+
+(B) Administrative adjustment after filing but before hearing of petitionIf the Secretary mails to the tax matters partner a notice of final partnership administrative adjustment for the partnership taxable year to which the request under section 6227 relates after the filing of a petition under this subsection but before the hearing of such petition, such petition shall be treated as an action brought under section 6226 with respect to that administrative adjustment, except that subsection (e) of section 6226 shall not apply.
+
+
+(C) Notice must be before expiration of statute of limitationsA notice of final partnership administrative adjustment for the partnership taxable year shall be taken into account under subparagraphs (A) and (B) only if such notice is mailed before the expiration of the period prescribed by section 6229 for making assessments of tax attributable to partnership items for such taxable year.
+
+
+
+(4) Partners treated as party to action(A) In generalIf an action is brought by the tax matters partner under paragraph (1) with respect to any request for an adjustment of a partnership item for any taxable year—(i) each person who was a partner in such partnership at any time during the partnership taxable year involved shall be treated as a party to such action, and
+
+(ii) the court having jurisdiction of such action shall allow each such person to participate in the action.
+
+
+(B) Partners must have interest in outcomeFor purposes of subparagraph (A), rules similar to the rules of paragraph (1) of section 6226(d) shall apply.
+
+
+
+(5) Scope of judicial reviewExcept in the case described in subparagraph (B) of paragraph (3), a court with which a petition is filed in accordance with this subsection shall have jurisdiction to determine only those partnership items to which the part of the request under section 6227 not allowed by the Secretary relates and those items with respect to which the Secretary asserts adjustments as offsets to the adjustments requested by the tax matters partner.
+
+
+(6) Determination of court reviewableAny determination by a court under this subsection shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. With respect to the partnership, only the tax matters partner, a notice partner, or a 5-percent group may seek review of a determination by a court under this subsection.
+
+
+
+(b) Other requests(1) Notice providing that items become nonpartnership itemsIf the Secretary mails to a partner, under subparagraph (A) of section 6231(b)(1) (relating to items ceasing to be partnership items), a notice that all partnership items of the partner for the partnership taxable year to which a timely request for administrative adjustment under subsection (d) of section 6227 relates shall be treated as nonpartnership items—(A) such request shall be treated as a claim for credit or refund of an overpayment attributable to nonpartnership items, and
+
+(B) the partner may bring an action under section 7422 with respect to such claim at any time within 2 years of the mailing of such notice.
+
+
+(2) Other cases(A) In generalIf the Secretary fails to allow any part of an administrative adjustment request filed under subsection (d) of section 6227 by a partner and paragraph (1) does not apply—(i) such partner may, pursuant to section 7422, begin a civil action for refund of any amount due by reason of the adjustments described in such part of the request, and
+
+(ii) on the beginning of such civil action, the partnership items of such partner for the partnership taxable year to which such part of such request relates shall be treated as nonpartnership items for purposes of this subchapter.
+
+
+(B) Period for filing petition(i) In generalAn action may be begun under subparagraph (A) with respect to an administrative adjustment request for a partnership taxable year only—(I) after the expiration of 6 months from the date of filing of the request under section 6227, and
+
+(II) before the date which is 2 years after the date of filing of such request.
+
+
+(ii) Extension of timeThe 2-year period described in subclause (II) of clause (i) shall be extended for such period as may be agreed upon in writing between the partner and the Secretary.
+
+
+
+(C) Action barred after partnership proceeding has begunNo petition may be filed under subparagraph (A) with respect to an administrative adjustment request for a partnership taxable year after the Secretary mails to the partnership a notice of the beginning of a partnership proceeding with respect to such year.
+
+
+(D) Failure by Secretary to issue timely notice of adjustmentIf the Secretary—(i) mails the notice referred to in subparagraph (C) before the expiration of the 2-year period referred to in clause (i)(II) of subparagraph (B), and
+
+(ii) fails to mail a notice of final partnership administrative adjustment with respect to the partnership taxable year to which the request relates before the expiration of the period described in section 6229(a) (including any extension by agreement),
+
+
+subparagraph (C) shall cease to apply with respect to such request, and the 2-year period referred to in clause (i)(II) of subparagraph (B) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
+
+
+
+(Added Pub. L. 97–248, title IV, § 402(a), Sept. 3, 1982, 96 Stat. 656; amended Pub. L. 97–448, title III, § 306(c)(1)(B), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–147, title IV, § 417(19)(B), Mar. 9, 2002, 116 Stat. 56.)
+
+Amendments2002—Subsec. (a)(1). Pub. L. 107–147, § 417(19)(B)(i), substituted “subsection (c) of section 6227” for “subsection (b) of section 6227”.
+Subsec. (a)(3)(A). Pub. L. 107–147, § 417(19)(B)(ii), struck out “subsection (b) of” before “section 6227”.
+Subsec. (b)(1), (2)(A). Pub. L. 107–147, § 417(19)(B)(iii), substituted “subsection (d) of section 6227” for “subsection (c) of section 6227”.
+1992—Subsec. (a)(1)(C), (6). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court”.
+1983—Subsec. (a)(6). Pub. L. 97–448 substituted “With respect to the partnership, only the tax matters partner” for “Only the tax matters partner”.
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+Effective Date of 1983 AmendmentAmendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
+
+

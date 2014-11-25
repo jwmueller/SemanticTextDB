@@ -1,0 +1,36 @@
+§ 7406. National Institute of Standards and Technology programs(a), (b) Omitted
+
+(c) Checklists for Government systems(1) In generalThe Director of the National Institute of Standards and Technology shall develop, and revise as necessary, a checklist setting forth settings and option selections that minimize the security risks associated with each computer hardware or software system that is, or is likely to become, widely used within the Federal Government.
+
+
+(2) Priorities for development; excluded systemsThe Director of the National Institute of Standards and Technology may establish priorities for the development of checklists under this paragraph on the basis of the security risks associated with the use of the system, the number of agencies that use a particular system, the usefulness of the checklist to Federal agencies that are users or potential users of the system, or such other factors as the Director determines to be appropriate. The Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any computer hardware or software system for which the Director of the National Institute of Standards and Technology determines that the development of a checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the inutility or impracticability of developing a checklist for the system.
+
+
+(3) Dissemination of checklistsThe Director of the National Institute of Standards and Technology shall make any checklist developed under this paragraph for any computer hardware or software system available to each Federal agency that is a user or potential user of the system.
+
+
+(4) Agency use requirementsThe development of a checklist under paragraph (1) for a computer hardware or software system does not—(A) require any Federal agency to select the specific settings or options recommended by the checklist for the system;
+
+(B) establish conditions or prerequisites for Federal agency procurement or deployment of any such system;
+
+(C) represent an endorsement of any such system by the Director of the National Institute of Standards and Technology; nor
+
+(D) preclude any Federal agency from procuring or deploying other computer hardware or software systems for which no such checklist has been developed.
+
+
+
+(d) Federal agency information security programs(1) In generalIn developing the agencywide information security program required by section 3534(b) of title 44, an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—(A) shall include in that program an explanation of how the agency has considered such checklist in deploying that system; and
+
+(B) may treat the explanation as if it were a portion of the agency’s annual performance plan properly classified under criteria established by an Executive Order (within the meaning of section 1115(d) of title 31).
+
+
+(2) LimitationParagraph (1) does not apply to any computer hardware or software system for which the National Institute of Standards and Technology does not have responsibility under section 278g–3(a)(3) of this title.
+
+
+
+(Pub. L. 107–305, § 8, Nov. 27, 2002, 116 Stat. 2375.)
+
+Codification
+Section is comprised of section 8 of Pub. L. 107–305. Subsec. (a) of section 8 of Pub. L. 107–305 enacted section 278h of this title and renumbered former section 278h of this title as section 278q of this title. Subsec. (b) of section 8 of Pub. L. 107–305 amended section 278g–3 of this title.
+
+

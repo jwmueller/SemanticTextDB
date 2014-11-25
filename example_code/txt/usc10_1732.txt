@@ -1,0 +1,46 @@
+§ 2504. Annual report to Congress
+The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:(1) A description of the departmental guidance prepared pursuant to section 2506 of this title.
+
+(2) A description of the assessments prepared pursuant to section 2505 of this title and other analyses used in developing the budget submission of the Department of Defense for the next fiscal year.
+
+(3) Based on the strategy required by section 2501 of this title and on the assessments prepared pursuant to section 2505 of this title—(A) a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and
+
+(B) any other steps necessary to foster and safeguard the national technology and industrial base.
+
+
+(4) Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.
+
+(Added Pub. L. 104–201, div. A, title VIII, § 829(e), Sept. 23, 1996, 110 Stat. 2614; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–239, div. A, title XVI, § 1603(b), Jan. 2, 2013, 126 Stat. 2063.)
+
+Prior ProvisionsA prior section 2504, added Pub. L. 102–484, div. D, title XLII, § 4214(a), Oct. 23, 1992, 106 Stat. 2666, established Center for Study of Defense Economic Adjustment, prior to repeal by Pub. L. 103–160, div. A, title XIII, § 1312(a)(1), Nov. 30, 1993, 107 Stat. 1786.
+Another prior section 2504 was renumbered section 2531 of this title.
+
+Amendments2013—Pars. (2), (3). Pub. L. 112–239 added par. (3), redesignated former par. (3) as (2) and struck out former par. (2) which read as follows: “A description of the methods and analyses being undertaken by the Department of Defense alone or in cooperation with other Federal agencies, to identify and address concerns regarding technological and industrial capabilities of the national technology and industrial base.”
+1999—Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
+Strategy For Securing the Defense Supply Chain and Industrial BasePub. L. 112–81, div. A, title VIII, § 852, Dec. 31, 2011, 125 Stat. 1517, as amended by Pub. L. 112–239, div. A, title XVI, § 1603(d), Jan. 2, 2013, 126 Stat. 2063, provided that:
+“(a) Report Required.—The Secretary of Defense shall ensure that the annual report to Congress on the defense industrial base submitted for fiscal year 2012 pursuant to section 2504 of title 10, United States Code, includes a description of, and a status report on, the sector-by-sector, tier-by-tier assessment of the industrial base undertaken by the Department of Defense.
+
+“(b) Contents of Report.—The report required by subsection (a) shall include, at a minimum, a description of the steps taken and planned to be taken—“(1) to identify current and emerging sectors of the defense industrial base that are critical to the national security of the United States;
+
+“(2) in each sector, to identify items that are critical to military readiness, including key components, subcomponents, and materials;
+
+“(3) to examine the structure of the industrial base, including the competitive landscape, relationships, risks, and opportunities within that structure;
+
+“(4) to map the supply chain for critical items identified under paragraph (2) in a manner that provides the Department of Defense visibility from raw material to final products;
+
+“(5) to perform a risk assessment of the supply chain for such critical items and conduct an evaluation of the extent to which—“(A) the supply chain for such items is subject to disruption by factors outside the control of the Department of Defense; and
+
+“(B) such disruption would adversely affect the ability of the Department of Defense to fill its national security mission.
+
+
+
+“(c) Follow-up Review.—The Secretary of Defense shall ensure that the annual report to Congress on the defense industrial base submitted for each of fiscal years 2013, 2014, and 2015 includes an update on the steps taken by the Department of Defense to act on the findings of the sector-by-sector, tier-by-tier assessment of the industrial base and implement the strategy required by section 2501 of title 10, United States Code. Such updates shall, at a minimum—“(1) be conducted based on current mapping of the supply chain and industrial base structure, including an analysis of the competitive landscape, relationships, risks, and opportunities within that structure; and
+
+“(2) take into account any changes or updates to the National Defense Strategy, National Military Strategy, national counterterrorism policy, homeland security policy, and applicable operational or contingency plans.”
+
+
+
+
+
+

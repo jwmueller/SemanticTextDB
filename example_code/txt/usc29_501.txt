@@ -1,0 +1,64 @@
+§ 1310. Authority to require certain information(a) Information requiredEach person described in subsection (b) of this section shall provide the corporation annually, on or before a date specified by the corporation in regulations, with—(1) such records, documents, or other information that the corporation specifies in regulations as necessary to determine the liabilities and assets of plans covered by this subchapter; and
+
+(2) copies of such person’s audited (or, if unavailable, unaudited) financial statements, and such other financial information as the corporation may prescribe in regulations.
+
+
+(b) Persons required to provide informationThe persons covered by subsection (a) of this section are each contributing sponsor, and each member of a contributing sponsor’s controlled group, of a single-employer plan covered by this subchapter, if—(1) the funding target attainment percentage (as defined in subsection (d)) at the end of the preceding plan year of a plan maintained by the contributing sponsor or any member of its controlled group is less than 80 percent;
+
+(2) the conditions for imposition of a lien described in section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26 have been met with respect to any plan maintained by the contributing sponsor or any member of its controlled group; or
+
+(3) minimum funding waivers in excess of $1,000,000 have been granted with respect to any plan maintained by the contributing sponsor or any member of its controlled group, and any portion thereof is still outstanding.
+
+
+(c) Information exempt from disclosure requirementsAny information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
+
+
+(d) Additional information required(1) In generalThe information submitted to the corporation under subsection (a) shall include—(A) the amount of benefit liabilities under the plan determined using the assumptions used by the corporation in determining liabilities;
+
+(B) the funding target of the plan determined as if the plan has been in at-risk status for at least 5 plan years; and
+
+(C) the funding target attainment percentage of the plan.
+
+
+(2) DefinitionsFor purposes of this subsection:(A) Funding targetThe term “funding target” has the meaning provided under section 1083(d)(1) of this title.
+
+
+(B) Funding target attainment percentageThe term “funding target attainment percentage” has the meaning provided under section 1083(d)(2) of this title.
+
+
+(C) At-risk statusThe term “at-risk status” has the meaning provided in section 1083(i)(4) of this title.
+
+
+
+(3) Pension stabilization disregardedFor purposes of this section, the segment rates used in determining the funding target and funding target attainment percentage shall be determined by not taking into account any adjustment under section 1082(h)(2)(C)(iv) of this title.
+
+
+
+(e) Notice to CongressThe corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.
+
+
+(Pub. L. 93–406, title IV, § 4010, as added Pub. L. 103–465, title VII, § 772(a), Dec. 8, 1994, 108 Stat. 5044; amended Pub. L. 109–280, title I, § 108(b)(3), formerly § 107(b)(3), title V, § 505(a), (b), Aug. 17, 2006, 120 Stat. 819, 946, renumbered Pub. L. 111–192, title II, § 202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, § 105(d), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 112–141, div. D, title II, § 40211(b)(3)(D), July 6, 2012, 126 Stat. 849; Pub. L. 113–97, title I, § 102(b)(8), Apr. 7, 2014, 128 Stat. 1117.)
+
+Amendments2014—Subsec. (b)(2). Pub. L. 113–97 substituted “section 1083(k)(1)(A) and (B) or 1085a(g)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) or 433(g)(1)(A) and (B) of title 26” for “section 1083(k)(1)(A) and (B) of this title or section 430(k)(1)(A) and (B) of title 26”.
+2012—Subsec. (d)(3). Pub. L. 112–141 added par. (3).
+2008—Subsec. (d)(2)(B). Pub. L. 110–458 substituted “section 1083(d)(2)” for “section 1082(d)(2)”.
+2006—Subsec. (b)(1). Pub. L. 109–280, § 505(a), added par. (1) and struck out former par. (1) which read as follows: “the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);”.
+Subsec. (b)(2). Pub. L. 109–280, § 108(b)(3), formerly § 107(b)(3), as renumbered by Pub. L. 111–192, substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
+Subsecs. (d), (e). Pub. L. 109–280, § 505(b), added subsecs. (d) and (e).
+
+Effective Date of 2014 AmendmentAmendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+Effective Date of 2012 AmendmentAmendment by Pub. L. 112–141 applicable with respect to plan years beginning after Dec. 31, 2011, except as otherwise provided, see section 40211(c) of Pub. L. 112–141, set out as a note under section 404 of Title 26, Internal Revenue Code.
+
+Effective Date of 2008 AmendmentAmendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
+Effective Date of 2006 AmendmentAmendment by section 108(b)(3) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Pub. L. 109–280, title V, § 505(c), Aug. 17, 2006, 120 Stat. 946, provided that: “The amendments made by this section [amending this section] shall apply with respect to years beginning after 2007.”
+
+
+Effective DatePub. L. 103–465, title VII, § 772(c), Dec. 8, 1994, 108 Stat. 5044, provided that: “The amendments made by this section [enacting this section] shall be effective on the date of enactment of this Act [Dec. 8, 1994].”
+
+
+Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+
+

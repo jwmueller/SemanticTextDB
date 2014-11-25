@@ -1,0 +1,40 @@
+§ 442. Missions(a) National Security Missions.—(1) The National Geospatial-Intelligence Agency shall, in support of the national security objectives of the United States, provide geospatial intelligence consisting of the following:(A) Imagery.
+
+(B) Imagery intelligence.
+
+(C) Geospatial information.
+
+
+(2)(A) As directed by the Director of National Intelligence, the National Geospatial-Intelligence Agency shall develop a system to facilitate the analysis, dissemination, and incorporation of likenesses, videos, and presentations produced by ground-based platforms, including handheld or clandestine photography taken by or on behalf of human intelligence collection organizations or available as open-source information, into the National System for Geospatial Intelligence.
+
+(B) The authority provided by this paragraph does not include authority for the National Geospatial-Intelligence Agency to manage tasking of handheld or clandestine photography taken by or on behalf of human intelligence collection organizations.
+
+
+(3) Geospatial intelligence provided in carrying out paragraphs (1) and (2) shall be timely, relevant, and accurate.
+
+
+(b) Navigation Information.—The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and the merchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
+
+(c) Maps, Charts, Etc.—The National Geospatial-Intelligence Agency shall prepare and distribute maps, charts, books, and geodetic products as authorized under subchapter II of this chapter.
+
+(d) National Missions.—The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a)).11 See References in Text note below.
+
+(e) Systems.—The National Geospatial-Intelligence Agency may, in furtherance of a mission of the Agency, design, develop, deploy, operate, and maintain systems related to the processing and dissemination of imagery intelligence and geospatial information that may be transferred to, accepted or used by, or used on behalf of—(1) the armed forces, including any combatant command, component of a combatant command, joint task force, or tactical unit; or
+
+(2) any other department or agency of the United States.
+
+
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, § 921(c)(1), (d)(2)(A), (f), Nov. 24, 2003, 117 Stat. 1568, 1570; Pub. L. 111–259, title IV, § 432, Oct. 7, 2010, 124 Stat. 2732.)
+
+
+References in TextThe National Security Act of 1947, referred to in subsec. (d), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 110 of the Act is now classified to section 3045 of Title 50. For complete classification of this Act to the Code, see Tables.
+
+Amendments2010—Subsec. (a)(2). Pub. L. 111–259, § 432(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(3). Pub. L. 111–259, § 432(1), (3), redesignated par. (2) as (3) and substituted “paragraphs (1) and (2)” for “paragraph (1)”.
+2003—Subsec. (a)(1). Pub. L. 108–136, § 921(c)(1)(A), (d)(2)(A), in introductory provisions, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and inserted “geospatial intelligence consisting of” after “provide”.
+Subsec. (a)(2). Pub. L. 108–136, § 921(c)(1)(B), substituted “Geospatial intelligence” for “Imagery, intelligence, and information”.
+Subsecs. (b), (c). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsec. (d). Pub. L. 108–136, § 921(d)(2)(A), (f), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and “section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a))” for “section 120(a) of the National Security Act of 1947”.
+Subsec. (e). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
+
+
