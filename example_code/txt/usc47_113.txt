@@ -1,5 +1,0 @@
-“Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is amended to read as follows:“ ‘Sec. 632. (a) The Federal Communications Commission shall modify the rules authorizing the operation of low-power FM radio stations, as proposed in MM Docket No. 99–25, to—
-“ ‘(1) prescribe protection for co-channels and first- and second-adjacent channels; and
-“ ‘(2) prohibit any applicant from obtaining a low-power FM license if the applicant has engaged in any manner in the unlicensed operation of any station in violation of section 301 of the Communications Act of 1934 (47 U.S.C. 301).
-“ ‘(b) Any license that was issued by the Federal Communications Commission to a low-power FM station prior to April 2, 2001, and that does not comply with the modifications adopted by the Commission in MM Docket No. 99–25 on April 2, 2001, shall remain invalid.’
-

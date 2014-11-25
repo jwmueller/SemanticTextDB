@@ -1,9 +1,0 @@
-“SEC. 1706. STUDY ON USE OF ELECTRONIC SIGNATURES.“(a) Ongoing Study Required.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) [see Short Title of 1996 Act note set out under section 101 of Title 41] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—“(1) paperwork reduction and electronic commerce;
-
-“(2) individual privacy; and
-
-“(3) the security and authenticity of transactions.
-
-
-“(b) Reports.—The Director shall submit to Congress on a periodic basis a report describing the results of the study carried out under subsection (a).
-

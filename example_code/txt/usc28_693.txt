@@ -1,7 +1,0 @@
-§ 2248. Return or answer; conclusiveness
-The allegations of a return to the writ of habeas corpus or of an answer to an order to show cause in a habeas corpus proceeding, if not traversed, shall be accepted as true except to the extent that the judge finds from the evidence that they are not true.
-(June 25, 1948, ch. 646, 62 Stat. 966.)
-
-Historical and Revision NotesDerived from H.R. 4232, Seventy-ninth Congress, first session. At common law the return was conclusive and could not be controverted but it is now almost universally held that the return is not conclusive of the facts alleged therein. 39 C.J.S. pp. 664–666, §§ 98, 99.
-
-

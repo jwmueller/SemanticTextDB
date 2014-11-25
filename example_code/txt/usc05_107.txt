@@ -1,9 +1,0 @@
-“SEC. 3. DEFINITIONS.“In this Act, the term—“(1) ‘agency’ has the meaning given such term under section 551(1) of title 5, United States Code;
-
-“(2) ‘economically significant rule’ means any proposed or final rule, including an interim or direct final rule, that may have an annual effect on the economy of $100,000,000 or more or adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities; and
-
-“(3) ‘independent evaluation’ means a substantive evaluation of the agency’s data, methodology, and assumptions used in developing the economically significant rule, including—“(A) an explanation of how any strengths or weaknesses in those data, methodology, and assumptions support or detract from conclusions reached by the agency; and
-
-“(B) the implications, if any, of those strengths or weaknesses for the rulemaking.
-
-

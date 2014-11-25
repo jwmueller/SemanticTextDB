@@ -1,7 +1,0 @@
-§ 16212. High power density industry program(a) In generalThe Secretary shall establish a comprehensive research, development, demonstration, and commercial application to improve the energy efficiency of high power density facilities, including data centers, server farms, and telecommunications facilities.
-
-
-(b) TechnologiesThe program shall consider technologies that provide significant improvement in thermal controls, metering, load management, peak load reduction, or the efficient cooling of electronics.
-
-
-(Pub. L. 109–58, title IX, § 922, Aug. 8, 2005, 119 Stat. 864.)

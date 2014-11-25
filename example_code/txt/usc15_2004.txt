@@ -1,7 +1,0 @@
-§ 4606. Protection of information(a) Freedom of Information ActSection 552 of title 5 shall not apply to information obtained by the Federal Government on a confidential basis under section 4602(b)(5) of this title.
-
-
-(b) Intellectual propertyNotwithstanding any other provision of law, intellectual property, trade secrets, and technical data owned and developed by Sematech or any of the participants in Sematech may not be disclosed by any officer or employee of the Department of Defense except as provided in the provision included in the memorandum of understanding pursuant to section 4602(b)(5) of this title.
-
-
-(Pub. L. 100–180, div. A, title II, § 276, Dec. 4, 1987, 101 Stat. 1071.)

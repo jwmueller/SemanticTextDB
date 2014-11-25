@@ -1,7 +1,0 @@
-“SEC. 1106. ACCOUNTING RULE.“(a) In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet access provider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
-
-“(b) Definitions.—In this section:“(1) Charges for internet access.—The term ‘charges for Internet access’ means all charges for Internet access as defined in section 1105(5).
-
-“(2) Charges for telecommunications.—The term ‘charges for telecommunications’ means all charges for telecommunications, except to the extent such telecommunications are purchased, used, or sold by a provider of Internet access to provide Internet access or to otherwise enable users to access content, information or other services offered over the Internet.
-
-

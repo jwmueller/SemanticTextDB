@@ -1,7 +1,0 @@
-“SEC. 1710. DEFINITIONS.“For purposes of this title:“(1) Electronic signature.—The term ‘electronic signature’ means a method of signing an electronic message that—“(A) identifies and authenticates a particular person as the source of the electronic message; and
-
-“(B) indicates such person’s approval of the information contained in the electronic message.
-
-
-“(2) Executive agency.—The term ‘Executive agency’ has the meaning given that term in section 105 of title 5, United States Code.”
-

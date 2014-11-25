@@ -1,7 +1,0 @@
-§ 753. Stockbroker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants
-Notwithstanding any other provision of this title, the exercise of rights by a forward contract merchant, commodity broker, stockbroker, financial institution, financial participant, securities clearing agency, swap participant, repo participant, or master netting agreement participant under this title shall not affect the priority of any unsecured claim it may have after the exercise of such rights.
-(Added Pub. L. 109–8, title IX, § 907(m), Apr. 20, 2005, 119 Stat. 181.)
-
-Effective DateSection effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
-
-
