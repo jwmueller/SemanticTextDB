@@ -265,7 +265,7 @@ class SemanticTextDB:
 			command += str(id)
 		for val in user_column_vals:
 			if isinstance(val, basestring):
-				if (val[0] != "'") or (val[-1] != "'"):
+				if (len(val) > 0) and ((val[0] != "'") or (val[-1] != "'")):
 					val = "'" + val + "'" # wrap in quotes for Postgres string
 			command = command + ", " + str(val)
 		command += ", clock_timestamp()"
