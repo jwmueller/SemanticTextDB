@@ -34,14 +34,6 @@ class DocumentTableInfo:
 			table_list = table_list.append(self.word_counts)
 		return table_list
 	
-	def displayText(self, id, options = None):
-		"""
-		Displays text in this document formatted for readability.
-		:param id: the id of the document in the document table.
-		:param options: options regarding the output format.
-		"""
-		print "Not implemented" # TODO
-	
 	def printOptions(self):
 		""" Displays the options used to generate this DocumentTable """
 		print "summaries:" + self.summaries_option

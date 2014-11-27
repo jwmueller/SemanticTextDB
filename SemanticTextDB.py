@@ -127,6 +127,21 @@ class SemanticTextDB:
 		else:
 			return None
 	
+	def displayText(self, name, id, options = None):
+		"""
+		Displays text in this document formatted for readability.
+		:param name: the name of the document
+		:param id: the id of the document in the document table.
+		:param options: options regarding the output format.
+		"""
+		self.cursor.execute("SELECT content from " + name + "_text where id = " +
+							str(id) + ";")
+		res = self.cursor.fetchall()
+		if (len(res) == 1) and (len(res[0]) == 1):
+			print res[0][0]  # TODO : implement pop=out window
+		else:
+			print "Text for id " + str(id) + " in document-table " + name + " not found."
+	
 	def createDocTable(self, name, user_columns = [], summary = 1,
 	 				   topics = (5,10), entities = 1,
      				   sentiment = 1, count_words = True, length_count = True,
