@@ -1,24 +1,29 @@
-class DocumentTable:
-	def __init__(self, name, text_table, user_columns, summaries,
-	 		     topics, entities, sentiment, count_words, 
-	 		     topicmodel, entitymodel):
+class DocumentTableInfo:
+	
+	"""
+	DocumentTableInfo is simply wrapper which keeps track of some statistics/settings
+	about a document table.  This class has no access to the underlying DB.
+	"""
+	
+	def __init__(self, name, summary, topics, entities, sentiment,
+				 count_words, length_count, vs_representations,
+				 max_word_length, update_increment):
 		self.name = name # name of the documents-table associated with this object.
-		self.texts = name + "_text" 
-		self.topicmodel = topicmodel
-		self.entitymodel = entitymodel
-		if count_words:
-			self.word_counts = name + "_wordcounts"
-		else:
-			self.word_counts = None
+		self.topicmodel = None
+		self.entitymodel = None
+		self.wordembedding_neuralnet = None
 		
 		# options used in this Document Table:
-		self.summaries_option = summaries
+		self.summary_option = summary
 		self.topics_option = topics
 		self.entities_option = entities
 		self.sentiment_option = sentiment
 		self.count_words_option = count_words
-		
-	
+		self.length_count_option = length_count
+		self.vs_representations = vs_representations
+		self.max_word_length = max_word_length
+		self.update_increment = update_increment
+		self.num_inserts_since_update = update_increment - 1
 	
 	def findRelatedTables(self):
 		""" 
@@ -28,13 +33,6 @@ class DocumentTable:
 		if self.word_counts != None:
 			table_list = table_list.append(self.word_counts)
 		return table_list
-	
-	def delete(self):
-		"""
-		deletes all tables associated with this DocumentTable
-		"""
-		table_list = self.findRelatedTables()
-			# FIXME: delete table from database 
 	
 	def displayText(self, id, options = None):
 		"""
@@ -52,6 +50,4 @@ class DocumentTable:
 		print "sentiment:" + self.sentiment_option
 		print "count_words:" + self.count_words_option
 
-		
-		
-		
+	
