@@ -8,7 +8,7 @@ import re
 
 # <codecell>
 
-readPath = "C:/git/SemanticTextDB/example_code/all_US_Law_Codes/"
+readPath = "C:/git/SemanticTextDB/example_code/txt/"
 author = "United States Government"
 
 # <codecell>
