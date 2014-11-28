@@ -31,7 +31,10 @@ for filename in os.listdir(readPath):
     #The list comprehension returns a string represnetion of the xml using ET.tostring  method.
     #sections = [ET.tostring(element, encoding='utf8', method='xml') for element in root.findall('*/*/*/') if element.tag[len(element.tag)-7:] == 'section']
     parent_map = {c:p for p in tree.iter() for c in p}
-    sections = [ET.tostring(element, encoding='utf8', method='xml') for element in root.iter() if (element.tag[len(element.tag)-7:] == 'section') and (parent_map[element].tag[len(parent_map[element].tag)-7:] != 'section')]
+    sections = [ET.tostring(element, encoding='utf8', method='xml') for element in root.iter()
+                if (element.tag[len(element.tag)-7:] == 'section') and
+                (parent_map[element].tag[len(parent_map[element].tag)-7:] != 'section') and
+                (element.tag[len(element.tag)-10:] != 'subsection')]
     count = 0
     for section in sections:
         count = count + 1        
@@ -41,33 +44,4 @@ for filename in os.listdir(readPath):
         result = re.sub(r'\n{3,}', '\n\n', result, flags = re.DOTALL)
         fout = open(writePath + filename[3:-4] + '_' + str(count) + '.txt', 'w')
         fout.write(result)
-
-# <codecell>
-
-root.getchildren()[1].getchildren()[0]
-
-# <codecell>
-
-tree = ET.parse(readPath + 'usc27.xml')
-root = tree.getroot()
-parent_map = {c:p for p in tree.iter() for c in p}
-lol = root.iter()
-count = 0
-for element in lol:
-    if element.tag[len(element.tag)-7:] == 'section':
-        if parent_map[element].tag[len(parent_map[element].tag)-7:] != 'section':
-            count = count + 1
-            print count
-
-# <codecell>
-
-elem = lol.next()
-
-# <codecell>
-
-elem.
-
-# <codecell>
-
-tree.
 
