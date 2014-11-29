@@ -58,14 +58,16 @@ for filename in os.listdir(readPath):
     if result == None:
         print fileAsString
     else:
-        result = re.sub(r'\xc2\xa7\xc2\xa7\xe2\x80\xaf', '', result.group())
-        result = re.sub(r'\n', '', result)
+        print count,
+        result = re.sub(r'\n', '', result.group())
         lawTitleNum = filename.split('_')[0]
         lawSectionNum = (re.search(r'.*?\.', result)).group()[:-1]
         lawName = (re.search(r'\..*', result)).group()[2:]
-        #print filename, lawTitleNum, lawSectionNum, lawName
-        print count,
-        stdb.insertDoc(fileAsString, "cgntestdoctable1", [lawTitleNum, lawSectionNum, lawName])
+        
+        if lawName == "" or re.search(r'\..*', result).group()[1] != " ":
+            print result #Incorrectly formatted
+        else:
+            stdb.insertDoc(fileAsString, "cgntestdoctable1", [lawTitleNum, lawSectionNum, lawName])
 
 # <codecell>
 
@@ -87,4 +89,9 @@ cur.fetchall()
 
 # <codecell>
 
+"hello"[8:]
+
+# <codecell>
+
+ w
 
