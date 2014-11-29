@@ -24,6 +24,8 @@ stdb = SemanticTextDB(conn, cur)
 # List all tables in underyling DB:
 stdb.allTables()
 
+# Delete the document table (iff you want to replace table with same name):
+stdb.dropDocTable("cgntestdoctable1")
 # Creates a document table (and associated machine-generated tables):
 stdb.createDocTable("cgntestdoctable1", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'])
 
@@ -36,8 +38,6 @@ stdb.createDocTable("cgntestdoctable1", ['lawTitleNumber text', 'lawSectionNumbe
 #cur.execute("select * from cgntestdoctable1_text;")
 #cur.fetchall()
 
-# Delete the document table you created:
-#stdb.dropDocTable("cgntestdoctable1")
 
 # <codecell>
 

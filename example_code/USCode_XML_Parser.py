@@ -45,3 +45,6 @@ for filename in os.listdir(readPath):
         fout = open(writePath + filename[3:-4] + '_' + str(count) + '.txt', 'w')
         fout.write(result)
 
+# <codecell>
+
+
