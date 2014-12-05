@@ -16,6 +16,28 @@ if not os.path.exists(writePath):
 
 # <codecell>
 
+def isLaw(stringLaw):
+    """
+    Returns true if the stringLaw is a properly formatted law.
+    """
+    #Format of first line for each law is as follows
+    firstLine = re.search(r'[0-9].*?\n', stringLaw)
+    
+    #If no such format exists, section is not a law.
+    if firstLine == None:
+        return False
+        
+    result = firstLine.group()
+    
+    #If firstLine does not contain a period seperator, section is not a law.
+    if "." not in result:
+        print "Reached here"
+        return False
+    
+    return True
+
+# <codecell>
+
 for filename in os.listdir(readPath):
     print 'Working on file:', filename
     #f = open(readPath + filename,'r')
@@ -31,7 +53,11 @@ for filename in os.listdir(readPath):
     #The list comprehension returns a string represnetion of the xml using ET.tostring  method.
     #sections = [ET.tostring(element, encoding='utf8', method='xml') for element in root.findall('*/*/*/') if element.tag[len(element.tag)-7:] == 'section']
     parent_map = {c:p for p in tree.iter() for c in p}
-    sections = [ET.tostring(element, encoding='utf8', method='xml') for element in root.iter() if (element.tag[len(element.tag)-7:] == 'section') and (parent_map[element].tag[len(parent_map[element].tag)-7:] != 'section')]
+    sections = [ET.tostring(element, encoding='utf8', method='xml') for element in root.iter()
+                if (element.tag[len(element.tag)-7:] == 'section') and
+                (parent_map[element].tag[len(parent_map[element].tag)-7:] != 'section') and
+                (element.tag[len(element.tag)-10:] != 'subsection') and
+                (parent_map[element].tag[len(parent_map[element].tag)-13:] != 'quotedContent')]
     count = 0
     for section in sections:
         count = count + 1        
@@ -39,35 +65,12 @@ for filename in os.listdir(readPath):
         result = re.sub(r'</ns0:heading>','\n', section)        
         result = re.sub(r'<.*?>', '', result, flags = re.DOTALL)
         result = re.sub(r'\n{3,}', '\n\n', result, flags = re.DOTALL)
-        fout = open(writePath + filename[3:-4] + '_' + str(count) + '.txt', 'w')
-        fout.write(result)
+        if isLaw(result):
+            fout = open(writePath + filename[3:-4] + '_' + str(count) + '.txt', 'w')
+            fout.write(result)
+        else:
+            print result
 
 # <codecell>
 
-root.getchildren()[1].getchildren()[0]
-
-# <codecell>
-
-tree = ET.parse(readPath + 'usc27.xml')
-root = tree.getroot()
-parent_map = {c:p for p in tree.iter() for c in p}
-lol = root.iter()
-count = 0
-for element in lol:
-    if element.tag[len(element.tag)-7:] == 'section':
-        if parent_map[element].tag[len(parent_map[element].tag)-7:] != 'section':
-            count = count + 1
-            print count
-
-# <codecell>
-
-elem = lol.next()
-
-# <codecell>
-
-elem.
-
-# <codecell>
-
-tree.
 
