@@ -2,6 +2,7 @@
 
 import psycopg2
 import re
+import StoredProcedures
 
 class SemanticTextDB:
 	
@@ -134,6 +135,8 @@ class SemanticTextDB:
 		:param id: the id of the document in the document table.
 		:param options: options regarding the output format.
 		"""
+		if name not in self.document_tables:
+			raise LookupError(name + " is an unknown document table")
 		self.cursor.execute("SELECT content from " + name + "_text where id = " +
 							str(id) + ";")
 		res = self.cursor.fetchall()
@@ -265,9 +268,14 @@ class SemanticTextDB:
 			command += str(id)
 		for val in user_column_vals:
 			if isinstance(val, basestring):
-				if (len(val) > 0) and ((val[0] != "'") or (val[-1] != "'")):
-					val = "'" + val + "'" # wrap in quotes for Postgres string
-			command = command + ", " + str(val)
+				# wrap in quotes for Postgres string and format safely
+				# Note this may NOT be safe against SQL injection,
+				# so untrusted user-strings should always be sanitized before calling 
+				# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
+				# quote-delimiter which is not allowed to appear in the contents of the text.  
+				command = command + ", " + "$zxqy9$+" + val + "$zxqy9$);"
+			else:
+				command = command + ", " + str(val)
 		command += ", clock_timestamp()"
 		if self.document_tables[table_name].length_count_option:
 			command += ", NULL" # TODO: Implement length-counting
@@ -283,15 +291,18 @@ class SemanticTextDB:
 			command += "DEFAULT"
 		else:
 			command += str(id)
-		if (text[0] != "'") or (text[-1] != "'"):
-			text = "'" + text + "'" # wrap in quotes for Postgres string
-		command = command + ", " + text + ");"
+		# wrap in quotes for Postgres string and format safely
+		# Note this may NOT be safe against SQL injection,
+		# so untrusted texts should always be sanitized before calling 
+		# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
+		# quote-delimiter which is not allowed to appear in the contents of the text.  
+		command = command + ", " + "$zxqy9$+" + text + "$zxqy9$);"
 		self.cursor.execute(command)
 		# TODO check whether models should be updated and if so, do it.
 		if new_transaction:
 			self.cursor.execute("COMMIT;")
-	
-	
+
+
 	def deleteDoc(self, id, table_name):
 		if table_name not in self.document_tables:
 			raise LookupError(table_name + " is an unknown table")
@@ -509,28 +520,10 @@ class SemanticTextDB:
 		""" 
 		Creates a set of procedures which are stored in the DB
 		"""
-		# TODO: only a test of the the stored procedure methodology is currently implemented.
-		self.createPymaxProcedure()
+		[self.cursor.execute(func) for func in StoredProcedures.listStoredProcedures()]
 	
-	
-	
-	"""
-	The functions below are data-intensive python procedures which are stored
-	in the underlying DB for efficient server-side execution.  Each function 
-	is simply a wrapper which calls the underlying stored procedure, 
-	and there are also provided methods to create these stored procedures in 
-	the underlying DB.	
-	"""
-	
-	def createPymaxProcedure(self):	
-		func = """CREATE OR REPLACE FUNCTION pymax (a integer, b integer) RETURNS integer 
-AS $$
-  if a > b:
-    return a
-  return b
-$$ LANGUAGE plpython3u;
-"""
-		self.cursor.execute(func)
+	""" The functions below this point call stored procedures within the database
+		and are not intended for most users. """
 	
 	def pymax(a, b):
 		""" A procedure stored in the underlying DB.
