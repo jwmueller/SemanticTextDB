@@ -273,7 +273,7 @@ class SemanticTextDB:
 				# so untrusted user-strings should always be sanitized before calling 
 				# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
 				# quote-delimiter which is not allowed to appear in the contents of the text.  
-				command = command + ", " + "$zxqy9$+" + val + "$zxqy9$);"
+				command = command + ", " + "$zxqy9$+" + val + "$zxqy9$"
 			else:
 				command = command + ", " + str(val)
 		command += ", clock_timestamp()"
