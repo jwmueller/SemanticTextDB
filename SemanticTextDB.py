@@ -296,7 +296,7 @@ class SemanticTextDB:
 		# so untrusted texts should always be sanitized before calling 
 		# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
 		# quote-delimiter which is not allowed to appear in the contents of the text.  
-		command = command + ", " + "$zxqy9$+" + text + "$zxqy9$);"
+		command = command + ", " + "$zxqy9$" + text + "$zxqy9$);"
 		self.cursor.execute(command)
 		# TODO check whether models should be updated and if so, do it.
 		if new_transaction:
