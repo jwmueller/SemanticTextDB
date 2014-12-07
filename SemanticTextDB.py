@@ -269,11 +269,11 @@ class SemanticTextDB:
 		for val in user_column_vals:
 			if isinstance(val, basestring):
 				# wrap in quotes for Postgres string and format safely
-				# Note this may NOT be safe against SQL injection,
+				# Note this is NOT safe against SQL injection,
 				# so untrusted user-strings should always be sanitized before calling 
 				# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
 				# quote-delimiter which is not allowed to appear in the contents of the text.  
-				command = command + ", " + "$zxqy9$+" + val + "$zxqy9$"
+				command = command + ", " + "$zxqy9$" + val + "$zxqy9$"
 			else:
 				command = command + ", " + str(val)
 		command += ", clock_timestamp()"
@@ -292,7 +292,7 @@ class SemanticTextDB:
 		else:
 			command += str(id)
 		# wrap in quotes for Postgres string and format safely
-		# Note this may NOT be safe against SQL injection,
+		# Note this is NOT safe against SQL injection,
 		# so untrusted texts should always be sanitized before calling 
 		# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
 		# quote-delimiter which is not allowed to appear in the contents of the text.  
