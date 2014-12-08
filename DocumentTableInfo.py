@@ -7,11 +7,10 @@ class DocumentTableInfo:
 	
 	def __init__(self, name, summary, topics, entities, sentiment,
 				 count_words, length_count, vs_representations,
-				 max_word_length, update_increment):
+				 max_word_length, update_increment, last_update_id):
 		self.name = name # name of the documents-table associated with this object.
 		self.topicmodel = None
 		self.entitymodel = None
-		self.wordembedding_neuralnet = None
 		
 		# options used in this Document Table:
 		self.summary_option = summary
@@ -23,7 +22,7 @@ class DocumentTableInfo:
 		self.vs_representations = vs_representations
 		self.max_word_length = max_word_length
 		self.update_increment = update_increment
-		self.num_inserts_since_update = update_increment - 1
+		self.last_update_id = last_update_id
 	
 	def findRelatedTables(self):
 		""" 
@@ -36,7 +35,7 @@ class DocumentTableInfo:
 	
 	def printOptions(self):
 		""" Displays the options used to generate this DocumentTable """
-		print "summaries:" + self.summaries_option
+		print "summaries:" + self.summary_option
 		print "topics:" + self.topics_option 
 		print "entities:" + self.entities_option
 		print "sentiment:" + self.sentiment_option
