@@ -31,7 +31,15 @@ def isLaw(stringLaw):
     
     #If firstLine does not contain a period seperator, section is not a law.
     if "." not in result:
-        print "Reached here"
+        return False
+    
+    result = re.sub(r'\n', '', result.group())
+    lawTitleNum = filename.split('_')[0]
+    lawSectionNum = (re.search(r'.*?\.', result)).group()[:-1]
+    lawName = (re.search(r'\..*', result)).group()[2:]
+    
+    if lawName == "" or re.search(r'\..*', result).group()[1] != " ":
+        print firstLine
         return False
     
     return True
@@ -70,7 +78,4 @@ for filename in os.listdir(readPath):
             fout.write(result)
         else:
             print result
-
-# <codecell>
-
 

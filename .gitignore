@@ -1,2 +1,4 @@
 example_code/all_US_Law_Codes
 example_code/xml
+example_code/twitter.csv
+*.pyc
