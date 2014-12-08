@@ -28,7 +28,7 @@ import SemanticTextDB as stdb
 
 # <codecell>
 
-conn = psycopg2.connect(database="semanticdb", user="Curtis Northcutt", host="18.251.7.99", password="coldnips")
+conn = psycopg2.connect(database="benchmark", user="Curtis Northcutt", host="18.251.7.99", password="coldnips")
 cur = conn.cursor()
 
 # Now create a new SemanticTextDB object based on the underlying DB's state:
@@ -56,7 +56,6 @@ stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'la
 # <markdowncell>
 
 # ## Loading in all U.S. Code Laws (over 56,000 laws) fully formatted and substantial length
-# ### This is how you insert a document into the database using our SemanticTextDB library (see last line)
 
 # <codecell>
 
@@ -64,26 +63,47 @@ import re
 readPath = "C:/git/SemanticTextDB/example_code/all_US_Law_Codes/"
 author = "United States Government"
 
-count = 0
-for filename in os.listdir(readPath): #We pre-parsed each law as a txt file.
-    f = open(readPath + filename,'r')
-    fileAsString = f.read()
-    result = re.search(r'[0-9].*?\n', fileAsString) #grabs first line of law.
-    if result == None:
-        print fileAsString
-        continue #if first line of law is not properly formatted, txt file is not a law.
-    else:
-        #Parse lawtitle, number, section, and name from txt file.
-        result = re.sub(r'\n', '', result.group())
-        lawTitleNum = filename.split('_')[0]
-        lawSectionNum = (re.search(r'.*?\.', result)).group()[:-1]
-        lawName = (re.search(r'\..*', result)).group()[2:]
-        
-        if lawName == "" or re.search(r'\..*', result).group()[1] != " ":
-            print result #Incorrectly formatted
+NUM_INTERTIMES = 10
+NUM_TRIALS = 10
+NUM_LAWS = 10001
+
+law_trials = []
+for i in range(NUM_TRIALS):
+    intertimes = []
+    count = 0
+    totaltime = 0
+    for filename in os.listdir(readPath):
+        count = count + 1
+        f = open(readPath + filename,'r')
+        fileAsString = f.read()
+        result = re.search(r'[0-9].*?\n', fileAsString)
+        if result == None:
+            continue
+            #print fileAsString
         else:
-            #This is how you insert a document into the database using our SemanticTextDB library
-            stdb.insertDoc(fileAsString, "laws", [lawTitleNum, lawSectionNum, lawName])
+            result = re.sub(r'\n', '', result.group())
+            lawTitleNum = filename.split('_')[0]
+            lawSectionNum = (re.search(r'.*?\.', result)).group()[:-1]
+            lawName = (re.search(r'\..*', result)).group()[2:]
+
+            if lawName == "" or re.search(r'\..*', result).group()[1] != " ": #discard - wrong format
+                count = count - 1
+                continue
+            else:
+                start_time = time.time()
+                stdb.insertDoc(fileAsString, "laws", [lawTitleNum, lawSectionNum, lawName])
+                totaltime = totaltime + (time.time() - start_time)
+                if count % (NUM_LAWS / NUM_INTERTIMES) == 0:
+                    intertimes.append(totaltime)
+        if count >= NUM_LAWS:
+            break
+                
+    law_trials.append(intertimes)
+    
+
+# <codecell>
+
+trials[0]
 
 # <markdowncell>
 
@@ -111,29 +131,45 @@ if 'twitter' in stdb.document_tables.keys(): #check that the table exists before
 stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'])
 
 redditReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
-count = 0
-NUM_TWEETS_TO_INSERT = 1000000
 
-with open(redditReadPath, 'rU') as csvfile: #all tweets in single csv file
-    reader = exception_proof_csv_reader(csv.reader(csvfile, delimiter=','))
-    for row in reader:
-        count = count + 1
-        try:
-            #Grab columns of csv to insert as tuple fields
-            twitterID = row.pop(0)
-            location = row.pop(0)
-            username = row.pop(-1)
-            tweet = ', '.join(row)
-        except:
-            #print "Error occurred at item", count, "skipping insertion."
-            count = count - 1
-            continue
-        #This is how you insert a document into the database using our SemanticTextDB library
-        stdb.insertDoc(tweet, "twitter", [twitterID, location, username])
-        
-        #Since the csv is extremely large, set a max number of documents to insert.
-        if count >= NUM_TWEETS_TO_INSERT:
-            break
+NUM_INTERTIMES = 10
+NUM_TRIALS = 10
+NUM_TWEETS = 50001
+
+twitter_trials = []
+for i in range(NUM_TRIALS):
+    intertimes = []
+    count = 0
+    totaltime = 0
+    with open(redditReadPath, 'rU') as csvfile:
+        reader = exception_proof_csv_reader(csv.reader(csvfile, delimiter=','))
+        start_time = time.time()
+        for row in reader:
+            count = count + 1
+            try:           
+                twitterID = row.pop(0)
+                location = row.pop(0)
+                username = row.pop(-1)
+                tweet = ', '.join(row)
+            except:
+                #print "Error occurred at item", count, "skipping insertion."
+                count = count - 1
+                continue
+            
+            start_time = time.time()
+            stdb.insertDoc(tweet, "twitter", [twitterID, location, username])
+            totaltime = totaltime + (time.time() - start_time)
+            
+            if count % (NUM_TWEETS / NUM_INTERTIMES) == 0:
+                    intertimes.append(totaltime)
+            if count >= NUM_TWEETS:
+                break
+                
+    twitter_trials.append(intertimes)
+
+# <codecell>
+
+trials[0]
 
 # <markdowncell>
 
