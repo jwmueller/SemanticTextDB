@@ -3,6 +3,8 @@
 import psycopg2
 import re
 import StoredProcedures
+import DocumentTableInfo as dti
+import nltk
 
 class SemanticTextDB:
 	
@@ -63,11 +65,19 @@ class SemanticTextDB:
 	
 	X_topics_K : A machine-generated table containing K fields, corresponding 
 	to the topics (distributions over words) of a fitted topic model with K 
-	(an integer) topics.
-	 
-	X_doc_topics_K : A table in which each tuple contains the
+	(an integer) topics. An placehold index in this table for a future word which has not yet
+	appeared is temporarily assigned the placeholder word "---"
+	
+	X_topicprops_K : A table in which each tuple contains the
 	proportions of each of the K (an integer) topics in one of the documents
 	corresponding to the fitted topic model with K topics.
+	
+	X_topicmodels : A machine-generated table containing the parameters used for each of the
+	topic models trained over the documents in DocumentTable X. Each row in this
+	table contains the specific parameters for a single LDA model.
+	
+	X_topicmodel_sharedparam : A machine-generated table containing the parameters
+	which are common to all the LDA models for DocTable X.
 	  
 	The names of each of the above schemas may also be accessed as fields 
 	of the DocumentTable python object.  All of the machine-generated-schema
@@ -78,8 +88,8 @@ class SemanticTextDB:
 	# these modifiers appended to a given document table name produce
 	# the names of all possible machine-generated schemas associated 
 	# with the given document table:
-	table_name_modifiers = ['_text', '_useropts', '_wordinfo', 
-							'_entities', ''] # TODO add topic modeling tables.
+	table_name_modifiers = ['_text', '_useropts', '_wordinfo', '_topicprops_', '_topics_'
+							'_topicmodels', '_topicmodel_sharedparam', '_entities', ''] # TODO add necessary table-name-modifiers.
 	
 	def __init__(self, conn, cursor):
 		self.conn = conn
@@ -102,19 +112,13 @@ class SemanticTextDB:
 		print "Document tables in this database: ",
 		print self.document_tables.keys()
 	
-	def allTables(self):
-		"""
-		:returns: a list of all the tables in the Postgres DB specified by cursor
-		"""
-		self.cursor.execute("SELECT table_name from information_schema.tables WHERE table_schema='public' AND table_type='BASE TABLE'")
-		all_tables = self.cursor.fetchall()
-		return [t[0] for t in all_tables]
 	
 	def allDocTables(self):
 		"""
 		:returns: a list of all the document tables in the underlying Postgres DB
 		"""
 		return self.document_tables.keys()
+	
 	
 	def tableLength(self, name):
 		"""
@@ -127,6 +131,7 @@ class SemanticTextDB:
 			return int(results[0])
 		else:
 			return None
+	
 	
 	def displayText(self, name, id, options = None):
 		"""
@@ -145,8 +150,9 @@ class SemanticTextDB:
 		else:
 			print "Text for id " + str(id) + " in document-table " + name + " not found."
 	
+	
 	def createDocTable(self, name, user_columns = [], summary = 1,
-	 				   topics = (5,10), entities = 1,
+	 				   topics = (10,20), entities = None,
      				   sentiment = 1, count_words = True, length_count = True,
      				   vs_representations = 1, max_word_length = 200,
      				   update_increment = 1, new_transaction = True):
@@ -160,7 +166,7 @@ class SemanticTextDB:
 		:param summary: Integer specifying a parameter-related to the summarization
 		algorithm (TODO)
 		:param topics: Tuple of two integers specifying minimum and maximum number 
-		of topics to track (TODO)
+		of topics to track (minimum must be >1)
 		:param entities: Integer specifying a parameter-related to the entity resolution
 		algorithm (TODO)
 		:param length_count: Boolean specifying whether this table should automatically 
@@ -179,6 +185,11 @@ class SemanticTextDB:
 		(set to True if this table-creation is not part of a larger Transaction).
 		"""
 		self.checkNameValidity(name)
+		# check input:
+		if  (topics is not None) and ((len(topics) < 1) or (len(topics) > 2)):
+			raise ValueError("topics parameter must be of form: (min_K, max_K) or simply K")
+		elif (topics is not None) and (len(topics) == 1):
+			topics = (topics, topics)
 		if new_transaction:
 			self.cursor.execute("BEGIN;") # Start new transaction
 		self._initializeDocTable(name, user_columns, summary,
@@ -194,21 +205,8 @@ class SemanticTextDB:
 							   entities, sentiment, count_words, length_count,
 							   vs_representations, max_word_length,
 							   update_increment)
-		
-		if topics != None:
-			topic_model = 0 #TODO
-		else:
-			topic_model = None
-			
-		if entities != None:
-			entity_model = 0 #TODO
-		else:
-			entity_model = None
-		 
-		if vs_representations != None:
-			word_embedding_model = 0 #TODO
-		else:
-			word_embedding_model = None
+		if topics is not None:
+			self.initializeTopicModel(name, min_K = topics[0], max_K = topics[1], new_transaction = False)
 		
 		self._initializeWordinfoTable(name, count_words, vs_representations,
 								max_word_length)
@@ -217,6 +215,7 @@ class SemanticTextDB:
 		self.opt_tables.append(opt_table_name)
 		self.document_tables[name] = self.initializeDocumentTableInfo(name) # TODO replace with DocumentTable object
 		print "created document table: " + name
+	
 	
 	def dropDocTable(self, name, new_transaction = True):
 		""" Removes a document table from underlying DB.
@@ -239,6 +238,7 @@ class SemanticTextDB:
 			self.opt_tables.remove(name+"_useropts")
 			print "deleted document table: " + name
 	
+	
 	def insertDoc(self, text, table_name, user_column_vals = [], id = None,
 				  new_transaction = True):
 		""" Inserts a document into the DB and automatically updates
@@ -253,7 +253,7 @@ class SemanticTextDB:
 		Generally id = None should be used to allow the document table to 
 		self-manage the assigment of ids to documents.
 		:param new_transaction: Boolean specifying whether a new transaction
-		should be created for the operations in this function
+		should be created for the operations in this function 
 		(set to True if this insert is not part of a larger Transaction).
 		"""
 		if table_name not in self.document_tables:
@@ -296,24 +296,17 @@ class SemanticTextDB:
 		# so untrusted texts should always be sanitized before calling 
 		# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
 		# quote-delimiter which is not allowed to appear in the contents of the text.  
-		command = command + ", " + "$zxqy9$" + text + "$zxqy9$);"
+		command = command + ", " + "$zxqy9$" + text + "$zxqy9$);" 
 		self.cursor.execute(command)
-		# TODO check whether models should be updated and if so, do it.
+		
+		# Check whether models should be updated and if so, perform the necessary updates:
+		self.updateModels(table_name, text)
 		if new_transaction:
 			self.cursor.execute("COMMIT;")
-
-
-	def deleteDoc(self, id, table_name):
-		if table_name not in self.document_tables:
-			raise LookupError(table_name + " is an unknown table")
-		"""
-		Delects a document from the DB and upates models
-		:param id: An integer which cannot be an existing document id in the DB
-		"""
-		return 0 # TODO
+		
 	
 	def insertDocuments(self, texts, table_name, user_column_vals_list,
-	 					ids = None, new_transaction = True):
+	 					ids = None, new_transaction = True, progress_update = 100):
 		""" Inserts an entire set of documents into the DB in a single 
 		Transaction and automatically updates models if necessary.
 		:param texts: A list of strings, each the text of one document
@@ -331,6 +324,8 @@ class SemanticTextDB:
 		:param new_transaction: Boolean specifying whether a new transaction
 		should be created for the operations in this function
 		(set to True if these inserts are not part of a larger Transaction).
+		:param progress_update: if None nothing is printed, otherwise a progress update
+		is printed every (progress_update)-th insert of a document. 
 		"""
 		message = "inserting documents into " + table_name + "..."
 		print message,
@@ -343,9 +338,84 @@ class SemanticTextDB:
 		for i in range(len(texts)):
 			insertDoc(texts[i], table_name, user_column_vals_list[i],
 					  ids[i], new_transaction = False)
-		if new_transaction:
+			if (progress_update is not None) and (i % progress_update == 0):
+				print("inserted document #" + str(i))
+		if new_transaction: # persist model updates into table form and commit transaction:
+			
 			self.cursor.execute("COMMIT;")
+			
 		print "done"
+	
+	
+	def updateModels(self, doctable, last_text):
+		"""
+		Checks which models (if any) need to be updated after a document-insert 
+		and runs the necessary algorithms.
+		:param last_text: The text of the just-inserted document
+		:param doctable: The name of the document table it was inserted into.
+		"""
+		last_update_id = self.document_tables[doctable].last_update_id
+		update_increment = self.getOption("update_increment", doctable)
+			# Note: the above last-update value is not on disk so in the event of transaction 
+			# being aborted before the model-updates are persisted, we revert to the value 
+			# stored in the Options table.
+		topics_on = self.isOptionOn("topics", doctable)
+		if topics_on: # Find the texts we need to include in update and put them in Global Dictionary:
+			# TODO also consider additional models.
+			self.cursor.callproc("textstoupdate", [doctable, last_update_id, update_increment])
+			new_update_id = self.cursor.fetchone()[0]
+			update_required = new_update_id > last_update_id
+		else:
+			update_required = False	
+		if topics_on and update_required:
+			self.cursor.callproc("countwords", [doctable])
+			self.cursor.callproc("traintopicmodels", [doctable])
+		# TODO: need methods for updating additional models.
+		if update_required:
+			self.document_tables[doctable].last_update_id = new_update_id
+	
+	
+	def displayTopics(self, doctable, K = None, top_words = 10):
+		""" Displays the top words under the topics of the LDA model with K topics.
+		By default, K is set to None, which means the topics of the model with the best
+		variational bound are returned. This function searches the Global Dictionary object
+		so it is capable of reflecting model updates that have not yet been persisted
+		to disk.
+		"""
+		if K is None:
+			K = self.findBestK(doctable)
+		self.cursor.callproc("gettopics", [doctable, K, top_words])
+		res = self.cursor.fetchall()
+		
+	
+	def findBestK(self, doctable):
+		""" Returns the best number of topics K according to the variational bound
+		which approximates held-out perplexity
+		"""
+		bounds = self.getVariationalBounds(doctable)
+		index = bounds.index(min(bounds))
+		return (index + self.getOption('topics', doctable)[0])
+	
+	
+	def getVariationalBounds(self, doctable):
+		""" Returns the the variational bounds for each of the different LDA models fit
+		to the documents stored in the specified DocumentTable
+		(ordered by increasing number of topics in the models).
+		"""
+		self.cursor.callproc("getbounds",[doctable])
+		res = self.cursor.fetchone()[0]
+		return [float(b) for b in res]
+	
+	
+	def deleteDoc(self, id, table_name):
+		if table_name not in self.document_tables:
+			raise LookupError(table_name + " is an unknown table")
+		"""
+		Deletes a document from the DB
+		:param id: An integer which must be an existing document id in the DB
+		"""
+		return 0 # TODO
+	
 	
 	def _initializeDocTable(self, name, user_columns, summary, 
 							sentiment, length_count):
@@ -371,7 +441,7 @@ class SemanticTextDB:
 			command = command + ", auto_summary text"
 		command = command + ");"
 		self.cursor.execute(command)
-		# TODO: insert-time tracking needs to be maintained.
+	
 	
 	def _initializeOptionsTable(self, name, summary, topics, entities, sentiment,
 							   count_words, length_count, vs_representations,
@@ -387,7 +457,7 @@ class SemanticTextDB:
 				  "summary integer, topics integer[2], entities integer, sentiment integer, " + \
 				  "count_words boolean, length_count boolean, vs_representations integer, " + \
 				  "max_word_length integer, update_increment integer, " + \
-				  "num_inserts_since_update integer);"
+				  "last_update_id integer);"
 				  # TODO: fix the types of these columns once algorithms are implemented.
 		self.cursor.execute(buildcommand)
 		command = "INSERT INTO " + opt_table_name + " VALUES ("
@@ -452,9 +522,10 @@ class SemanticTextDB:
 			command += "NULL, "
 		else:
 			raise ValueError("update_increment must be integer")
-		command = command + str(update_increment - 1) + ");" # for num_inserts_since_update
+		command = command + str(0) + ");" # for last_update_id.
 		self.cursor.execute(command)
 		return opt_table_name
+	
 	
 	def _initializeWordinfoTable(self, name, count_words, vs_representations,
 								max_word_length):
@@ -480,8 +551,155 @@ class SemanticTextDB:
 							"), vector numeric[" + str(vs_representations) + "]);")
 			# TODO: Need to create index on wordinfo word column vs. without index
 	
+			
+	def initializeTopicModel(self, doctable, min_K = 5, max_K = 50, D = 1e6, W = 1e4, alphas = None,
+							 etas = None, tau0 = 1024., kappa = 0.7,
+							 additional_stopwords = [], new_transaction = True):
+		""" Creates a set of (max_K - min_K + 1) topic models with topic-numbers ranging from min_K to max_K (inclusive).
+		Most parameter names/descriptions taken from Hoffman et al.
+		Please change the above defaults as desired.
+		:param doctable: The document table storing the corpus for these topic models.
+		:param min_K: Number of topics in smallest topic model.
+		:param max_K: Number of topics in largest topic model.
+        
+        :param D: Total number of documents in the population. For a fixed corpus,
+           this is the size of the corpus. In the truly online setting, this
+           can be an estimate of the maximum number of documents that
+           could ever be seen. D can be extremely large and set independently of memory restrictions,
+           as D goes to infinity this algorithm converges to the empirical Bayes estimates.
+        :param W: Total number of words in the population.  Once the online algorithm has seen
+        W distinct words in the corpus, it will treat any new words as stopwords, so W should be 
+        set conservatively large (although larger W will decrease the efficiency of the algorithm
+        and W must be small enough that W x K numpy matrix fits into RAM of database server).
+        :param alphas: List of hyperparameters, the kth specifying a prior on weight vectors theta
+        for the kth topic model.
+        :param etas: List of hyperparameter, the kth specifying a prior on weight vectors beta
+        for the kth topic model.
+        :param tau0: A (positive) learning parameter that downweights early iterations
+        :param kappa: Learning rate: exponential decay rate---should be between
+             (0.5, 1.0] to guarantee asymptotic convergence.
+		"""
+		if alphas is None: # set default alpha values:
+			alphas = [1./k for k in range(min_K, max_K+1)]
+		if etas is None: # set default eta values:
+			etas = [1./k for k in range(min_K, max_K+1)]
+		Ks = range(min_K, max_K+1)
+		if ((max_K < min_K) or (len(alphas) != len(range(min_K, max_K+1))) or (len(etas) != len(alphas)) or
+			(kappa > 1) or (kappa < 0) or (tau0 <= 0) or (min_K < 2)):
+			raise ValueError("invalid topic modeling parameters")
+		if new_transaction:
+			self.cursor.execute("BEGIN;") # Start new transaction
+		stopwords = nltk.corpus.stopwords.words('english') + additional_stopwords
+		stopword_string = ' '.join(stopwords)
+		# Create table to store parameters for each topic model:
+		self.cursor.execute("CREATE TABLE " + doctable + "_topicmodels (num_topics integer PRIMARY KEY, " + \
+						"alpha numeric, eta numeric, score numeric);")
+		for i in range(0,len(Ks)):
+			self.cursor.execute("INSERT INTO " + doctable + "_topicmodels VALUES (" + \
+				str(Ks[i]) + ", " + str(alphas[i]) + ", " + str(etas[i]) + ", " + str(0) + ");")
+		# Create table to store parameters shared between all topic models:
+		self.cursor.execute("CREATE TABLE " + doctable + "_topicmodel_sharedparam (d bigint, " + \
+			"tau0 numeric, kappa numeric, w bigint, updatect bigint, stopwords text);")
+		# Note this is NOT safe against SQL injection,
+		# so untrusted additional_stopwords input should always be sanitized before calling 
+		# insertDoc. Here $zxqy9$ is a (highly-unlikely-naturally-occuring)
+		# quote-delimiter which is not allowed to appear in the contents of the text. 
+		self.cursor.execute("INSERT INTO " + doctable + "_topicmodel_sharedparam VALUES (" + \
+		 str(D) + ", " + str(tau0) + ", " + str(kappa) + ", " + str(W) + ", " + str(0) + ", " + \
+		 "$zxqy9$" + stopword_string + "$zxqy9$);")
+		for i in range(0, len(Ks)): # initialize topic-matrices
+			self.cursor.callproc('initializelambda', [doctable, int(Ks[i]), int(D), int(W), alphas[i], etas[i], tau0, kappa])
+			# Initialize topic-proportions-in-documents table for the kth topic model:
+			command = "CREATE TABLE " + doctable + "_topicprops_" + str(Ks[i]) + " (id integer"
+			for j in range(1,Ks[i]+1):
+				command = command + ", " + "topic_" + str(j) + " numeric"
+			command += ");"
+			self.cursor.execute(command)
+		if new_transaction:
+			self.cursor.execute("COMMIT;") # End transaction
+	
+	
+	def trainTopicModel(doctable):
+		""" Calls stored procdure to update the LDA topic-parameters stored in the DB
+			:param texts: a list of strings containing the contents of each document
+			:param doctable: the document-table associated with the topic model of interest
+		"""
+		last_update_id = self.document_tables[doctable].last_update_id
+		self.cursor.callproc("trainTM", [doctable, last_update_id])
+			
+	def allTables(self):
+		"""
+		:returns: a list of all the tables in the Postgres DB specified by cursor
+		"""
+		self.cursor.execute("SELECT table_name from information_schema.tables WHERE table_schema='public' AND table_type='BASE TABLE'")
+		all_tables = self.cursor.fetchall()
+		return [t[0] for t in all_tables]
+		
+	def colNames(self, table):
+		"""
+		:returns: a list of all the column names in the specified table.
+		"""
+		self.cursor.execute("select column_name from information_schema.columns where table_name = '" + table +"';")
+		res = self.cursor.fetchall()
+		return [c[0] for c in res]
+	
+	def getOption(self, option, doctable):
+		""" 
+		:returns: the setting of the specificed option for the given doctable
+		Note: option must be a string specifying a column in the <doctable>_useropts table.
+		"""
+		self.cursor.execute("SELECT " + option + " FROM " + doctable + "_useropts;")
+		res = cursor.fetchone()
+		if len(res) == 1:
+			return res[0]
+		else:
+			print("unknown option/table specified")
+			
+	
+	def isOptionOn(self, option, doctable):
+		""" 
+		:returns: the true if the specificed option is set to 'on' for the given doctable
+		Note: option must be a string specifying a column in the <doctable>_useropts table.
+		'on' may mean different things for different options.
+		""" 
+		opt_setting = self.getOption(option, doctable)
+		if (option == 'topics') and (opt_setting is not None):
+			return True
+		else:
+			return False
+		# TODO: implement this for the rest of the options
+	
+	
+	def setOption(self, option, doctable, new_value):
+			""" Sets the specified option in the given doctable.
+				:param new_value: the desired setting of the option, must be of the right type.
+			"""
+			if option == 'topics':
+				new_value_string = "'{" + str(new_value[0]) + ", " + str(new_value[1]) + "}'"
+			else:
+				new_value_string = str(new_value)
+			self.cursor.execute("UPDATE " + doctable + "_useropts SET " + option + " = " + new_value_string + ";")
+	
+	
+	def getLastUpdateID(self, doctable):
+		""" Returns the index of the last document included in the model update.
+			Note: not all of these changes may yet be persisted to disk.
+		"""
+		return self.document_tables[doctable].last_update_id
+	
+	
+	def startTransaction(self):
+		"""Begins a new transaction"""
+		self.cursor.execute("BEGIN;")
+	
+	
+	def endTransaction(self):
+		"""Commits the currently running transaction"""
+		self.cursor.execute("COMMIT;")
+	
+	
 	def checkNameValidity(self, name):
-		""" raises exception if the given name for a table or the 
+		""" Raises exception if the given name for a table or the 
 		machine-generated names built upon this name 
 		are already used in the PostgresDB
 		"""
@@ -493,6 +711,7 @@ class SemanticTextDB:
 		if (len(re.findall(".*_useropts$", name)) > 0):
 			raise ValueError(name + " cannot end with '_useropts'")
 	
+	
 	def initializeDocumentTableInfo(self, name):
 		"""Creates a DocumentTableInfo object from the existing <name>_useropts table.
 		:param name: The corresponding document table in underlying DB.
@@ -503,7 +722,7 @@ class SemanticTextDB:
 		self.cursor.execute("SELECT * FROM " + name + "_useropts" + ";")
 		colnames = [desc[0] for desc in self.cursor.description]
 		opts = self.cursor.fetchone()
-		dt = DocumentTableInfo(name, 
+		dt = dti.DocumentTableInfo(name, 
 				summary = opts[colnames.index("summary")],
 				topics = opts[colnames.index("topics")],
 				entities = opts[colnames.index("entities")],
@@ -512,26 +731,15 @@ class SemanticTextDB:
 				length_count = opts[colnames.index("length_count")],
 				vs_representations = opts[colnames.index("vs_representations")],
 				max_word_length = opts[colnames.index("max_word_length")],
-				update_increment = opts[colnames.index("update_increment")]
+				update_increment = opts[colnames.index("update_increment")],
+				last_update_id = opts[colnames.index("last_update_id")]
 			 )
 		return dt
+	
 	
 	def createStoredProcedures(self):
 		""" 
 		Creates a set of procedures which are stored in the DB
 		"""
 		[self.cursor.execute(func) for func in StoredProcedures.listStoredProcedures()]
-	
-	""" The functions below this point call stored procedures within the database
-		and are not intended for most users. """
-	
-	def pymax(a, b):
-		""" A procedure stored in the underlying DB.
-		:returns: the maximum of A and B
-		"""
-		self.cursor.callproc("pymax", [a, b])
-		result = cursor.fetchone()
-		if result is None:
-			return None
-		else:
-			return result[0]
+
