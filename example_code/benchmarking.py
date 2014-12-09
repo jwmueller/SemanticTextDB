@@ -172,7 +172,8 @@ for i in range(NUM_TRIALS):
             try:
                 my_stdb.insertDoc(tweet, "twitter", [twitterID, location, username])
             except:
-                print tweet
+                count = count - 1
+                continue
             totaltime = totaltime + (time.time() - start_time)
             
             if count % (NUM_TWEETS / NUM_INTERTIMES) == 0:
