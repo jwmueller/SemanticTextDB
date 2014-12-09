@@ -82,7 +82,12 @@ class SemanticTextDB:
 	The names of each of the above schemas may also be accessed as fields 
 	of the DocumentTable python object.  All of the machine-generated-schema
 	updates are wrapped in a transaction, so updates to all models either
-	entirely succeed or fail if the DB server crashes. 
+	entirely succeed or fail if the DB server crashes.  If the user wishes to switch 
+	modeling options after the creation of the DocumentTable, they may modify 
+	the appropriate tables at anytime. However, changing the properties of Python objects 
+	will not persist such a change on disk, so option-table-modification is required.
+	A set of accessor functions to facilitate permanent post-creation DocumentTable
+	options-setting is still in the works. 
 	"""
 	
 	# these modifiers appended to a given document table name produce
@@ -149,6 +154,30 @@ class SemanticTextDB:
 			print res[0][0]  # TODO : implement pop=out window
 		else:
 			print "Text for id " + str(id) + " in document-table " + name + " not found."
+	
+	
+	def displayTopics(self, doctable, K = None, top_words = 10):
+		""" Displays the top words under the topics of the LDA model with K topics.
+		By default, K is set to None, which means the topics of the model with the best
+		variational bound are returned. This function searches the Global Dictionary object
+		so it is capable of reflecting model updates that have not yet been persisted
+		to disk.
+		"""
+		if K is None:
+			K = self.findBestK(doctable)
+		self.cursor.callproc("gettopics", [doctable, K, top_words])
+		for i in range(K):
+			res = self.cursor.fetchone()
+			words = res[1]
+			prominences = res[2]
+			print "    Topic " + str(res[0]) + ":"
+			for j in range(top_words):
+				if words[j] == "":
+					print ('<placeholder>  -----  ' + str(float(prominences[j])))
+				else:
+					print (words[j] + "  -----  " + str(float(prominences[j])))
+			print ""
+			print ""
 	
 	
 	def createDocTable(self, name, user_columns = [], summary = 1,
@@ -375,18 +404,27 @@ class SemanticTextDB:
 			self.document_tables[doctable].last_update_id = new_update_id
 	
 	
-	def displayTopics(self, doctable, K = None, top_words = 10):
-		""" Displays the top words under the topics of the LDA model with K topics.
-		By default, K is set to None, which means the topics of the model with the best
-		variational bound are returned. This function searches the Global Dictionary object
-		so it is capable of reflecting model updates that have not yet been persisted
-		to disk.
+	def persistModels(self, doctable, new_transaction = True):
 		"""
-		if K is None:
-			K = self.findBestK(doctable)
-		self.cursor.callproc("gettopics", [doctable, K, top_words])
-		res = self.cursor.fetchall()
-		
+		Pushes the updates to all models associated with the given DocumentTable
+		from RAM to Disk, so that they will persist in the underlying Database.
+		This method should generally be called at the end of a bulk insert of documents,
+		just before the Transaction commits.
+		:param new_transaction: should this persist operation be wrapped in a new Transaction?
+		"""
+		if new_transaction:
+			self.cursor.execute("BEGIN;")
+		if self.isOptionOn('topics', doctable): # Persist Topic Model:
+			self.cursor.callproc("persisttm", [doctable])
+		# TODO: persist changes to other models!
+		# Change the _useropts Table's last_update_id value if necessary:
+		last_update_id = self.getLastUpdateID(doctable)
+		if last_update_id > self.getOption("last_update_id", doctable):
+			command = "UPDATE " + doctable + "_useropts SET last_update_id = " + str(last_update_id)
+			self.cursor.execute(command)
+		if new_transaction:
+			self.cursor.execute("COMMIT;")
+	
 	
 	def findBestK(self, doctable):
 		""" Returns the best number of topics K according to the variational bound
@@ -404,7 +442,8 @@ class SemanticTextDB:
 		"""
 		self.cursor.callproc("getbounds",[doctable])
 		res = self.cursor.fetchone()[0]
-		return [float(b) for b in res]
+		#[float(b) for b in res]
+		return res
 	
 	
 	def deleteDoc(self, id, table_name):
@@ -549,7 +588,7 @@ class SemanticTextDB:
 			self.cursor.execute("CREATE TABLE " + name + \
 							"_wordinfo (word varchar(" + str(max_word_length) + \
 							"), vector numeric[" + str(vs_representations) + "]);")
-			# TODO: Need to create index on wordinfo word column vs. without index
+			# TODO: create index on wordinfo word column vs. without index
 	
 			
 	def initializeTopicModel(self, doctable, min_K = 5, max_K = 50, D = 1e6, W = 1e4, alphas = None,
@@ -626,7 +665,8 @@ class SemanticTextDB:
 		"""
 		last_update_id = self.document_tables[doctable].last_update_id
 		self.cursor.callproc("trainTM", [doctable, last_update_id])
-			
+	
+	
 	def allTables(self):
 		"""
 		:returns: a list of all the tables in the Postgres DB specified by cursor
@@ -634,7 +674,8 @@ class SemanticTextDB:
 		self.cursor.execute("SELECT table_name from information_schema.tables WHERE table_schema='public' AND table_type='BASE TABLE'")
 		all_tables = self.cursor.fetchall()
 		return [t[0] for t in all_tables]
-		
+	
+	
 	def colNames(self, table):
 		"""
 		:returns: a list of all the column names in the specified table.
@@ -642,6 +683,7 @@ class SemanticTextDB:
 		self.cursor.execute("select column_name from information_schema.columns where table_name = '" + table +"';")
 		res = self.cursor.fetchall()
 		return [c[0] for c in res]
+	
 	
 	def getOption(self, option, doctable):
 		""" 
@@ -693,8 +735,14 @@ class SemanticTextDB:
 		self.cursor.execute("BEGIN;")
 	
 	
-	def endTransaction(self):
-		"""Commits the currently running transaction"""
+	def endTransaction(self, persist = False, doctable = None):
+		"""Commits the currently running transaction
+			:param persist: If set True, this method will persist models
+			:param doctable: The DocumentTable associated with the models to be 
+			persisted.
+		"""
+		if persist:
+			self.persistModels(doctable)
 		self.cursor.execute("COMMIT;")
 	
 	
@@ -741,5 +789,16 @@ class SemanticTextDB:
 		""" 
 		Creates a set of procedures which are stored in the DB
 		"""
+		# Defining a Return type for the gettopics stored procedure:
+		topic_info_def = \
+""" CREATE TYPE IF NOT EXISTS topic_info AS (
+		topic_num integer,
+		topic_words text[],
+		word_prominence numeric[]
+	);
+"""
+		self.cursor.execute("SELECT EXISTS (SELECT 1 FROM pg_type WHERE typname = 'topic_info')")
+		if not self.cursor.fetchone()[0]:
+			self.cursor.execute(topic_info_def)
 		[self.cursor.execute(func) for func in StoredProcedures.listStoredProcedures()]
 

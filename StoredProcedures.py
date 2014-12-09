@@ -295,7 +295,7 @@ for k in range(min_K, max_K+1):
 	score += numpy.sum((alpha - gamma)*Elogtheta)
 	score += numpy.sum(gammaln(gamma) - gammaln(alpha))
 	score += sum(gammaln(alpha*k) - gammaln(numpy.sum(gamma, 1)))
-	score = score * d / batchD
+	score = score * d / float(batchD) / 1000.0
 	score = score + numpy.sum((eta - lambda_k) * Elogbeta)
 	score = score + numpy.sum(gammaln(lambda_k) - gammaln(eta))
 	score = score + numpy.sum(gammaln(eta*w) - gammaln(numpy.sum(lambda_k, 1)))
@@ -335,27 +335,97 @@ else:
 	return scores
 $$ LANGUAGE plpython3u;
 """
+	
 	# Nicely formats the top words in each topic for display:
 	gettopics_def = \
-"""CREATE OR REPLACE FUNCTION gettopics (doctable text, k integer, top_words integer) RETURNS numeric[]
+"""CREATE OR REPLACE FUNCTION gettopics (doctable text, k integer, top_words integer) RETURNS SETOF topic_info 
 AS $$
 if 'numpy' in GD:
 	numpy = GD['numpy']
 else:
 	import numpy
 	GD['numpy'] = numpy
-	if ((doctable + '_vocab') in GD) and ((doctable + '_lambda_' + str(k)) in GD):
-		vocab = GD[doctable + '_vocab']
-		lambda_k = GD[doctable + '_lambda_' + str(k)]
-		for i in range(0, k):
-			top_indices = numpy.argsort(lambda_k[i,:])[::-1][:top_words]
-			topic_i_words = [''] * top_words
-			i_prominence = [0] * top_words
-			for w in vocab:
-				if vocab[w] in top_indices:
-					k_words[] = w	
+if (doctable + '_vocab') not in GD:
+	vocab = dict()
+	res = plpy.execute('SELECT * FROM ' + doctable + '_topics_' + str(k) + ' ORDER BY word_id ASC;')
+	index = 0
+	topic_word = res[index]['word']
+	while ((index < len(res)) and (topic_word != '---')):
+		vocab[topic_word] = index
+		index += 1
+		topic_word = res[index]['word']
+	GD[doctable + '_vocab'] = vocab
+else:
+	vocab = GD[doctable + '_vocab']
+if (doctable + '_lambda_'+str(k)) not in GD:
+	if (doctable + '_w') not in GD:
+		params = plpy.execute('SELECT * FROM ' + doctable + '_topicmodel_sharedparam;')
+		GD[doctable + '_w'] = params[0]['w']
+	w = GD[doctable + '_w']
+	lambda_k = numpy.zeros((k, w))
+	res = plpy.execute('SELECT * FROM ' + doctable + '_topics_' + str(k) + ' ORDER BY word_id ASC;')
+	for i in range(0, w):
+		res_i = res[i]
+		for j in range(0, k):
+			lambda_k[j,i] = res_i['topic_' + str(j+1)]
+	GD[doctable + '_lambda_'+str(k)] = lambda_k
+else:
+	lambda_k = GD[doctable + '_lambda_'+str(k)]
+topic_infos = []
+for i in range(0, k):
+	top_indices = numpy.argsort(lambda_k[i,:])[::-1][:top_words]
+	topic_i_words = [''] * top_words
+	for word in vocab:
+		if vocab[word] in top_indices:
+			index = int(numpy.where(top_indices == vocab[word])[0])
+			topic_i_words[index] = word
+	i_word_prominence = lambda_k[i,top_indices]
+	topic_infos.append([i+1, topic_i_words, i_word_prominence])
+return tuple(topic_infos)
 $$ LANGUAGE plpython3u;
 """
 	
-	stored_prodecures_list =[initializelambda_def, textstoupdate_def, countwords_def, traintopicmodels_def, getbounds_def] # TODO add rest of procedures
+	# Pushes the dynamic parameters of topic-models associated with the given doctable to disk:
+	persisttm_def = \
+"""CREATE OR REPLACE FUNCTION persisttm (doctable text) RETURNS void
+AS $$
+if 'numpy' in GD:
+	numpy = GD['numpy']
+else:
+	import numpy
+	GD['numpy'] = numpy
+if (doctable + '_topic_opts') not in GD:
+	res = plpy.execute('SELECT topics FROM ' + doctable + '_useropts;')
+	topic_opts = res[0]['topics']
+	GD[doctable + '_topic_opts'] = topic_opts
+else:
+	topic_opts = GD[doctable + '_topic_opts']
+min_K = topic_opts[0]
+max_K = topic_opts[1]
+if (doctable + '_updatect') in GD:
+	updatect = GD[doctable + '_updatect']
+	params = plpy.execute('SELECT * FROM ' + doctable + '_topicmodel_sharedparam;')
+	if params[0]['updatect'] == updatect:
+		return
+	command = 'UPDATE ' +  doctable + '_topicmodel_sharedparam SET updatect = ' + str(updatect) + ';'
+	plpy.execute(command)
+
+if (doctable + '_scores') in GD:
+	scores = GD[doctable + '_scores']
+for k in range(min_K, max_K+1):
+	if (doctable + '_scores') in GD:
+		command = 'UPDATE ' + doctable + '_topicmodels SET score = ' + str(scores[k - min_K]) + ' WHERE num_topics = k;' 
+		plpy.execute(command)
+if (doctable + '_vocab') in GD:
+	vocab = GD[doctable + '_vocab']
+for k in range(min_K, max_K+1):	
+	if (doctable + '_lambda_'+str(k)) in GD:
+		lambda_k = GD[doctable + '_lambda_'+str(k)]
+		(k, w) = lambda_k.shape
+		command = 'TRUNCATE TABLE ' +  doctable + '_lambda_' + str(k) + ';'
+		plpy.execute(command)
+$$ LANGUAGE plpython3u;
+"""
+	
+	stored_prodecures_list =[initializelambda_def, textstoupdate_def, countwords_def, traintopicmodels_def, getbounds_def, gettopics_def] # TODO add rest of procedures
 	return stored_prodecures_list
