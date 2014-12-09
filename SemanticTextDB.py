@@ -696,7 +696,7 @@ class SemanticTextDB:
 			return res[0]
 		else:
 			print("unknown option/table specified")
-			
+	
 	
 	def isOptionOn(self, option, doctable):
 		""" 
@@ -791,7 +791,7 @@ class SemanticTextDB:
 		"""
 		# Defining a Return type for the gettopics stored procedure:
 		topic_info_def = \
-""" CREATE TYPE IF NOT EXISTS topic_info AS (
+""" CREATE TYPE topic_info AS (
 		topic_num integer,
 		topic_words text[],
 		word_prominence numeric[]
