@@ -31,6 +31,8 @@ import SemanticTextDB as stdb
 conn = psycopg2.connect(database="semanticdb", user="Curtis Northcutt", host="18.251.7.99", password="coldnips")
 cur = conn.cursor()
 
+# <codecell>
+
 # Now create a new SemanticTextDB object based on the underlying DB's state:
 stdb = stdb.SemanticTextDB(conn, cur)
 
@@ -51,7 +53,11 @@ if 'laws' in stdb.document_tables.keys(): #check that the table exists before de
     stdb.dropDocTable("laws")
     
 # Creates a document table (and associated machine-generated tables):
-stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'])
+stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
+                   summary = 0, topics = None, entities = None, 
+                   sentiment = 0, count_words = False, length_count = False, 
+                   vs_representations = 0, max_word_length = 200,
+                   update_increment = 1, new_transaction = False)
 
 # <markdowncell>
 

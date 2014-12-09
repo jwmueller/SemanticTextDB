@@ -51,7 +51,11 @@ if 'laws' in stdb.document_tables.keys(): #check that the table exists before de
     stdb.dropDocTable("laws")
     
 # Creates a document table (and associated machine-generated tables):
-stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'])
+stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
+                   summary = 0, topics = None, entities = None, 
+                   sentiment = 0, count_words = False, length_count = False, 
+                   vs_representations = 0, max_word_length = 200,
+                   update_increment = 1, new_transaction = False)
 
 # <markdowncell>
 
@@ -181,7 +185,7 @@ with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k
 
 # <markdowncell>
 
-# ##Now that there is data in the database, here are some example queries using pyscopg2
+# ##Now that there is data in the database, here is an example query using pyscopg2
 
 # <codecell>
 
