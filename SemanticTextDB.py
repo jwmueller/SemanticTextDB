@@ -5,6 +5,8 @@ import re
 import StoredProcedures
 import DocumentTableInfo as dti
 import nltk
+import summarizer
+import NLPfunctions as nlpf
 
 class SemanticTextDB:
 	
@@ -180,7 +182,8 @@ class SemanticTextDB:
 			print ""
 	
 	
-	def queryByTopic(self, doctable, K = None, topic, )
+	def queryByTopic(self, doctable, K = None):
+		return None
 	
 	
 	def createDocTable(self, name, user_columns = [], summary = 1,
@@ -314,7 +317,8 @@ class SemanticTextDB:
 		if self.document_tables[table_name].sentiment_option is not None:
 			command += ", NULL" # TODO: Implement sentiment-analysis
 		if self.document_tables[table_name].summary_option is not None:
-			command += ", NULL" # TODO: Implement summarization
+			command += ", " + "$zxqy9$" + summarizer.summarize(text, 
+						summary_length = self.getOption('summary', table_name)) + "$zxqy9$" 
 		command += ");"
 		self.cursor.execute(command)
 		# Insert text:
@@ -694,7 +698,7 @@ class SemanticTextDB:
 		Note: option must be a string specifying a column in the <doctable>_useropts table.
 		"""
 		self.cursor.execute("SELECT " + option + " FROM " + doctable + "_useropts;")
-		res = cursor.fetchone()
+		res = self.cursor.fetchone()
 		if len(res) == 1:
 			return res[0]
 		else:
@@ -805,3 +809,127 @@ class SemanticTextDB:
 			self.cursor.execute(topic_info_def)
 		[self.cursor.execute(func) for func in StoredProcedures.listStoredProcedures()]
 
+	def semanticSelect(self, table_name, statement, feature, feature_param = None):
+		"""
+		semanticSelect is a powerful function which augments the traditional SQL SELECT statment
+		when users are running SELECT queries over DOCUMENT tables in SemanticTextDB.
+		Users can pass in a traditional SQL SELECT statement as a string using the statement variable
+		and pass in a string naming the feature they wish to augment SELECT with. 
+		feature options available are:
+		1. positive_only - returns tuples corresponding to happy (high sentiment analysis) documents
+		2. negative_only - returns tuples corresponding to unhappy (low sentiment analysis) documents
+		3. view_summaries - returns the summaries corresponding to the output of your select statement
+		4. word_frequency - returns frequency of given word in each document resulting from your query
+		5. correct_spelling - returns documents with correct spelling for your query.
+
+		:param table_name: string declaring name of table the select statment is meant to operate on.
+		:param statement: a postgreSQL statement as a string (e.g. "SELECT * FROM table_name;")
+		:param feature: a string naming which feature you wish to augment the select statement with.
+		:param feature_param: if feature takes in a parameter, pass it in here.
+		"""
+		if (table_name[-5:] == "_text" and table_name[:-5] not in self.allDocTables()) or \
+		   (table_name[-5:] != "_text" and table_name not in self.allDocTables()):
+			raise ValueError("table_name must be a documentTable or the table_text machine generated table.")
+		if (feature == 'positive_only' or feature == 'negative_only') and feature_param == None:
+			raise ValueError("features 'positive_only' and 'negative_only' require a feauture_param.")
+		if (feature == 'view_summaries' or feature == 'word_frequency' or feature == 'correct_spelling') and statement[0:12].upper() == "SELECT COUNT":
+			raise ValueError("features 'view_summaries' and 'word_frequency' and 'correct_spelling' do not support SELECT COUNT.")
+		if type(statement) != str:
+			raise ValueError("statement must be a string.")
+		if len(statement) < 6 or statement[0:6].upper() != "SELECT":
+			raise ValueError("statement must begin with 'SELECT'.")
+		if statement[0:12].upper() == "SELECT COUNT" and statement[0:15].upper() != "SELECT COUNT(*)":
+			raise ValueError("semanticSelect can only handle aggregates of the form count(*)")
+
+		#flag to specify how results are returned
+		aggregate = statement[0:12].upper() == "SELECT COUNT"		
+		
+		table_text = table_name if table_name[-5:] == "_text" else table_name + "_text"
+		returnResult = []
+
+		if feature == 'positive_only':			
+			count = 0
+
+			if aggregate:
+				self.cursor.execute("SELECT *" + statement[15:]) #REPLACES COUNT(*) WITH *
+			else:
+				self.cursor.execute("SELECT id, " + statement[7:])
+
+			result = self.cursor.fetchall()
+			for item in result:
+				self.cursor.execute("SELECT content FROM " + table_text + " WHERE id = " + str(item[0]))
+				doc = self.cursor.fetchone()[0]
+				if nlpf.sentimentAnalysis(doc) >= feature_param:
+					if aggregate:
+						count = count + 1
+					else:
+						returnResult.append(tuple(list(item)[1:]))
+
+			return (count if aggregate else returnResult)
+
+		elif feature == 'negative_only':
+			count = 0
+
+			if aggregate:
+				self.cursor.execute("SELECT *" + statement[15:]) #REPLACES COUNT(*) WITH *
+			else:
+				self.cursor.execute("SELECT id, " + statement[7:])
+
+			result = self.cursor.fetchall()
+			for item in result:
+				self.cursor.execute("SELECT content FROM " + table_text + " WHERE id = " + str(item[0]))
+				doc = self.cursor.fetchone()[0]
+				if nlpf.sentimentAnalysis(doc) <= feature_param:
+					if aggregate:
+						count = count + 1
+					else:
+						returnResult.append(tuple(list(item)[1:]))
+
+			return (count if aggregate else returnResult)
+			
+		elif feature == 'view_summaries':
+			if feature_param == None:
+				feature_param = 1
+			self.cursor.execute("SELECT id, " + statement[7:])
+			result = self.cursor.fetchall()
+
+			for item in result:
+				self.cursor.execute("SELECT content FROM " + table_text + " WHERE id = " + str(item[0]))
+				doc = self.cursor.fetchone()[0]
+				returnResult.append(summarizer.summarize(doc, feature_param))
+
+			return returnResult
+
+		elif feature == 'word_frequency':
+			self.cursor.execute("SELECT id, " + statement[7:])
+			result = self.cursor.fetchall()
+
+			for item in result:
+				self.cursor.execute("SELECT content FROM " + table_text + " WHERE id = " + str(item[0]))
+				doc = self.cursor.fetchone()[0]
+				returnResult.append(word_counts(doc))
+
+			return returnResult
+
+		elif feature == 'correct_spelling':
+			self.cursor.execute("SELECT id, " + statement[7:])
+			result = self.cursor.fetchall()
+
+			for item in result:
+				self.cursor.execute("SELECT content FROM " + table_text + " WHERE id = " + str(item[0]))
+				doc = self.cursor.fetchone()[0]
+				returnResult.append(str(nlpf.correct_spelling(doc)))
+
+			return returnResult	
+
+
+
+
+		#example of finding ratio of positive to negative support of the royal wedding.
+		#statement = ('SELECT COUNT(*) FROM twitter, twitter_text '
+		#			  'WHERE twitter.id = twitter_text.id '
+		#			  'AND "london" in twitter_text.text '
+		#			  'AND "wedding" in twitter_text.text')
+		#posCount = semanticSelect(statement, 'positive_only', 0.8)
+		#negCount = semanticSelect(statement, 'negative_only', -0.8)
+		#ratio = posCount / (1.0 * negCount)

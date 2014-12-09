@@ -31,25 +31,25 @@ def findNegativeDocs():
 # <codecell>
 
 def noun_phrases(string):
-    nlp = TextBlob(string)
+    nlp = TextBlob(unicode(string, 'utf-8'))
     return nlp.noun_phrases
 
 # <codecell>
 
 def correct_spelling(string):
-    nlp = TextBlob(string)
+    nlp = TextBlob(unicode(string, 'utf-8'))
     return nlp.correct()
 
 # <codecell>
 
 def frequency(string, word, case_sensitive = False):
-    nlp = TextBlob(string)
+    nlp = TextBlob(unicode(string, 'utf-8'))
     return nlp.words.count(word, case_sensitive)
 
 # <codecell>
 
 def word_counts(string):
-    nlp = TextBlob(string)
+    nlp = TextBlob(unicode(string, 'utf-8'))
     return nlp.word_counts
 
 # <codecell>
@@ -57,7 +57,7 @@ def word_counts(string):
 def translate(string, to_language):
     # Note langauges can be found here:
     # https://cloud.google.com/translate/v2/using_rest#language-params
-    nlp = TextBlob(string)
+    nlp = TextBlob(unicode(string, 'utf-8'))
     return nlp.translate(from_lang=from_language, to=to_language)
 
 # <codecell>
@@ -65,46 +65,6 @@ def translate(string, to_language):
 def detectLangauge(string):
     # Note langauges can be found here:
     # https://cloud.google.com/translate/v2/using_rest#language-params
-    nlp = TextBlob(string)
+    nlp = TextBlob(unicode(string, 'utf-8'))
     return nlp.detect_language()
-
-# <codecell>
-
-nlp = TextBlob("Jonas is an amazing friend and I think he is great!")
-nlp.word_counts
-
-# <codecell>
-
-sentimentAnalysis("Jonas is an amazing friend and I think he is great!")
-
-# <codecell>
-
-sentimentAnalysis("Jonas is an amazing friend! and I think he is great!!!!!!!!")
-
-# <codecell>
-
-sentimentAnalysis("Jonas is an amazing friend!! and I think he is great!")
-
-# <codecell>
-
-sentimentAnalysis("Jonas is an amazing friend!!! and I think he is great!")
-
-# <codecell>
-
-sentimentAnalysis("Fuck you!!!!")
-
-# <codecell>
-
-sentimentAnalysis("Fuck yes!!!!")
-
-# <codecell>
-
-sentimentAnalysis("i love my shitty life!!!!")
-
-# <codecell>
-
-sentimentAnalysis("i love my fucking life!!!!")
-
-# <codecell>
-
 

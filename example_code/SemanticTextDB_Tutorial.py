@@ -34,7 +34,7 @@ cur = conn.cursor()
 # <codecell>
 
 # Now create a new SemanticTextDB object based on the underlying DB's state:
-stdb = stdb.SemanticTextDB(conn, cur)
+my_stdb = stdb.SemanticTextDB(conn, cur)
 
 # <markdowncell>
 
@@ -43,17 +43,17 @@ stdb = stdb.SemanticTextDB(conn, cur)
 # <codecell>
 
 # Returns a list of all tables in underyling DB:
-stdb.allTables()
+my_stdb.allTables()
 
 #Returns a list of only document tables in the DB:
-stdb.document_tables.keys()
+my_stdb.allDocTables()
 
 # Delete the document table (iff you want to replace table with same name):
-if 'laws' in stdb.document_tables.keys(): #check that the table exists before deleting it
-    stdb.dropDocTable("laws")
+if 'laws' in my_stdb.document_tables.keys(): #check that the table exists before deleting it
+    my_stdb.dropDocTable("laws")
     
 # Creates a document table (and associated machine-generated tables):
-stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
+my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
                    summary = 0, topics = None, entities = None, 
                    sentiment = 0, count_words = False, length_count = False, 
                    vs_representations = 0, max_word_length = 200,
@@ -89,7 +89,7 @@ for filename in os.listdir(readPath): #We pre-parsed each law as a txt file.
             print result #Incorrectly formatted
         else:
             #This is how you insert a document into the database using our SemanticTextDB library
-            stdb.insertDoc(fileAsString, "laws", [lawTitleNum, lawSectionNum, lawName])
+            my_stdb.insertDoc(fileAsString, "laws", [lawTitleNum, lawSectionNum, lawName])
 
 # <markdowncell>
 
@@ -110,11 +110,15 @@ def exception_proof_csv_reader(csv_reader):
 # <codecell>
 
 # Delete the document table (iff you want to replace table with same name):
-if 'twitter' in stdb.document_tables.keys(): #check that the table exists before deleting it
-    stdb.dropDocTable("twitter")
+if 'twitter' in my_stdb.document_tables.keys(): #check that the table exists before deleting it
+    my_stdb.dropDocTable("twitter")
     
 # Creates a document table (and associated machine-generated tables):
-stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'])
+my_stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'],
+                   summary = 0, topics = None, entities = None, 
+                   sentiment = 0, count_words = False, length_count = False, 
+                   vs_representations = 0, max_word_length = 200,
+                   update_increment = 1, new_transaction = False)
 
 redditReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
 count = 0
@@ -135,7 +139,7 @@ with open(redditReadPath, 'rU') as csvfile: #all tweets in single csv file
             count = count - 1
             continue
         #This is how you insert a document into the database using our SemanticTextDB library
-        stdb.insertDoc(tweet, "twitter", [twitterID, location, username])
+        my_stdb.insertDoc(tweet, "twitter", [twitterID, location, username])
         
         #Since the csv is extremely large, set a max number of documents to insert.
         if count >= NUM_TWEETS_TO_INSERT:
