@@ -180,6 +180,9 @@ class SemanticTextDB:
 			print ""
 	
 	
+	def queryByTopic(self, doctable, K = None, topic, )
+	
+	
 	def createDocTable(self, name, user_columns = [], summary = 1,
 	 				   topics = (10,20), entities = None,
      				   sentiment = 1, count_words = True, length_count = True,
@@ -414,11 +417,11 @@ class SemanticTextDB:
 		"""
 		if new_transaction:
 			self.cursor.execute("BEGIN;")
+		last_update_id = self.getLastUpdateID(doctable)
 		if self.isOptionOn('topics', doctable): # Persist Topic Model:
-			self.cursor.callproc("persisttm", [doctable])
+			self.cursor.callproc("persisttm", [doctable, last_update_id])
 		# TODO: persist changes to other models!
 		# Change the _useropts Table's last_update_id value if necessary:
-		last_update_id = self.getLastUpdateID(doctable)
 		if last_update_id > self.getOption("last_update_id", doctable):
 			command = "UPDATE " + doctable + "_useropts SET last_update_id = " + str(last_update_id)
 			self.cursor.execute(command)

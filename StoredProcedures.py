@@ -66,7 +66,8 @@ if len(res) < update_increment:
 	return last_update_id
 update_texts = [row['content'] for row in res]
 GD[doctable + 'update_texts'] = update_texts
-GD[doctable + 'update_ids'] = [row['id'] for row in res]
+update_ids = [row['id'] for row in res]
+GD[doctable + 'update_ids'] = update_ids
 return new_id
 $$ LANGUAGE plpython3u;
 """
@@ -128,6 +129,9 @@ wordcounts_key = doctable + '_wordcounts'
 if wordcounts_key not in GD:
 	plpy.error("Must first call countwords() before traintopicmodels()")
 wordcounts = GD[wordcounts_key]
+if (doctable + 'update_ids') not in GD:
+	plpy.error("Must first call textstoupdate() before traintopicmodels()")
+update_ids = GD[doctable + 'update_ids']
 reread_param = False
 if (doctable + '_d') not in GD:
 	reread_param = True
@@ -187,7 +191,8 @@ else:
 	vocab = GD[doctable + '_vocab']
 word_indices = []
 word_cts = []
-for doc_wordcount in wordcounts:
+for c in range(len(wordcounts)):
+	doc_wordcount = wordcounts[c]
 	word_indices_doc = []
 	word_cts_doc = []
 	for word in doc_wordcount.keys():
@@ -196,13 +201,15 @@ for doc_wordcount in wordcounts:
 				word_indices_doc.append(vocab[word])
 				word_cts_doc.append(doc_wordcount[word])
 			elif (len(vocab) < w):
-				next_index = len(vocab) + 1
+				next_index = len(vocab)
 				vocab[word] = next_index
 				word_indices_doc.append(next_index)
 				word_cts_doc.append(doc_wordcount[word])
 	if len(word_indices_doc) > 0:
 		word_indices.append(word_indices_doc)
 		word_cts.append(word_cts_doc)
+	else:
+		update_ids.pop(c)
 batchD = len(word_indices)
 if batchD == 0:
 	return
@@ -269,11 +276,9 @@ for k in range(min_K, max_K+1):
 			if (meanchange < meanchangethresh):
 				break
 		gamma[dd, :] = gammad
-		if (doctable + '_proportions_'+str(k)) in GD:
-			GD[doctable + '_proportions_'+str(k)].append(gammad / float(sum(gammad)))
-		else:
-			GD[doctable + '_proportions_'+str(k)] = []
-			GD[doctable + '_proportions_'+str(k)].append(gammad / float(sum(gammad)))
+		if (doctable + '_proportions_'+str(k)) not in GD:
+			GD[doctable + '_proportions_'+str(k)] = dict()
+		GD[doctable + '_proportions_'+str(k)][update_ids[dd]] = (gammad / float(sum(gammad)))
 		sstats[:, ids] += numpy.outer(expElogthetad.T, cts/phinorm)
 	sstats = sstats * expElogbeta
 	score = 0
@@ -387,7 +392,7 @@ $$ LANGUAGE plpython3u;
 	
 	# Pushes the dynamic parameters of topic-models associated with the given doctable to disk:
 	persisttm_def = \
-"""CREATE OR REPLACE FUNCTION persisttm (doctable text) RETURNS void
+"""CREATE OR REPLACE FUNCTION persisttm (doctable text, last_update_id bigint) RETURNS void
 AS $$
 if 'numpy' in GD:
 	numpy = GD['numpy']
@@ -409,23 +414,65 @@ if (doctable + '_updatect') in GD:
 		return
 	command = 'UPDATE ' +  doctable + '_topicmodel_sharedparam SET updatect = ' + str(updatect) + ';'
 	plpy.execute(command)
-
 if (doctable + '_scores') in GD:
 	scores = GD[doctable + '_scores']
 for k in range(min_K, max_K+1):
 	if (doctable + '_scores') in GD:
-		command = 'UPDATE ' + doctable + '_topicmodels SET score = ' + str(scores[k - min_K]) + ' WHERE num_topics = k;' 
+		command = 'UPDATE ' + doctable + '_topicmodels SET score = ' + str(scores[k - min_K]) + ' WHERE num_topics = ' + str(k) + ';' 
 		plpy.execute(command)
+if (doctable + '_lambda_'+str(max_K)) in GD:
+	(k, w) = GD[doctable + '_lambda_'+str(max_K)].shape
+else:
+	params = plpy.execute('SELECT * FROM ' + doctable + '_topicmodel_sharedparam;')
+	w = params[0]['w']
 if (doctable + '_vocab') in GD:
 	vocab = GD[doctable + '_vocab']
-for k in range(min_K, max_K+1):	
+else:
+	vocab = dict()
+	res = plpy.execute('SELECT * FROM ' + doctable + '_topics_' + str(k) + ' ORDER BY word_id ASC;')
+	index = 0
+	topic_word = res[index]['word']
+	while ((index < len(res)) and (topic_word != '---')):
+		vocab[topic_word] = index
+		index += 1
+		topic_word = res[index]['word']
+words = ['---'] * w
+for word in vocab:
+	if word is not '---':
+		words[vocab[word]] = word
+for k in range(min_K, max_K+1):
 	if (doctable + '_lambda_'+str(k)) in GD:
 		lambda_k = GD[doctable + '_lambda_'+str(k)]
-		(k, w) = lambda_k.shape
-		command = 'TRUNCATE TABLE ' +  doctable + '_lambda_' + str(k) + ';'
+		command = 'TRUNCATE TABLE ' +  doctable + '_topics_' + str(k) + ';'
 		plpy.execute(command)
+		for i in range(0, w):
+			lambda_k_i = lambda_k[:,i]
+			command = "INSERT INTO " + doctable + '_topics_' + str(k) + ' VALUES ('+ str(i+1) + ', ' + '$zxqy9$' + words[i] + '$zxqy9$'
+			for j in range(0,k):
+				command = command + ', ' + str(lambda_k_i[j])
+			command += ');'
+			plpy.execute(command)
+if (doctable + 'update_ids') in GD:
+	update_ids = GD[doctable + 'update_ids']
+else:
+	res = plpy.execute('SELECT id FROM ' + doctable + ' WHERE id > ' + str(last_update_id) + ' ORDER BY id ASC;')
+	update_ids = [r['id'] for r in res]
+for k in range(min_K, max_K+1):
+	if (doctable + '_proportions_'+str(k)) in GD:
+		proportions_k_dict = GD[doctable + '_proportions_'+str(k)]
+		update_ids = sorted(proportions_k_dict.keys())
+		for i in range(0, len(update_ids)):
+			proportions_k_i = proportions_k_dict[update_ids[i]]
+			command = 'INSERT INTO ' + doctable + '_topicprops_' + str(k) + ' VALUES (' + str(update_ids[i])
+			for j in range(0, k):
+				command = command + ', ' + str(proportions_k_i[j])
+			command += ');'
+			plpy.execute(command)
+			GD[doctable + '_proportions_'+str(k)] = dict()
+			GD[doctable + 'update_ids'] = []
+			GD[doctable + 'update_texts'] = []
 $$ LANGUAGE plpython3u;
 """
 	
-	stored_prodecures_list =[initializelambda_def, textstoupdate_def, countwords_def, traintopicmodels_def, getbounds_def, gettopics_def] # TODO add rest of procedures
+	stored_prodecures_list =[initializelambda_def, textstoupdate_def, countwords_def, traintopicmodels_def, getbounds_def, gettopics_def, persisttm_def] # TODO add rest of procedures
 	return stored_prodecures_list
