@@ -346,20 +346,16 @@ else:
 	GD['numpy'] = numpy
 	if ((doctable + '_vocab') in GD) and ((doctable + '_lambda_' + str(k)) in GD):
 		vocab = GD[doctable + '_vocab']
-		lambda_k = GD[doctable + '_lambda_' + str(k))]
+		lambda_k = GD[doctable + '_lambda_' + str(k)]
 		for i in range(0, k):
 			top_indices = numpy.argsort(lambda_k[i,:])[::-1][:top_words]
 			topic_i_words = [''] * top_words
 			i_prominence = [0] * top_words
 			for w in vocab:
 				if vocab[w] in top_indices:
-					k_words[] = w
-			
-			
-				
-	
+					k_words[] = w	
 $$ LANGUAGE plpython3u;
 """
 	
-	stored_prodecures_list =[initializelambda_def, textstoupdate_def, countwords_def, traintopicmodels_def, getbounds_def, gettopics_def] # TODO add rest of procedures
+	stored_prodecures_list =[initializelambda_def, textstoupdate_def, countwords_def, traintopicmodels_def, getbounds_def] # TODO add rest of procedures
 	return stored_prodecures_list
