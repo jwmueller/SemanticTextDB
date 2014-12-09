@@ -103,7 +103,11 @@ for i in range(NUM_TRIALS):
 
 # <codecell>
 
-trials[0]
+import csv
+
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_10k_insert_only.csv", "wb") as f:
+    writer = csv.writer(f)
+    writer.writerows(law_trials)
 
 # <markdowncell>
 
@@ -169,7 +173,11 @@ for i in range(NUM_TRIALS):
 
 # <codecell>
 
-trials[0]
+import csv
+
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k_insert_only.csv", "wb") as f:
+    writer = csv.writer(f)
+    writer.writerows(twitter_trials)
 
 # <markdowncell>
 
