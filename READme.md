@@ -39,7 +39,7 @@ Other library dependencies:
 2. scipy (pip install scipy)
 3. pyscopg2 which can be installed with pip as follows:
 
-    `$ [sudo] pip install psycopg2`
+    $ [sudo] pip install psycopg2
 
 
 Client Installation - clients use the SemanticTextDB libarary built on psycopg2 python interface driver.
