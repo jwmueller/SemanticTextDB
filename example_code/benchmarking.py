@@ -95,8 +95,8 @@ readPath = "C:/git/SemanticTextDB/example_code/all_US_Law_Codes/"
 author = "United States Government"
 base_time = time.time()
 
-NUM_INTERTIMES = 10
-NUM_TRIALS = 5
+NUM_INTERTIMES = 1
+NUM_TRIALS = 1
 NUM_LAWS = 1001
 
 law_trials = []
@@ -110,10 +110,10 @@ for i in range(NUM_TRIALS):
 
     # Creates a document table (and associated machine-generated tables):
     my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
-                       summary = None, topics = None, entities = None, 
-                       sentiment = False, count_words = False, length_count = False, 
+                       summary = 1, topics = (10,20), entities = None, 
+                       sentiment = True, count_words = False, length_count = False, 
                        vs_representations = None, max_word_length = 200,
-                       update_increment = 1, new_transaction = True)
+                       update_increment = 50, new_transaction = False)
     
     intertimes = []
     count = 0
@@ -158,6 +158,7 @@ for i in range(NUM_TRIALS):
 
 # <codecell>
 
+my_stdb.persistModels('laws')
 
 # <codecell>
 
@@ -195,8 +196,8 @@ warnings.filterwarnings("ignore")
 twitterReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
 base_time = time.time()
 
-NUM_INTERTIMES = 10
-NUM_TRIALS = 5
+NUM_INTERTIMES = 1
+NUM_TRIALS = 1
 NUM_TWEETS = 5001
 
 twitter_trials = []
@@ -210,10 +211,10 @@ for i in range(NUM_TRIALS):
 
     # Creates a document table (and associated machine-generated tables):
     my_stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'],
-                       summary = None, topics = None, entities = None, 
-                       sentiment = False, count_words = False, length_count = False, 
+                       summary = 1, topics = (10,20), entities = None, 
+                       sentiment = True, count_words = False, length_count = False, 
                        vs_representations = None, max_word_length = 200,
-                       update_increment = 1, new_transaction = True)
+                       update_increment = 50, new_transaction = True)
     
     intertimes = []
     count = 0
@@ -275,8 +276,8 @@ with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_5k_
 import NLPfunctions as nlpf
 
 NUM_INTERTIMES = 10
-NUM_TRIALS = 10
-NUM_ITEMS = 50001
+NUM_TRIALS = 2
+NUM_ITEMS = 5001
 
 trials = []
 results = []
@@ -284,7 +285,7 @@ for trial in range(NUM_TRIALS):
     intertimes = []
     for level in range(NUM_ITEMS / NUM_INTERTIMES, NUM_ITEMS, NUM_ITEMS / NUM_INTERTIMES):
         start_time = time.time()
-        cur.execute("SELECT content FROM twitter_text LIMIT " + str(level))
+        cur.execute("SELECT * FROM twitter NATURAL JOIN twitter_topicprops_10 LIMIT " + str(level))
         results = cur.fetchall()       
         intertimes.append(time.time() - start_time)
         print trial, level
@@ -294,7 +295,7 @@ for trial in range(NUM_TRIALS):
 
 import csv
 
-with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k_read_only.csv", "wb") as f:
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_5k_read_all_algorithms.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(trials)
 
@@ -314,7 +315,7 @@ data = pd.read_pickle("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\
 
 NUM_INTERTIMES = 10
 NUM_TRIALS = 2
-NUM_ITEMS = 5001
+NUM_ITEMS = 001
 
 lda_trials = []
 summary_trials = []
