@@ -310,11 +310,11 @@ import pandas as pd
 import summarizer as s
 import runOnDocuments as lda
 
-data = pd.read_pickle("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_10k.p")
+data = pd.read_pickle("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k.p")
 
 NUM_INTERTIMES = 10
-NUM_TRIALS = 10
-NUM_ITEMS = 1001
+NUM_TRIALS = 2
+NUM_ITEMS = 5001
 
 lda_trials = []
 summary_trials = []
@@ -363,6 +363,84 @@ for trial in range(NUM_TRIALS):
     print 'Trial Completed:', trial + 1
     print "Estimated Minutes Left:", (time_elapsed * NUM_TRIALS / (trial + 1.0) - time_elapsed) / 60.0
     print "Time Elapsed:", time_elapsed
+
+# <markdowncell>
+
+# ##The code below is the same as above, just with lda removed.
+
+# <codecell>
+
+import NLPfunctions as nlpf
+import pandas as pd
+import summarizer as s
+import runOnDocuments as lda
+
+data = pd.read_pickle("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_10k.p")
+
+NUM_INTERTIMES = 10
+NUM_TRIALS = 2
+NUM_ITEMS = 1001
+
+summary_trials = []
+sentiment_trials = []
+
+base_time = time.time()
+
+for trial in range(NUM_TRIALS):
+    summary_intertimes = []
+    sentiment_intertimes = []
+    for level in range(NUM_ITEMS / NUM_INTERTIMES, NUM_ITEMS, NUM_ITEMS / NUM_INTERTIMES):
+        
+        data_this_level = data[:level]
+        data_this_level = [item[0] for item in data_this_level]#Remove tuple wrapping strings
+                
+        summaryResults = []
+        sentimentResults = []        
+        
+        sentiment_total_time = 0
+        summary_total_time = 0
+        
+        for item in data_this_level:            
+            start_time = time.time()
+            sentimentResults.append(nlpf.sentimentAnalysis(item))
+            sentiment_total_time = sentiment_total_time + (time.time() - start_time)
+            
+            start_time = time.time()
+            summaryResults.append(s.summarize(item))
+            summary_total_time = summary_total_time + (time.time() - start_time)
+        
+        summary_intertimes.append(summary_total_time)
+        sentiment_intertimes.append(sentiment_total_time) 
+        
+        print trial, level
+        
+    summary_trials.append(summary_intertimes)
+    sentiment_trials.append(sentiment_intertimes)
+    time_elapsed = time.time() - base_time
+    print 'Trial Completed:', trial + 1
+    print "Estimated Minutes Left:", (time_elapsed * NUM_TRIALS / (trial + 1.0) - time_elapsed) / 60.0
+    print "Time Elapsed:", time_elapsed
+
+# <codecell>
+
+import csv
+
+#with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_1k_read_lda_algorithm_on_client.csv", "wb") as f:
+#    writer = csv.writer(f)
+#    writer.writerows(lda_trials)
+ 
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_1k_read_summary_algorithm_on_client.csv", "wb") as f:
+    writer = csv.writer(f)
+    writer.writerows(summary_trials)
+    
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_1k_read_sentiment_algorithm_on_client.csv", "wb") as f:
+    writer = csv.writer(f)
+    writer.writerows(sentiment_trials)
+    
+
+# <codecell>
+
+summary_trials
 
 # <codecell>
 

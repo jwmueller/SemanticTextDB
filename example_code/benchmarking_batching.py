@@ -46,6 +46,8 @@ def clearDB(cur):
 cur.execute("END;")
 cur.execute("ABORT;")
 
+# <codecell>
+
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -165,7 +167,7 @@ for i in range(NUM_TRIALS):
                        summary = None, topics = (10,20), entities = None, 
                        sentiment = False, count_words = False, length_count = False, 
                        vs_representations = None, max_word_length = 200,
-                       update_increment = 10, new_transaction = False)
+                       update_increment = 250, new_transaction = False)
     
     intertimes = []
     count = 0
@@ -210,7 +212,22 @@ for i in range(NUM_TRIALS):
 
 import csv
 
-with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_5k_BATCH10_insert_lda.csv", "wb") as f:
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_5k_BATCH250_insert_lda.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(twitter_trials)
+
+# <codecell>
+
+cur.execute("DROP TABLE twitter_topicmodels")
+
+# <codecell>
+
+my_stdb.allTables()
+
+# <codecell>
+
+twitter_trials
+
+# <codecell>
+
 
