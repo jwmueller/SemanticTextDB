@@ -46,6 +46,7 @@ Client Installation - clients use the SemanticTextDB libarary built on psycopg2 
 ---------------------------------------------------------------
 
 Clients using SemanticTextDB requires:
+
 1. psycopg2
 
     `$ [sudo] pip install psycopg2`
@@ -53,7 +54,7 @@ Clients using SemanticTextDB requires:
 2. NLTK - download within python terminal. A GUI will pop-up. Click download.
 
     `>>> import nltk`
-    
+
     `>>> nltk.download()`
 
 3. textblob (and its dependencies)
