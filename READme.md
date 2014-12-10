@@ -39,8 +39,6 @@ Other library dependencies:
 2. scipy (pip install scipy)
 3. pyscopg2 which can be installed with pip as follows:
 
-.. code-block:: bash
-
     $ [sudo] pip install psycopg2
 
 
@@ -56,8 +54,6 @@ Clients using SemanticTextDB requires:
 
 2. NLTK - download within python terminal
 
-.. code-block:: python
-
     >>> import nltk
     >>> nltk.download()
 
@@ -65,13 +61,9 @@ A GUI will pop-up. Click download.
 
 3. textblob (and its dependencies)
 
-.. code-block:: bash
-
     $ [sudo] pip install -U textblob
 
 4. sumy (and its dependencies)
-
-.. code-block:: bash
 
     $ [sudo] pip install sumy
 
@@ -79,4 +71,7 @@ A GUI will pop-up. Click download.
 Using SemanticTextDB
 --------------------
 
-Simply clone the repo and refer to SemanticTextDB_Tutorial for documentation.
+Simply clone the repo and refer to SemanticTextDB_Tutorial.py for documentation.
+
+We STRONGLY recommend using iPython Notebook for viewing the SemanticTextDB_Tutorial.py.
+Use SemanticTextDB_Tutorial.ipynb when viewing in ipython notebook. The experience is highly enhanced.
