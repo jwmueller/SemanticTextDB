@@ -43,19 +43,40 @@ my_stdb = stdb.SemanticTextDB(conn, cur)
 # Returns a list of all tables in underyling DB:
 my_stdb.allTables()
 
-#Returns a list of only document tables in the DB:
+#Returns a list of only document tables in the DB:m
 my_stdb.allDocTables()
 
-# Delete the document table (iff you want to replace table with same name):
-if 'laws' in my_stdb.document_tables.keys(): #check that the table exists before deleting it
-    my_stdb.dropDocTable("laws")
-    
-# Creates a document table (and associated machine-generated tables):
-my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
-                   summary = None, topics = None, entities = None, 
-                   sentiment = False, count_words = False, length_count = False, 
-                   vs_representations = 0, max_word_length = 200,
-                   update_increment = 1, new_transaction = False)
+# <markdowncell>
+
+# ##Delete all tables
+
+# <codecell>
+
+# PRINTS ALL TABLES IN DB:
+def allTables(cur):
+    cur.execute("select table_name from information_schema.tables WHERE table_schema='public' AND table_type='BASE TABLE';")
+    return [x[0] for x in cur.fetchall()]
+
+# Shows at most 5 results from table:
+def seeTable(cur, name):
+    cur.execute("select * from " + name + ";")
+    x = cur.fetchall()
+    if len(x) < 5:
+        return x
+    else:
+        return x[:4]
+
+
+# Deletes all tables from DB:	
+def clearDB(cur):
+    x = allTables(cur)
+    for t in x:
+        cur.execute("DROP TABLE " + t + ";")
+        cur.execute("COMMIT;")
+
+# <codecell>
+
+clearDB(cur)
 
 # <markdowncell>
 
@@ -63,16 +84,37 @@ my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 
 
 # <codecell>
 
+cur.execute("END;")
+cur.execute("ABORT;")
+
+import warnings
+warnings.filterwarnings("ignore")
+
 import re
 readPath = "C:/git/SemanticTextDB/example_code/all_US_Law_Codes/"
 author = "United States Government"
+base_time = time.time()
 
-NUM_INTERTIMES = 1
-NUM_TRIALS = 1
-NUM_LAWS = 10001
+NUM_INTERTIMES = 10
+NUM_TRIALS = 5
+NUM_LAWS = 1001
 
 law_trials = []
 for i in range(NUM_TRIALS):
+    
+    clearDB(cur)
+
+    # Delete the document table (iff you want to replace table with same name):
+    if 'laws' in my_stdb.document_tables.keys(): #check that the table exists before deleting it
+        my_stdb.dropDocTable("laws")
+
+    # Creates a document table (and associated machine-generated tables):
+    my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
+                       summary = None, topics = None, entities = None, 
+                       sentiment = False, count_words = False, length_count = False, 
+                       vs_representations = None, max_word_length = 200,
+                       update_increment = 1, new_transaction = True)
+    
     intertimes = []
     count = 0
     totaltime = 0
@@ -94,22 +136,34 @@ for i in range(NUM_TRIALS):
                 count = count - 1
                 continue
             else:
+                #stringToInsert = unicode(fileAsString, 'utf-8')
+                fileAsString = re.sub(r'-', ' ', fileAsString)
+                fileAsString = re.sub(r'[^a-z ]', '', fileAsString)
+                fileAsString = re.sub(r' +', ' ', fileAsString)
+                
                 start_time = time.time()
                 my_stdb.insertDoc(fileAsString, "laws", [lawTitleNum, lawSectionNum, lawName])
                 totaltime = totaltime + (time.time() - start_time)
                 if count % (NUM_LAWS / NUM_INTERTIMES) == 0:
+                    print count
                     intertimes.append(totaltime)
         if count >= NUM_LAWS:
             break
-                
+    time_elapsed = time.time() - base_time
+    print 'Trial Completed:', i
+    print "Estimated Minutes Left:", (time_elapsed * NUM_TRIALS / (i + 1.0) - time_elapsed) / 60.0
+    print "Time Elapsed:", time_elapsed
     law_trials.append(intertimes)
     
 
 # <codecell>
 
+
+# <codecell>
+
 import csv
 
-with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_10k_insert_only.csv", "wb") as f:
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_1k_insert_only_NEW_TRANSACTION_TRUE.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(law_trials)
 
@@ -131,31 +185,41 @@ def exception_proof_csv_reader(csv_reader):
 
 # <codecell>
 
-# Delete the document table (iff you want to replace table with same name):
-if 'twitter' in my_stdb.document_tables.keys(): #check that the table exists before deleting it
-    my_stdb.dropDocTable("twitter")
-    
-# Creates a document table (and associated machine-generated tables):
-my_stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'],
-                   summary = None, topics = None, entities = None, 
-                   sentiment = False, count_words = False, length_count = False, 
-                   vs_representations = 0, max_word_length = 200,
-                   update_increment = 1, new_transaction = False)
+cur.execute("END;")
+cur.execute("ABORT;")
 
-redditReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
+import re
+import warnings
+warnings.filterwarnings("ignore")
 
-NUM_INTERTIMES = 1
-NUM_TRIALS = 1
-NUM_TWEETS = 50001
+twitterReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
+base_time = time.time()
+
+NUM_INTERTIMES = 10
+NUM_TRIALS = 5
+NUM_TWEETS = 5001
 
 twitter_trials = []
 for i in range(NUM_TRIALS):
+    
+    clearDB(cur)
+    
+    # Delete the document table (iff you want to replace table with same name):
+    if 'twitter' in my_stdb.document_tables.keys(): #check that the table exists before deleting it
+        my_stdb.dropDocTable("twitter")
+
+    # Creates a document table (and associated machine-generated tables):
+    my_stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'],
+                       summary = None, topics = None, entities = None, 
+                       sentiment = False, count_words = False, length_count = False, 
+                       vs_representations = None, max_word_length = 200,
+                       update_increment = 1, new_transaction = True)
+    
     intertimes = []
     count = 0
     totaltime = 0
-    with open(redditReadPath, 'rU') as csvfile:
+    with open(twitterReadPath, 'rU') as csvfile:
         reader = exception_proof_csv_reader(csv.reader(csvfile, delimiter=','))
-        start_time = time.time()
         for row in reader:
             count = count + 1
             try:           
@@ -169,25 +233,36 @@ for i in range(NUM_TRIALS):
                 continue
             
             start_time = time.time()
-            try:
-                my_stdb.insertDoc(tweet, "twitter", [twitterID, location, username])
-            except:
-                count = count - 1
-                continue
+            
+            tweet = re.sub(r'-', ' ', tweet)
+            tweet = re.sub(r'[^a-z ]', '', tweet)
+            tweet = re.sub(r' +', ' ', tweet)
+
+            start_time = time.time()
+            my_stdb.insertDoc(tweet, "twitter", [twitterID, location, username])
+            
             totaltime = totaltime + (time.time() - start_time)
             
             if count % (NUM_TWEETS / NUM_INTERTIMES) == 0:
-                    intertimes.append(totaltime)
+                intertimes.append(totaltime)                    
+                print count
             if count >= NUM_TWEETS:
                 break
-                
+    time_elapsed = time.time() - base_time
+    print 'Trial Completed:', i
+    print "Estimated Minutes Left:", (time_elapsed * NUM_TRIALS / (i + 1.0) - time_elapsed) / 60.0
+    print "Time Elapsed:", time_elapsed     
     twitter_trials.append(intertimes)
+
+# <codecell>
+
+twitter_trials
 
 # <codecell>
 
 import csv
 
-with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k_insert_only.csv", "wb") as f:
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_5k_insert_only_NEW_TRANSACTION_TRUE.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(twitter_trials)
 
@@ -201,30 +276,97 @@ import NLPfunctions as nlpf
 
 NUM_INTERTIMES = 10
 NUM_TRIALS = 10
-NUM_ITEMS = 10001
+NUM_ITEMS = 50001
 
-law_trials = []
+trials = []
 results = []
 for trial in range(NUM_TRIALS):
     intertimes = []
     for level in range(NUM_ITEMS / NUM_INTERTIMES, NUM_ITEMS, NUM_ITEMS / NUM_INTERTIMES):
-        #print level
         start_time = time.time()
-        cur.execute("SELECT content FROM laws_text LIMIT " + str(level))
-        results = cur.fetchall()
-        #saResults = []
-        #for item in results:
-            #saResults.append(nlpf.sentimentAnalysis(item[0]))
+        cur.execute("SELECT content FROM twitter_text LIMIT " + str(level))
+        results = cur.fetchall()       
         intertimes.append(time.time() - start_time)
-    law_trials.append(intertimes)
+        print trial, level
+    trials.append(intertimes)
 
 # <codecell>
 
 import csv
 
-with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_10k_read_only.csv", "wb") as f:
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k_read_only.csv", "wb") as f:
     writer = csv.writer(f)
-    writer.writerows(law_trials)
+    writer.writerows(trials)
+
+# <codecell>
+
+import pickle
+pickle.dump(results, open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k.p", "wb"))
+
+# <codecell>
+
+import NLPfunctions as nlpf
+import pandas as pd
+import summarizer as s
+import runOnDocuments as lda
+
+data = pd.read_pickle("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_10k.p")
+
+NUM_INTERTIMES = 10
+NUM_TRIALS = 10
+NUM_ITEMS = 1001
+
+lda_trials = []
+summary_trials = []
+sentiment_trials = []
+
+base_time = time.time()
+
+for trial in range(NUM_TRIALS):
+    lda_intertimes = []
+    summary_intertimes = []
+    sentiment_intertimes = []
+    for level in range(NUM_ITEMS / NUM_INTERTIMES, NUM_ITEMS, NUM_ITEMS / NUM_INTERTIMES):
+        
+        data_this_level = data[:level]
+        data_this_level = [item[0] for item in data_this_level]#Remove tuple wrapping strings
+        
+        start_time = time.time()        
+        ldaResults = []        
+        ldaResults.append(lda.runLDA(data_this_level))
+        lda_intertimes.append(time.time() - start_time)
+        
+        summaryResults = []
+        sentimentResults = []        
+        
+        sentiment_total_time = 0
+        summary_total_time = 0
+        
+        for item in data_this_level:            
+            start_time = time.time()
+            sentimentResults.append(nlpf.sentimentAnalysis(item))
+            sentiment_total_time = sentiment_total_time + (time.time() - start_time)
+            
+            start_time = time.time()
+            summaryResults.append(s.summarize(item))
+            summary_total_time = summary_total_time + (time.time() - start_time)
+        
+        summary_intertimes = [summary_total_time]
+        sentiment_intertimes = [sentiment_total_time] 
+        
+        print trial, level
+        
+    lda_trials.append(lda_intertimes)
+    summary_trials.append(summary_intertimes)
+    sentiment_trials.append(sentiment_intertimes)
+    time_elapsed = time.time() - base_time
+    print 'Trial Completed:', trial + 1
+    print "Estimated Minutes Left:", (time_elapsed * NUM_TRIALS / (trial + 1.0) - time_elapsed) / 60.0
+    print "Time Elapsed:", time_elapsed
+
+# <codecell>
+
+reload(lda)
 
 # <markdowncell>
 

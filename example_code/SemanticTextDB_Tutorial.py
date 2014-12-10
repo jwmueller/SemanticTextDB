@@ -56,7 +56,7 @@ if 'laws' in my_stdb.document_tables.keys(): #check that the table exists before
 my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
                    summary = None, topics = None, entities = None, 
                    sentiment = False, count_words = False, length_count = False, 
-                   vs_representations = 0, max_word_length = 200,
+                   vs_representations = None, max_word_length = 200,
                    update_increment = 1, new_transaction = False)
 
 # <markdowncell>
@@ -117,14 +117,14 @@ if 'twitter' in my_stdb.document_tables.keys(): #check that the table exists bef
 my_stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'],
                    summary = None, topics = None, entities = None, 
                    sentiment = False, count_words = False, length_count = False, 
-                   vs_representations = 0, max_word_length = 200,
+                   vs_representations = None, max_word_length = 200,
                    update_increment = 1, new_transaction = False)
 
-redditReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
+twitterReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
 count = 0
 NUM_TWEETS_TO_INSERT = 1000000
 
-with open(redditReadPath, 'rU') as csvfile: #all tweets in single csv file
+with open(twitterReadPath, 'rU') as csvfile: #all tweets in single csv file
     reader = exception_proof_csv_reader(csv.reader(csvfile, delimiter=','))
     for row in reader:
         count = count + 1
@@ -161,7 +161,7 @@ cur.execute("ABORT;")
 
 # <markdowncell>
 
-# ##Using our machine-generated tables. Everytime you insert a document, machine generated tables are created. One of these tables is called "tablename_text." This table contains the actual text for each document you've inserted. For example the twitter table and twitter_text table can be joined by id. Thus, you can efficiently find documents of interest in the twitter table, then view the text in the twitter_text table. This allows for efficient manipulation of tables containing many documents without handling all of the text for each document simultaneously. 
+# ##Using our machine-generated tables. Everytime you insert a document, machine generated tables are created. One of these tables is called "tablename_text." This table contains the actual text for each document you've inserted. For example the twitter table and twitter_text table can be joined by id. Thus, you can efficiently find documents of interest in the twitter table, then view the text in the twitter_text table. This allows for efficient manipulation of tables containing many documents without handling all of the text for each document for non-text queries (like selecting author). 
 
 # <codecell>
 
