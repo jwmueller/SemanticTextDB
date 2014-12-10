@@ -39,7 +39,7 @@ Other library dependencies:
 2. scipy (pip install scipy)
 3. pyscopg2 which can be installed with pip as follows:
 
-    $ [sudo] pip install psycopg2
+    `$ [sudo] pip install psycopg2`
 
 
 Client Installation - clients use the SemanticTextDB libarary built on psycopg2 python interface driver.
@@ -48,24 +48,20 @@ Client Installation - clients use the SemanticTextDB libarary built on psycopg2 
 Clients using SemanticTextDB requires:
 1. psycopg2
 
-.. code-block:: bash
+    `$ [sudo] pip install psycopg2`
 
-    $ [sudo] pip install psycopg2
+2. NLTK - download within python terminal. A GUI will pop-up. Click download.
 
-2. NLTK - download within python terminal
-
-    >>> import nltk
-    >>> nltk.download()
-
-A GUI will pop-up. Click download.
+    `>>> import nltk`
+    `>>> nltk.download()`
 
 3. textblob (and its dependencies)
 
-    $ [sudo] pip install -U textblob
+    `$ [sudo] pip install -U textblob`
 
 4. sumy (and its dependencies)
 
-    $ [sudo] pip install sumy
+    `$ [sudo] pip install sumy`
 
 
 Using SemanticTextDB
