@@ -54,8 +54,8 @@ if 'laws' in my_stdb.document_tables.keys(): #check that the table exists before
     
 # Creates a document table (and associated machine-generated tables):
 my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
-                   summary = 0, topics = None, entities = None, 
-                   sentiment = 0, count_words = False, length_count = False, 
+                   summary = None, topics = None, entities = None, 
+                   sentiment = False, count_words = False, length_count = False, 
                    vs_representations = 0, max_word_length = 200,
                    update_increment = 1, new_transaction = False)
 
@@ -115,8 +115,8 @@ if 'twitter' in my_stdb.document_tables.keys(): #check that the table exists bef
     
 # Creates a document table (and associated machine-generated tables):
 my_stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username text'],
-                   summary = 0, topics = None, entities = None, 
-                   sentiment = 0, count_words = False, length_count = False, 
+                   summary = None, topics = None, entities = None, 
+                   sentiment = False, count_words = False, length_count = False, 
                    vs_representations = 0, max_word_length = 200,
                    update_increment = 1, new_transaction = False)
 

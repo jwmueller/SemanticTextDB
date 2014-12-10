@@ -13,28 +13,71 @@ NLP algorithms stored and run inside the database.
 
 Installation
 ------------
-Make sure you have Python_ 2.6+/3.2+ and `pip <https://crate.io/packages/pip/>`_
+
+You will need Python 3.2 and `pip <https://crate.io/packages/pip/>`_
 (`Windows <http://docs.python-guide.org/en/latest/starting/install/win/>`_,
 `Linux <http://docs.python-guide.org/en/latest/starting/install/linux/>`_) installed.
-Run simply (preferred way):
+
+See next two sections for server and client installation.
+
+Server (wherever the postgresql database is running) Installation
+-----------------------------------------------------------------
+The postgresql server requires:
+1. Python 3 installed
+2. PL/Python installed. This is installed as follows in postgresql on the server:
+
+.. code-block:: bash
+	$ [postgresql] CREATE OR REPLACE LANGUAGE plypython3u;
+
+You can also just run this in python using the psycopg2 library as follows:
+
+.. code-block:: python
+	cur = conn.cursor() #where conn is the psycopg2.connect() connection to the database
+	cur.execute("CREATE OR REPLACE LANGUAGE plypthon3u;")
+
+Other library dependencies:
+1. numpy (pip install numpy)
+2. scipy (pip install scipy)
+3. pyscopg2 which can be installed with pip as follows:
+
+.. code-block:: bash
+
+    $ [sudo] pip install psycopg2
+
+
+Client Installation - clients use the SemanticTextDB libarary built on psycopg2 python interface driver.
+---------------------------------------------------------------
+
+Clients using SemanticTextDB requires:
+1. psycopg2
+
+.. code-block:: bash
+
+    $ [sudo] pip install psycopg2
+
+2. NLTK - download within python terminal
+
+.. code-block:: python
+
+    >>> import nltk
+    >>> nltk.download()
+
+A GUI will pop-up. Click download.
+
+3. textblob (and its dependencies)
+
+.. code-block:: bash
+
+    $ [sudo] pip install -U textblob
+
+4. sumy (and its dependencies)
 
 .. code-block:: bash
 
     $ [sudo] pip install sumy
 
 
-Or for the fresh version:
+Using SemanticTextDB
+--------------------
 
-.. code-block:: bash
-
-    $ [sudo] pip install git+git://github.com/miso-belica/sumy.git
-
-
-Or if you have to:
-
-.. code-block:: bash
-
-    $ wget https://github.com/miso-belica/sumy/archive/master.zip # download the sources
-    $ unzip master.zip # extract the downloaded file
-    $ cd sumy-master/
-    $ [sudo] python setup.py install # install the package
+Simply clone the repo and refer to SemanticTextDB_Tutorial for documentation.
