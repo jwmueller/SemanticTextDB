@@ -35,8 +35,15 @@ You can also just run this in python using the psycopg2 library as follows:
 `cur.execute("CREATE OR REPLACE LANGUAGE plypthon3u;")`
 
 Other library dependencies:
+
 1. numpy (pip install numpy)
+
+    $ [sudo] pip install numpy
+
 2. scipy (pip install scipy)
+
+    $ [sudo] pip install scipy
+
 3. pyscopg2 which can be installed with pip as follows:
 
     $ [sudo] pip install psycopg2
