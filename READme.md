@@ -26,10 +26,9 @@ The postgresql server requires:
 1. Python 3 installed
 2. PL/Python installed. This is installed as follows in postgresql on the server:
 
+`CREATE OR REPLACE LANGUAGE plypython3u;`
 
-`postgres=# CREATE OR REPLACE LANGUAGE plypython3u;`
-
-You can also just run this in python using the psycopg2 library as follows:
+You can also just run this (from the client) in python using the psycopg2 library as follows:
 
 `cur = conn.cursor() #where conn is the psycopg2.connect() connection to the database`
 `cur.execute("CREATE OR REPLACE LANGUAGE plypthon3u;")`
@@ -60,9 +59,9 @@ Clients using SemanticTextDB requires:
 
 2. NLTK - download within python terminal. A GUI will pop-up. Click download.
 
-    `>>> import nltk`
+    `import nltk`
 
-    `>>> nltk.download()`
+    `nltk.download()`
 
 3. textblob (and its dependencies)
 
