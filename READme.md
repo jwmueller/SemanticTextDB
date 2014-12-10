@@ -11,7 +11,25 @@ semantics, topics, sentiment, eloquence, and entities of interest.
 Inference of these properties is done using various statistical models and 
 NLP algorithms stored and run inside the database.
 
-What is SemanticTextDB used for?
+==========================================
+What makes SemanticTextDB so cool?
+==========================================
+
+We support augmented postgreSQL SELECT statments via the semanticSelect() API. This method provides you the power of cutting edge NLP
+algorithms, with no additional coding. Its as easy as:
+
+`semanticSelect(table_name, postgreSQL_SELECT_statment, NLP_feature, feature_param)`
+
+For example, we can find President Obama's approval rating given a twitter table as follows:
+
+`statement = "SELECT COUNT(*) FROM twitter_text WHERE content LIKE '%Barack Obama%' AND twitter_text.country = 'US'"`
+`posCount = my_stdb.semanticSelect('twitter_text', statement, 'positive_only', 0.8)`
+`negCount = my_stdb.semanticSelect('twitter_text', statement, 'negative_only', -0.8)`
+`approval_rating = posCount / negCount #assuming negCount != 0.`
+
+==========================================
+Use Cases: The power of SemanticTextDB
+==========================================
 
 1. SELECT documents by topic. (e.g. lawyers can search for laws pertaining to the topic "transportation safety.")
 
