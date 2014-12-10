@@ -14,9 +14,7 @@ NLP algorithms stored and run inside the database.
 Installation
 ------------
 
-You will need Python 3.2 and `pip <https://crate.io/packages/pip/>`_
-(`Windows <http://docs.python-guide.org/en/latest/starting/install/win/>`_,
-`Linux <http://docs.python-guide.org/en/latest/starting/install/linux/>`_) installed.
+You will need Python 3.2 and pip installed.
 
 See next two sections for server and client installation.
 
