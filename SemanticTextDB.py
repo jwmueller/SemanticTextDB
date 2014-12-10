@@ -114,7 +114,7 @@ class SemanticTextDB:
 		for opt_table in self.opt_tables:
 			doctable_name = opt_table[:-9]
 			self.document_tables[doctable_name] = self.initializeDocumentTableInfo(doctable_name)
-		self.cursor.execute("CREATE OR REPLACE LANGUAGE plpython3u;")
+		# self.cursor.execute("CREATE OR REPLACE LANGUAGE plpython3u;")
 		self.createStoredProcedures()
 		print "Document tables in this database: ",
 		print self.document_tables.keys()
@@ -188,8 +188,8 @@ class SemanticTextDB:
 	
 	def createDocTable(self, name, user_columns = [], summary = 1,
 	 				   topics = (10,20), entities = None,
-     				   sentiment = 1, count_words = True, length_count = True,
-     				   vs_representations = 1, max_word_length = 200,
+     				   sentiment = True, count_words = False, length_count = False,
+     				   vs_representations = None, max_word_length = 200,
      				   update_increment = 1, new_transaction = True):
 		""" Creates a new document table
 		:param name: The string-name of the Postgres table housing documents in this table.
@@ -198,19 +198,21 @@ class SemanticTextDB:
 		user-defined columns that should exist in the document-table.
 		None of the given colNames should be any of: 
 		'auto_length_count', 'auto_sentiment', 'auto_summary', 'auto_insert_time'
-		:param summary: Integer specifying a parameter-related to the summarization
-		algorithm (TODO)
+		:param summary: Integer specifying the length (in number of sentences) of the summaries produced 
 		:param topics: Tuple of two integers specifying minimum and maximum number 
-		of topics to track (minimum must be >1)
+		of topics to track (minimum must be >1). Set to 'None' to turn off automatic summarization.
+		If not None, then the DocumentTable will contain a column named 'auto_summary' containing
+		summaries of each document. 
 		:param entities: Integer specifying a parameter-related to the entity resolution
-		algorithm (TODO)
+		algorithm (TODO: not implemented yet)
 		:param length_count: Boolean specifying whether this table should automatically 
-		count total number of words in documents.
-		:param sentiment: Integer specifying a parameter-related to the sentiment analysis 
-		algorithm (TODO)
+		count total number of words in documents (TODO: not implemented yet).
+		:param sentiment: Boolean specifying whether or not to automatically compute  
+		and store sentiment-values for each document. If = True, then the DocumentTable
+		will contain a column named 'auto_sentiment' containing the sentiment of each document. 
 		:param vs_representations: Integer specifying the dimension of the
 		vectors which are used to represent each word in the neural-network word 
-		embedding.
+		representation (TODO: not implemented yet).
 		:param max_word_length: Integer specifying the maximum word-length 
 		(number of characters) to store in the *_wordinfo table.
 		:param update_increment: Integer x which specifies that models are
@@ -275,7 +277,7 @@ class SemanticTextDB:
 	
 	
 	def insertDoc(self, text, table_name, user_column_vals = [], id = None,
-				  new_transaction = True):
+				  new_transaction = True, persist_updates = False):
 		""" Inserts a document into the DB and automatically updates
 		models if necessary.
 		:param text: the text of the document (string)
@@ -290,6 +292,8 @@ class SemanticTextDB:
 		:param new_transaction: Boolean specifying whether a new transaction
 		should be created for the operations in this function 
 		(set to True if this insert is not part of a larger Transaction).
+		:param persist_updates: Should the online parameter updates to the large models
+		be persisted to disk? For faster insertion , only persist to disk at the end of 	
 		"""
 		if table_name not in self.document_tables:
 			raise LookupError(table_name + " is an unknown document table")
@@ -314,9 +318,9 @@ class SemanticTextDB:
 		command += ", clock_timestamp()"
 		if self.document_tables[table_name].length_count_option:
 			command += ", NULL" # TODO: Implement length-counting
-		if self.document_tables[table_name].sentiment_option is not None:
-			command += ", NULL" # TODO: Implement sentiment-analysis
-		if self.document_tables[table_name].summary_option is not None:
+		if self.isOptionOn('sentiment', table_name):
+			command += ", " + str(nlpf.sentimentAnalysis(text))
+		if self.isOptionOn('summary', table_name):
 			command += ", " + "$zxqy9$" + summarizer.summarize(text, 
 						summary_length = self.getOption('summary', table_name)) + "$zxqy9$" 
 		command += ");"
@@ -463,141 +467,6 @@ class SemanticTextDB:
 		return 0 # TODO
 	
 	
-	def _initializeDocTable(self, name, user_columns, summary, 
-							sentiment, length_count):
-		"""
-		Actually creates documents table in underlying Postgres DB.
-		Helper function for createDocTable(), not meant to be used on its own.
-		"""
-		command = "CREATE TABLE " + name + " (id serial PRIMARY KEY, "
-		for col in user_columns:
-			colName = col.split()
-			if ((len(colName) != 2) or 
-			   (colName in ['auto_length_count','auto_sentiment','auto_summary','insert_time'])):
-				raise ValueError("column specification: " + col + 
-							     " is incorrectly formatted/named")
-			command = command + col + ", "
-		command = command + "auto_insert_time timestamp"
-		if length_count:
-			command = command + ", auto_length_count integer"
-		
-		if sentiment is not None:
-				command = command + ", auto_sentiment numeric"
-		if summary is not None:
-			command = command + ", auto_summary text"
-		command = command + ");"
-		self.cursor.execute(command)
-	
-	
-	def _initializeOptionsTable(self, name, summary, topics, entities, sentiment,
-							   count_words, length_count, vs_representations,
-							   max_word_length, update_increment):
-		"""
-		Creates *_useropts table in underlying DB associated
-		with a Document Table, which contains a single row, in which
-		the fields are the user-specified settings.
-		Helper function for createDocTable(), not meant to be used on its own.
-		"""
-		opt_table_name = name + "_useropts"
-		buildcommand = "CREATE TABLE " + opt_table_name + " (" + \
-				  "summary integer, topics integer[2], entities integer, sentiment integer, " + \
-				  "count_words boolean, length_count boolean, vs_representations integer, " + \
-				  "max_word_length integer, update_increment integer, " + \
-				  "last_update_id integer);"
-				  # TODO: fix the types of these columns once algorithms are implemented.
-		self.cursor.execute(buildcommand)
-		command = "INSERT INTO " + opt_table_name + " VALUES ("
-		if isinstance(summary, int):
-			command = command + str(summary) + ", "
-		elif summary is None:
-			command += "NULL, "
-		else:
-			raise ValueError("summary must be integer")
-		if (topics is not None) and (len(topics) == 2) and \
-		 isinstance(topics[0], int) and isinstance(topics[1], int):
-			command = command + "'{" + str(topics[0]) + ", " + str(topics[1]) + "}', "
-		elif topics is None:
-			command += "NULL, "
-		else:
-			raise ValueError("topics must be tuple of two integers")
-		if isinstance(entities, int):
-			command = command + str(entities) + ", "
-		elif entities is None:
-			command += "NULL, "
-		else:
-			raise ValueError("entities must be integer")
-		if isinstance(sentiment, int):
-			command = command + str(sentiment) + ", "
-		elif sentiment is None:
-			command += "NULL, "
-		else:
-			raise ValueError("sentiment must be integer")
-		if isinstance(count_words, bool):
-			if count_words:
-				command += "TRUE, "
-			else:
-				command += "FALSE, "
-		elif count_words is None:
-			command += "NULL, "
-		else:
-			raise ValueError("count_words must be boolean")
-		if isinstance(length_count, bool):
-			if length_count:
-				command += "TRUE, "
-			else:
-				command += "FALSE, "
-		elif length_count is None:
-			command += "NULL, "
-		else:
-			raise ValueError("length_count must be boolean")
-		if isinstance(vs_representations, int):
-			command = command + str(vs_representations) + ", "
-		elif vs_representations is None:
-			command += "NULL, "
-		else:
-			raise ValueError("vs_representations must be integer")
-		if isinstance(max_word_length, int):
-			command = command + str(max_word_length) + ", "
-		elif max_word_length is None:
-			command += "NULL, "
-		else:
-			raise ValueError("max_word_length must be integer")
-		if isinstance(update_increment, int):
-			command = command + str(update_increment) + ", "
-		elif update_increment is None:
-			command += "NULL, "
-		else:
-			raise ValueError("update_increment must be integer")
-		command = command + str(0) + ");" # for last_update_id.
-		self.cursor.execute(command)
-		return opt_table_name
-	
-	
-	def _initializeWordinfoTable(self, name, count_words, vs_representations,
-								max_word_length):
-		"""
-		Actually creates *_wordinfo table in underlying DB associated
-		with a Document Table, only if either the count_words or vs_representations
-		options are specified.
-		Helper function for createDocTable(), not meant to be used on its own.
-		"""
-		if count_words:
-			if (vs_representations is not None):
-				self.cursor.execute("CREATE TABLE " + name + \
-							"_wordinfo (word varchar(" + str(max_word_length) + \
-							"), count integer, vector numeric[" + \
-							str(vs_representations) + "]);")
-			else:
-				self.cursor.execute("CREATE TABLE " + name + \
-					"_wordinfo (word varchar(" + str(max_word_length) + \
-									"), count integer);")
-		elif vs_representations is not None:
-			self.cursor.execute("CREATE TABLE " + name + \
-							"_wordinfo (word varchar(" + str(max_word_length) + \
-							"), vector numeric[" + str(vs_representations) + "]);")
-			# TODO: create index on wordinfo word column vs. without index
-	
-			
 	def initializeTopicModel(self, doctable, min_K = 5, max_K = 50, D = 1e6, W = 1e4, alphas = None,
 							 etas = None, tau0 = 1024., kappa = 0.7,
 							 additional_stopwords = [], new_transaction = True):
@@ -687,9 +556,21 @@ class SemanticTextDB:
 		"""
 		:returns: a list of all the column names in the specified table.
 		"""
-		self.cursor.execute("select column_name from information_schema.columns where table_name = '" + table +"';")
+		self.cursor.execute("SELECT column_name FROM information_schema.columns WHERE table_name = '" + table +"';")
 		res = self.cursor.fetchall()
 		return [c[0] for c in res]
+	
+	
+	def seeTable(self, name, N = 5):
+		"""
+		Returns at most N rows from table with the given name.
+		"""
+		self.cursor.execute("SELECT * FROM " + name + ";")
+		x = cur.fetchall()
+		if len(x) < 5:
+			return x
+		else:
+			return x[:4]
 	
 	
 	def getOption(self, option, doctable):
@@ -712,11 +593,16 @@ class SemanticTextDB:
 		'on' may mean different things for different options.
 		""" 
 		opt_setting = self.getOption(option, doctable)
-		if (option == 'topics') and (opt_setting is not None):
-			return True
+		if (option in ['topics', 'summary']): 
+			if (opt_setting is not None):
+				return True
+			else:
+				return False
+		elif (option in ['sentiment', 'count_words']):
+			return opt_setting
 		else:
-			return False
-		# TODO: implement this for the rest of the options
+			raise ValueError(option + " is an unknown option")
+		# TODO: implement this for other options
 	
 	
 	def setOption(self, option, doctable, new_value):
@@ -765,6 +651,142 @@ class SemanticTextDB:
 		
 		if (len(re.findall(".*_useropts$", name)) > 0):
 			raise ValueError(name + " cannot end with '_useropts'")
+	
+	
+	def _initializeDocTable(self, name, user_columns, summary, 
+							sentiment, length_count):
+		"""
+		Actually creates documents table in underlying Postgres DB.
+		Helper function for createDocTable(), not meant to be used on its own.
+		"""
+		command = "CREATE TABLE " + name + " (id serial PRIMARY KEY, "
+		for col in user_columns:
+			colName = col.split()
+			if ((len(colName) != 2) or 
+			   (colName in ['auto_length_count','auto_sentiment','auto_summary','insert_time'])):
+				raise ValueError("column specification: " + col + 
+							     " is incorrectly formatted/named")
+			command = command + col + ", "
+		command = command + "auto_insert_time timestamp"
+		if length_count:
+			command = command + ", auto_length_count integer"
+		
+		if sentiment:
+				command = command + ", auto_sentiment numeric"
+		if summary is not None:
+			command = command + ", auto_summary text"
+		command = command + ");"
+		self.cursor.execute(command)
+	
+	
+	def _initializeOptionsTable(self, name, summary, topics, entities, sentiment,
+							   count_words, length_count, vs_representations,
+							   max_word_length, update_increment):
+		"""
+		Creates *_useropts table in underlying DB associated
+		with a Document Table, which contains a single row, in which
+		the fields are the user-specified settings.
+		Helper function for createDocTable(), not meant to be used on its own.
+		"""
+		opt_table_name = name + "_useropts"
+		buildcommand = "CREATE TABLE " + opt_table_name + " (" + \
+				  "summary integer, topics integer[2], entities integer, sentiment boolean, " + \
+				  "count_words boolean, length_count boolean, vs_representations integer, " + \
+				  "max_word_length integer, update_increment integer, " + \
+				  "last_update_id integer);"
+				  # TODO: fix the types of these columns once algorithms are implemented.
+		self.cursor.execute(buildcommand)
+		command = "INSERT INTO " + opt_table_name + " VALUES ("
+		if isinstance(summary, int):
+			command = command + str(summary) + ", "
+		elif summary is None:
+			command += "NULL, "
+		else:
+			raise ValueError("summary must be integer")
+		if (topics is not None) and (len(topics) == 2) and \
+		 isinstance(topics[0], int) and isinstance(topics[1], int):
+			command = command + "'{" + str(topics[0]) + ", " + str(topics[1]) + "}', "
+		elif topics is None:
+			command += "NULL, "
+		else:
+			raise ValueError("topics must be tuple of two integers")
+		if isinstance(entities, int):
+			command = command + str(entities) + ", "
+		elif entities is None:
+			command += "NULL, "
+		else:
+			raise ValueError("entities must be integer")
+		if isinstance(sentiment, bool):
+			if sentiment:
+				command += "TRUE, "
+			else:
+				command += "FALSE, "
+		else:
+			raise ValueError("sentiment must be boolean")
+		if isinstance(count_words, bool):
+			if count_words:
+				command += "TRUE, "
+			else:
+				command += "FALSE, "
+		elif count_words is None:
+			command += "NULL, "
+		else:
+			raise ValueError("count_words must be boolean")
+		if isinstance(length_count, bool):
+			if length_count:
+				command += "TRUE, "
+			else:
+				command += "FALSE, "
+		elif length_count is None:
+			command += "NULL, "
+		else:
+			raise ValueError("length_count must be boolean")
+		if isinstance(vs_representations, int):
+			command = command + str(vs_representations) + ", "
+		elif vs_representations is None:
+			command += "NULL, "
+		else:
+			raise ValueError("vs_representations must be integer")
+		if isinstance(max_word_length, int):
+			command = command + str(max_word_length) + ", "
+		elif max_word_length is None:
+			command += "NULL, "
+		else:
+			raise ValueError("max_word_length must be integer")
+		if isinstance(update_increment, int):
+			command = command + str(update_increment) + ", "
+		elif update_increment is None:
+			command += "NULL, "
+		else:
+			raise ValueError("update_increment must be integer")
+		command = command + str(0) + ");" # for last_update_id.
+		self.cursor.execute(command)
+		return opt_table_name
+	
+	
+	def _initializeWordinfoTable(self, name, count_words, vs_representations,
+								max_word_length):
+		"""
+		Actually creates *_wordinfo table in underlying DB associated
+		with a Document Table, only if either the count_words or vs_representations
+		options are specified.
+		Helper function for createDocTable(), not meant to be used on its own.
+		"""
+		if count_words:
+			if (vs_representations is not None):
+				self.cursor.execute("CREATE TABLE " + name + \
+							"_wordinfo (word varchar(" + str(max_word_length) + \
+							"), count integer, vector numeric[" + \
+							str(vs_representations) + "]);")
+			else:
+				self.cursor.execute("CREATE TABLE " + name + \
+					"_wordinfo (word varchar(" + str(max_word_length) + \
+									"), count integer);")
+		elif vs_representations is not None:
+			self.cursor.execute("CREATE TABLE " + name + \
+							"_wordinfo (word varchar(" + str(max_word_length) + \
+							"), vector numeric[" + str(vs_representations) + "]);")
+			# TODO: create index on wordinfo word column vs. without index
 	
 	
 	def initializeDocumentTableInfo(self, name):
