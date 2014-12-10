@@ -27,7 +27,7 @@ The postgresql server requires:
 2. PL/Python installed. This is installed as follows in postgresql on the server:
 
 
-`$ [postgresql] CREATE OR REPLACE LANGUAGE plypython3u;`
+`postgres=# CREATE OR REPLACE LANGUAGE plypython3u;`
 
 You can also just run this in python using the psycopg2 library as follows:
 
@@ -38,15 +38,15 @@ Other library dependencies:
 
 1. numpy (pip install numpy)
 
-    $ [sudo] pip install numpy
+    `$ [sudo] pip install numpy`
 
 2. scipy (pip install scipy)
 
-    $ [sudo] pip install scipy
+    `$ [sudo] pip install scipy`
 
 3. pyscopg2 which can be installed with pip as follows:
 
-    $ [sudo] pip install psycopg2
+    `$ [sudo] pip install psycopg2`
 
 
 Client Installation - clients use the SemanticTextDB libarary built on psycopg2 python interface driver.
