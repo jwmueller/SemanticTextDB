@@ -193,6 +193,41 @@ with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\twitter_50k
 
 # <markdowncell>
 
+# ##Benchmarking fetches
+
+# <codecell>
+
+import NLPfunctions as nlpf
+
+NUM_INTERTIMES = 10
+NUM_TRIALS = 10
+NUM_ITEMS = 10001
+
+law_trials = []
+results = []
+for trial in range(NUM_TRIALS):
+    intertimes = []
+    for level in range(NUM_ITEMS / NUM_INTERTIMES, NUM_ITEMS, NUM_ITEMS / NUM_INTERTIMES):
+        #print level
+        start_time = time.time()
+        cur.execute("SELECT content FROM laws_text LIMIT " + str(level))
+        results = cur.fetchall()
+        #saResults = []
+        #for item in results:
+            #saResults.append(nlpf.sentimentAnalysis(item[0]))
+        intertimes.append(time.time() - start_time)
+    law_trials.append(intertimes)
+
+# <codecell>
+
+import csv
+
+with open("C:\\git\\SemanticTextDB\\example_code\\benchmark_results\\laws_10k_read_only.csv", "wb") as f:
+    writer = csv.writer(f)
+    writer.writerows(law_trials)
+
+# <markdowncell>
+
 # ##Now that there is data in the database, here is an example query using pyscopg2
 
 # <codecell>
@@ -240,8 +275,17 @@ my_stdb.semanticSelect('twitter_text', statement, 'correct_spelling')
 
 # <codecell>
 
-cur.execute("select id, *, content from twitter_text where id < 5;")
-cur.fetchall()
+t = time.time()
+cur.execute("select * from laws")
+#result = cur.fetchall()
+print "entire thing:", time.time() - t
+
+# <codecell>
+
+t = time.time()
+cur.execute("select * from laws limit 2")
+#result = cur.fetchall()
+print "limit 2 things only:", time.time() - t
 
 # <codecell>
 
