@@ -1,5 +1,5 @@
 ==========================================
-SemanticTextDb - When NLP meets databases.
+SemanticTextDB - When NLP meets databases.
 ==========================================
 
 A database for document-storage/retrieval with automated curation
@@ -11,6 +11,18 @@ semantics, topics, sentiment, eloquence, and entities of interest.
 Inference of these properties is done using various statistical models and 
 NLP algorithms stored and run inside the database.
 
+What is SemanticTextDB used for?
+
+1. SELECT documents by topic. (e.g. lawyers can search for laws pertaining to the topic "transportation safety.")
+
+2. SELECT documents with a summary view. A short document summary allows viewing of the document query results in a concise form.
+
+3. Discover population trends with sentiment analysis. (e.g. determining approval of candidates in upcoming elections)
+
+4. Educational purposes - spelling correction and graded of student homework documents added to database.
+
+5. Future NLP use cases. word_counts, word_frequencies, etc. can be selected for each document.
+
 Installation
 ------------
 
@@ -21,7 +33,9 @@ See next two sections for server and client installation.
 Server (where postgresql database is running) Installation
 -----------------------------------------------------------------
 The postgresql server requires:
+
 1. Python 3 installed
+
 2. PL/Python installed. This is installed as follows in postgresql on the server:
 
 `CREATE OR REPLACE LANGUAGE plypython3u;`
