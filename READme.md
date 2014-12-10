@@ -22,11 +22,11 @@ algorithms, with no additional coding. Its as easy as:
 
 For example, we can find President Obama's approval rating given a twitter table as follows:
 
-`statement = "SELECT COUNT(*) FROM twitter_text` 
+<code>statement = "SELECT COUNT(*) FROM twitter_text` 
 
 `             WHERE content LIKE '%Barack Obama%'`
 
-`             AND twitter_text.country = 'US'"`
+`             AND twitter_text.country = 'US'"`</code>
 
 `posCount = semanticSelect('twitter_text', statement, 'positive_only', 0.8)`
 
