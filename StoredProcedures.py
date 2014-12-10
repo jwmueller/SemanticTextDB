@@ -210,8 +210,8 @@ for c in range(len(wordcounts)):
 	if len(word_indices_doc) > 0:
 		word_indices.append(word_indices_doc)
 		word_cts.append(word_cts_doc)
-	#else:
-	# update_ids.pop(c)
+	# else:
+		#update_ids.pop(c)
 batchD = len(word_indices)
 if batchD == 0:
 	return
