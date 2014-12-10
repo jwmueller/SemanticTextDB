@@ -22,10 +22,12 @@ algorithms, with no additional coding. Its as easy as:
 
 For example, we can find President Obama's approval rating given a twitter table as follows:
 
-`statement = "SELECT COUNT(*) FROM twitter_text WHERE content LIKE '%Barack Obama%' AND twitter_text.country = 'US'"`
-`posCount = my_stdb.semanticSelect('twitter_text', statement, 'positive_only', 0.8)`
-`negCount = my_stdb.semanticSelect('twitter_text', statement, 'negative_only', -0.8)`
-`approval_rating = posCount / negCount #assuming negCount != 0.`
+`statement = "SELECT COUNT(*) FROM twitter_text 
+			  WHERE content LIKE '%Barack Obama%'
+			  AND twitter_text.country = 'US'"`
+`posCount = semanticSelect('twitter_text', statement, 'positive_only', 0.8)`
+`negCount = semanticSelect('twitter_text', statement, 'negative_only', -0.8)`
+`approval_rating = posCount / negCount #assumes negCount != 0.`
 
 ==========================================
 Use Cases: The power of SemanticTextDB
