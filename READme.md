@@ -77,5 +77,5 @@ Using SemanticTextDB
 
 Simply clone the repo and refer to SemanticTextDB_Tutorial.py for documentation.
 
-We STRONGLY recommend using iPython Notebook for viewing the SemanticTextDB_Tutorial.py.
+With respect to viewing the tutorial, we STRONGLY recommend using iPython Notebook for viewing the SemanticTextDB_Tutorial.py.
 Use SemanticTextDB_Tutorial.ipynb when viewing in ipython notebook. The experience is highly enhanced.
