@@ -52,7 +52,7 @@ Clients using SemanticTextDB requires:
 
 2. NLTK - download within python terminal. A GUI will pop-up. Click download.
 
-    `>>> import nltk`
+    `>>> import nltk\n`
     `>>> nltk.download()`
 
 3. textblob (and its dependencies)
