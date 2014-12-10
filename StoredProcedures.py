@@ -191,6 +191,7 @@ else:
 	vocab = GD[doctable + '_vocab']
 word_indices = []
 word_cts = []
+num_words = 0
 for c in range(len(wordcounts)):
 	doc_wordcount = wordcounts[c]
 	word_indices_doc = []
@@ -205,6 +206,7 @@ for c in range(len(wordcounts)):
 				vocab[word] = next_index
 				word_indices_doc.append(next_index)
 				word_cts_doc.append(doc_wordcount[word])
+			num_words += doc_wordcount[word]
 	if len(word_indices_doc) > 0:
 		word_indices.append(word_indices_doc)
 		word_cts.append(word_cts_doc)
@@ -300,11 +302,11 @@ for k in range(min_K, max_K+1):
 	score += numpy.sum((alpha - gamma)*Elogtheta)
 	score += numpy.sum(gammaln(gamma) - gammaln(alpha))
 	score += sum(gammaln(alpha*k) - gammaln(numpy.sum(gamma, 1)))
-	score = score * d / float(batchD) / 1000.0
+	score = score * d / float(batchD)
 	score = score + numpy.sum((eta - lambda_k) * Elogbeta)
 	score = score + numpy.sum(gammaln(lambda_k) - gammaln(eta))
 	score = score + numpy.sum(gammaln(eta*w) - gammaln(numpy.sum(lambda_k, 1)))
-	scores.append(score)
+	scores.append(score * batchD / float(d * num_words))
 	new_lambda = lambda_k * (1-rhot) + rhot * (eta + d * sstats / batchD)
 	if (len(new_lambda.shape) == 1):
 		new_Elogbeta = psi(new_lambda) - psi(numpy.sum(new_lambda))
