@@ -18,7 +18,7 @@ You will need Python 3.2 and pip installed.
 
 See next two sections for server and client installation.
 
-Server (wherever the postgresql database is running) Installation
+Server (where postgresql database is running) Installation
 -----------------------------------------------------------------
 The postgresql server requires:
 1. Python 3 installed
@@ -46,7 +46,7 @@ Other library dependencies:
     `$ [sudo] pip install psycopg2`
 
 
-Client Installation - clients use the SemanticTextDB libarary built on psycopg2 python interface driver.
+Client Installation - clients use the SemanticTextDB library built on psycopg2 python interface driver.
 ---------------------------------------------------------------
 
 Clients using SemanticTextDB requires:
