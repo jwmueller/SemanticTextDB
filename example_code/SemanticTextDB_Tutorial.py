@@ -55,7 +55,7 @@ if 'laws' in my_stdb.document_tables.keys(): #check that the table exists before
 # Creates a document table (and associated machine-generated tables):
 my_stdb.createDocTable("laws", ['lawTitleNumber text', 'lawSectionNumber text', 'lawName text'],
                    summary = None, topics = None, entities = None, 
-                   sentiment = False, count_words = False, length_count = False, 
+                   sentiment = True, count_words = False, length_count = False, 
                    vs_representations = None, max_word_length = 200,
                    update_increment = 1, new_transaction = False)
 
@@ -72,6 +72,7 @@ author = "United States Government"
 
 count = 0
 for filename in os.listdir(readPath): #We pre-parsed each law as a txt file.
+    count = count + 1
     f = open(readPath + filename,'r')
     fileAsString = f.read()
     result = re.search(r'[0-9].*?\n', fileAsString) #grabs first line of law.
@@ -90,6 +91,8 @@ for filename in os.listdir(readPath): #We pre-parsed each law as a txt file.
         else:
             #This is how you insert a document into the database using our SemanticTextDB library
             my_stdb.insertDoc(fileAsString, "laws", [lawTitleNum, lawSectionNum, lawName])
+    if count > 1000:
+        break
 
 # <markdowncell>
 
@@ -122,7 +125,7 @@ my_stdb.createDocTable("twitter", ['twitterId text', 'location text', 'username 
 
 twitterReadPath = "C:/git/SemanticTextDB/example_code/twitter.csv"
 count = 0
-NUM_TWEETS_TO_INSERT = 1000000
+NUM_TWEETS_TO_INSERT = 10000
 
 with open(twitterReadPath, 'rU') as csvfile: #all tweets in single csv file
     reader = exception_proof_csv_reader(csv.reader(csvfile, delimiter=','))
@@ -144,6 +147,34 @@ with open(twitterReadPath, 'rU') as csvfile: #all tweets in single csv file
         #Since the csv is extremely large, set a max number of documents to insert.
         if count >= NUM_TWEETS_TO_INSERT:
             break
+        
+        if count % 500 == 0:
+            print count
+
+# <markdowncell>
+
+# ##Give client the power to use all our NLP algorithms within the usual SELECT framework even if they choose not to store these columns.
+# ##e.g. finding negative comments on twitter
+
+# <codecell>
+
+statement = "select content from twitter_text;"
+my_stdb.semanticSelect('twitter_text', statement, 'negative_only', -.8)
+
+# <markdowncell>
+
+# ##If user chose let the machine curate sentiment during inset (potentially batched), you can just search that column
+
+# <codecell>
+
+cur.execute("select content from laws natural join laws_text where auto_sentiment > .5")
+results = [item[0]for item in cur.fetchall()]
+count = 0
+for item in results:
+    count = count + 1
+    print item
+    if count > 20:
+        break
 
 # <markdowncell>
 
@@ -167,4 +198,31 @@ cur.execute("ABORT;")
 
 cur.execute("select * from twitter_text limit 5;")
 cur.fetchall()
+
+# <markdowncell>
+
+# ## Determine political candidate support (or royalty favorability in the case of Kate Middleton)
+
+# <codecell>
+
+statement = "SELECT COUNT(*) FROM twitter_text WHERE content LIKE '%wedding%'"
+posCount = my_stdb.semanticSelect('twitter_text', statement, 'positive_only', 0.8)
+negCount = my_stdb.semanticSelect('twitter_text', statement, 'negative_only', -0.8)
+if negCount != 0:
+    ratio = posCount / (1.0 * negCount)
+    print "Ratio of support to non-support of Kate Middleton:", ratio
+else:
+    print "Supporter count:", posCount
+
+# <markdowncell>
+
+# ## Actually be able to view long documents when you query by using the summary feature in semanticSelect. View a document summary so you can actually view the data live, instead of shuffling through extremely long documents.
+
+# <codecell>
+
+statement = "select * from laws where id < 10;"
+my_stdb.semanticSelect('laws', statement, 'view_summaries', 1)
+
+# <codecell>
+
 
